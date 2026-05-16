@@ -1,0 +1,361 @@
+{
+  "ProductsHero": {
+    "title": "Polycarbonate Aluminum Canopy Systems",
+    "subtitle": "Custom-designed, durable, and beautiful canopy solutions",
+    "imageAlt": "Detailed dimensions layout of a polycarbonate carport with high-strength structural frames and water drainage gutter system",
+    "imageTitle": "Polycanopy Technical Dimensions of Polycarbonate Carport Canopy"
+  },
+  "ProductSpecs": {
+    "title": "Product Specifications",
+    "spec1Title": "Customization",
+    "spec1Desc": "Made to order specifications",
+    "spec2Title": "Origin",
+    "spec2Desc": "Made in China",
+    "spec3Title": "Warranty",
+    "spec3Desc": "30 years service life",
+    "spec4Title": "Frame Material",
+    "spec4Desc": "Premium aluminum alloy"
+  },
+  "MaterialIntro": {
+    "title": "Material Introduction",
+    "frameHeading": "Aluminum Alloy Frame: High-Strength Construction",
+    "frameDesc": "High hardness and strong toughness aluminum profiles easily resist typhoons and severe weather conditions.",
+    "panelHeading": "Polycarbonate Panels",
+    "panelDesc": "Premium Bayer or SABIC raw materials with sufficient UV protection. Polycarbonate panels guaranteed for over 10 years of service.",
+    "color_champagne": "Champagne",
+    "color_white": "White",
+    "color_gray": "Gray",
+    "color_coffee": "Coffee",
+    "color_bronze": "Bronze",
+    "color_black": "Black",
+    "aria_frame_btn": "Switch frame preview image to {color} color",
+    "aria_panel_btn": "Switch polycarbonate panel preview image to {color} color",
+    "alt_frame_champagne": "Polycarbonate canopy aluminum frame color option in elegant champagne finish",
+    "alt_frame_white": "Polycarbonate canopy aluminum frame color option in clean white finish",
+    "alt_frame_gray": "Polycarbonate canopy aluminum frame color option in modern gray finish",
+    "alt_frame_coffee": "Polycarbonate canopy aluminum frame color option in classic coffee finish",
+    "alt_panel_bronze": "Premium bronze tinted polycarbonate solid sheets for canopy protection",
+    "alt_panel_white": "Premium white translucent polycarbonate solid sheets for soft lighting",
+    "alt_panel_gray": "Premium gray tinted polycarbonate solid sheets for modern architectural design",
+    "alt_panel_black": "Premium black tinted polycarbonate solid sheets for maximum shading"
+  },
+  "Header": {
+    "home": "Home",
+    "products": "Products",
+    "service": "Service",
+    "blog": "Blog",
+    "contact": "Contact",
+    "language": "Language",
+    "logoAlt": "Polycanopy - Premium Polycarbonate Canopies Manufacturer" 
+  },
+  "Hero": {
+    "titlePrefix": "Premium ",
+    "titleHighlight": "Polycarbonate",
+    "titleSuffix": " Canopies",
+    "subtitle": "Engineered for Durability, Designed for Life's Beautiful Moments",
+    "desc": "Experience the perfect blend of strength and elegance with our premium polycarbonate canopy solutions. Built to last over a decade while enhancing your lifestyle.",
+    "btnText": "Discover our solution",
+    "btnAriaLabel": "Navigate to products page to discover our polycarbonate canopy solutions",
+    "imageAlt": "Premium polycarbonate canopy creating comfortable outdoor living space",
+    "imageTitle": "Polycanopy Premium Outdoor Canopy Solutions"
+  },
+  "About": {
+    "title": "About Polycanopy",
+    "desc": "Leading the industry with innovative polycarbonate canopy solutions, combining German engineering excellence with decades of export expertise.",
+    "missionTitle": "Our Mission & Values",
+    "mission1Title": "Premium Quality Materials",
+    "mission1Desc": "German Bayer polycarbonate sheets with 10+ year warranty guarantee",
+    "mission2Title": "Export Excellence",
+    "mission2Desc": "Experienced international trade company with proven global delivery",
+    "mission3Title": "Custom Solutions",
+    "mission3Desc": "Tailored canopy designs to meet your specific architectural requirements",
+    "whyTitle": "Why Choose Us",
+    "stat1Num": "10+",
+    "stat1Text": "Years Warranty",
+    "stat2Num": "200x",
+    "stat2Text": "Stronger than Glass",
+    "stat3Num": "99%",
+    "stat3Text": "UV Protection",
+    "stat4Num": "12",
+    "stat4Text": "Grade Wind Resistance"
+  },
+  "ProductRange": {
+    "title": "Our Product Range",
+    "desc": "Comprehensive canopy solutions for every architectural need",
+    "items": {
+      "horizontal": {
+        "title": "Horizontal Beam Style",
+        "desc": "The Horizontal Beam Style canopy features a classic cross-beam structure with a clean, modern appearance. It offers strong support and is ideal for balconies, windows, and entrances."
+      },
+      "suspended": {
+        "title": "Suspended Cable Style",
+        "desc": "The Suspended Cable Style uses a sleek steel cable system to hold the canopy overhead, creating a lightweight and elegant design. This space-saving solution is especially suited for window awnings."
+      },
+      "top_beam": {
+        "title": "Top Beam Style",
+        "desc": "The Top Beam Style canopy is supported by beams at the top, offering excellent stability and full coverage. This structure is commonly used for villa entrances, terraces, or large window areas."
+      },
+      "column": {
+        "title": "Column Support Style",
+        "desc": "The Column Support Style features vertical columns in front and back for maximum load-bearing capacity. This canopy covers a wide area, making it ideal for terraces, storefronts, and residential carports."
+      },
+      "inner_corner": {
+        "title": "Inner Corner Style",
+        "desc": "The Inner Corner Style canopy is tailored for inner wall junctions, such as L-shaped balconies or passageways. It provides excellent drainage and extended shelter coverage in tight spaces."
+      },
+      "outer_corner": {
+        "title": "Outer Corner Style",
+        "desc": "The Outer Corner Style is designed to fit around the outer angles of a building, extending the protective area seamlessly. It’s perfect for covering corner balconies, storefronts, or external walkways."
+      },
+      "carport": {
+        "title": "Carport Style",
+        "desc": "The Carport Style canopy is specifically designed to shield vehicles from sun, rain, and debris. Supported by strong posts and topped with durable materials, it offers excellent protection."
+      },
+      "door_window": {
+        "title": "Door & Window Awning Style",
+        "desc": "This style is specifically designed for installation above doors and windows, providing effective protection from rain and direct sunlight. Compact yet durable, it keeps entryways dry."
+      }
+    }
+  },
+  "Features": {
+    "title": "Product Features",
+    "subtitle": "Designed to perform under pressure — rain, wind, snow, and impact.",
+    "items": {
+      "waterproof": {
+        "title": "Waterproof",
+        "desc": "Shields against rain, rust, corrosion, and surface damage — for lasting protection in all weather."
+      },
+      "impact": {
+        "title": "Impact Resistant",
+        "desc": "Built to withstand force and impact from falling debris, ensuring long-term structural integrity."
+      },
+      "wind": {
+        "title": "Wind Protection",
+        "desc": "Stable and secure against strong winds, reducing sway and protecting what’s beneath."
+      },
+      "snow": {
+        "title": "Snow Load Resistant",
+        "desc": "Engineered to bear heavy snow loads without bending or cracking, even in extreme cold."
+      }
+    }
+  },
+  "CustomService": {
+    "title": "Custom Design Services",
+    "desc": "Every project is unique. We provide flexible customization for all components to match your exact specifications.",
+    "ariaLabel": "Custom Parameters",
+    "imageAlt": "Custom canopy design and engineering",
+    "items": [
+      "Aluminum frame dimensions and finishes",
+      "Polycarbonate panel sizes and tints",
+      "Hardware and accessory selection",
+      "Professional packaging and shipping",
+      "Technical drawings and installation guides"
+    ]
+  },
+  "Specs": {
+    "title": "Technical Specifications",
+    "ariaLabel": "Technical Specifications Table",
+    "data": {
+      "thickness": { "label": "Panel Thickness", "value": "2mm – 8mm" },
+      "frame": { "label": "Frame Material", "value": "6063-T5 Aluminum" },
+      "treatment": { "label": "Surface Treatment", "value": "Powder Coating" },
+      "wind": { "label": "Wind Load", "value": "120+ km/h" },
+      "temp": { "label": "Temperature Range", "value": "-40°C to +120°C" }
+    }
+  },
+  "Gallery": {
+    "title": "Application Gallery",
+    "subtitle": "Real-world installations showcasing versatility and beauty",
+    "ariaLabel": "Real-world project application gallery",
+    "items": {
+      "rooftop": {
+        "title": "Modern Rooftop",
+        "desc": "Elegant flat roof design with high-transparency panels",
+        "btnText": "Explore more",
+        "imageAlt": "Modern transparent rooftop canopy with aluminum frame for residential building"
+      },
+      "carport": {
+        "title": "Residential Carport",
+        "desc": "Elegant curved canopy offering shaded, all-weather protection for cars",
+        "btnText": "Explore more",
+        "imageAlt": "Modern residential carport with a curved transparent roof and luxury SUV parked underneath"
+      },
+      "sunroom": {
+        "title": "Modern Sunroom",
+        "desc": "Fully enclosed transparent structure offers year-round light",
+        "btnText": "Explore more",
+        "imageAlt": "Fully enclosed arched sunroom with transparent panels and countryside view"
+      }
+    }
+  },
+  "Faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about our polycarbonate canopies",
+    "ariaLabel": "Frequently asked questions accordion container",
+    "questions": [
+      {
+        "q": "Can the canopy be customized to fit my space?",
+        "a": "Yes! We offer full customization in terms of dimensions, colors, panel thickness, and frame styles to fit residential or commercial applications. Just send us your measurements and preferences."
+      },
+      {
+        "q": "Is polycarbonate really stronger than glass?",
+        "a": "Absolutely. Polycarbonate sheets are up to 200 times stronger than glass and are virtually unbreakable. They are also lighter and safer in harsh weather conditions like hail, wind, and heavy rain."
+      },
+      {
+        "q": "Does the awning block UV rays?",
+        "a": "Yes, all our awnings come with UV-resistant coatings that block over 99% of harmful UV radiation, protecting your furniture, doors, and windows from sun damage."
+      },
+      {
+        "q": "How long does installation take?",
+        "a": "Most installations take several hours for a standard-size awning. We provide easy-to-follow instructions and all necessary accessories. For larger or commercial projects, our team offers professional installation support."
+      },
+      {
+        "q": "How durable is the awning in extreme weather?",
+        "a": "Our polycarbonate awnings are engineered to withstand strong wind loads, heavy rain, and snow. The aluminum alloy brackets and stainless steel fittings ensure long-term durability and corrosion resistance."
+      },
+      {
+        "q": "What is the warranty period?",
+        "a": "We provide a 10-year limited warranty covering material defects, discoloration, and structural performance. Full warranty details are available upon request."
+      },
+      {
+        "q": "Do you offer bulk pricing for distributors or builders?",
+        "a": "Yes, we offer tiered wholesale pricing and OEM/ODM services for partners, contractors, and distributors. Please contact our sales team for a customized quote."
+      },
+      {
+        "q": "What colors and finishes are available?",
+        "a": "Our polycarbonate panels come in clear, grey, bronze, and blue tints. Frame colors include matte black, white, silver, and custom RAL options."
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Trusted by customers worldwide for quality and service",
+    "ariaLabel": "Customer reviews and star ratings section",
+    "reviews": [
+      {
+        "name": "Eric Zhang",
+        "role": "Project Manager",
+        "company": "Hantai Construction Co.",
+        "country": "Australia",
+        "text": "The canopy held up perfectly during a sudden heavy rainstorm right after installation. The drainage design is smart, and the aluminum frame feels very solid. Will definitely use PolyCanopy for future projects."
+      },
+      {
+        "name": "Michael Robertson",
+        "role": "Property Developer",
+        "company": "ClearView Estates",
+        "country": "United States",
+        "text": "The canopy system exceeded our expectations. Strong aluminum structure, clean modern look, and the installation was straightforward. It performed excellently in recent strong winds."
+      },
+      {
+        "name": "Ahmed Al-Mutairi",
+        "role": "Technical Director",
+        "company": "Desert Shade Systems",
+        "country": "UAE",
+        "text": "Excellent heat resistance and high transparency. The canopy performs well under strong sunlight, and the aluminum frame doesn’t warp or fade. Ideal for the Gulf climate."
+      },
+      {
+        "name": "Sofia Martínez",
+        "role": "Architect",
+        "company": "Línea Urbana S.A.",
+        "country": "Argentina",
+        "text": "We used PolyCanopy for a rooftop café project in Buenos Aires. The materials are top-notch, especially the polycarbonate panel — very clear and durable. Our clients love the result."
+      },
+      {
+        "name": "Lisa Chen",
+        "role": "Interior Designer",
+        "company": "Blossom Space Studio",
+        "country": "Singapore",
+        "text": "Excellent material quality – especially the polycarbonate panel. The transparency is high and much safer than glass. Plus, we don’t have to worry about falling objects from upstairs. Highly recommended!"
+      },
+      {
+        "name": "Thulani Mokoena",
+        "role": "Site Engineer",
+        "company": "BuildRight Solutions",
+        "country": "South Africa",
+        "text": "The aluminum frame is robust and lightweight. We also appreciate the gutter system design — very useful during seasonal rains. It looks great on commercial buildings too."
+      }
+    ]
+  },
+  "WhyChoose": {
+    "title": "Why Choose Polycanopy",
+    "subtitle": "Your trusted partner for premium canopy solutions",
+    "ariaLabel": "Company commercial advantages section",
+    "items": {
+      "service": {
+        "title": "Responsive Service",
+        "desc": "24/7 customer support with rapid response times for all inquiries",
+        "ariaLabel": "Learn more about our responsive service process"
+      },
+      "custom": {
+        "title": "Custom Parameters",
+        "desc": "Flexible customization options to meet your exact project specifications",
+        "ariaLabel": "Explore our custom specification parameters"
+      },
+      "export": {
+        "title": "Export Experience",
+        "desc": "Decades of international trade expertise with global shipping capabilities",
+        "ariaLabel": "Review our global export capabilities"
+      },
+      "quote": {
+        "title": "Fast Quotation",
+        "desc": "Quick and accurate pricing with detailed technical specifications",
+        "ariaLabel": "Get a fast technical quotation now"
+      }
+    }
+  },
+  "Footer": {
+    "quoteTitle": "ask for a quote",
+    "quoteDesc": "Fill out your details below with the product that you need and we’ll get back to you within 24 hours",
+    "form": {
+      "ariaLabel": "Footer Form",
+      "name": "Your Name",
+      "phone": "Your phone",
+      "email": "Your Email",
+      "country": "Country",
+      "countryPlaceholder": "where are you from",
+      "products": "products",
+      "selectPlaceholder": "Select from list",
+      "message": "message",
+      "messagePlaceholder": "Write a message",
+      "submit": "send Now",
+      "options": {
+        "window": "Window Canopy",
+        "door": "Door Canopy",
+        "carport": "Carport / Garage Cover",
+        "dome": "Dome Canopy",
+        "sunroom": "Sunroom / Greenhouse",
+        "customize": "Custom Design Services",
+        "wholesales": "Wholesale / Distribution"
+      }
+    },
+    "newsletter": {
+      "title": "Subscribe to our newsletter for the latest insights on canopy technology and industry developments",
+      "ariaLabel": "Newsletter Subscription Form", 
+      "placeholder": "Email",
+      "submit": "Subscribe"
+    },
+    "profile": {
+      "title": "Premium polycarbonate canopy",
+      "desc": "PolyCanopy offers high-quality, customizable polycarbonate canopies designed for both residential and commercial spaces. Enjoy durable protection with elegant design, made for modern lifestyles.",
+      "readMore": "Read More"
+    },
+    "contact": {
+      "title": "Contact Information",
+      "tel": "Tel: +86 760 23132009",
+      "address": "Address: GuangDong province , China"
+    },
+    "terms": {
+      "title": "Terms and condition",
+      "privacy": "Privacy policy",
+      "return": "Return Policy"
+    },
+    "explore": {
+      "title": "EXPLORE OUR PROPERTIES",
+      "post1Title": "Why 3mm Solid Polycarbonate Sheet Is the Ideal Material for Canopy Roofing",
+      "post1Tag": "Property Info",
+      "post2Title": "Securing Your Structure: A Guide to Anchoring Systems for High-Wind Areas",
+      "post2Tag": "Property Info"
+    },
+    "copyright": "© Polycanopy All Rights Reserved."
+  }
+}

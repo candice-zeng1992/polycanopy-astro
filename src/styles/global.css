@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* 🌟 给所有 SVG 图标加一把安全锁，防止它们在样式没加载完时撑爆屏幕 */
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
