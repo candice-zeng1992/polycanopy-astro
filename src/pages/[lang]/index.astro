@@ -3,8 +3,15 @@
 import Header from '../../components/Header';
 import Hero from '../../components/home/Hero';
 import About from '../../components/home/About';
+import WhyChoose from '../../components/home/WhyChoose';
 import ProductRange from '../../components/home/ProductRange';
-import Features from '../../components/home/Features'; // 🌟 1. 引入我们的 Features 组件
+import ColorPicker from '../../components/home/ColorPicker';
+import Features from '../../components/home/Features';
+import CustomService from '../../components/home/CustomService';
+import Specs from '../../components/home/Specs';
+import Gallery from '../../components/home/Gallery';
+import Testimonials from '../../components/home/Testimonials';
+import Faq from '../../components/home/Faq.tsx';
 import Footer from '../../components/Footer';
 
 import enDict from '../../i18n/en.json';
@@ -29,52 +36,95 @@ const dictionaries: Record<'en' | 'zh' | 'ar', typeof enDict> = {
 
 const currentDict = dictionaries[lang as keyof typeof dictionaries] || enDict;
 
-// 🌟 全局无死角翻译提取函数：支持所有板块的深度多级嵌套结构
+// 🌟 全局翻译处理器
 const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string) => {
   const root = currentDict as Record<string, any>;
   const group = root[groupKey] || {};
   
-  // A. 适配 ProductRange 的 items 四层嵌套
+  if (groupKey === 'WhyChoose' && subKey) {
+    const itemsGroup = group['items'] || {};
+    return itemsGroup[key]?.[subKey] || subKey;
+  }
+
   if (groupKey === 'ProductRange' && key) {
     const itemsGroup = group['items'] || {};
     return itemsGroup[key]?.[subKey || ''] || subKey || '';
   }
 
-  // B. 🌟 适配 Features 的 items 三层嵌套处理
+  if (groupKey === 'ColorPicker' && subKey) {
+    if (key === 'global') return group[subKey] || subKey;
+    if (key === 'plateLabels') return group['plateLabels']?.[subKey] || subKey;
+    if (key === 'frameLabels') return group['frameLabels']?.[subKey] || subKey;
+  }
+
   if (groupKey === 'Features' && subKey) {
     const itemsGroup = group['items'] || {};
     return itemsGroup[key]?.[subKey] || subKey;
   }
   
-  // C. 适配 Footer 的 form.options 等深度嵌套
+  if (groupKey === 'CustomService' && key === 'items' && subKey) {
+    const itemsGroup = group['items'] || {};
+    return itemsGroup[subKey] || subKey;
+  }
+
+  if (groupKey === 'Specs' && subKey) {
+    const dataGroup = group['data'] || {};
+    return dataGroup[key]?.[subKey] || subKey;
+  }
+
+  if (groupKey === 'Gallery' && subKey) {
+    const itemsGroup = group['items'] || {};
+    return itemsGroup[key]?.[subKey] || subKey;
+  }
+
+  if (groupKey === 'Testimonials' && subKey) {
+    if (key === 'global') return group[subKey] || subKey;
+    const reviewsGroup = group['reviews'] || {};
+    return reviewsGroup[key]?.[subKey] || subKey;
+  }
+
   if (groupKey === 'Footer') {
     if (tertiaryKey) {
       const secondLevel = group[key] || {};
       const thirdLevel = secondLevel[subKey || ''] || {};
       return thirdLevel[tertiaryKey] || tertiaryKey;
     }
-    if (subKey) {
-      return group[key]?.[subKey] || subKey;
-    }
+    if (subKey) return group[key]?.[subKey] || subKey;
   }
 
-  // D. 常规双层节点处理
-  if (key && !subKey) {
-    return group[key] || key;
-  }
-  if (key && subKey) {
-    return group[key]?.[subKey] || subKey;
-  }
+  if (key && !subKey) return group[key] || key;
+  if (key && subKey) return group[key]?.[subKey] || subKey;
   
   return root[groupKey] || groupKey;
 };
 
-// 快捷绑定各大板块的专属翻译偏函数
+// 🌟 针对 FAQ 数组结构，设计 100% 无法击穿的原生提取枪
+// 🌟 强力配对：入参完全对齐 (indexStr: string, field: string)
+const getFaqTranslation = (indexStr: string, field: string): string => {
+  try {
+    const faqData = (currentDict as any).Faq || {};
+    const questions = faqData.questions || [];
+    const idx = parseInt(indexStr, 10);
+    if (questions[idx] && (field === 'q' || field === 'a')) {
+      return questions[idx][field] || '';
+    }
+  } catch (e) {
+    console.error("Faq extraction trace error:", e);
+  }
+  return '';
+};
+
 const tHeader = (key: string) => t('Header', key);
 const tHero = (key: string) => t('Hero', key);
 const tAbout = (key: string) => t('About', key);
+const tWhyChoose = (key: string, subKey?: string) => t('WhyChoose', key, subKey);
 const tProductRange = (key: string, subKey?: string) => t('ProductRange', key, subKey);
-const tFeatures = (key: string, subKey?: string) => t('Features', key, subKey); // 🌟 2. 绑定 Features 偏函数
+const tColorPicker = (key: string, subKey?: string) => t('ColorPicker', key, subKey);
+const tFeatures = (key: string, subKey?: string) => t('Features', key, subKey);
+const tCustomService = (key: string, subKey?: string) => t('CustomService', key, subKey);
+const tSpecs = (key: string, subKey?: string) => t('Specs', key, subKey);
+const tGallery = (key: string, subKey?: string) => t('Gallery', key, subKey);
+const tTestimonials = (key: string, subKey?: string) => t('Testimonials', key, subKey);
 const tFooter = (key: string, subKey?: string, tertiaryKey?: string) => t('Footer', key, subKey, tertiaryKey);
 
 const isRtl = lang === 'ar';
@@ -86,29 +136,32 @@ const isRtl = lang === 'ar';
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{tHero('titlePrefix')}{tHero('titleHighlight')}{tHero('titleSuffix')}</title>
-    
-    <style is:global>
-      @import "tailwindcss";
-    </style>
+    <style is:global>@import "tailwindcss";</style>
   </head>
-  <body class="bg-gray-50 antialiased m-0 p-0">
+  <body class="bg-gray-50 antialiased m-0 p-0 block w-full">
     
-    {/* 顶层透明悬浮页眉 */}
     <Header t={tHeader} lang={lang} />
-    
-    {/* 顶层巨幕 */}
     <Hero t={tHero} lang={lang} />
-    
-    {/* 品牌关于模块 */}
     <About t={tAbout} />
-    
-    {/* 产品系列八宫格 */}
+    <WhyChoose t={tWhyChoose} lang={lang} />
     <ProductRange t={tProductRange} lang={lang} />
-
-    {/* 🌟 3. 完美拼接：四大核心特性网格震撼登场！无缝衔接在 ProductRange 下方 */}
-    <Features t={tFeatures} />
     
-    {/* 询盘大页脚 */}
+    <ColorPicker t={tColorPicker} client:load />
+
+    <Features t={tFeatures} />
+    <CustomService t={tCustomService} />
+    <Specs t={tSpecs} lang={lang} />
+    <Gallery t={tGallery} lang={lang} />
+    <Testimonials t={tTestimonials} />
+
+    {/* 🌟 终极闭环挂载：把原生安全的隔离函数 getFaqTranslation 直接硬核递过去 */}
+    <Faq 
+      t={getFaqTranslation} 
+      title={currentDict.Faq?.title || "Frequently Asked Questions"} 
+      subtitle={currentDict.Faq?.subtitle || "Everything you need to know."} 
+      client:load 
+    />
+
     <Footer t={tFooter} lang={lang} />
     
   </body>
