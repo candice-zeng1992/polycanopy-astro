@@ -5,7 +5,6 @@ import Hero from '../../components/home/Hero';
 import About from '../../components/home/About';
 import WhyChoose from '../../components/home/WhyChoose';
 import ProductRange from '../../components/home/ProductRange';
-import ColorPicker from '../../components/home/ColorPicker'; // 导入我们重构的调色盘
 import Features from '../../components/home/Features';
 import CustomService from '../../components/home/CustomService';
 import Specs from '../../components/home/Specs';
@@ -36,7 +35,7 @@ const dictionaries: Record<'en' | 'zh' | 'ar', typeof enDict> = {
 
 const currentDict = dictionaries[lang as keyof typeof dictionaries] || enDict;
 
-// 全局基础多语言引擎
+// 全局普通双层/三层多语言提取通用引擎
 const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string) => {
   const root = currentDict as Record<string, any>;
   const group = root[groupKey] || {};
@@ -45,31 +44,38 @@ const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string)
     const itemsGroup = group['items'] || {};
     return itemsGroup[key]?.[subKey] || subKey;
   }
+
   if (groupKey === 'ProductRange' && key) {
     const itemsGroup = group['items'] || {};
     return itemsGroup[key]?.[subKey || ''] || subKey || '';
   }
+
   if (groupKey === 'Features' && subKey) {
     const itemsGroup = group['items'] || {};
     return itemsGroup[key]?.[subKey] || subKey;
   }
+  
   if (groupKey === 'CustomService' && key === 'items' && subKey) {
     const itemsGroup = group['items'] || {};
     return itemsGroup[subKey] || subKey;
   }
+
   if (groupKey === 'Specs' && subKey) {
     const dataGroup = group['data'] || {};
     return dataGroup[key]?.[subKey] || subKey;
   }
+
   if (groupKey === 'Gallery' && subKey) {
     const itemsGroup = group['items'] || {};
     return itemsGroup[key]?.[subKey] || subKey;
   }
+
   if (groupKey === 'Testimonials' && subKey) {
     if (key === 'global') return group[subKey] || subKey;
     const reviewsGroup = group['reviews'] || {};
     return reviewsGroup[key]?.[subKey] || subKey;
   }
+
   if (groupKey === 'Footer') {
     if (tertiaryKey) {
       const secondLevel = group[key] || {};
@@ -78,8 +84,10 @@ const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string)
     }
     if (subKey) return group[key]?.[subKey] || subKey;
   }
+
   if (key && !subKey) return group[key] || key;
   if (key && subKey) return group[key]?.[subKey] || subKey;
+  
   return root[groupKey] || groupKey;
 };
 
@@ -88,9 +96,6 @@ const faqSourceData = currentDict.Faq || {};
 const faqTitle = faqSourceData.title || "Frequently Asked Questions";
 const faqSubtitle = faqSourceData.subtitle || "Everything you need to know about our polycarbonate canopies";
 const faqQuestionsArray = faqSourceData.questions || [];
-
-// 🌟 核心增援：直击 MaterialIntro 字典，为调色盘抽取纯净字段，绝不容许线上产生 a is not a function 崩溃
-const matDict = (currentDict as any).MaterialIntro || {};
 
 const tHeader = (key: string) => t('Header', key);
 const tHero = (key: string) => t('Hero', key);
@@ -124,7 +129,7 @@ const canonicalAr = `https://polycanopy.com/ar/`;
     <link rel="alternate" hreflang="x-default" href={canonicalEn} />
     
     <title>{tHero('titlePrefix')}{tHero('titleHighlight')}{tHero('titleSuffix')}</title>
-    <meta name="description" content={currentDict.Hero?.desc || "Premium polycarbonate canopy solutions."} />
+    <meta name="description" content={currentDict.Hero?.desc || "Premium polycarbonate canopy solutions manufactured for maximum durability."} />
     
     <meta property="og:type" content="website" />
     <meta property="og:url" content={`https://polycanopy.com/${lang}/`} />
@@ -132,6 +137,12 @@ const canonicalAr = `https://polycanopy.com/ar/`;
     <meta property="og:description" content={currentDict.Hero?.desc || "Premium polycarbonate canopy solutions."} />
     <meta property="og:image" content="https://img.polycanopy.com/assets/polycanopy-og-share.jpg" />
     <meta property="og:locale" content={currentLocale} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={`${tHero('titlePrefix')}${tHero('titleHighlight')}${tHero('titleSuffix')}`} />
+    <meta name="twitter:description" content={currentDict.Hero?.desc || "Premium polycarbonate canopy solutions."} />
+    <meta name="twitter:image" content="https://img.polycanopy.com/assets/polycanopy-og-share.jpg" />
+
     <style is:global>@import "tailwindcss";</style>
   </head>
   <body class="bg-gray-50 antialiased m-0 p-0 block w-full">
@@ -141,23 +152,6 @@ const canonicalAr = `https://polycanopy.com/ar/`;
     <About t={tAbout} />
     <WhyChoose t={tWhyChoose} lang={lang} />
     <ProductRange t={tProductRange} lang={lang} />
-    
-    <ColorPicker 
-      client:load
-      title={matDict.title || "Material Introduction"}
-      subtitle={matDict.panelDesc || "Premium raw materials with sufficient UV protection."}
-      consoleTitle={matDict.frameHeading || "Aluminum Alloy Frame Color Control"}
-      plateTitle={matDict.panelHeading || "Polycarbonate Roof Colors"}
-      frameTitle="Select Frame Finish"
-      plateClear={matDict.color_white || "Clear"}
-      plateBronze={matDict.color_bronze || "Bronze"}
-      plateLakeblue="Lake Blue"
-      plateGray={matDict.color_gray || "Opal Gray"}
-      frameWhite={matDict.color_white || "White"}
-      frameBlack={matDict.color_black || "Matte Black"}
-      frameGray={matDict.color_gray || "Modern Gray"}
-      frameCoffee={matDict.color_coffee || "Classic Coffee"}
-    />
 
     <Features t={tFeatures} />
     <CustomService t={tCustomService} />

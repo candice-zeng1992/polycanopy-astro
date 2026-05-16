@@ -1,7 +1,9 @@
 ---
 // src/pages/[lang]/products.astro
 import Header from '../../components/Header';
-import ProductsHero from '../../components/products/ProductsHero'; // 🌟 1. 引入刚刚做好的产品 Hero 组件
+import ProductsHero from '../../components/products/ProductsHero';
+import ProductSpecs from '../../components/products/ProductSpecs';
+import MaterialIntro from '../../components/products/MaterialIntro'; // 🌟 1. 引入全新焊好的材质看板组件
 import Footer from '../../components/Footer';
 
 import enDict from '../../i18n/en.json';
@@ -26,7 +28,7 @@ const dictionaries: Record<'en' | 'zh' | 'ar', typeof enDict> = {
 
 const currentDict = dictionaries[lang as keyof typeof dictionaries] || enDict;
 
-// 🌟 产品页专属多语言安全提取引擎
+// 通用多语言核心引擎
 const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string) => {
   const root = currentDict as Record<string, any>;
   const group = root[groupKey] || {};
@@ -46,22 +48,27 @@ const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string)
   return root[groupKey] || groupKey;
 };
 
-// 快捷提取绑定
 const tHeader = (key: string) => t('Header', key);
-const tProductsHero = (key: string) => t('ProductsHero', key); // 🌟 2. 绑定 ProductsHero 专属提取
+const tProductsHero = (key: string) => t('ProductsHero', key);
 const tFooter = (key: string, subKey?: string, tertiaryKey?: string) => t('Footer', key, subKey, tertiaryKey);
 
-const isRtl = lang === 'ar';
+// ProductSpecs 静态化拆解
+const specsSource = (currentDict as any).ProductSpecs || {};
+const specsTitle = specsSource.title || "Product Specifications";
+const formattedSpecs = [
+  { id: 1, title: specsSource.spec1Title || "Customization", desc: specsSource.spec1Desc || "Made to order" },
+  { id: 2, title: specsSource.spec2Title || "Origin", desc: specsSource.spec2Desc || "Made in China" },
+  { id: 3, title: specsSource.spec3Title || "Warranty", desc: specsSource.spec3Desc || "Long service life" },
+  { id: 4, title: specsSource.spec4Title || "Frame Material", desc: specsSource.spec4Desc || "Premium aluminum alloy" },
+];
 
-// 社交媒体 Locale 映射
-const localeMapping: Record<string, string> = {
-  en: 'en_US',
-  zh: 'zh_CN',
-  ar: 'ar_AR',
-};
+// 🌟 2. 材质看板专用多语言高能解包区
+const matSource = (currentDict as any).MaterialIntro || {};
+
+const isRtl = lang === 'ar';
+const localeMapping: Record<string, string> = { en: 'en_US', zh: 'zh_CN', ar: 'ar_AR' };
 const currentLocale = localeMapping[lang] || 'en_US';
 
-// Google 官方标准 hreflang 绝对路径拼装（针对产品主页）
 const canonicalEn = `https://polycanopy.com/en/products/`;
 const canonicalZh = `https://polycanopy.com/zh/products/`;
 const canonicalAr = `https://polycanopy.com/ar/products/`;
@@ -72,9 +79,7 @@ const canonicalAr = `https://polycanopy.com/ar/products/`;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
     <meta name="robots" content="noindex, nofollow" />
-    
     <link rel="alternate" hreflang="en" href={canonicalEn} />
     <link rel="alternate" hreflang="zh" href={canonicalZh} />
     <link rel="alternate" hreflang="ar" href={canonicalAr} />
@@ -89,7 +94,6 @@ const canonicalAr = `https://polycanopy.com/ar/products/`;
     <meta property="og:description" content={currentDict.ProductsHero?.subtitle || "Explore our products."} />
     <meta property="og:image" content="https://img.polycanopy.com/2025/07/polycanopy-sunroom-application-protected-indoor-space-1.jpg" />
     <meta property="og:locale" content={currentLocale} />
-
     <style is:global>@import "tailwindcss";</style>
   </head>
   <body class="bg-gray-50 antialiased m-0 p-0 block w-full">
@@ -97,6 +101,32 @@ const canonicalAr = `https://polycanopy.com/ar/products/`;
     <Header t={tHeader} lang={lang} />
     
     <ProductsHero t={tProductsHero} />
+    
+    <ProductSpecs title={specsTitle} specs={formattedSpecs} />
+
+    {/* 🌟 3. 完美激活挂载：由于内部涉及选型点击，必须带上 client:load 唤醒 React 岛屿 */}
+    <MaterialIntro 
+      client:load
+      frameHeading={matSource.frameHeading || "Aluminum Alloy Frame"}
+      frameDesc={matSource.frameDesc || "High hardness profiles resist typhoons easily."}
+      panelHeading={matSource.panelHeading || "Polycarbonate Panels"}
+      panelDesc={matSource.panelDesc || "Premium raw materials guaranteed for over 10 years."}
+      colorBronze={matSource.color_bronze || "Bronze"}
+      colorWhite={matSource.color_white || "White"}
+      colorGray={matSource.color_gray || "Gray"}
+      colorBlack={matSource.color_black || "Black"}
+      colorChampagne={matSource.color_champagne || "Champagne"}
+      ariaFrameBtnTemplate={matSource.aria_frame_btn || "Switch frame to {color}"}
+      ariaPanelBtnTemplate={matSource.aria_panel_btn || "Switch panel to {color}"}
+      altFrameChampagne={matSource.alt_frame_champagne || "Champagne frame finish"}
+      altFrameWhite={matSource.alt_frame_white || "White frame finish"}
+      altFrameGray={matSource.alt_frame_gray || "Gray frame finish"}
+      altFrameCoffee={matSource.alt_frame_coffee || "Coffee frame finish"}
+      altPanelBronze={matSource.alt_panel_bronze || "Bronze solid sheet"}
+      altPanelWhite={matSource.alt_panel_white || "White translucent sheet"}
+      altPanelGray={matSource.alt_panel_gray || "Gray solid sheet"}
+      altPanelBlack={matSource.alt_panel_black || "Black tinted sheet"}
+    />
     
     <Footer t={tFooter} lang={lang} />
     
