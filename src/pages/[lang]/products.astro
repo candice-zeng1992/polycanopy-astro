@@ -1,0 +1,104 @@
+---
+// src/pages/[lang]/products.astro
+import Header from '../../components/Header';
+import ProductsHero from '../../components/products/ProductsHero'; // 🌟 1. 引入刚刚做好的产品 Hero 组件
+import Footer from '../../components/Footer';
+
+import enDict from '../../i18n/en.json';
+import zhDict from '../../i18n/zh.json';
+import arDict from '../../i18n/ar.json';
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: 'en' } },
+    { params: { lang: 'zh' } },
+    { params: { lang: 'ar' } },
+  ];
+}
+
+const { lang } = Astro.params;
+
+const dictionaries: Record<'en' | 'zh' | 'ar', typeof enDict> = {
+  en: enDict,
+  zh: zhDict,
+  ar: arDict,
+};
+
+const currentDict = dictionaries[lang as keyof typeof dictionaries] || enDict;
+
+// 🌟 产品页专属多语言安全提取引擎
+const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string) => {
+  const root = currentDict as Record<string, any>;
+  const group = root[groupKey] || {};
+  
+  if (groupKey === 'Footer') {
+    if (tertiaryKey) {
+      const secondLevel = group[key] || {};
+      const thirdLevel = secondLevel[subKey || ''] || {};
+      return thirdLevel[tertiaryKey] || tertiaryKey;
+    }
+    if (subKey) return group[key]?.[subKey] || subKey;
+  }
+
+  if (key && !subKey) return group[key] || key;
+  if (key && subKey) return group[key]?.[subKey] || subKey;
+  
+  return root[groupKey] || groupKey;
+};
+
+// 快捷提取绑定
+const tHeader = (key: string) => t('Header', key);
+const tProductsHero = (key: string) => t('ProductsHero', key); // 🌟 2. 绑定 ProductsHero 专属提取
+const tFooter = (key: string, subKey?: string, tertiaryKey?: string) => t('Footer', key, subKey, tertiaryKey);
+
+const isRtl = lang === 'ar';
+
+// 社交媒体 Locale 映射
+const localeMapping: Record<string, string> = {
+  en: 'en_US',
+  zh: 'zh_CN',
+  ar: 'ar_AR',
+};
+const currentLocale = localeMapping[lang] || 'en_US';
+
+// Google 官方标准 hreflang 绝对路径拼装（针对产品主页）
+const canonicalEn = `https://polycanopy.com/en/products/`;
+const canonicalZh = `https://polycanopy.com/zh/products/`;
+const canonicalAr = `https://polycanopy.com/ar/products/`;
+---
+
+<!DOCTYPE html>
+<html lang={lang} dir={isRtl ? 'rtl' : 'ltr'}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta name="robots" content="noindex, nofollow" />
+    
+    <link rel="alternate" hreflang="en" href={canonicalEn} />
+    <link rel="alternate" hreflang="zh" href={canonicalZh} />
+    <link rel="alternate" hreflang="ar" href={canonicalAr} />
+    <link rel="alternate" hreflang="x-default" href={canonicalEn} />
+    
+    <title>{tProductsHero('title')} - Polycanopy</title>
+    <meta name="description" content={currentDict.ProductsHero?.subtitle || "Explore our premium polycarbonate canopy and aluminum structure systems."} />
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={`https://polycanopy.com/${lang}/products/`} />
+    <meta property="og:title" content={tProductsHero('title')} />
+    <meta property="og:description" content={currentDict.ProductsHero?.subtitle || "Explore our products."} />
+    <meta property="og:image" content="https://img.polycanopy.com/2025/07/polycanopy-sunroom-application-protected-indoor-space-1.jpg" />
+    <meta property="og:locale" content={currentLocale} />
+
+    <style is:global>@import "tailwindcss";</style>
+  </head>
+  <body class="bg-gray-50 antialiased m-0 p-0 block w-full">
+    
+    <Header t={tHeader} lang={lang} />
+    
+    <ProductsHero t={tProductsHero} />
+    
+    <Footer t={tFooter} lang={lang} />
+    
+  </body>
+</html>

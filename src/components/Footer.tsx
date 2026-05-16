@@ -25,7 +25,7 @@ export default function Footer({ t, lang }: FooterProps) {
   ];
 
   return (
-    <footer className="bg-[#184e77] text-white">
+    <footer className="bg-[#184e77] text-white block w-full relative z-30">
       
       {/* ================= 1. 询盘表单区 (Ask for a Quote) ================= */}
       <div className="py-16 px-4 border-b border-white/10 max-w-[1200px] mx-auto">
@@ -42,27 +42,27 @@ export default function Footer({ t, lang }: FooterProps) {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="flex flex-col gap-2">
               <label className="text-sm font-semibold">{t('form', 'name')}</label>
-              <input type="text" required className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#1dd1a1]" />
+              <input type="text" required className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#12b886]" />
             </div>
             <div className="flex flex-col gap-2">
               <label className="text-sm font-semibold">{t('form', 'phone')}</label>
-              <input type="tel" required className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#1dd1a1]" />
+              <input type="tel" required className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#12b886]" />
             </div>
             <div className="flex flex-col gap-2">
               <label className="text-sm font-semibold">{t('form', 'email')}</label>
-              <input type="email" required className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#1dd1a1]" />
+              <input type="email" required className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#12b886]" />
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex flex-col gap-2">
               <label className="text-sm font-semibold">{t('form', 'country')}</label>
-              <input type="text" placeholder={t('form', 'countryPlaceholder')} className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#1dd1a1]" />
+              <input type="text" placeholder={t('form', 'countryPlaceholder')} className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#12b886]" />
             </div>
             <div className="flex flex-col gap-2">
               <label className="text-sm font-semibold">{t('form', 'products')}</label>
               <div className="relative">
-                <select className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#1dd1a1] appearance-none cursor-pointer">
+                <select className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#12b886] appearance-none cursor-pointer">
                   <option value="">{t('form', 'selectPlaceholder')}</option>
                   {productOptions.map((opt) => (
                     <option key={opt.key} value={opt.value}>
@@ -81,7 +81,7 @@ export default function Footer({ t, lang }: FooterProps) {
 
           <div className="flex flex-col gap-2">
             <label className="text-sm font-semibold">{t('form', 'message')}</label>
-            <textarea rows={4} placeholder={t('form', 'messagePlaceholder')} className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#1dd1a1]"></textarea>
+            <textarea rows={4} placeholder={t('form', 'messagePlaceholder')} className="w-full bg-white text-gray-800 rounded px-4 py-3 text-sm placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#12b886]"></textarea>
           </div>
 
           {/* 附件上传 */}
@@ -94,7 +94,8 @@ export default function Footer({ t, lang }: FooterProps) {
           </div>
 
           <div className="text-center">
-            <button type="submit" className="bg-[#1dd1a1] hover:bg-[#15b085] text-white font-bold px-12 py-3.5 rounded text-[16px] uppercase transition-colors duration-300 shadow-md">
+            {/* 🌟 修复：按钮背景与悬停全部锁定高对比度翡翠绿 */}
+            <button type="submit" className="bg-[#12b886] hover:bg-[#0ca678] text-white font-bold px-12 py-3.5 rounded text-[16px] uppercase transition-colors duration-300 shadow-md cursor-pointer">
               {t('form', 'submit')}
             </button>
           </div>
@@ -109,7 +110,7 @@ export default function Footer({ t, lang }: FooterProps) {
           </h4>
           <div className="flex w-full rounded overflow-hidden">
             <input type="email" placeholder={t('newsletter', 'placeholder')} required className="w-full px-4 py-3 bg-white text-gray-800 text-sm focus:outline-none" />
-            <button className="bg-[#1b759f] hover:bg-[#168aad] px-6 font-bold text-sm transition-colors flex-shrink-0">
+            <button className="bg-[#1b759f] hover:bg-[#168aad] px-6 font-bold text-sm transition-colors flex-shrink-0 cursor-pointer">
               {t('newsletter', 'submit')}
             </button>
           </div>
@@ -129,7 +130,8 @@ export default function Footer({ t, lang }: FooterProps) {
             </a>
             
             <h5 className="text-sm font-bold uppercase tracking-wider mb-3 text-gray-200">{t('terms', 'title')}</h5>
-            <div className="flex flex-col gap-2 text-sm text-gray-400">
+            {/* 🌟 修复：将条款链接由原本晦暗的 text-gray-400 提升为明亮的 text-gray-300 */}
+            <div className="flex flex-col gap-2 text-sm text-gray-300">
               <a href={`/${lang}/privacy-policy`} className="hover:text-white transition-colors">{t('terms', 'privacy')}</a>
               <a href={`/${lang}/return-policy`} className="hover:text-white transition-colors">{t('terms', 'return')}</a>
             </div>
@@ -147,7 +149,7 @@ export default function Footer({ t, lang }: FooterProps) {
                 </svg>
               </a>
             </div>
-          </div> {/* 🌟 完美修复：这里补上了闭合第一栏容器的 div */}
+          </div>
 
           {/* 第二栏：联系方式 */}
           <div className="flex flex-col ltr:items-start rtl:items-end">
@@ -157,7 +159,8 @@ export default function Footer({ t, lang }: FooterProps) {
                 <a href="tel:+8676023132009" className="hover:text-white transition-colors">{t('contact', 'tel')}</a>
               </li>
               <li>
-                <span className="text-gray-400 block mb-1">Email:</span>
+                {/* 🌟 修复：调亮前缀对比度 */}
+                <span className="text-blue-100 block mb-1">Email:</span>
                 <a href="mailto:sales@polycanopy.com" className="hover:text-white transition-colors break-all">sales@polycanopy.com</a>
               </li>
               <li>{t('contact', 'address')}</li>
@@ -172,20 +175,23 @@ export default function Footer({ t, lang }: FooterProps) {
               <article className="flex gap-4 items-center">
                 <img width={64} height={64} src="https://img.polycanopy.com/2026/02/Large-commercial-polycarbonate-canopy-over-building-entrance.jpg" className="w-16 h-16 object-cover rounded flex-shrink-0" alt="3mm Solid Polycarbonate Sheet" />
                 <div className="flex flex-col">
-                  <h5 className="text-sm font-semibold leading-snug line-clamp-2 hover:text-[#1dd1a1] transition-colors">
+                  {/* 🌟 修复：标题高亮色由浅绿微调为具有高辨识度的 brand-green */}
+                  <h5 className="text-sm font-semibold leading-snug line-clamp-2 hover:text-[#12b886] transition-colors">
                     <a href={`/${lang}/3mm-solid-polycarbonate-sheet-canopy-roofing/`}>{t('explore', 'post1Title')}</a>
                   </h5>
-                  <span className="text-[11px] text-gray-400 mt-1 uppercase font-bold tracking-wider">{t('explore', 'post1Tag')}</span>
+                  {/* 🌟 修复：小标签由 text-gray-400 完美上调为 text-blue-100 */}
+                  <span className="text-[11px] text-blue-100 mt-1 uppercase font-bold tracking-wider">{t('explore', 'post1Tag')}</span>
                 </div>
               </article>
 
               <article className="flex gap-4 items-center">
                 <img width={64} height={64} src="https://img.polycanopy.com/2025/12/professional-installation-of-a-polycarbonate-canopy-anchoring-system-in-a-high-wind-coastal-area.webp" className="w-16 h-16 object-cover rounded flex-shrink-0" alt="Anchoring Systems for High-Wind Areas" />
                 <div className="flex flex-col">
-                  <h5 className="text-sm font-semibold leading-snug line-clamp-2 hover:text-[#1dd1a1] transition-colors">
+                  <h5 className="text-sm font-semibold leading-snug line-clamp-2 hover:text-[#12b886] transition-colors">
                     <a href={`/${lang}/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/`}>{t('explore', 'post2Title')}</a>
                   </h5>
-                  <span className="text-[11px] text-gray-400 mt-1 uppercase font-bold tracking-wider">{t('explore', 'post2Tag')}</span>
+                  {/* 🌟 修复：小标签由 text-gray-400 完美上调为 text-blue-100 */}
+                  <span className="text-[11px] text-blue-100 mt-1 uppercase font-bold tracking-wider">{t('explore', 'post2Tag')}</span>
                 </div>
               </article>
 
@@ -197,13 +203,14 @@ export default function Footer({ t, lang }: FooterProps) {
 
       {/* ================= 4. 版权与回到顶部区 ================= */}
       <div className="bg-black/20 py-6 px-4">
-        <div className="max-w-[1200px] mx-auto flex flex-col sm:flex-row justify-between items-center gap-4 text-center sm:text-left text-sm text-gray-400">
+        {/* 🌟 修复：版权行由 text-gray-400 全面提亮为 text-gray-200 */}
+        <div className="max-w-[1200px] mx-auto flex flex-col sm:flex-row justify-between items-center gap-4 text-center sm:text-left text-sm text-gray-200">
           <p>{t('copyright', '')}</p>
           <a 
             href="#" 
             onClick={scrollToTop}
             aria-label="Back to top"
-            className="p-3 bg-white/5 hover:bg-[#1dd1a1] text-white hover:text-white rounded-full transition-all duration-300 flex items-center justify-center"
+            className="p-3 bg-white/5 hover:bg-[#12b886] text-white hover:text-white rounded-full transition-all duration-300 flex items-center justify-center cursor-pointer"
           >
             <ArrowUp size={16} />
           </a>

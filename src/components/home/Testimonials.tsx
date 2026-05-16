@@ -56,9 +56,9 @@ export default function Testimonials({ t }: TestimonialsProps) {
 
                 {/* 下半部分：客户身份信息（自适应 LTR/RTL 靠边对齐） */}
                 <div className="border-t border-gray-100 pt-4 flex flex-col ltr:items-start rtl:items-end text-start">
-                  <h4 className="font-bold text-[#184e77] text-[16px] mb-1">
+                  <h3 className="font-bold text-[#184e77] text-[16px] mb-1">
                     {name}
-                  </h4>
+                  </h3>
                   <div className="text-gray-500 text-xs leading-normal">
                     <p className="m-0">{role}</p>
                     <p className="m-0 font-medium text-gray-700">{company}</p>

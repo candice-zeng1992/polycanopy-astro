@@ -49,7 +49,7 @@ export default function Hero({ t, lang }: HeroProps) {
         <a 
           href={`/${lang}/products`} 
           aria-label={t('btnAriaLabel')} 
-          className="inline-flex items-center gap-2 bg-[#1dd1a1] hover:bg-[#15b085] text-white px-8 py-4 rounded font-bold text-lg transition-colors duration-300 shadow-lg"
+          className="inline-flex items-center gap-2 bg-[#12b886] hover:bg-[#15b085] text-white px-8 py-4 rounded font-bold text-lg transition-colors duration-300 shadow-lg"
         >
           <span>{t('btnText')}</span>
           {/* 🌟 核心修复：删除了双引号和大括号包裹，直接传递数字 20，让图标回归精致 */}
