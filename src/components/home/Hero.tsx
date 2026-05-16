@@ -17,6 +17,9 @@ export default function Hero({ t, lang }: HeroProps) {
           alt={t('imageAlt')} 
           title={t('imageTitle')} 
           className="absolute inset-0 w-full h-full object-cover object-center"
+          // ── 🌟 加上这两行，终结 4.5秒 LCP 噩梦 ──
+  loading="eager"        // 拒绝懒加载，开门见山立刻下
+  fetchPriority="high"   // 标记为全网最高优先级网络资源
         />
         <div 
           className="absolute inset-0" 
@@ -49,7 +52,7 @@ export default function Hero({ t, lang }: HeroProps) {
         <a 
           href={`/${lang}/products`} 
           aria-label={t('btnAriaLabel')} 
-          className="inline-flex items-center gap-2 bg-[#12b886] hover:bg-[#15b085] text-white px-8 py-4 rounded font-bold text-lg transition-colors duration-300 shadow-lg"
+          className="inline-flex items-center gap-2 bg-[#12b886] hover:bg-[#0ca678] text-white px-8 py-4 rounded font-bold text-lg transition-colors duration-300 shadow-lg"
         >
           <span>{t('btnText')}</span>
           {/* 🌟 核心修复：删除了双引号和大括号包裹，直接传递数字 20，让图标回归精致 */}

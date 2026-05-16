@@ -92,7 +92,7 @@ export default function Gallery({ t, lang }: GalleryProps) {
                     <a 
                       href={`/${lang}${card.href}`}
                       aria-label={`${btnText} - ${title}`} 
-                      className="inline-flex items-center gap-2 bg-[#12b886] hover:bg-[#15b085] text-white px-5 py-2.5 rounded text-sm font-bold transition-all duration-300 transform translate-y-0"
+                      className="inline-flex items-center gap-2 bg-[#12b886] hover:bg-[#0ca678] text-white px-5 py-2.5 rounded text-sm font-bold transition-all duration-300 transform translate-y-0"
                     >
                       <span>{btnText}</span>
                       {/* 🌟 RTL 自动适配：阿语状态下方向箭头自动镜像调转 (rtl:rotate-180) */}
