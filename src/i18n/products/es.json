@@ -1,0 +1,1289 @@
+{
+  "retractable-telescopic-sunroom": {
+    "title": "Pérgola Retráctil Telescópica de PolyCanopy",
+    "tags": [
+      "Motorizado",
+      "Tamaño Personalizado"
+    ],
+    "subtitle": "Home » product » Pérgola Retráctil Telescópica de PolyCanopy",
+    "desc": "La pérgola retráctil de PolyCanopy es un sistema modular inteligente para exteriores, diseñado para estilo, confort y durabilidad. Cuenta con motores ocultos, deslizamiento suave, aislamiento, kits de ahorro energético y personalización total, siendo la solución ideal para terrazas, jardines, piscinas y más.",
+    "welcome": "Bienvenido a PolyCanopy – su experto en pérgolas. Con orgullo hemos completado más de 180,000 estructuras modulares retráctiles en todo el mundo en los últimos 10 años, ofreciendo a las familias más luz, más alegría y más confort. Espacios de Vida Exterior Inteligentes a Medida. Como miembro reconocido de la Asociación Nacional de Pérgolas, PolyCanopy diseña y fabrica pérgolas inteligentes personalizadas para su espacio.",
+    "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/polycarbonate-sunroom-projects-around-the-world-tokyo-bangkok-hanoi-dhaka-kuala-lumpur-and-more-1024x808.jpg",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Preliminary-Design-Sketch-of-Modular-Polycarbonate-Sunroom-1024x635.jpg",
+    "features": [
+      {
+        "title": "Montaje Modular",
+        "desc": "Componentes modulares prefabricados para una instalación rápida en obra, reduciendo el tiempo de construcción y la mano de obra.",
+        "img": "https://img.polycanopy.com/2025/07/Modular-Structure-Design-for-Fast-On-Site-Installation.jpg",
+        "alt": "Componentes modulares de pérgola de policarbonato ensamblados en obra para una instalación eficiente y que ahorra tiempo"
+      },
+      {
+        "title": "Sistema de Motor Oculto",
+        "desc": "Sistema integrado de motor brushless de 24V CC oculto y guía para un funcionamiento seguro, estable y silencioso, con un aspecto limpio sin mecanismos visibles.",
+        "img": "https://img.polycanopy.com/2025/07/Concealed-Motor-System-for-Silent-Operation-and-Sleek-Appearance.jpg",
+        "alt": "Vista de cerca del sistema de motor oculto en la pérgola, diseñado para un funcionamiento de bajo ruido y un aspecto limpio y moderno"
+      },
+      {
+        "title": "Mecanismo de Deslizamiento Suave",
+        "desc": "Rieles de aluminio de precisión y sistema de poleas de nailon para una apertura y cierre suaves y silenciosos.",
+        "img": "https://img.polycanopy.com/2025/07/Smooth-Sliding-System-with-Precision-Track-Design.jpg",
+        "alt": "Detalle del sistema de rieles deslizantes, que garantiza un movimiento suave y sin esfuerzo de las puertas en la pérgola"
+      },
+      {
+        "title": "Aislamiento Acústico y Térmico",
+        "desc": "Sistema de sellado multicapa y kit estándar de ahorro energético con juntas de goma espumada que bloquea la transferencia de calor y la fuga de aire frío.",
+        "img": "https://img.polycanopy.com/2025/07/Thermal-and-Sound-Insulation-from-Dome-Roof-Design.jpg",
+        "alt": "Vista cenital del techo de la pérgola que muestra su rendimiento de aislamiento contra el calor y el ruido"
+      },
+      {
+        "title": "Kit Estándar de Ahorro Energético",
+        "desc": "Aislamiento de triple sello con juntas de goma espumada que bloquea la transferencia de calor y la fuga de aire frío.",
+        "img": "https://img.polycanopy.com/2025/07/Standard-Energy-Saving-Configuration-for-Better-Efficiency.jpg",
+        "alt": "Vista parcial de la pérgola de policarbonato que muestra sus componentes estándar de ahorro energético"
+      },
+      {
+        "title": "Resistencia al Viento y la Nieve",
+        "desc": "Pilares de aluminio de alta resistencia reforzados. Resistencia al viento: hasta 120 km/h (Grado 12). Capacidad de carga de nieve: 0.5 kN/m².",
+        "img": "https://img.polycanopy.com/2025/07/Enhanced-Wind-Resistance-with-Reinforced-Aluminum-Support-Columns.jpg",
+        "alt": "Detalle estructural de los pilares de aleación de aluminio reforzados que proporcionan una mayor resistencia al viento para la pérgola"
+      }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/cross-section-of-6061-t6-aluminum-alloy-strong-corrosion-resistant-and-weldable-scaled.jpg",
+      "frameAlt": "Vista detallada de la sección transversal de la aleación de aluminio de alta resistencia 6061-T6 utilizada en las estructuras del marco de la pérgola",
+      "roofsImg": "https://img.polycanopy.com/2025/07/material-comparison-laminated-tempered-glass-vs-4mm-solid-polycarbonate-panel-scaled.jpg",
+      "roofsAlt": "Vista comparativa de vidrio templado laminado de doble capa y un panel de policarbonato macizo de 4 mm de espesor",
+      "colors": [
+        {
+          "name": "Gris Oscuro",
+          "img": "https://img.polycanopy.com/2025/07/dark-gray-aluminum-frame-finish-sleek-and-modern-look.jpg",
+          "alt": "Vista de cerca del acabado del marco de aluminio gris oscuro"
+        },
+        {
+          "name": "Marrón Café",
+          "img": "https://img.polycanopy.com/2025/07/coffee-brown-aluminum-frame-finish-warm-and-natural-tone.jpg",
+          "alt": "Detalle del acabado del marco de aluminio marrón café"
+        },
+        {
+          "name": "Blanco Clásico",
+          "img": "https://img.polycanopy.com/2025/07/white-aluminum-frame-finish-clean-and-timeless-design.jpg",
+          "alt": "Acabado del marco de aluminio blanco de la pérgola en primer plano"
+        }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Finished-Sunroom-Interior-with-Six-Layer-Waterproof-Protection.jpg",
+      "waterproofAlt": "Vista interior de la pérgola terminada que muestra el sistema de impermeabilización de seis capas",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/retractable-transparent-sunroom-roof-over-swimming-pool-interior-poolside-view.jpg",
+      "poolCustomAlt": "Vista desde el interior de la piscina que muestra un techo retráctil de pérgola"
+    },
+    "specsTitle": "Especificaciones del Producto",
+    "specs": [
+      {
+        "title": "Material del Marco Principal",
+        "desc": "Aleación de Aluminio de Alta Resistencia 6063-T5/6061-T6"
+      },
+      {
+        "title": "Acabado Superficial",
+        "desc": "Acabados de Recubrimiento en Polvo Electroestático"
+      },
+      {
+        "title": "Formas de Techo",
+        "desc": "Configuraciones personalizadas arqueadas, de una sola pendiente, de múltiples pendientes"
+      },
+      {
+        "title": "Resistencia al Viento",
+        "desc": "120 km/h (a prueba de tifones Grado 12)"
+      },
+      {
+        "title": "Capacidad de Carga de Nieve",
+        "desc": "0.5 kN/m²"
+      },
+      {
+        "title": "Método de Apertura",
+        "desc": "Empuje manual / Accionamiento eléctrico remoto de 24V"
+      },
+      {
+        "title": "Dirección de Apertura",
+        "desc": "Retráctil telescópico de un solo lado / dos lados"
+      },
+      {
+        "title": "Ciclo de Producción",
+        "desc": "15–20 días de fabricación"
+      },
+      {
+        "title": "Garantía",
+        "desc": "3 años de garantía estructural"
+      },
+      {
+        "title": "Complementos Opcionales",
+        "desc": "Sistema de Iluminación LED, Sistema de Sombreo, Sistema de Ventilación, Sistema de Audio"
+      }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/various-sunroom-roof-styles-arched-polygonal-dome-and-single-slope-designs.jpg",
+      "roofStylesAlt": "Resumen de múltiples tipos de techo de pérgola, incluyendo estructuras arqueadas, poligonales, en forma de cúpula y de una sola pendiente",
+      "details": [
+        {
+          "title": "Motor Brushless Oculto de 24V",
+          "desc": "Funcionamiento seguro, estable y ultra silencioso integrado perfectamente en el interior.",
+          "img": "https://img.polycanopy.com/2025/07/Detail-View-of-Concealed-24W-DC-Brushless-Motor-for-Safe-Stable-and-Quiet-Operation-1.jpg",
+          "alt": "Primer plano del motor brushless de 24W CC oculto"
+        },
+        {
+          "title": "Iluminación con Tira LED",
+          "desc": "Bajo voltaje, alto índice de reproducción cromática, larga vida útil y eficiencia energética.",
+          "img": "https://img.polycanopy.com/2025/07/close-up-of-led-light-strip-energy-efficient-high-cri-and-long-lasting-design.jpg",
+          "alt": "Vista de detalle de la tira de iluminación LED utilizada en la pérgola"
+        },
+        {
+          "title": "Revestimiento Autolimpiante Opcional",
+          "desc": "Revestimiento especial antiincrustante de superficie disponible para paneles de policarbonato.",
+          "img": "https://img.polycanopy.com/2025/07/polycarbonate-panel-surface-with-optional-clean-coating-blue-brown-and-clear-colors.jpg",
+          "alt": "Vista parcial de paneles de policarbonato con revestimiento de superficie autolimpiante opcional"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/aluminum-profile-options-type-85-type-130-type-188-for-sunroom-structures.jpg",
+      "imgAlt": "Comparación de perfiles de aleación de aluminio en especificaciones Tipo 85, Tipo 130 y Tipo 188",
+      "diagramImg": "https://img.polycanopy.com/2025/07/cross-section-diagram-of-6063-t5-aluminum-profile-structural-details-for-sunroom.jpg",
+      "diagramAlt": "Vista técnica de la sección transversal del perfil de aleación de aluminio 6063-T5",
+      "models": [
+        "Especificación estructural Tipo 85",
+        "Especificación estructural Tipo 130",
+        "Especificación de gran luz Tipo 188"
+      ]
+    },
+    "allProjectsImg": "https://img.polycanopy.com/2025/07/all-kind-of-projects-of-sunroom.jpg",
+    "allProjectsAlt": "todo tipo de proyectos de pérgola por polycanopy",
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/polycanopy-sunroom-catalogue_compressed.pdf",
+      "downloadText": "Descargar Catálogo de Pérgolas PolyCanopy (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hola%2C%20estoy%20interesado%20en%20sus%20productos%20de%20p%C3%A9rgola%20polycanopy",
+      "whatsappText": "Obtenga Consulta Gratuita en Vivo vía WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "Liam O'Connor",
+        "role": "Arquitecto",
+        "text": "Como firma de diseño, apreciamos no solo la estética sino también la excelencia técnica detrás de la ingeniería de PolyCanopy."
+      },
+      {
+        "name": "Kenji Sato",
+        "role": "Gerente de Proyecto",
+        "text": "La pérgola modular de PolyCanopy fue un cambio radical para nuestro restaurante en la azotea en Tokio. La instalación fue rápida y limpia."
+      },
+      {
+        "name": "Emily Zhang",
+        "role": "Directora de Operaciones",
+        "text": "Necesitábamos una estructura personalizable y resistente a la intemperie para el área de la piscina exterior de nuestro hotel. La pérgola retráctil de PolyCanopy fue la opción perfecta."
+      }
+    ]
+  },
+  "stargazing-dome": {
+    "title": "Cúpula de Observación de Estrellas de Policarbonato – El Pod Exterior Más Llamativo",
+    "tags": [
+      "Pod de Glamping",
+      "Instalación Rápida"
+    ],
+    "subtitle": "Home » product » Cúpula de Observación de Estrellas de Policarbonato – El Pod Exterior Más Llamativo",
+    "desc": "Las cúpulas panorámicas de observación de estrellas de PolyCanopy ofrecen una combinación perfecta de impacto visual y durabilidad. Ideales para glamping, restaurantes, retiros en la cima de montañas y más, estas habitaciones modulares combinan impacto visual con durabilidad de grado industrial. Con materiales avanzados, diseños personalizables y precios directos de fábrica, nuestras cúpulas están diseñadas para el éxito comercial.",
+    "welcome": "Bienvenido a PolyCanopy – su experto dedicado en solárium y cúpulas. Con orgullo hemos completado más de 180,000 estructuras retráctiles y modulares en todo el mundo en los últimos 10 años, ofreciendo a los clientes un rendimiento comercial premium y estancias exteriores inolvidables. Como miembro reconocido de la Asociación Nacional de Solárium, PolyCanopy diseña y fabrica pods panorámicos inteligentes personalizados según las características únicas de su terreno.",
+    "image": "https://img.polycanopy.com/2025/07/Dome-Used-for-Outdoor-Glamping.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Dome-Installation-at-Mountain-Resort.jpg",
+    "globalProjectsAlt": "Cúpula transparente de policarbonato utilizada como área de estar panorámica en un resort de montaña premium",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Custom-Design-Sketch-for-Dome-Project.jpg",
+    "designSketchAlt": "Boceto de diseño CAD de grado ingenieril de un diseño de cúpula personalizada",
+    "features": [
+      {
+        "title": "Materiales de Grado Comercial Resistentes al Fuego",
+        "desc": "Las unidades de cúpula principales utilizan materiales base ignífugos estrictamente seleccionados, totalmente conformes con los estándares internacionales de seguridad contra incendios para espacios públicos comerciales y hotelería de alta gama.",
+        "img": "https://img.polycanopy.com/2025/07/Fire-Resistant-Polycarbonate-Structure.jpg",
+        "alt": "Cúpula de policarbonato y aluminio de alta calidad con materiales ignífugos"
+      },
+      {
+        "title": "Diseño de Brida Impermeable",
+        "desc": "Estructura avanzada de junta traslapada sin costuras, con bridas de borde físicas personalizadas y canales de drenaje verticales para eliminar por completo los riesgos de filtración.",
+        "img": "https://img.polycanopy.com/2025/07/Rainproof-Edges-and-Drainage-System.jpg",
+        "alt": "Diseño impermeable con bridas superpuestas y sellado estructural vertical en cada junta"
+      },
+      {
+        "title": "Malla Antiinsectos Integrada",
+        "desc": "Inclusión estándar de puertas de malla mosquitera de alta densidad y ventanas de ventilación para cada cúpula, equilibrando el flujo de aire natural con la protección total contra insectos.",
+        "img": "https://img.polycanopy.com/2025/07/Mosquito-Screen-Door-Windows-Included-Mosquito-Screen-Door-Windows-Included.jpg",
+        "alt": "Cúpula con puertas de micro-malla integradas y ventanas de ventilación para máxima protección contra insectos"
+      },
+      {
+        "title": "Rigidez Extrema del Revestimiento",
+        "desc": "Revestimiento de policarbonato virgen premium con capa de coextrusión UV de un solo lado de alta calidad, que proporciona resistencia a largo plazo contra impactos, amarilleo y agrietamiento.",
+        "img": "https://img.polycanopy.com/2025/07/urable-Wall-Panels-with-High-Flexibility.jpg",
+        "alt": "Paredes de policarbonato virgen de alta tenacidad flexionadas para demostrar la resistencia estructural"
+      },
+      {
+        "title": "Aislamiento Térmico y Control Climático",
+        "desc": "Incluye cortinas opacas de precisión engrosadas personalizadas, totalmente compatibles con sistemas de aire acondicionado de pared o central para confort durante todo el año.",
+        "img": "https://img.polycanopy.com/2025/07/Insulated-Interior-with-A-C-Installation-Option.jpg",
+        "alt": "Habitación de cúpula de policarbonato diseñada para confort térmico durante todo el año con aislamiento multicapa"
+      },
+      {
+        "title": "Resistencia al Viento de Grado Ingenieril",
+        "desc": "Estructura inferior diseñada con anclaje reforzado de alta resistencia, probada en campo para resistir de manera segura fuertes vientos en la cima de montañas y fluctuaciones de presión.",
+        "img": "https://img.polycanopy.com/2025/07/Windproof-Design-for-Harsh-Conditions.jpg",
+        "alt": "Estructura de cúpula con cimentación fija probada para resistencia a fuertes vientos de tormenta en ubicaciones alpinas"
+      }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/High-Quality-Aluminum-Frame-Side-View-for-Polycarbonate-Dome.jpg",
+      "frameAlt": "Marco de aleación de aluminio virgen de grado arquitectónico con acabado liso extruido de precisión",
+      "roofsImg": "https://img.polycanopy.com/2025/07/Flexible-Polycarbonate-Panel-with-UV-Coating.jpg",
+      "roofsAlt": "Lámina de policarbonato virgen de alta transparencia y alta resistencia a la tracción que demuestra flexibilidad estructural",
+      "colors": [
+        {
+          "name": "Revestimiento Transparente Panorámico 360°",
+          "img": "https://img.polycanopy.com/2025/07/Exterior-View-of-the-Modular-Polycarbonate-Stargazing-Room.jpg",
+          "alt": "Vista exterior completa del pod de glamping en forma de cúpula transparente"
+        },
+        {
+          "name": "Acabado de Iluminación Nocturna Vibrante",
+          "img": "https://img.polycanopy.com/2025/07/Top-Down-View-of-Colorful-Stargazing-Room-Used-for-Glamping.jpg",
+          "alt": "Vista cenital de la cúpula de observación de estrellas utilizada como unidad de glamping"
+        }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Dome-Rendering-Based-on-Project-Design.jpg",
+      "waterproofAlt": "Renderización 3D de un conjunto de cúpulas de resort de lujo basado en las especificaciones del cliente",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/Final-Installed-Dome-Matching-Original-Sketch.jpg",
+      "poolCustomAlt": "Cúpula modular comercial instalada y terminada que coincide con el plano conceptual propuesto"
+    },
+    "specsTitle": "Dimensiones de la Cúpula, Selección y Capacidad de Carga",
+    "specs": [
+      {
+        "title": "Consultoría de Ingeniería Personalizada",
+        "desc": "Distribución de tamaños estructurales adaptada a cargas de viento geográficas específicas y requisitos de ingeniería ambiental."
+      },
+      {
+        "title": "Pod Mini de 2.8 m de Diámetro",
+        "desc": "Área de 6.1 m², altura de 2.7 m. Ideal para comedor de 2-4 personas o sala de estar en jardín.",
+        "img": "https://img.polycanopy.com/2025/07/dome-sunroom-28m-diameter-for-2-4-people.jpg",
+        "alt": "Pod compacto de cúpula de policarbonato de 2.8 m"
+      },
+      {
+        "title": "Pod Estándar de 3.25 m de Diámetro",
+        "desc": "Área de 8.3 m², altura de 2.7 m. Optimizado para disposiciones circulares de comedor para 6-8 personas.",
+        "img": "https://img.polycanopy.com/2025/07/medium-dome-house-3-25m-diameter-for-6-8-people-83.jpg",
+        "alt": "Cúpula de policarbonato estándar de 3.25 m"
+      },
+      {
+        "title": "Pod Multiusos de 3.5 m de Diámetro",
+        "desc": "Área de 9.6 m². Espacio versátil para recepción comercial o de hostelería para 6-8 personas.",
+        "img": "https://img.polycanopy.com/2025/07/spacious-dome-35m-diameter-for-6-8-people.jpg",
+        "alt": "Pod de cúpula multiusos de 3.5 m"
+      },
+      {
+        "title": "Suite de Glamping de 4.2 m de Diámetro",
+        "desc": "Área de 13.84 m², altura de 2.8 m. Adecuado para 8-10 personas o habitaciones de resort boutique.",
+        "img": "https://img.polycanopy.com/2025/07/large-dome-sunroom-42m-width-for-8-10-people-1384.jpg",
+        "alt": "Suite de glamping boutique de 4.2 m"
+      },
+      {
+        "title": "Suite de Lujo de 4.8 m de Diámetro",
+        "desc": "Área de 18.1 m², altura de 3 m. Marco reforzado, cómodamente para 12-14 personas en suites de glamping de lujo.",
+        "img": "https://img.polycanopy.com/2025/07/xl-dome-house-48m-width-for-12-14-people.jpg",
+        "alt": "Suite de cúpula de lujo de 4.8 m"
+      },
+      {
+        "title": "Pod Insignia de 5.35 m de Diámetro",
+        "desc": "Área de 22.46 m², altura de 3.2 m. Diseñado para alojamientos hoteleros de alta gama.",
+        "img": "https://img.polycanopy.com/2025/07/extra-large-dome-535m-width-for-16-18-people.jpg",
+        "alt": "Suite de cúpula insignia de 5.35 m"
+      },
+      {
+        "title": "Pod Gigante de 5.9 m de Diámetro",
+        "desc": "Área de 27.5 m². Interior amplio, alberga 20-22 personas, ideal para eventos comerciales.",
+        "img": "https://img.polycanopy.com/2025/07/giant-dome-5-9m-width-for-20-22-people-275.jpg",
+        "alt": "Cúpula comercial gigante de 5.9 m"
+      },
+      {
+        "title": "Cúpula Ovalada (6.13 m x 4.13 m)",
+        "desc": "Área de 21.65 m², altura de 3 m. Diseño elíptico único para una modularidad estética mejorada.",
+        "img": "https://img.polycanopy.com/2025/07/oval-dome-613m-x-413m-for-20-22-people.jpg",
+        "alt": "Cúpula modular elíptica de 6.13 m"
+      },
+      {
+        "title": "Suite Ovalada Insignia (7.35 m x 5.35 m)",
+        "desc": "Área de 33.16 m², altura de 3.2 m. La mayor capacidad para eventos de alta gama de 24-26 personas.",
+        "img": "https://img.polycanopy.com/2025/07/oval-dome-house-735m-x-535m-for-24-26-people.jpg",
+        "alt": "Suite ovalada insignia de 7.35 m"
+      }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Stargazing-Glamping-Pod-Displayed-at-Trade-Show-Booth.jpg",
+      "roofStylesAlt": "Cúpula panorámica modular exhibida en una feria comercial de hostelería",
+      "details": [
+        {
+          "title": "Junta de Estanqueidad Superior Impermeable",
+          "desc": "Tira de sellado de goma impermeable de alta densidad aerodinámica que garantiza la protección contra filtraciones de agua de lluvia.",
+          "img": "https://img.polycanopy.com/2025/07/Top-Waterproof-Rubber-Strip.jpg",
+          "alt": "Detalle del sello impermeable en el ápice de la cúpula"
+        },
+        {
+          "title": "Anillo de Vértice y Marco de Puerta Reforzados",
+          "desc": "Anillo de vértice de aluminio doblado CNC de alta resistencia y marco de puerta sin costuras para una rigidez estructural superior.",
+          "img": "https://img.polycanopy.com/2025/07/Reinforced-Top-Connector-Ring-and-integrated-bent-aluminum-door.jpg",
+          "alt": "Vértice de aluminio reforzado y marco de puerta"
+        },
+        {
+          "title": "Canales de Cableado Integrados",
+          "desc": "Ranuras para cables ocultas integradas en el marco del techo para instalaciones eléctricas limpias y profesionales.",
+          "img": "https://img.polycanopy.com/2025/07/built-in-cable-channel-no-exposed-wires.jpg",
+          "alt": "Detalle del canal interno de enrutamiento de cables"
+        },
+        {
+          "title": "Paneles Curvos Sin Costuras",
+          "desc": "Corte curvo de gran ángulo de una sola pieza para una estética sin costuras y mantenimiento libre de polvo.",
+          "img": "https://img.polycanopy.com/2025/07/Seamless-curved-shape.jpg",
+          "alt": "Detalle del panel curvo de policarbonato sin costuras"
+        },
+        {
+          "title": "Sistema de Ventilación Montado en la Parte Superior",
+          "desc": "Sistema de circulación de múltiples etapas mecánico y natural integrado para un flujo de aire interior fresco.",
+          "img": "https://img.polycanopy.com/2025/07/Integrated-Fresh-Air-System.jpg",
+          "alt": "Unidad de circulación de aire fresco montada en la parte superior"
+        },
+        {
+          "title": "Corte de Precisión CNC de Juntas",
+          "desc": "El corte de bordes CNC vertical garantiza un ajuste preciso de los paneles, eliminando espacios para insectos y polvo.",
+          "img": "https://img.polycanopy.com/2025/07/Precision-CNC-Cutting-with-Perfect-Seal.jpg",
+          "alt": "Ilustración del corte de bordes de precisión CNC"
+        },
+        {
+          "title": "Placa de Coextrusión UV de Larga Duración",
+          "desc": "Aditivos de alta gama y capa UV uniforme garantizan claridad a largo plazo y resistencia al envejecimiento.",
+          "img": "https://img.polycanopy.com/2025/07/UV-Coated-Panel-Comparison.jpg",
+          "alt": "Comparación de resistencia a la intemperie de coextrusión UV"
+        },
+        {
+          "title": "Reflexión del Calor Radiante",
+          "desc": "Las propiedades del panel transparente reducen naturalmente el deslumbramiento y bloquean la radiación de calor dañina.",
+          "img": "https://img.polycanopy.com/2025/07/Dome-Installation-at-Mountain-Resort.jpg",
+          "alt": "Rendimiento de aislamiento térmico bajo luz solar"
+        },
+        {
+          "title": "Montaje Modular Rápido",
+          "desc": "Montaje estándar de 2 a 3 horas con compatibilidad de conexión modular.",
+          "img": "https://img.polycanopy.com/2025/07/quick-assembly.jpg",
+          "alt": "Proceso de montaje modular en obra"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/High-Strength-Aluminum-Side-Frame.jpg",
+      "imgAlt": "Marco lateral de aluminio de alta resistencia",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Structural-Diagram-of-Dome-House-with-LED-Aluminum-Frame-and-UV-Panel-1024x976.jpg",
+      "diagramAlt": "Diagrama de despiece estructural",
+      "models": [
+        "Corte de precisión CNC",
+        "Sistema de ventilación circular",
+        "Iluminación LED impermeable IP65"
+      ]
+    },
+    "challenges": {
+      "title": "Resuelve Desafíos Reales al Aire Libre – Añade Valor Visual",
+      "subtitle": "Pods de glamping que atraen la atención sin publicidad.",
+      "points": [
+        "Pods panorámicos autopromocionales",
+        "Ideales para terrazas de cafeterías o salones de jardín",
+        "Opciones de personalización de marca disponibles"
+      ]
+    },
+    "allProjectsImg": "https://img.polycanopy.com/2025/07/Dome-House-Showcased-at-Exhibition.jpg",
+    "allProjectsAlt": "Exposición de proyectos industriales de PolyCanopy",
+    "gallery": [
+      {
+        "img": "https://img.polycanopy.com/2025/07/Night-View-of-the-Stargazing-Room-with-Ambient-Lighting.jpg",
+        "alt": "Habitación de cúpula de glamping iluminada por la noche, mostrando iluminación LED suave y un ambiente acogedor para estancias nocturnas."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Inside-View-of-Glamping-Dome-with-Pink-Curtain.jpg",
+        "alt": "Foto interior de la cúpula de policarbonato, mirando a través de elegantes cortinas rosas, combinando privacidad con vistas panorámicas."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Outside-View-into-the-Stargazing-Room-with-Pink-Drapes.jpg",
+        "alt": "Toma exterior del pod de glamping modular, mostrando las cortinas rosas interiores a través del revestimiento transparente."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Interior-of-the-Stargazing-Room-with-Bed-for-Glamping-Stay.jpg",
+        "alt": "Interior acogedor del pod de glamping modular, con una cama para uso de alojamiento, adecuado para Airbnb o alquileres vacacionales."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Glamping-Dome-Bed-Area-Viewed-from-Alternate-Anglev.jpg",
+        "alt": "Perspectiva alternativa que muestra el área de descanso interior de la habitación de cúpula de glamping con mobiliario confortable."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Exterior-View-of-the-Modular-Polycarbonate-Stargazing-Room.jpg",
+        "alt": "Vista exterior completa del pod de glamping en forma de cúpula transparente con estructura de soporte de plástico blanco y diseño de tragaluz panorámico."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Ventilation-System-on-the-Dome-Roof-of-the-Polycarbonate-Glamping-Room.jpg",
+        "alt": "Sistema de ventilación de aire blanco instalado en la parte superior de la cúpula de policarbonato transparente, proporcionando flujo de aire fresco dentro de la habitación de glamping."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Modular-Connection-for-Indoor-Linking.jpg",
+        "alt": "Varias habitaciones de cúpula conectadas con puertas interiores"
+      }
+    ],
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "Descargar el Folleto de la Cúpula de Observación de Estrellas de PolyCanopy (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hola%2C%20estoy%20interesado%20en%20sus%20productos%20de%20cúpula%20polycanopy",
+      "whatsappText": "Obtenga Consulta Gratuita en Vivo por WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "Emily Zhao",
+        "role": "Propietaria de Hotel Boutique",
+        "text": "La cúpula de PolyCanopy nos ayudó a crear una experiencia de glamping de alta gama que atrae a influencers cada fin de semana. El equipo de instalación fue rápido y la cúpula ha resistido bien la lluvia intensa y el sol."
+      },
+      {
+        "name": "Olivier Dubois",
+        "role": "Operador de Resort",
+        "text": "Nuestros clientes aman la transparencia y la vista abierta. La iluminación LED y el sistema de ventilación hacen que la experiencia sea lujosa incluso en áreas remotas."
+      },
+      {
+        "name": "Maria Gonzalez",
+        "role": "Propietaria de Cafetería",
+        "text": "Convertimos nuestro jardín en un punto caliente para fotos con dos cúpulas transparentes. El diseño curvo es fácil de mantener y aporta luz natural todo el día."
+      },
+      {
+        "name": "Jack Li",
+        "role": "Director de Campamento al Aire Libre",
+        "text": "Estas cúpulas son increíblemente duraderas. El anclaje a prueba de viento las mantuvo estables incluso durante fuertes vientos de montaña. Muy recomendadas para campamentos ecológicos."
+      }
+    ]
+  },
+  "terrace-canopy": {
+    "title": "Marquesina de Policarbonato para Porche Delantero de PolyCanopy",
+    "tags": [
+      "Cubierta para Terraza",
+      "Protección UV"
+    ],
+    "subtitle": "Home » product » Diseño de Marquesina para Terraza – Tamaños, Materiales y Tipos de Estructura",
+    "desc": "Una solución moderna de marquesina para terraza fabricada con láminas de policarbonato duraderas y marcos de aluminio resistentes a la corrosión, diseñada para ofrecer protección contra el sol y la lluvia, mejorando al mismo tiempo el atractivo arquitectónico del edificio. Construidas con materiales de ingeniería de primera calidad, nuestras estructuras de porche personalizadas están diseñadas para una larga vida útil y un rendimiento robusto en campo.",
+    "welcome": "Una marquesina para terraza bien diseñada no solo protege su entrada o área frontal del sol y la lluvia, sino que también mejora la apariencia general del edificio. Ya sea para hogares, villas, edificios comerciales o tiendas, una marquesina moderna construida con láminas de policarbonato y marcos de aluminio de Polycanopy es duradera, funcional y estéticamente agradable. Utilizamos materiales de proveedores globales de confianza y fabricamos con precisión para garantizar rigidez estructural y un ciclo de vida exterior prolongado.",
+    "image": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+    "globalProjectsAlt": "Villa de varios pisos con marquesinas para terraza instaladas en todos los balcones y entradas, con cubierta de policarbonato y estructuras de aluminio.",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg",
+    "designSketchAlt": "Ilustración horizontal que muestra las diferencias de diseño estructural entre marquesinas para terraza tipo L y tipo R, incluyendo vistas de montaje en pared y proyección",
+    "features": [
+      {
+        "title": "Capas Avanzadas de Protección UV",
+        "desc": "Paneles de policarbonato macizo de alta calidad extruidos con una capa protectora UV duradera en un solo lado, bloqueando la radiación solar dañina mientras mantienen una claridad de luz superior durante más de 10 años.",
+        "img": "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg",
+        "alt": "Lámina de policarbonato macizo iluminada con una linterna UV, demostrando claramente su capa de protección UV"
+      },
+      {
+        "title": "Estructura de Aluminio Arquitectónico",
+        "desc": "Perfiles de aluminio extruido 6063 de alta dureza y resistentes a la corrosión, que proporcionan una estabilidad estructural superior a largo plazo, capacidad de carga climática y una silueta moderna y elegante.",
+        "img": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+        "alt": "Vista detallada del marco metálico utilizado en la marquesina, mostrando perfiles y componentes de aluminio de alta calidad"
+      },
+      {
+        "title": "Ventana de Mantenimiento Opcional",
+        "desc": "Para mayor funcionalidad, nuestros sistemas se pueden personalizar con una ventana de inspección reservada en la cubierta superior, que permite un fácil acceso para la limpieza de componentes sin desmontar.",
+        "img": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg",
+        "alt": "Marquesina de policarbonato con una ventana superior reservada para inspección y acceso de mantenimiento"
+      },
+      {
+        "title": "Ingeniería de Drenaje de Alta Capacidad",
+        "desc": "Cada configuración está técnicamente mapeada con trayectorias de recolección integradas y bajantes dobles para desviar de manera segura el agua de lluvia intensa lejos de las puertas.",
+        "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+        "alt": "Ilustración de cómo medir y calcular el área de una marquesina soportada por postes, mostrando fórmulas tipo L y tipo R basadas en longitudes de montaje en pared y proyección"
+      }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+      "frameAlt": "Vista detallada del marco metálico utilizado en la marquesina, mostrando perfiles y componentes de aluminio de alta calidad",
+      "roofsImg": "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg",
+      "roofsAlt": "Lámina de policarbonato macizo iluminada con una linterna UV, demostrando claramente su capa de protección UV",
+      "colors": [
+        {
+          "name": "Textura Café Púrpura"
+        },
+        {
+          "name": "Negro Gris Elegante"
+        },
+        {
+          "name": "Blanco Crema Clásico"
+        },
+        {
+          "name": "Roble Dorado Premium"
+        }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg",
+      "waterproofAlt": "Marquesina de policarbonato con una ventana superior reservada para inspección y acceso de mantenimiento",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+      "poolCustomAlt": "Villa de varios pisos con marquesinas para terraza instaladas en todos los balcones y entradas, con cubierta de policarbonato y estructuras de aluminio."
+    },
+    "specsTitle": "Configuración Estándar y Especificaciones Técnicas",
+    "specs": [
+      {
+        "title": "Modelos de Estructura",
+        "desc": "Marco tipo L minimalista o marquesina curva tipo R con arco protector."
+      },
+      {
+        "title": "Grado del Marco de Aluminio",
+        "desc": "Perfil de aluminio premium 6063 A-bar: espesor de 2.0 mm para posiciones de carga, 1.2-2.0 mm para barras secundarias."
+      },
+      {
+        "title": "Espesor del Policarbonato",
+        "desc": "Paneles de policarbonato macizo virgen, disponibles en espesores de 2.0 mm o 3.0 mm antiimpacto mejorados."
+      },
+      {
+        "title": "Acabados de Recubrimiento de Perfiles",
+        "desc": "Texturas: Café Púrpura / Negro Gris Elegante / Blanco Crema Clásico / Roble Dorado Premium."
+      },
+      {
+        "title": "Colores de Protección de Paneles",
+        "desc": "Gris Humo Claro / Gris Humo Medio / Gris Humo Oscuro / Azul Lago / Color Té / Totalmente Transparente."
+      },
+      {
+        "title": "Sistema de Canalón de Agua de Lluvia",
+        "desc": "La configuración estándar incluye 2 bajantes (1 canalón de cabecera integrado, 1 tubo de desagüe vertical independiente de 3 metros)."
+      },
+      {
+        "title": "Vigas Estructurales Principales",
+        "desc": "2 pilares/vigas en una luz de 6 metros. Se añade una viga de soporte adicional por cada 3 metros adicionales."
+      },
+      {
+        "title": "Consideraciones de Instalación en Sitio",
+        "desc": "Requiere estructuras de pared robustas. Se recomienda una ligera pendiente (3-5°) para una óptima autolimpieza del agua de lluvia."
+      }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg",
+      "roofStylesAlt": "Ilustración horizontal que muestra las diferencias de diseño estructural entre marquesinas para terraza tipo L y tipo R, incluyendo vistas de montaje en pared y proyección",
+      "details": [
+        {
+          "title": "Marquesina Minimalista Tipo L",
+          "desc": "Un diseño recto y minimalista donde el marco forma una 'L' geométrica limpia. Ideal para villas modernas y elegantes, con instalación de montaje vertical en pared.",
+          "img": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg"
+        },
+        {
+          "title": "Marquesina Curva Tipo R",
+          "desc": "Una estructura bellamente curvada con bordes suaves, formando un arco 'R' que proporciona un área de cobertura extendida y una sensación decorativa de alta gama.",
+          "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg"
+        },
+        {
+          "title": "Trampilla de Inspección Reservada",
+          "desc": "Disposición de ingeniería opcional con una ventana de panel superior reservada que permite un fácil mantenimiento y revisión de residuos sin desmontaje total.",
+          "img": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+      "imgAlt": "Vista detallada del marco metálico utilizado en la marquesina, mostrando perfiles y componentes de aluminio de alta calidad",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+      "diagramAlt": "Ilustración de cómo medir y calcular el área de una marquesina soportada por postes",
+      "models": [
+        "Línea Recta Tipo L",
+        "Línea Decorativa Curva Tipo R",
+        "Perfiles Arquitectónicos 6063 de Alta Resistencia"
+      ]
+    },
+    "challenges": {
+      "title": "Resuelve Desafíos Reales en Exteriores – Añade Valor Visual",
+      "subtitle": "Marquesinas modulares desarrolladas para mejorar aleros y ambientes de patio:",
+      "points": [
+        "Soluciona completamente el deterioro de puertas causado por la acumulación de agua de lluvia en puertas de madera o cobre.",
+        "Bloquea el 99% de los rayos UV dañinos, protegiendo vehículos premium expuestos o sofás de cuero de exterior de alta gama.",
+        "El diseño totalmente modular se puede extender sin problemas para cubrir amplios espacios de ocio al aire libre."
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para profundizar en especificaciones técnicas o personalizar su diseño?",
+      "subtitle": "Descargue nuestro catálogo de ingeniería, o hable directamente con nuestro equipo de ingeniería de ventas global a través de mensajería instantánea.",
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "Descargar Catálogo Técnico PolyCanopy (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hola%2C%20estoy%20interesado%20en%20sus%20productos%20de%20marquesina%20para%20terraza%20polycanopy",
+      "whatsappText": "Obtenga un Presupuesto Personalizado Gratuito vía WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "Marnix",
+        "role": "Gerente de Proyectos, Países Bajos",
+        "text": "La marquesina para terraza encaja perfectamente con nuestro estilo arquitectónico. Excelente calidad de construcción."
+      },
+      {
+        "name": "Annarita Trotta",
+        "role": "Firma de Arquitectura, Italia",
+        "text": "Robusta y elegante. Una gran solución para espacios exteriores."
+      }
+    ]
+  },
+  "polycarbonate-carport": {
+    "title": "Cobertizo de Policarbonato Duradero — Protección para Vehículos Resistente a la Intemperie con Estructura de Aluminio",
+    "tags": [
+      "Cobertizo de Aluminio",
+      "Resistente a Tifones"
+    ],
+    "subtitle": "Home » product » Cobertizo de Policarbonato | Protección para Vehículos Duradera y Resistente a los Rayos UV",
+    "desc": "Proteja su vehículo con un cobertizo tan resistente como elegante. Nuestros cobertizos de policarbonato están fabricados con marcos de aleación de aluminio de alta calidad y láminas de policarbonato 100% virgen Bayer o SABIC. Ya sea que proteja uno o dos autos, ofrecemos una amplia gama de estilos: Simple, Tipo Y, Tipo M, Voladizo y Tipo S, cada uno diseñado para brindar belleza, resistencia y protección contra la intemperie.",
+    "welcome": "Descubra los modernos cobertizos de policarbonato de Warner: resistentes a los rayos UV, fáciles de instalar y construidos con marcos de aluminio duraderos. Proteja su automóvil. Utilizamos materiales de proveedores globales de confianza y fabricamos con precisión para garantizar resistencia y rendimiento duradero.",
+    "image": "https://img.polycanopy.com/2025/07/Y-Shaped-Polycarbonate-Carport-with-Blue-Solid-Sheet.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Elegant-S-Shaped-Single-Sided-Polycarbonate-Carport-for-Two-Vehicles.jpg",
+    "globalProjectsAlt": "Estructura de cobertizo en forma de S con diseño curvo elegante, mostrando el estilo de cubierta de policarbonato y el marco de aluminio de Warner",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/custom-carport-design-sketch-with-dimensions-length-width-and-height-1024x642.jpg",
+    "designSketchAlt": "Boceto preliminar de diseño de cobertizo que muestra dimensiones personalizables, incluyendo largo, ancho y alto, demostrando capacidades de diseño a medida para proyectos personalizados.",
+    "features": [
+      {
+        "title": "Cobertizo de Un Solo Lado",
+        "desc": "Perfecto para hogares con espacio limitado. Soporta un vehículo y es fácil de instalar junto a paredes o como unidad independiente.",
+        "img": "https://img.polycanopy.com/2025/07/various-carport-designs-for-different-vehicle-types-single-side-y-type-s-type-m-type-and-more.jpg",
+        "alt": "Ilustración que muestra diferentes estructuras de cobertizo, incluyendo diseños de un solo lado, tipo Y, tipo S y tipo M, adecuados para varios tipos de vehículos y necesidades de estacionamiento."
+      },
+      {
+        "title": "Estructura de Cobertizo Tipo Y",
+        "desc": "Cuenta con una columna central con brazos extendidos, ideal para proteger dos autos manteniendo un espacio abierto.",
+        "img": "https://img.polycanopy.com/2025/07/reinforced-polycarbonate-carport-structure-windproof-fire-resistant-walkable-roof.jpg",
+        "alt": "Vista de cerca de los componentes estructurales de un cobertizo de policarbonato y aluminio, con postes de 4 mm de espesor, vigas curvas de 3 mm, cubierta de policarbonato importada de Alemania y descripciones de resistencia al viento y al fuego."
+      },
+      {
+        "title": "Estructura de Perfiles de Alta Resistencia",
+        "desc": "Marco de aluminio de alta resistencia: recubrimiento anticorrosión, capa interior de carga fuerte y núcleo de disipación rápida de calor. Los postes de soporte de 4 mm de espesor soportan tifones de nivel 12.",
+        "img": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+        "alt": "Sección transversal del marco de aluminio"
+      },
+      {
+        "title": "Láminas Premium de Larga Duración",
+        "desc": "Elija entre una variedad de colores de policarbonato. Fabricado con materia prima 100% virgen Bayer/SABIC y producido con la línea de extrusión Omipa de Italia. La capa de protección UV bloquea los rayos dañinos.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+        "alt": "Todo tipo de láminas de policarbonato de color"
+      }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+      "frameAlt": "Sección transversal del marco de aluminio",
+      "roofsImg": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+      "roofsAlt": "Todo tipo de láminas de policarbonato de color",
+      "colors": [
+        {
+          "name": "Simple (3m x 5.5m x 3m)"
+        },
+        {
+          "name": "Unión en Y (6m x 5.5m x 3m)"
+        },
+        {
+          "name": "Unión en M (6m x 5.5m x 3m)"
+        },
+        {
+          "name": "Unión doble (3m x 11m x 3m)"
+        }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Aluminum-Alloy-Frame-COLOR.jpg",
+      "waterproofAlt": "Todo tipo de marcos de aleación de aluminio de color",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg",
+      "poolCustomAlt": "Desglose ilustrado de la estructura de un cobertizo de policarbonato, mostrando componentes etiquetados que incluyen marco frontal, marco lateral, tapas, sub-marcos, vigas curvas, postes de soporte y canaletas de agua"
+    },
+    "specsTitle": "Configuraciones de Tamaño del Cobertizo y Capacidades de Carga",
+    "specs": [
+      {
+        "title": "Unidad de Cobertizo Simple",
+        "desc": "Ancho: 3m | Largo: 5.5m | Alto: 3m | Capacidad: 1 auto"
+      },
+      {
+        "title": "Unidad Doble Unión en Y",
+        "desc": "Ancho: 6m | Largo: 5.5m | Alto: 3m | Capacidad: 2 autos"
+      },
+      {
+        "title": "Unidad Unificada Unión en M",
+        "desc": "Ancho: 6m | Largo: 5.5m | Alto: 3m | Capacidad: 2 autos"
+      },
+      {
+        "title": "Unidad en Línea Unión Doble",
+        "desc": "Ancho: 3m | Largo: 11m | Alto: 3m | Capacidad: 2 autos"
+      },
+      {
+        "title": "Módulo de 1 Canal",
+        "desc": "Ancho: 3m | Largo: 5.5m | Alto: 3m | Capacidad: 1 auto"
+      },
+      {
+        "title": "Módulo Múltiple de 2 Canales",
+        "desc": "Ancho: 6m | Largo: 11m | Alto: 3m | Capacidad: 4 autos"
+      },
+      {
+        "title": "Cobertizo Decorativo Tipo S",
+        "desc": "Ancho: 3m | Largo: 5.5m | Alto: 3m | Capacidad: 1 auto"
+      },
+      {
+        "title": "Unidad Suspendida en Voladizo",
+        "desc": "Ancho: 3m | Largo: 5.5m | Alto: 4.5m | Capacidad: 1 auto"
+      }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/various-carport-designs-for-different-vehicle-types-single-side-y-type-s-type-m-type-and-more-655x1024.jpg",
+      "roofStylesAlt": "Ilustración que muestra diferentes estructuras de cobertizo, incluyendo diseños de un solo lado, tipo Y, tipo S y tipo M",
+      "details": [
+        {
+          "title": "Estructura de Cobertizo Tipo M",
+          "desc": "Diseño de doble arco con cubierta unificada. Moderno y versátil, adecuado para uso residencial y comercial.",
+          "img": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg"
+        },
+        {
+          "title": "Soporte Suspendido en Voladizo",
+          "desc": "Diseñado con soporte tipo suspensión, dejando el espacio del suelo abierto y accesible, ideal para arquitectura moderna.",
+          "img": "https://img.polycanopy.com/2025/07/custom-carport-design-sketch-with-dimensions-length-width-and-height-1024x642.jpg"
+        },
+        {
+          "title": "Cobertizo de Arco Estético Tipo S",
+          "desc": "Techo curvo hermoso para una estética mejorada. Popular en hogares que buscan funcionalidad y atractivo de diseño.",
+          "img": "https://img.polycanopy.com/2025/07/Elegant-S-Shaped-Single-Sided-Polycarbonate-Carport-for-Two-Vehicles.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+      "frameAlt": "Sección transversal del marco de aluminio",
+      "diagramImg": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg",
+      "diagramAlt": "Desglose ilustrado de la estructura de un cobertizo de policarbonato, mostrando componentes etiquetados que incluyen marco frontal, marco lateral, tapas, sub-marcos, vigas curvas, postes de soporte y canaletas de agua",
+      "models": [
+        "Más de 10 años de durabilidad del producto",
+        "Tamaños y estilos totalmente personalizables",
+        "Aleación de aluminio de grado industrial y policarbonato"
+      ]
+    },
+    "challenges": {
+      "title": "¿Por Qué Elegir Nuestros Cobertizos?",
+      "subtitle": "Desde hogares modernos hasta lotes comerciales, nuestros cobertizos son confiables por su durabilidad y diseño en todo el mundo.",
+      "img": "https://img.polycanopy.com/2025/07/Single-Bike-Polycarbonate-Canopy-at-Villa-Entrance-with-Light-Blue-Solid-Sheet.jpg",
+      "alt": "Estructura de cobertizo en forma de S con diseño curvo elegante",
+      "points": [
+        "Más de 10 años de durabilidad del producto contra tifones severos y carga de nieve.",
+        "Longitud de pared, profundidad de proyección y altura totalmente personalizables.",
+        "Columnas de aleación de aluminio de 4 mm de espesor de grado industrial y paneles de policarbonato extruido Omipa de Italia.",
+        "Instalación fácil con mínimo mantenimiento y precios directos de fábrica con envío internacional."
+      ]
+    },
+    "gallery": [
+      {
+        "img": "https://img.polycanopy.com/2025/07/Structural-Aluminum-Profiles-and-Dimensions-for-Single-Sided-Polycarbonate-Carport.jpg",
+        "alt": "Especificaciones detalladas del marco de aluminio y perfiles para el cobertizo de policarbonato de un solo lado de Warner, mostrando tamaño y componentes estructurales"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Single-Sided-Polycarbonate-Carport-with-Deep-Blue-Roof-Panel.jpg",
+        "alt": "Cobertizo moderno de un solo lado con techo de policarbonato azul profundo, diseñado por Warner"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Bike-Shelter-with-Light-Blue-Solid-Polycarbonate-Sheet-Covering-Multiple-Bicycles.jpg",
+        "alt": "Una fila de bicicletas estacionadas bajo una cubierta de policarbonato para bicicletas con techo de lámina sólida azul claro"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/S-Curve-Suspended-Polycarbonate-Carport-with-Black-Solid-Roof.jpg",
+        "alt": "Elegante cobertizo suspendido con techo de policarbonato sólido negro en forma de S"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Single-Bike-Polycarbonate-Canopy-at-Villa-Entrance-with-Light-Blue-Solid-Sheet.jpg",
+        "alt": "Cubierta de policarbonato para una bicicleta con lámina sólida transparente azul claro instalada en la entrada de una villa"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-with-Black-Solid-Sheet-for-Villa.jpg",
+        "alt": "Cobertizo de estilo suspendido con panel de policarbonato sólido negro, instalado entre edificios de villa"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Underside-View-of-Suspended-Black-Polycarbonate-Carport.jpg",
+        "alt": "Vista hacia arriba de un cobertizo suspendido con techo de policarbonato sólido negro"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Y-Shaped-Polycarbonate-Carport-with-Blue-Solid-Sheet.jpg",
+        "alt": "Cobertizo moderno en forma de Y con techo de policarbonato sólido azul"
+      }
+    ],
+    "cta": {
+      "title": "¿Listo para profundizar en especificaciones técnicas o personalizar su diseño?",
+      "subtitle": "Descargue nuestro catálogo de ingeniería, o hable directamente con nuestro equipo de ventas de ingeniería global a través de mensajería instantánea.",
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "Descargar Catálogo de Selección de Cobertizos PolyCanopy (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20carport%20products",
+      "whatsappText": "Obtener Consulta Gratuita en Vivo vía WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "Gyan Flora",
+        "role": "Desarrollador Residencial en Kuwait",
+        "text": "El cobertizo de policarbonato es robusto contra altas temperaturas y tormentas de arena."
+      },
+      {
+        "name": "Cliente en México",
+        "role": "Propietario de Vivienda Particular",
+        "text": "La instalación fue sencilla y la durabilidad es impresionante."
+      }
+    ]
+  },
+  "inside-corner-canopy": {
+    "title": "Marquesina de Policarbonato para Esquina Interior de PolyCanopy",
+    "tags": [
+      "Marquesina de Esquina",
+      "Protección Continua"
+    ],
+    "subtitle": "Home » product » Marquesina para Esquina Interior para Edificios Modernos | Refugio contra Lluvia",
+    "desc": "Explore nuestras soluciones de marquesina para esquina interior fabricadas con láminas de policarbonato y estructuras de aluminio. Ideales para crear una cobertura continua. Marquesina para esquina interior diseñada a medida para espacios retranqueados, que proporciona una protección continua contra la lluvia con líneas arquitectónicas limpias.",
+    "welcome": "Las marquesinas para esquina interior están especialmente diseñadas para espacios arquitectónicos retranqueados donde dos paredes forman una esquina entrante. Estas estructuras proporcionan protección continua contra la lluvia, preservando la armonía visual de la fachada del edificio. PolyCanopy ofrece marquesinas para esquina interior diseñadas a medida que se adaptan perfectamente a las configuraciones de edificios retranqueados. Elaboradas con paneles de policarbonato duraderos y marcos de aluminio, nuestros diseños combinan funcionalidad y estilo, adecuados tanto para hogares como para áreas comerciales.",
+    "image": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Bottom-View-of-Internal-Corner-Canopy-with-Light-Blue-Panel.jpg",
+    "globalProjectsAlt": "Vista en contrapicado de una marquesina para esquina interior con panel de policarbonato azul claro",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+    "designSketchAlt": "Toma exterior cercana de una marquesina de esquina con sistema de drenaje integrado",
+    "features": [
+      {
+        "title": "Modelos y Configuración de Perfiles de Aluminio",
+        "desc": "Seleccione el armazón estructural principal adecuado según los requisitos de luz de ingeniería y las pautas de carga de viento regionales. Ofrecemos esquemas de fabricación de perfiles personalizados para cumplir con los estándares de alta densidad de carga.",
+        "img": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+        "alt": "Toma exterior cercana de una marquesina de esquina con sistema de drenaje integrado"
+      },
+      {
+        "title": "Ventajas de Diseño de Nuestros Modelos para Esquina Interior",
+        "desc": "Nuestras marquesinas para esquina interior están fabricadas con:\n• Láminas de policarbonato: Alta resistencia al impacto, protección UV y máxima claridad lumínica (https://polycanopy.com/products/#Polycarbonate)\n• Marcos de aluminio con recubrimiento en polvo: Estructura resistente a la corrosión, ligera y duradera (https://polycanopy.com/products/#Aluminum)",
+        "img": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+        "alt": "Marquesina de ventana con diseño de esquina interior, perfectamente ajustada a la estructura del edificio"
+      }
+    ],
+    "specsTitle": "Escenarios de Aplicación",
+    "specs": [
+      {
+        "title": "Huecos de balcones y pasillos en L",
+        "desc": "Protección climática continua y sin juntas para pasillos retranqueados en edificios residenciales."
+      },
+      {
+        "title": "Fachadas comerciales",
+        "desc": "Sombreado de esquina personalizado para mejorar la apariencia de escaparates de alta gama y evitar la acumulación de agua de lluvia."
+      },
+      {
+        "title": "Edificios escolares y patios de oficinas",
+        "desc": "Proporciona sombra exterior resistente y zonas de descanso seguras para infraestructuras públicas."
+      },
+      {
+        "title": "Entradas de estacionamiento en esquinas retranqueadas",
+        "desc": "Trayectos de recogida de agua diseñados para desviar los aguaceros lejos de las vías de entrada de vehículos."
+      }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg",
+      "roofStylesAlt": "Marquesina continua de policarbonato que forma un largo pasaje desde la puerta principal hasta la salida exterior",
+      "details": [
+        {
+          "title": "¿Necesita un Diseño de Marquesina Personalizado?",
+          "desc": "Ya sea que trabaje con esquinas arquitectónicas estrechas o diseñe desde cero, PolyCanopy puede construir su estructura ideal a medida. Ofrecemos dimensiones y ángulos personalizados, entrega rápida con precios directos de fábrica y envío de planos CAD para asistencia en el diseño.",
+          "img": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+      "imgAlt": "Marquesina de ventana con diseño de esquina interior, perfectamente ajustada a la estructura del edificio",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+      "diagramAlt": "Toma exterior cercana de una marquesina de esquina con sistema de drenaje integrado",
+      "models": [
+        "Dimensiones y Ángulos Personalizados",
+        "Entrega Rápida con Precios Directos de Fábrica",
+        "Asistencia Profesional en Ingeniería CAD"
+      ]
+    },
+    "challenges": {
+      "title": "Ventajas de Diseño de Nuestros Modelos para Esquina Interior",
+      "subtitle": "Protección continua contra la lluvia completamente diseñada a medida para espacios retranqueados:",
+      "points": [
+        "Láminas de policarbonato: Alta resistencia al impacto, protección UV y máxima claridad lumínica",
+        "Marcos de aluminio con recubrimiento en polvo: Resistente a la corrosión, ligero y duradero",
+        "Las vigas de carga se integran en la disposición retranqueada para preservar la armonía visual de la fachada del edificio"
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para profundizar en especificaciones técnicas o personalizar su diseño?",
+      "subtitle": "Descargue nuestro catálogo de ingeniería o hable directamente con nuestro equipo de ingeniería de ventas global a través de mensajería instantánea.",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20inside%20corner%20canopy%20products",
+      "whatsappText": "Obtenga Precios Personalizados Gratis vía WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "Gerente Li",
+        "role": "Desarrollador de Bienes Raíces Comerciales",
+        "text": "El diseño de esquina perfecto resolvió los problemas de drenaje y sombreado en la esquina interior del edificio. Ajuste de alta precisión."
+      },
+      {
+        "name": "Sr. Chen",
+        "role": "Propietario de Villa de Alta Gama",
+        "text": "Una estructura especialmente personalizada para el área de esquina. No solo es altamente funcional, sino que también se ve muy elegante."
+      }
+    ]
+  },
+  "polycarbonate-window-canopy": {
+    "title": "Marquesina de Policarbonato Personalizada para Ventana y Puerta",
+    "tags": [
+      "Marquesina para Puerta",
+      "Canalón Integrado Ensanchado"
+    ],
+    "subtitle": "Home » product » Marquesina de Policarbonato para Ventana y Puerta – Directo de Fábrica",
+    "desc": "¿Busca una solución de marquesina moderna y fiable para su escaparate o ventanas de casa? Nuestras marquesinas de policarbonato tipo L y tipo R están fabricadas a medida con materiales premium e incluyen un sistema completo de drenaje e instalación. Explore todos los detalles y descubra cómo nuestra fábrica ofrece calidad en la que puede confiar.",
+    "welcome": "Nuestra marquesina de policarbonato es la solución perfecta para hogares modernos, escaparates, cafeterías y entradas comerciales. Ya sea como marquesina para ventana o toldo para puerta, este producto ofrece una protección fiable contra el sol y la lluvia con un diseño elegante y moderno. Ofrecemos dos tipos de estructura: Tipo L – aerodinámica e ideal para la mayoría de las instalaciones, y Tipo R – diseño curvo para una estética mejorada.",
+    "image": "https://img.polycanopy.com/2025/07/Horizontal-Beam-Style-Canopy-Installed-Above-Balcony-Entrance.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Horizontal-Beam-Style-Canopy-Installed-Above-Balcony-Entrance.jpg",
+    "globalProjectsAlt": "Marquesina moderna de viga horizontal que proporciona protección contra la lluvia y el sol sobre una puerta de balcón.",
+    "features": [
+      {
+        "title": "Diseño Duradero y Moderno con Configuraciones Flexibles",
+        "desc": "Nuestra marquesina de policarbonato es la solución perfecta para hogares modernos, escaparates, cafeterías y entradas comerciales. Ya sea como marquesina para ventana o toldo para puerta, este producto ofrece una protección fiable contra el sol y la lluvia con un diseño elegante y moderno. Ofrecemos dos tipos de estructura: Tipo L – aerodinámica e ideal para la mayoría de las instalaciones, y Tipo R – diseño curvo para una estética mejorada. El dimensionamiento preciso del producto le ayuda a elegir la marquesina adecuada para su espacio. Nuestros diseños se adaptan a varios tamaños de ventanas y puertas.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-window-door-canopy-dimensions-detailed-size-char.jpg",
+        "alt": "Diagrama detallado de dimensiones de marquesina de policarbonato para puertas y ventanas, que muestra las especificaciones completas de tamaño."
+      },
+      {
+        "title": "Proceso de Instalación Completo – Fácil y Seguro",
+        "desc": "Siga nuestra guía de instalación visual de 12 pasos para un montaje sin problemas. Diseñado tanto para uso doméstico como profesional. Proporcionamos una guía de instalación paso a paso completa, asegurando que su marquesina se instale de forma segura y eficiente.",
+        "img": "https://img.polycanopy.com/2025/07/step-by-step-installation-guide-polycarbonate-canopy.jpg",
+        "alt": "Pasos de instalación para marquesina de policarbonato para puerta y ventana, mostrando el diagrama completo del proceso de 12 pasos."
+      },
+      {
+        "title": "Fabricación Profesional con Procesamiento Interno de Aluminio",
+        "desc": "Como fábrica directa, controlamos cada etapa de la producción. Nuestro equipo utiliza aleación de aluminio 6063, garantizando resistencia y longevidad. El marco está cuidadosamente fabricado para seguridad estructural y rendimiento a largo plazo. El corte de precisión y el procesamiento profesional del aluminio en nuestra fábrica garantizan durabilidad y calidad de primera clase.",
+        "img": "https://img.polycanopy.com/2025/07/aluminum-frame-fabrication-professional-canopy-manufacturing.jpg",
+        "alt": "Trabajadores de fábrica cortando y procesando materiales de aluminio para la producción de marquesinas de policarbonato."
+      },
+      {
+        "title": "Modelos de Perfiles y Selección (Serie Recta Tipo L)",
+        "desc": "Seleccione el armazón estructural principal adecuado según los requisitos de luz de ingeniería y las pautas de carga de viento regionales. Proporcionamos esquemas de fabricación de perfiles personalizados para satisfacer estándares de alta densidad de carga. La disposición tipo L proporciona una fijación limpia y directa a la pared, perfecta para necesidades de protección de ventanas planas minimalistas.",
+        "img": "https://img.polycanopy.com/2025/07/l-type-polycarbonate-canopy-cross-sectional-structure.jpg",
+        "alt": "Vista en sección transversal del marco y estructura de la marquesina de policarbonato en forma de L, mostrando la cavidad interior."
+      },
+      {
+        "title": "Modelos de Perfiles y Selección (Serie Arco Tipo R)",
+        "desc": "Seleccione el armazón estructural principal adecuado según los requisitos de luz de ingeniería y las pautas de carga de viento regionales. Proporcionamos esquemas de fabricación de perfiles personalizados para satisfacer estándares de alta densidad de carga. La disposición tipo R aporta una curvatura elegante con un flujo de agua suave, optimizando drásticamente la dispersión del agua sobre las líneas de la fachada del edificio.",
+        "img": "https://img.polycanopy.com/2025/07/r-type-polycarbonate-canopy-cross-sectional-structure.jpg",
+        "alt": "Vista en sección transversal del marco de la marquesina de policarbonato en forma de R y la estructura de soporte de drenaje parabólico."
+      },
+      {
+        "title": "Desglose Completo de Componentes – Todo lo que Necesita",
+        "desc": "Cada marquesina viene con un kit de accesorios completo y todas las piezas de montaje esenciales, claramente etiquetadas para una fácil identificación. Juego completo de soportes y componentes para una instalación rápida y segura. Sin piezas faltantes, sin sorpresas.",
+        "img": "https://img.polycanopy.com/2025/07/exploded-view-of-polycarbonate-canopy-components-full-parts-overview.jpg",
+        "alt": "Vista explosionada de las piezas de una marquesina de policarbonato para ventana y puerta, incluyendo todos los soportes y componentes."
+      },
+      {
+        "title": "Sistema de Drenaje Eficiente – Sin Acumulación de Agua",
+        "desc": "Nuestras marquesinas vienen con un sistema integrado de canalón y bajante para gestionar eficazmente el agua de lluvia y evitar desbordamientos. El sistema de drenaje independiente garantiza un flujo de agua suave en temporadas de lluvia. Sin obstrucciones, sin salpicaduras y sin acumulaciones gracias a nuestro diseño de canalón ensanchado.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-canopy-drainage-system-gutter-and-downpipe-design.jpg",
+        "alt": "Primer plano del sistema de drenaje de la marquesina de policarbonato, mostrando el canalón integrado y la bajante para la gestión del agua de lluvia."
+      },
+      {
+        "title": "Cómo Medir su Marquesina",
+        "desc": "Para obtener un ajuste perfecto, utilice nuestra guía de medición para determinar las dimensiones ideales de su marquesina antes de realizar su pedido. Una medición precisa garantiza una instalación perfecta y una cobertura adecuada.",
+        "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+        "alt": "Ilustración de cómo medir y calcular el área de una marquesina con soporte de postes, mostrando fórmulas basadas en longitudes montadas en pared."
+      },
+      {
+        "title": "Opciones de Color y Especificaciones de Materiales",
+        "desc": "Dimensionamiento del modelo: Tipo L / Tipo R\nDisposición de colores del marco: Café Púrpura / Negro Gris / Blanco Lechoso / Roble Dorado\nColores del panel: Gris Humo Claro / Gris Humo Medio / Gris Humo Oscuro / Azul Lago / Color Té / Transparente\n\nDetalles del material:\n• Aluminio: Aleación Arquitectónica 6063, espesor de 2.0 mm para el riel principal, 1.2–2.0 mm para las rejillas secundarias.\n• Panel de PC: Lámina sólida de policarbonato puro Bayer alemán, espesor opcional de 2.0 mm o 3.0 mm mejorado.\n• Infraestructura de vigas: Sistema de doble viga dinámica configurado dentro de un ancho de luz de 6 m, con una barra de refuerzo añadida por cada 3 m adicionales.\n• Drenaje pluvial: Disposición de tubería doble de alta resistencia que incluye un canalón maestro de luz completa más una tubería vertical estándar de 3 m.\n\nNota: Este es un producto hecho a medida. Las imágenes son solo de referencia. Contáctenos antes de realizar sus diseños de pedido.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+        "alt": "Todo tipo de muestras de color de lámina sólida de policarbonato listas para selección."
+      },
+      {
+        "title": "Directo de Fabricante – Calidad y Soporte de Confianza",
+        "desc": "Somos una fábrica de origen, que proporciona planificación completa de diseño, procesamiento de precisión y soporte continuo. Sin márgenes de intermediarios, sin perfiles de precios inflados. Ya sea que esté adquiriendo componentes para distribución comercial minorista, instalación de proyectos empresariales o mejoras rápidas para el hogar, somos su mejor socio de fabricación definitivo. ¡Contáctenos hoy para pedidos personalizados, cotizaciones de volumen dinámico al por mayor o consultoría técnica integral de proyectos!",
+        "img": "https://img.polycanopy.com/2025/07/Premium-Polycarbonate-Resin-and-UV-Protection-Additives-Bayer-or-Sabic.jpg",
+        "alt": "Gránulos de resina de policarbonato virgen puro utilizados para la extrusión de láminas en las instalaciones de PolyCanopy."
+      }
+    ],
+    "gallery": [
+      {
+        "img": "https://img.polycanopy.com/2025/07/Transparent-Polycarbonate-Window-Canopy-Installed-Above-Window.jpg",
+        "alt": "Render de ingeniería que muestra marquesinas de policarbonato transparente instaladas sobre puerta y ventana."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Transparent-Polycarbonate-Canopy-Design-for-Door-and-Window-Areas.jpg",
+        "alt": "Marquesina de policarbonato transparente montada sobre una ventana residencial, proporcionando transmisión de luz y protección contra la lluvia."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Tea-Brown-Polycarbonate-Door-Canopy-with-Drainage-System.jpg",
+        "alt": "Elegante marquesina de policarbonato color té instalada sobre una puerta principal, con sistema de drenaje integrado."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/rainproof-door-canopy-installed-during-renovation-real-rain-test.jpg",
+        "alt": "Marquesina de policarbonato para puerta instalada en una casa en renovación, bloqueando eficazmente el agua de lluvia durante una tormenta."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/L-Shaped-Brown-Polycarbonate-Door-Canopy-Installed-on-Villa-Entrance.jpg",
+        "alt": "Marquesina de policarbonato color té en forma de L con marco café oscuro instalada sobre la puerta principal de una villa."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/home-entrance-rain-canopy-long-blue-polycarbonate-installation.jpg",
+        "alt": "Marquesina larga de policarbonato azul instalada sobre la puerta principal, mostrando protección contra la intemperie para entradas de hogar."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Balcony-Canopy-with-Transparent-Roof-and-Clothes-Drying-Area.jpg",
+        "alt": "Marquesina de policarbonato transparente instalada sobre un balcón, proporcionando un espacio cubierto para tender la ropa."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/deep-blue-polycarbonate-door-canopy-bottom-view-after-installation.jpg",
+        "alt": "Vista inferior de marquesina de policarbonato azul oscuro instalada en la entrada, mostrando acabado limpio y estructura de soporte."
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Front-Door-Rain-Canopy-with-Stylish-Design-and-Excellent-Drainage.jpg",
+        "alt": "Marquesina moderna instalada en la entrada, combinando atractivo estético con un sistema de drenaje integrado."
+      }
+    ],
+    "challenges": {
+      "title": "Aplicaciones – Escenarios de Uso Integrales",
+      "subtitle": "Su apariencia elegante y construcción funcional la hacen perfecta para proteger ventanas y puertas en todos los climas:",
+      "img": "https://img.polycanopy.com/2025/07/Aluminum-Alloy-Frame-COLOR.jpg",
+      "alt": "Todo tipo de muestras de textura de perfil de marco de aleación de aluminio de alta resistencia con recubrimiento en polvo de color.",
+      "points": [
+        "Escaparates comerciales y entradas de tiendas",
+        "Puertas de cafeterías y restaurantes",
+        "Ventanas de hogares y apartamentos",
+        "Balcones y patios, entradas de oficinas o puertas traseras"
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para profundizar en especificaciones técnicas o personalizar su diseño?",
+      "subtitle": "Hable directamente con nuestro equipo de ingeniería de ventas global a través de mensajería instantánea para una consulta en vivo.",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hola%2C%20estoy%20interesado%20en%20sus%20productos%20de%20marquesina%20para%20ventana%20y%20puerta%20Polycanopy",
+      "whatsappText": "Obtenga una Cotización Directa de Fábrica Gratuita y Profundización CAD vía WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "David Green",
+        "role": "Supervisor de Operaciones",
+        "text": "Hemos estado usando marquesinas de policarbonato en múltiples ubicaciones, y la calidad de este proveedor es inigualable. Los marcos están hechos de aleación de aluminio 6063 sólida, lo que les da una excelente resistencia sin ser demasiado pesados. La guía de instalación visual hizo que el proceso de montaje fuera rápido y fácil. La durabilidad y el diseño moderno del producto no solo han mejorado la apariencia de nuestras propiedades, sino que también han proporcionado a nuestros clientes una mejor protección contra el clima. Gran servicio y producto altamente confiable."
+      },
+      {
+        "name": "James Turner",
+        "role": "Director de Gestión de Instalaciones",
+        "text": "Recientemente instalamos las marquesinas de policarbonato de este proveedor en varias de nuestras propiedades comerciales, y los resultados han sido sobresalientes. El diseño Tipo L fue perfecto para nuestros escaparates, proporcionando una estética elegante y una excelente protección contra los elementos. La calidad del marco de aluminio y los paneles de policarbonato es de primera categoría, garantizando durabilidad en condiciones climáticas adversas. El proceso de instalación fue sencillo gracias a la guía detallada proporcionada. Muy recomendable para empresas que buscan marquesinas fiables y elegantes."
+      },
+      {
+        "name": "Sarah Liu",
+        "role": "Gerente de Compras",
+        "text": "Compramos las marquesinas de policarbonato Tipo R para algunos de nuestros locales comerciales, y han sido un cambio radical. El diseño añade un toque moderno a nuestras entradas, y el sistema de drenaje ha funcionado perfectamente, incluso durante fuertes lluvias. Las opciones de color personalizadas nos permitieron combinar las marquesinas con nuestra marca. Estamos muy satisfechos con el producto y el servicio."
+      }
+    ]
+  },
+  "suspended-polycarbonate-canopy": {
+    "title": "Marquesina suspendida de policarbonato – Diseño elegante sobre la entrada",
+    "tags": [
+      "Sin necesidad de postes",
+      "Toldo suspendido"
+    ],
+    "subtitle": "Home » product » Marquesina suspendida de policarbonato de PolyCanopy",
+    "desc": "Descubra nuestro sistema de marquesina suspendida de policarbonato, ideal para entradas modernas y cocheras. Diseñado con paneles de policarbonato duradero y varillas de suspensión de aluminio, elimina por completo la necesidad de postes en el suelo.",
+    "welcome": "PolyCanopy ofrece toldos suspendidos de grado ingenieril fabricados en policarbonato y aluminio. Perfecta para aplicaciones residenciales y comerciales, esta marquesina suspendida combina belleza, resistencia y fácil personalización. Libera valioso espacio en el suelo mientras brinda protección climática inigualable y una silueta arquitectónica elegante.",
+    "image": "https://img.polycanopy.com/2025/07/Large-Public-Building-Entrance-with-Suspended-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Overhead-View-of-Black-Suspended-Canopy.jpg",
+    "globalProjectsAlt": "Vista aérea de marquesina suspendida negra de policarbonato utilizada tanto en puertas como en ventanas",
+    "features": [
+      {
+        "title": "¿Por qué elegir una marquesina suspendida?",
+        "desc": "Los toldos tradicionales requieren postes en el suelo que pueden obstruir los pasillos. Nuestra marquesina suspendida ofrece:\n• Un aspecto arquitectónico elegante y minimalista\n• Sin postes necesarios: crea un espacio de entrada limpio y sin obstáculos\n• La solución perfecta para entradas estrechas, balcones o accesos a edificios\n• Tamaños y formas estructurales totalmente personalizables",
+        "img": "https://img.polycanopy.com/2025/07/Brown-Framed-Suspended-Canopy-for-Residential-Building.jpg",
+        "alt": "Marquesina suspendida de policarbonato color té combinada con postes de soporte en un complejo residencial"
+      },
+      {
+        "title": "Diseñada para durabilidad y funcionalidad",
+        "desc": "Nuestros sistemas de suspensión están construidos con materiales de primera calidad para soportar cargas de viento y lluvia intensas:\n• Materiales: Láminas sólidas de policarbonato (resistentes a UV e impactos) y marcos de aleación de aluminio (antioxidante y ligeros).\n• Estructura: Varillas de suspensión de acero inoxidable de alta resistencia ancladas directamente a la pared de concreto o al techo.\n• Drenaje: Opciones de forma curva o inclinada diseñadas para un drenaje natural rápido del agua.",
+        "img": "https://img.polycanopy.com/2025/07/DIY-Polycarbonate-Canopy-Frame-in-Installation.jpg",
+        "alt": "Partes del marco estructural de una marquesina de policarbonato dispuestas durante la autoinstalación por parte del cliente"
+      }
+    ],
+    "specsTitle": "Ingeniería personalizada para su edificio",
+    "specs": [
+      {
+        "title": "Tamaño (Largo × Vuelo)",
+        "desc": "Cobertura de largo y profundidad de vuelo hecha a medida para adaptarse a cualquier espacio arquitectónico."
+      },
+      {
+        "title": "Color y acabado del marco",
+        "desc": "Acabados de pintura electrostática antioxidante disponibles en varios tonos, incluyendo negro, blanco y café."
+      },
+      {
+        "title": "Propiedades del policarbonato",
+        "desc": "Grosor y colores de panel personalizables (transparente, ahumado, té, azul) para una transmisión de luz óptima."
+      },
+      {
+        "title": "Sistema de montaje",
+        "desc": "Ángulos de suspensión profesionales y herrajes de anclaje de expansión de alta resistencia adaptados a su tipo de pared."
+      }
+    ],
+    "precision": {
+      "details": [
+        {
+          "title": "Construimos exactamente lo que necesita",
+          "desc": "¿Busca una marquesina que se adapte a su espacio arquitectónico único? En PolyCanopy, nos especializamos en diseñar marquesinas suspendidas personalizadas según el tamaño, estilo de fachada y necesidades funcionales de su edificio. Ya sea para una entrada moderna o una cochera comercial, nuestro equipo proporcionará planos CAD detallados, opciones de materiales y asesoramiento de instalación.",
+          "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg",
+      "imgAlt": "Marquesina de policarbonato transparente con diseño suspendido instalada sobre ventanas y puertas",
+      "diagramImg": "https://img.polycanopy.com/2025/07/DIY-Polycarbonate-Canopy-Frame-in-Installation.jpg",
+      "diagramAlt": "Partes del marco estructural y varillas de tensión de alta resistencia para instalación de marquesina suspendida",
+      "models": [
+        "Sistema de varillas de tensión de acero inoxidable de alta resistencia",
+        "Estética flotante minimalista sin postes para fachadas",
+        "Ángulo inclinado ajustable para drenaje rápido del agua"
+      ]
+    },
+    "challenges": {
+      "title": "Aplicaciones flexibles: desde entradas hasta cocheras",
+      "subtitle": "El diseño versátil de suspensión lo convierte en la solución definitiva para espacios donde el montaje en suelo es imposible:",
+      "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-Canopy.jpg",
+      "alt": "Marquesina suspendida de policarbonato para cochera que ofrece estacionamiento sin postes",
+      "points": [
+        "Entradas principales y secundarias de edificios comerciales e instalaciones públicas",
+        "Entradas residenciales estrechas, puertas traseras y accesos a sótanos",
+        "Áreas de estacionamiento privado con espacio limitado que requieren una cochera sin postes",
+        "Escaparates y áreas de exhibición que demandan una estética limpia y moderna"
+      ]
+    },
+    "gallery": [
+      {
+        "img": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg",
+        "alt": "Marquesina larga de pasillo que brinda protección continua desde la entrada hasta la salida"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Large-Public-Building-Entrance-with-Suspended-Canopy.jpg",
+        "alt": "Entrada de gran edificio público mejorada con una elegante marquesina suspendida de policarbonato"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-Canopy.jpg",
+        "alt": "Marquesina suspendida de policarbonato para cochera sin postes que permite acceso vehicular sin obstáculos"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Bottom-Up-View-of-Transparent-Suspended-Canopy.jpg",
+        "alt": "Vista desde abajo de una marquesina suspendida transparente que revela su ordenado marco de aluminio"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Suspension-Type-Door-Canopy-with-White-Frame.jpg",
+        "alt": "Marquesina de puerta tipo suspensión con marco de aluminio blanco limpio y moderno"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Coffee-Frame-Suspended-Carport-at-Villa-Area.jpg",
+        "alt": "Cochera suspendida con marco color café instalada perfectamente en un área residencial de villas"
+      },
+      {
+        "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg",
+        "alt": "Gran marquesina suspendida transparente diseñada para ventanas anchas y puertas dobles"
+      }
+    ],
+    "cta": {
+      "title": "¿Necesita una marquesina suspendida personalizada para su proyecto?",
+      "subtitle": "¡Envíenos sus planos arquitectónicos o fotos del sitio y le responderemos con una propuesta de ingeniería a medida!",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hola%2C%20estoy%20interesado%20en%20sus%20productos%20de%20marquesina%20suspendida%20de%20policarbonato",
+      "whatsappText": "Solicitar un presupuesto personalizado por WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "Jason Liu",
+        "role": "Arquitecto",
+        "text": "La marquesina suspendida le dio a la entrada de nuestro edificio un aspecto moderno y limpio, resolviendo el problema del agua. El diseño sin postes es una gran ventaja para la estética de la fachada."
+      },
+      {
+        "name": "María Gómez",
+        "role": "Gerente de hotel",
+        "text": "Nos impresionó la instalación limpia y la durabilidad de los materiales. Hace que nuestra entrada de vehículos se vea increíblemente espaciosa y premium."
+      }
+    ]
+  },
+  "corner-extended-polycarbonate-canopy": {
+    "title": "Marquesina de Policarbonato con Esquina Extendida – Elegante Protección contra la Lluvia",
+    "tags": [
+      "Extensión de Esquina",
+      "Fachada de Villa"
+    ],
+    "subtitle": "Home » product » Marquesina de Policarbonato con Esquina Extendida de PolyCanopy",
+    "desc": "Descubra nuestra marquesina de policarbonato con diseño único de esquina extendida. Ideal para villas y balcones en forma de L, esta marquesina cuenta con un borde saliente que ofrece una amplia cobertura y un acento arquitectónico moderno. Fabricada con láminas de policarbonato de alta resistencia y marcos de aluminio con recubrimiento en polvo.",
+    "welcome": "Nuestra marquesina de policarbonato en esquina presenta una extensión puntiaguda, que ofrece una amplia cobertura y un acento arquitectónico moderno. Está diseñada para maximizar la cobertura en extensiones angulares de edificios, balcones o fachadas de villas. Ya sea que necesite un voladizo preciso para el drenaje o un acento arquitectónico visualmente impactante, PolyCanopy proporciona medidas personalizadas, opciones de color del marco y soporte de diseño profesional.",
+    "image": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+    "globalProjectsAlt": "Detalles destacados de la esquina de una marquesina de policarbonato, mostrando uniones de esquina hechas a medida",
+    "features": [
+      {
+        "title": "Estructura Única de Esquina Extendida",
+        "desc": "El borde frontal presenta un punto de esquina saliente que sigue precisamente los contornos del edificio. Este diseño proporciona una cobertura perfecta para balcones en forma de L o entradas en esquina, resolviendo el problema de la falta de protección contra la lluvia en las intersecciones de los edificios.",
+        "img": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+        "alt": "Detalles destacados de la esquina de una marquesina de policarbonato, mostrando uniones de esquina hechas a medida"
+      },
+      {
+        "title": "Elegancia Arquitectónica y Eficiencia",
+        "desc": "Más allá de la utilidad, el diseño de esquina extendida sirve como un acento arquitectónico moderno. Diseñada tanto para la estética como para la eficiencia del drenaje, la marquesina se integra perfectamente en la fachada de su edificio, convirtiendo esquinas incómodas en espacios protegidos y elegantes.",
+        "img": "https://img.polycanopy.com/2025/07/External-Corner-Polycarbonate-Canopy-at-Villa.jpg",
+        "alt": "Marquesina de esquina en forma de L instalada en una villa, con una barra para secar ropa debajo"
+      },
+      {
+        "title": "Materiales Premium e Integridad Estructural",
+        "desc": "Cuenta con láminas de policarbonato de alta resistencia (resistente a los rayos UV, transparente o tintado, de 2 mm a 8 mm) y marcos de aluminio con recubrimiento en polvo (resistentes a la oxidación y capaces de soportar cargas pesadas). Las uniones de precisión integradas garantizan una conexión perfecta, evitando fugas y mejorando la rigidez estructural.",
+        "img": "https://img.polycanopy.com/2025/07/Blue-Polycarbonate-Canopy-with-Corner-Connections.jpg",
+        "alt": "Marquesina de policarbonato que muestra esquinas internas y externas, con paneles azules"
+      }
+    ],
+    "specsTitle": "Aplicaciones e Integración Arquitectónica",
+    "specs": [
+      {
+        "title": "Villas de Lujo",
+        "desc": "Perfecta para balcones grandes y envolventes y proyecciones arquitectónicas angulares."
+      },
+      {
+        "title": "Fachadas Multidireccionales",
+        "desc": "Se adapta a bordes de edificios complejos donde las marquesinas estándar no cubren."
+      },
+      {
+        "title": "Comercios y Escaparates",
+        "desc": "Mejora las entradas comerciales con un aspecto arquitectónico único y de alta gama."
+      },
+      {
+        "title": "Balcones Residenciales",
+        "desc": "Proporciona protección climática extendida para terrazas en forma de L o envolventes."
+      }
+    ],
+    "precision": {
+      "details": [
+        {
+          "title": "Marquesinas de Esquina a Medida para Arquitectura Compleja",
+          "desc": "Cada edificio tiene ángulos únicos, y nosotros estamos aquí para igualarlos. Nuestra marquesina de policarbonato con esquina extendida es totalmente personalizable para adaptarse a balcones en forma de L, fachadas multidireccionales o diseños de villa con proyección. Desde medidas personalizadas hasta colores de marco y soporte de diseño 3D, somos su socio en el detalle arquitectónico.",
+          "img": "https://img.polycanopy.com/2025/07/Corner-Canopy-Frame-Structure-in-Factory.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/External-Corner-Polycarbonate-Canopy-at-Villa.jpg",
+      "imgAlt": "Detalle estructural de la unión de esquina para marquesina personalizada",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Corner-Canopy-Frame-Structure-in-Factory.jpg",
+      "diagramAlt": "Vista de fábrica del marco metálico para una marquesina de esquina extendida",
+      "models": [
+        "Conector de Esquina de Precisión en Forma de L",
+        "Marco de Alta Resistencia Resistente al Viento",
+        "Diseño de Borde Parabólico Aerodinámico"
+      ]
+    },
+    "testimonials": [
+      {
+        "name": "Chen Yu",
+        "role": "Propietario de Villa",
+        "text": "Esta marquesina combinó perfectamente con el estilo de nuestra villa. El detalle de la esquina añadió un toque único al balcón."
+      },
+      {
+        "name": "Victor Zhao",
+        "role": "Promotor Inmobiliario",
+        "text": "Excelente artesanía y protección contra el clima. El diseño de esquina extendida es funcional y elegante."
+      }
+    ],
+    "cta": {
+      "title": "¿Necesita un Plan de Marquesina de Esquina Personalizado?",
+      "subtitle": "¡Envíenos sus planos arquitectónicos o fotos del sitio, y le responderemos con una propuesta a medida!",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hola%2C%20estoy%20interesado%20en%20sus%20productos%20de%20Marquesina%20de%20Policarbonato%20con%20Esquina%20Extendida",
+      "whatsappText": "Contáctenos para un Plan a Medida"
+    }
+  }
+}

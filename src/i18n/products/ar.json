@@ -1,0 +1,697 @@
+{
+  "retractable-telescopic-sunroom": {
+    "title": "غرفة زجاجية متحركة تلسكوبية ذكية من PolyCanopy",
+    "tags": ["محرك كهربائي", "حجم مخصص"],
+    "subtitle": "الرئيسية » المنتجات » غرفة زجاجية تلسكوبية قابلة للسحب",
+    "desc": "نظام الغرف الزجاجية المتحركة من PolyCanopy هو حل ذكي ومبتكر للمساحات الخارجية الفاخرة. يتميز بمحركات مخفية، وحركة انزلاق سلسة، وعزل فائق، وهو الحل المثالي للشرفات، والحدائق، والمسابح.",
+    "welcome": "مرحباً بكم في PolyCanopy - خبيركم المعتمد في الغرف الزجاجية. قمنا بفخر بإنجاز أكثر من 180,000 هيكل متحرك تلسكوبي حول العالم خلال 10 سنوات، مما يوفر للعائلات المزيد من الإضاءة والراحة. بصفتنا عضواً معتمداً في الجمعية الوطنية للغرف الزجاجية (NSA)، نصمم ونصنع غرفاً ذكية مخصصة لمساحتكم الخاصة.",
+    "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/polycarbonate-sunroom-projects-around-the-world-tokyo-bangkok-hanoi-dhaka-kuala-lumpur-and-more-1024x808.jpg",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Preliminary-Design-Sketch-of-Modular-Polycarbonate-Sunroom-1024x635.jpg",
+    "features": [
+      { "title": "تجميع معياري", "desc": "مكونات معيارية مسبقة الصنع لتركيب سريع في الموقع، مما يقلل من وقت البناء والتكلفة.", "img": "https://img.polycanopy.com/2025/07/Modular-Structure-Design-for-Fast-On-Site-Installation.jpg", "alt": "تركيب هيكل الغرفة الزجاجية المعياري" },
+      { "title": "نظام محرك مخفي", "desc": "محرك تيار مستمر 24 فولت بدون فرش مخفي بالكامل لضمان التشغيل الآمن والهادئ.", "img": "https://img.polycanopy.com/2025/07/Concealed-Motor-System-for-Silent-Operation-and-Sleek-Appearance.jpg", "alt": "نظام المحرك المخفي للتشغيل الصامت" },
+      { "title": "آلية انزلاق سلسة", "desc": "مسارات ألومنيوم دقيقة ونظام بكرات نايلون لفتح وإغلاق سهل وصامت.", "img": "https://img.polycanopy.com/2025/07/Smooth-Sliding-System-with-Precision-Track-Design.jpg", "alt": "تصميم المسار الدقيق للانزلاق السلس" },
+      { "title": "عزل الصوت والحرارة", "desc": "نظام إغلاق متعدد الطبقات مع حشوات مطاطية لمنع تسرب الحرارة والضوضاء.", "img": "https://img.polycanopy.com/2025/07/Thermal-and-Sound-Insulation-from-Dome-Roof-Design.jpg", "alt": "عزل حراري وصوتي فائق" },
+      { "title": "مجموعة توفير الطاقة", "desc": "عزل ثلاثي الطبقات يمنع انتقال الحرارة وتسرب الهواء البارد.", "img": "https://img.polycanopy.com/2025/07/Standard-Energy-Saving-Configuration-for-Better-Efficiency.jpg", "alt": "مجموعة توفير الطاقة القياسية" },
+      { "title": "مقاومة الرياح والثلوج", "desc": "أعمدة ألومنيوم مقواة عالية القوة. مقاومة الرياح تصل إلى 120 كم/ساعة (الدرجة 12).", "img": "https://img.polycanopy.com/2025/07/Enhanced-Wind-Resistance-with-Reinforced-Aluminum-Support-Columns.jpg", "alt": "أعمدة دعم مقواة لمقاومة الرياح" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/cross-section-of-6061-t6-aluminum-alloy-strong-corrosion-resistant-and-weldable-scaled.jpg",
+      "frameAlt": "مقطع عرضي لهيكل الألومنيوم عالي القوة",
+      "roofsImg": "https://img.polycanopy.com/2025/07/material-comparison-laminated-tempered-glass-vs-4mm-solid-polycarbonate-panel-scaled.jpg",
+      "roofsAlt": "مقارنة بين الزجاج المصفح وألواح البولي كربونات",
+      "colors": [
+        { "name": "رمادي داكن", "img": "https://img.polycanopy.com/2025/07/dark-gray-aluminum-frame-finish-sleek-and-modern-look.jpg", "alt": "إطار ألومنيوم رمادي داكن" },
+        { "name": "بني قهوة", "img": "https://img.polycanopy.com/2025/07/coffee-brown-aluminum-frame-finish-warm-and-natural-tone.jpg", "alt": "إطار ألومنيوم بني قهوة" },
+        { "name": "أبيض كلاسيكي", "img": "https://img.polycanopy.com/2025/07/white-aluminum-frame-finish-clean-and-timeless-design.jpg", "alt": "إطار ألومنيوم أبيض كلاسيكي" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Finished-Sunroom-Interior-with-Six-Layer-Waterproof-Protection.jpg",
+      "waterproofAlt": "نظام عزل مائي مكون من 6 طبقات",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/retractable-transparent-sunroom-roof-over-swimming-pool-interior-poolside-view.jpg",
+      "poolCustomAlt": "غطاء متحرك لحمام السباحة"
+    },
+    "specsTitle": "المواصفات الفنية",
+    "specs": [
+      { "title": "مادة الإطار الرئيسي", "desc": "سبائك الألومنيوم عالية القوة 6063-T5/6061-T6" },
+      { "title": "التشطيب السطحي", "desc": "طلاء بودرة إلكتروستاتيكي" },
+      { "title": "أشكال السقف", "desc": "مقوس، ميل واحد، متعدد الميول حسب الطلب" },
+      { "title": "مقاومة الرياح", "desc": "120 كم/ساعة (مقاومة الإعصار من الدرجة 12)" },
+      { "title": "قدرة تحمل الثلوج", "desc": "0.5 كيلو نيوتن/م²" },
+      { "title": "طريقة الفتح", "desc": "دفع يدوي / محرك كهربائي عن بعد 24 فولت" },
+      { "title": "اتجاه الفتح", "desc": "سحب من جانب واحد / سحب ثنائي الجانب" },
+      { "title": "دورة الإنتاج", "desc": "15–20 يوماً" },
+      { "title": "الضمان", "desc": "ضمان هيكلي لمدة 3 سنوات" },
+      { "title": "إضافات اختيارية", "desc": "إضاءة LED، نظام تظليل، نظام تهوية، نظام صوتي" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/various-sunroom-roof-styles-arched-polygonal-dome-and-single-slope-designs.jpg",
+      "roofStylesAlt": "أنماط سقف متعددة",
+      "details": [
+        { "title": "محرك تيار مستمر 24 فولت مخفي", "desc": "تشغيل آمن، مستقر، وصامت للغاية.", "img": "https://img.polycanopy.com/2025/07/Detail-View-of-Concealed-24W-DC-Brushless-Motor-for-Safe-Stable-and-Quiet-Operation-1.jpg", "alt": "محرك مخفي" },
+        { "title": "إضاءة LED", "desc": "جهد منخفض، كفاءة عالية في الطاقة وعمر طويل.", "img": "https://img.polycanopy.com/2025/07/close-up-of-led-light-strip-energy-efficient-high-cri-and-long-lasting-design.jpg", "alt": "إضاءة LED" },
+        { "title": "طلاء تنظيف اختياري", "desc": "طلاء خاص لسهولة التنظيف والصيانة.", "img": "https://img.polycanopy.com/2025/07/polycarbonate-panel-surface-with-optional-clean-coating-blue-brown-and-clear-colors.jpg", "alt": "طلاء تنظيف الألواح" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/aluminum-profile-options-type-85-type-130-type-188-for-sunroom-structures.jpg",
+      "imgAlt": "خيارات مقاطع الألومنيوم",
+      "diagramImg": "https://img.polycanopy.com/2025/07/cross-section-diagram-of-6063-t5-aluminum-profile-structural-details-for-sunroom.jpg",
+      "diagramAlt": "رسم تخطيطي للمقطع العرضي",
+      "models": ["نوع 85", "نوع 130", "نوع 188"]
+    },
+    "allProjectsImg": "https://img.polycanopy.com/2025/07/all-kind-of-projects-of-sunroom.jpg",
+    "allProjectsAlt": "مشاريع الغرف الزجاجية",
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/polycanopy-sunroom-catalogue_compressed.pdf",
+      "downloadText": "تحميل كتالوج PolyCanopy",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20sunroom%20products",
+      "whatsappText": "استشارة مجانية عبر الواتساب"
+    },
+    "testimonials": [
+      { "name": "ليام أوكونور", "role": "مهندس معماري", "text": "نحن نقدر ليس فقط الجماليات ولكن أيضاً التميز الهندسي لشركة PolyCanopy. نظام المحركات المخفية لديهم من الطراز الأول." },
+      { "name": "كينجي ساتو", "role": "مدير مشاريع", "text": "كانت الغرفة الزجاجية من PolyCanopy نقلة نوعية لمطعمنا في طوكيو. التركيب كان سريعاً ونظيفاً." },
+      { "name": "إميلي تشانغ", "role": "مديرة عمليات", "text": "احتجنا إلى هيكل قابل للتخصيص ومقاوم للعوامل الجوية لحمام السباحة في فندقنا، وكان هذا النظام هو الحل المثالي." }
+    ]
+  },
+ "stargazing-dome": {
+    "title": "قبة مراقبة النجوم المصنوعة من البولي كربونات",
+    "tags": ["تخييم فاخر", "تركيب سريع"],
+    "subtitle": "الصفحة الرئيسية » المنتج » قبة مراقبة النجوم المصنوعة من البولي كربونات",
+    "desc": "تعد قباب PolyCanopy البانورامية لمراقبة النجوم الحل الأمثل لخلق أماكن إقامة خارجية جذابة. صُممت هذه الغرف القبابية المعيارية للتخييم الفاخر، أو المطاعم، أو المنتجعات الجبلية، حيث تجمع بين التأثير البصري المذهل والمتانة الصناعية. مع مواد متطورة، وتصاميم قابلة للتخصيص، وأسعار مباشرة من المصنع، تم تصميم قبابنا لضمان نجاح أعمالك.",
+    "welcome": "مرحباً بكم في PolyCanopy - خبيركم المخصص في الغرف الشمسية والقباب. لقد أنجزنا بفخر أكثر من 180,000 هيكل معياري وقبة حول العالم في السنوات العشر الماضية، مما يوفر للعملاء أداءً تجارياً متميزاً وإقامات خارجية لا تُنسى. بصفتنا عضواً معترفاً به في الجمعية الوطنية للغرف الشمسية (NSA)، تقوم PolyCanopy بتصميم وتصنيع كبسولات بانورامية ذكية مخصصة لخصائص موقعك الفريد.",
+    "image": "https://img.polycanopy.com/2025/07/Dome-Used-for-Outdoor-Glamping.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Dome-Installation-at-Mountain-Resort.jpg",
+    "globalProjectsAlt": "قبة بولي كربونات شفافة تستخدم كمنطقة جلوس ذات مناظر طبيعية خلابة في منتجع جبلي",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Custom-Design-Sketch-for-Dome-Project.jpg",
+    "designSketchAlt": "مخطط تصميم هندسي متطور للتخطيط المخصص للقبة",
+    "features": [
+      { "title": "مواد مقاومة للحريق", "desc": "مواد أساسية مثبطة للهب تم اختيارها لتتوافق تماماً مع معايير السلامة التجارية الدولية.", "img": "https://img.polycanopy.com/2025/07/Fire-Resistant-Polycarbonate-Structure.jpg", "alt": "هيكل قبة من البولي كربونات والألومنيوم عالي الجودة مع مواد مقاومة للحريق" },
+      { "title": "تصميم مقاوم للمطر", "desc": "هياكل حواف مصممة بحواف مطوية وقنوات تصريف عمودية لمنع التسرب.", "img": "https://img.polycanopy.com/2025/07/Rainproof-Edges-and-Drainage-System.jpg", "alt": "تصميم مقاوم للماء مع حواف متداخلة وختم هيكلي رأسي عند كل مفصل" },
+      { "title": "ميزات الحماية من الحشرات", "desc": "أبواب ونوافذ شبكية مجانية للحماية من البعوض مرفقة مع كل قبة.", "img": "https://img.polycanopy.com/2025/07/Mosquito-Screen-Door-Windows-Included-Mosquito-Screen-Door-Windows-Included.jpg", "alt": "قبة مع أبواب ونوافذ شبكية مدمجة للحماية القصوى من الحشرات" },
+      { "title": "متانة قصوى للهيكل", "desc": "غلاف من البولي كربونات مع طلاء UV يقاوم الصدمات والاصفرار.", "img": "https://img.polycanopy.com/2025/07/urable-Wall-Panels-with-High-Flexibility.jpg", "alt": "جدران بولي كربونات عالية الصلابة لمقاومة الصدمات والتشقق" },
+      { "title": "حماية حرارية", "desc": "تتضمن ستائر تظليل سميكة، ومتوافقة مع أجهزة تكييف الهواء.", "img": "https://img.polycanopy.com/2025/07/Insulated-Interior-with-A-C-Installation-Option.jpg", "alt": "غرفة قبة بولي كربونات مصممة للراحة الحرارية على مدار السنة" },
+      { "title": "مقاومة الرياح", "desc": "تصميم تثبيت قوي يقاوم رياح قمم الجبال القوية وتقلبات الضغط.", "img": "https://img.polycanopy.com/2025/07/Windproof-Design-for-Harsh-Conditions.jpg", "alt": "هيكل قبة ثابت تم اختباره لمقاومة الرياح القوية في المناطق الجبلية" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/High-Quality-Aluminum-Frame-Side-View-for-Polycarbonate-Dome.jpg",
+      "frameAlt": "إطار من سبائك الألومنيوم متين مع لمسة نهائية ناعمة",
+      "roofsImg": "https://img.polycanopy.com/2025/07/Flexible-Polycarbonate-Panel-with-UV-Coating.jpg",
+      "roofsAlt": "ألواح بولي كربونات عالية الصلابة مع طلاء واقي من الأشعة فوق البنفسجية",
+      "colors": [
+        { "name": "غلاف شفاف بانورامي 360°", "img": "https://img.polycanopy.com/2025/07/Exterior-View-of-the-Modular-Polycarbonate-Stargazing-Room.jpg", "alt": "عرض خارجي للقبة الشفافة" },
+        { "name": "إضاءة ليلية نابضة بالحياة", "img": "https://img.polycanopy.com/2025/07/Top-Down-View-of-Colorful-Stargazing-Room-Used-for-Glamping.jpg", "alt": "عرض علوي للقبة مضاءة ليلاً" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Dome-Rendering-Based-on-Project-Design.jpg",
+      "waterproofAlt": "عرض ثلاثي الأبعاد لتصميم القبة",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/Final-Installed-Dome-Matching-Original-Sketch.jpg",
+      "poolCustomAlt": "قبة مثبتة تطابق التصميم الأصلي"
+    },
+    "specsTitle": "أحجام القباب المتاحة وقدرات التحمل",
+    "specs": [
+      { "title": "تصميم مخصص حسب الاستشارة", "desc": "تخطيط مخصص يعتمد على متطلبات الهندسة الخاصة بالموقع." },
+      { "title": "قبة بقطر 2.8 متر", "desc": "مساحة 6.1 متر مربع، مناسبة لـ 2-4 أشخاص.", "img": "https://img.polycanopy.com/2025/07/dome-sunroom-28m-diameter-for-2-4-people.jpg", "alt": "قبة بولي كربونات بقطر 2.8 متر" },
+      { "title": "قبة بقطر 3.25 متر", "desc": "مساحة 8.3 متر مربع، مناسبة لـ 6-8 أشخاص.", "img": "https://img.polycanopy.com/2025/07/medium-dome-house-3-25m-diameter-for-6-8-people-83.jpg", "alt": "قبة بولي كربونات بقطر 3.25 متر" },
+      { "title": "قبة بقطر 3.5 متر", "desc": "مساحة 9.6 متر مربع، مناسبة لـ 6-8 أشخاص.", "img": "https://img.polycanopy.com/2025/07/spacious-dome-35m-diameter-for-6-8-people.jpg", "alt": "قبة بولي كربونات بقطر 3.5 متر" },
+      { "title": "قبة بقطر 4.2 متر", "desc": "مساحة 13.84 متر مربع، مناسبة لـ 8-10 أشخاص.", "img": "https://img.polycanopy.com/2025/07/large-dome-sunroom-42m-width-for-8-10-people-1384.jpg", "alt": "قبة بولي كربونات بقطر 4.2 متر" },
+      { "title": "قبة بقطر 4.8 متر", "desc": "مساحة 18.1 متر مربع، مناسبة لـ 12-14 شخصاً.", "img": "https://img.polycanopy.com/2025/07/xl-dome-house-48m-width-for-12-14-people.jpg", "alt": "قبة بولي كربونات بقطر 4.8 متر" },
+      { "title": "قبة بقطر 5.35 متر", "desc": "مساحة 22.46 متر مربع، مناسبة لـ 16-18 شخصاً.", "img": "https://img.polycanopy.com/2025/07/extra-large-dome-535m-width-for-16-18-people.jpg", "alt": "قبة بولي كربونات بقطر 5.35 متر" },
+      { "title": "قبة بقطر 5.9 متر", "desc": "مساحة 27.5 متر مربع، مناسبة لـ 20-22 شخصاً.", "img": "https://img.polycanopy.com/2025/07/giant-dome-5-9m-width-for-20-22-people-275.jpg", "alt": "قبة بولي كربونات بقطر 5.9 متر" },
+      { "title": "قبة بيضاوية (6.13م x 4.13م)", "desc": "مساحة 21.65 متر مربع، مناسبة لـ 20-22 شخصاً.", "img": "https://img.polycanopy.com/2025/07/oval-dome-613m-x-413m-for-20-22-people.jpg", "alt": "قبة بيضاوية 6.13م x 4.13م" },
+      { "title": "قبة بيضاوية كبيرة (7.35م x 5.35م)", "desc": "مساحة 33.16 متر مربع، مناسبة لـ 24-26 شخصاً.", "img": "https://img.polycanopy.com/2025/07/oval-dome-house-735m-x-535m-for-24-26-people.jpg", "alt": "قبة بيضاوية 7.35م x 5.35م" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Stargazing-Glamping-Pod-Displayed-at-Trade-Show-Booth.jpg",
+      "roofStylesAlt": "قبة بانورامية معروضة في معرض تجاري",
+      "details": [
+        { "title": "حشية إغلاق علوية مقاومة للماء", "desc": "شريط إغلاق مقاوم للماء مصمم خصيصاً لضمان الحماية من تسرب مياه الأمطار.", "img": "https://img.polycanopy.com/2025/07/Top-Waterproof-Rubber-Strip.jpg", "alt": "تفاصيل شريط الإغلاق المقاوم للماء" },
+        { "title": "حلقة تعزيز علوية مدمجة", "desc": "حلقة تعزيز من الألومنيوم وإطار باب سلس لصلابة قصوى.", "img": "https://img.polycanopy.com/2025/07/Reinforced-Top-Connector-Ring-and-integrated-bent-aluminum-door.jpg", "alt": "حلقة تعزيز علوية وإطار باب" },
+        { "title": "فتحة أسلاك مدمجة للإضاءة", "desc": "قناة أسلاك مخفية داخل إطار السقف لتركيب إضاءة احترافي.", "img": "https://img.polycanopy.com/2025/07/built-in-cable-channel-no-exposed-wires.jpg", "alt": "تصميم قناة الأسلاك الداخلية" },
+        { "title": "ألواح منحنية سلسة", "desc": "قص منحني كبير الزاوية لجماليات سلسة وسهولة صيانة.", "img": "https://img.polycanopy.com/2025/07/Seamless-curved-shape.jpg", "alt": "تفاصيل الألواح المنحنية السلسة" },
+        { "title": "نظام تهوية علوي", "desc": "نظام دوران هواء مدمج يضمن تدفق هواء نقي.", "img": "https://img.polycanopy.com/2025/07/Integrated-Fresh-Air-System.jpg", "alt": "نظام تهوية علوي" },
+        { "title": "تقنية قطع CNC دقيقة", "desc": "قطع دقيق للحواف يضمن ملاءمة مثالية، مما يمنع دخول الحشرات والغبار.", "img": "https://img.polycanopy.com/2025/07/Precision-CNC-Cutting-with-Perfect-Seal.jpg", "alt": "توضيح قطع الحواف الدقيق CNC" },
+        { "title": "ألواح UV طويلة العمر", "desc": "طلاء UV عالي الجودة يقاوم الاصفرار والشيخوخة.", "img": "https://img.polycanopy.com/2025/07/UV-Coated-Panel-Comparison.jpg", "alt": "مقارنة مقاومة العوامل الجوية لطلاء UV" },
+        { "title": "عزل حراري انعكاسي", "desc": "تساعد في تقليل الوهج ومنع الإشعاع الحراري الخارجي الضار.", "img": "https://img.polycanopy.com/2025/07/Dome-Installation-at-Mountain-Resort.jpg", "alt": "أداء العزل الحراري تحت أشعة الشمس" },
+        { "title": "تركيب ميداني سريع", "desc": "تركيب قياسي خلال ساعتين إلى 3 ساعات مع إمكانية الربط.", "img": "https://img.polycanopy.com/2025/07/quick-assembly.jpg", "alt": "عملية التجميع المعياري في الموقع" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/High-Strength-Aluminum-Side-Frame.jpg",
+      "imgAlt": "إطار جانبي من الألومنيوم عالي القوة",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Structural-Diagram-of-Dome-House-with-LED-Aluminum-Frame-and-UV-Panel-1024x976.jpg",
+      "diagramAlt": "مخطط تفصيلي للهيكل",
+      "models": ["قطع دقيق CNC", "نظام تهوية دائري", "إضاءة LED مقاومة للماء بتصنيف IP65"]
+    },
+    "challenges": {
+      "title": "يحل تحديات الهواء الطلق الحقيقية - يضيف قيمة بصرية",
+      "subtitle": "قباب تخييم تجذب الانتباه دون الحاجة إلى إعلانات.",
+      "points": [
+        "قباب ذاتية الترويج ذات مناظر خلابة",
+        "مثالية لفناء المقاهي أو صالات الحدائق",
+        "تتوفر خيارات تخصيص العلامة التجارية"
+      ]
+    },
+    "allProjectsImg": "https://img.polycanopy.com/2025/07/Dome-House-Showcased-at-Exhibition.jpg",
+    "allProjectsAlt": "عرض مشاريع PolyCanopy في المعارض الصناعية",
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Night-View-of-the-Stargazing-Room-with-Ambient-Lighting.jpg", "alt": "قبة تخييم فاخرة مضاءة ليلاً" },
+      { "img": "https://img.polycanopy.com/2025/07/Inside-View-of-Glamping-Dome-with-Pink-Curtain.jpg", "alt": "عرض داخلي لقبة البولي كربونات" },
+      { "img": "https://img.polycanopy.com/2025/07/Outside-View-into-the-Stargazing-Room-with-Pink-Drapes.jpg", "alt": "عرض خارجي لقبة التخييم المعيارية" },
+      { "img": "https://img.polycanopy.com/2025/07/Interior-of-the-Stargazing-Room-with-Bed-for-Glamping-Stay.jpg", "alt": "تصميم داخلي مريح لقبة التخييم الفاخرة" },
+      { "img": "https://img.polycanopy.com/2025/07/Glamping-Dome-Bed-Area-Viewed-from-Alternate-Anglev.jpg", "alt": "منظور بديل لمنطقة النوم داخل القبة" },
+      { "img": "https://img.polycanopy.com/2025/07/Exterior-View-of-the-Modular-Polycarbonate-Stargazing-Room.jpg", "alt": "عرض خارجي كامل للقبة الشفافة" },
+      { "img": "https://img.polycanopy.com/2025/07/Ventilation-System-on-the-Dome-Roof-of-the-Polycarbonate-Glamping-Room.jpg", "alt": "نظام تهوية أبيض مثبت على سطح القبة" },
+      { "img": "https://img.polycanopy.com/2025/07/Modular-Connection-for-Indoor-Linking.jpg", "alt": "قباب متعددة متصلة ببعضها بممرات داخلية" }
+    ],
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "تحميل كتالوج قباب مراقبة النجوم من PolyCanopy (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20dome%20products",
+      "whatsappText": "احصل على استشارة مجانية مباشرة عبر واتساب"
+    },
+    "testimonials": [
+      { "name": "إميلي تشاو", "role": "مالكة فندق بوتيك", "text": "ساعدتني قباب PolyCanopy في خلق تجربة تخييم فاخرة تجذب المؤثرين كل عطلة نهاية أسبوع. كان فريق التركيب سريعاً، وصمدت القبة جيداً أمام الأمطار الغزيرة والشمس." },
+      { "name": "أوليفييه دوبوا", "role": "مشغل منتجع", "text": "يحب عملاؤنا الشفافية والإطلالة المفتوحة. تجعل إضاءة LED ونظام التهوية التجربة فاخرة حتى في المناطق النائية." },
+      { "name": "ماريا غونزاليس", "role": "مالكة مقهى", "text": "حولنا حديقتنا إلى بقعة ساخنة للتصوير بقبتين شفافتين. التصميم المنحني سهل الصيانة ويوفر إضاءة طبيعية طوال اليوم." },
+      { "name": "جاك لي", "role": "مدير مخيم خارجي", "text": "هذه القباب متينة للغاية. حافظ نظام التثبيت المقاوم للرياح على استقرارها حتى أثناء رياح الجبال القوية. أوصي بها بشدة لمخيمات السياحة البيئية." }
+    ]
+  },
+  "terrace-canopy": {
+    "title": "مظلة شرفة من البولي كربونات مع هيكل ألومنيوم بالكامل",
+    "tags": ["مظلة خارجية", "مقاومة للأشعة فوق البنفسجية"],
+    "subtitle": "الصفحة الرئيسية » المنتج » Terrace Canopy Design – Sizes, Materials & Frame Types",
+    "desc": "تم تصميم نظام مظلات الشرفات الحديثة من PolyCanopy باستخدام ألواح البولي كربونات الصلبة عالية المقاومة للصدمات وإطارات الألومنيوم المقاومة للصدأ. يوفر هذا النظام حماية قوية من الرياح والأمطار لمداخل المباني وال شرفات، بينما يندمج بشكل مثالي مع المظهر المعماري الحديث.",
+    "welcome": "تم تصميم مظلة الشرفة بشكل جيد لا تحمي مدخلك أو منطقتك الأمامية من الشمس والمطر فحسب، بل تعزز أيضاً المظهر العام للمبنى. سواء تم استخدامها للمنازل أو الفيلات أو المباني التجارية أو المحلات التجارية، فإن المظلة الحديثة المبنية بألواح البولي كربونات وإطارات الألومنيوم من Polycanopy متينة وعملية وجميلة من الناحية الجمالية. نحن نستخدم مواد من موردين عالميين موثوقين ونصنع بدقة لضمان الصلابة الهيكلية ودورة حياة طويلة في الهواء الطلق.",
+    "image": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+    "globalProjectsAlt": "فيلا حديثة متعددة الطوابق تم تركيب مظلات PolyCanopy المصنوعة من البولي كربونات وهيكل الألومنيوم على جميع الشرفات والمداخل.",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg",
+    "designSketchAlt": "مخطط توضيحي يبين الاختلافات الهيكلية بين مظلات الشرفات من النوع L المستقيم والنوع R المنحني، بما في ذلك الرؤية الجدارية والامتد.",
+    "features": [
+      { "title": "طبقة متطورة للحماية من الأشعة فوق البنفسجية", "desc": "ألواح بولي كربونات صلبة عالية الجودة مكسوة بطبقة واقية متينة من الأشعة فوق البنفسجية (UV) على جانب واحد، تمنع الإشعاعات الضارة وتحافظ على شفافية الضوء العالية لأكثر من 10 سنوات دون اصفرار.", "img": "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg", "alt": "لوح بولي كربونات صلب يضيء بمصباح الأشعة فوق البنفسجية، مما يوضح بشكل قاطع طبقة الحماية من الأشعة فوق البنفسجية" },
+      { "title": "إطار ألومنيوم إنشائي معتمد", "desc": "بروفيلات ألومنيوم بفتحات طرد من الفئة 6063 عالية الصلابة ومقاومة للصدأ، توفر استقراراً إنشائياً طويل الأمد وتحمل الأوزان بالإضافة إلى مظهر عصري أنيق.", "img": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg", "alt": "عرض تفصيلي للإطار المعدني المستخدم في المظلة، يوضح قطاعات ومكونات الألومنيوم عالية الجودة" },
+      { "title": "نافذة فحص اختيارية لسهولة الصيانة", "desc": "لمزيد من الكفاءة الوظيفية، يمكن تخصيص أنظمة المظلات لدينا بنوافذ فحص محجوزة على الغطاء العلوي، مما يسمح بالوصول السهل لتنظيف المكونات وفحص الصيانة الدوري دون الحاجة لتفكيك الإطار الرئيسي.", "img": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg", "alt": "مظلة بولي كربونات مع نافذة علوية محجوزة للوصول لأغراض الفحص والصيانة" },
+      { "title": "نظام تصريف مياه الأمطار عالي الكفاءة", "desc": "تم تصميم كل طراز هندسياً بالكامل مع قنوات تجميع مدمجة وأنابيب تصريف عمودية مزدوجة بطول 3 أمتار لضمان تصريف مياه الأمطار بكفاءة عالية ومنع تجمعها عند المداخل.", "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg", "alt": "توضيح لكيفية قياس وحساب مساحة المظلة المدعومة بأعمدة، يوضح صيغ النوع L والنوع R بناءً على أطوال التثبيت على الجدار والامتداد" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+      "frameAlt": "مخطط هندسي تفصيلي لقطاعات ألومنيوم وهيكل المظلة الإنشائي المقاوم للصدأ",
+      "roofsImg": "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg",
+      "roofsAlt": "لوح بولي كربونات صلب عالي المقاومة يوضح تشتيت الأشعة فوق البنفسجية تحت أدوات الاختبار العلمية",
+      "colors": [
+        { "name": "ألومنيوم بلون بني قهوة (Purple Coffee)" },
+        { "name": "ألومنيوم بلون رمادي أسود (Black Gray)" },
+        { "name": "ألومنيوم بلون أبيض حليبي (Milky White)" },
+        { "name": "ألومنيوم بنقشة خشب البلوط الذهبي (Golden Oak)" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg",
+      "waterproofAlt": "لقطة مقربة لنافذة الفحص العلوية الاختيارية للوصول السلس لأعمال الصيانة والتنظيف",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+      "poolCustomAlt": "تركيب متكامل لمظلات الشرفات والبالكونات المتعددة في فيلا سكنية فاخرة"
+    },
+    "specsTitle": "المواصفات الفنية والمعايير القياسية للمظلة",
+    "specs": [
+      { "title": "طراز الهيكل الإنشائي", "desc": "إطار مستقيم بتصميم بسيط من النوع L-Type أو مظلة منحنية مزخرفة من النوع R-Type." },
+      { "title": "مواصفات الألومنيوم", "desc": "ألومنيوم إنشائي ثقيل فئة 6063. سمك 2.0 مم للمواقع الأساسية الحاملة، و1.2-2.0 مم للقضبان الثانوية." },
+      { "title": "تغطية البولي كربونات", "desc": "ألواح بولي كربونات صلبة ممتازة من خامات Bayer الألمانية، بسمك اختياري 2.0 مم أو 3.0 مم لمقاومة الصدمات العالية." },
+      { "title": "ألوان طلاء الإطار", "desc": "بني قهوة، رمادي أسود أنيق، أبيض حليبي كلاسيكي، أو ملمس البلوط الذهبي الفاخر." },
+      { "title": "ألوان ألواح التغطية", "desc": "رمادي دخاني فاتح، رمادي دخاني متوسط، رمادي دخاني داكن، أزرق بحيرة، لون الشاي، أو شفاف بالكامل." },
+      { "title": "أنابيب تصريف المياه", "desc": "نظام قياسي يحتوي على أنبوبي تصريف (واحد مدمج مع عارضة التجميع، والآخر أنبوب تصريف رأسي منفصل بطول 3 أمتار)." },
+      { "title": "العوارض الهيكلية الرئيسية", "desc": "عاضتان ثقيلتان ضمن امتداد 6 أمتار. ويتم دمج عارضة دعم إضافية إنشائياً لكل قسم إضافي بطول 3 أمتار." },
+      { "title": "إرشادات الموقع والتركيب", "desc": "يتطلب جدران ذات هيكل مستقر وثابت. نوصي بزاوية ميل لا تقل عن 3-5 درجات لضمان التدفق الفعال والتنظيف الذاتي." }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg",
+      "roofStylesAlt": "مخطط توضيحي أفقي يبين الفروق الهيكلية والتصميمية لمظلات الشرفات والبالكونات المثبتة على الجدار",
+      "details": [
+        { "title": "مظلة النوع L المستقيم", "desc": "تصميم هندسي مستقيم وبسيط يشكل زاوية 'L' نظيفة. يتطابق تماماً مع أنماط الفيلات الحديثة والتثبيتات الجدارية المستوية.", "img": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg" },
+        { "title": "مظلة النوع R المنحني", "desc": "هيكل منحني جميل مع حواف هابطة ناعمة توفر مساحة تغطية ممتدة وحساً زخرفياً كلاسيكياً فخماً للمبنى.", "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg" },
+        { "title": "فتحة صيانة علوية اختيارية", "desc": "تتميز بوجود نافذة فحص محجوزة من المصنع على اللوح العلوي لسهولة تنظيف المكونات الهيكلية ومجاري المياه دون تفكيك كامل.", "img": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+      "imgAlt": "تحليل هندسي يوضح بروفيلات الألومنيوم المشغولة بدقة لأنظمة مظلات الشرفات.",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+      "diagramAlt": "مخطط حساب الأبعاد لمعايير تركيب المظلة المدعومة بأعمدة جدارية.",
+      "models": ["سلسلة مظلات التظليل المستقيمة النوع L", "سلسلة مظلات القوس المنحني الممتد النوع R", "بروفيلات الألومنيوم الإنشائية الثقيلة فئة 6063 سمك 2.0 مم"]
+    },
+    "challenges": {
+      "title": "حلول حقيقية لتحديات الهواء الطلق - تضيف قيمة معمارية وبصرية",
+      "subtitle": "مظلات شرفات ومداخل معيارية تم تطويرها لتحسين حواف المنزل وبيئات الفناء:",
+      "points": [
+        "حل تدهور الأبواب تماماً بسبب تجمع مياه الأمطار الغزيرة على الأبواب الخشبية أو النحاسية.",
+        "حجب 99% من الأشعة فوق البنفسجية الضارة، مما يحمي المركبات الفاخرة المكشوفة أو الأرائك الخارجية الجلدية الراقية.",
+        "يمكن تمديد التصميم المعياري بالكامل بسلاسة لتغطية أماكن الترفيه الخارجية الواسعة."
+      ]
+    },
+    "cta": {
+      "title": "هل أنت جاهز للتعمق أكثر في المواصفات الهندسية أو تخصيص التصميم الخاص بك؟",
+      "subtitle": "قم بتنزيل الكتالوج الهندسي الخاص بنا، أو تحدث مباشرة مع فريق هندسة المبيعات العالمي لدينا عبر الرسائل الفورية.",
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "تحميل الكتالوج الهندسي الفني الكامل لمظلات التظليل (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20terrace%20canopy%20products",
+      "whatsappText": "احصل على تسعير دقيق واستشارة هندسية فورية عبر واتساب"
+    },
+    "testimonials": [
+    { "name": "مارنكس", "role": "مدير مشروع في هولندا", "text": "غطاء التراس يتناسب تمامًا مع طرازنا المعماري. جودة بناء ممتازة." },
+    { "name": "أناريتا تروتا", "role": "شركة معمارية إيطالية", "text": "قوي وأنيق. حل رائع لمساحات المعيشة الخارجية." }
+  ]
+  },
+  "polycarbonate-carport": {
+    "title": "مظلة سيارات شديدة التحمل من البولي كربونات مع هيكل ألومنيوم",
+    "tags": ["مظلة سيارات ألومنيوم", "مقاومة للأعاصير"],
+    "subtitle": "الصفحة الرئيسية » المنتج » Polycarbonate Carport | Durable UV-Proof Car Shelter",
+    "desc": "احمِ مركبتك بمظلة تجمع بين القوة والأناقة العصرية. تم تصنيع مظلات السيارات لدينا من البولي كربونات باستخدام بروفيلات سبائك الألومنيوم عالية الجودة وألواح البولي كربونات البكر 100% من Bayer أو SABIC. سواء كنت تبحث عن حماية سيارة واحدة أو سيارتين، فإننا نقدم مجموعة واسعة من التصاميم الهيكلية: المفرد، ونوع Y، ونوع M، والمظلات المعلقة (Cantilever)، ونوع S، حيث تم تصميم كل منها ليوفر متانة استثنائية، وجمالاً معمارياً، ومقاومة فائقة للعوامل الجوية.",
+    "welcome": "احمِ مركبتك بمظلة تجمع بين القوة والأناقة العصرية. سواء كنت بحاجة لحماية سيارة واحدة أو سيارتين، فإننا نقدم مجموعة واسعة من الهياكل والموديلات: المفرد، ونوع Y، ونوع M، والمظلات المعلقة (Cantilever)，ونوع S المنحني الجمالي، حيث تم تصميم كل منها ليوفر أقصى درجات الصلابة الهيكلية ومقاومة العوامل الجوية طويلة الأمد. نحن نستخدم مواد من موردين عالميين موثوقين ونصنع بدقة لضمان المتانة والأداء المتميز.",
+    "image": "https://img.polycanopy.com/2025/07/Y-Shaped-Polycarbonate-Carport-with-Blue-Solid-Sheet.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Elegant-S-Shaped-Single-Sided-Polycarbonate-Carport-for-Two-Vehicles.jpg",
+    "globalProjectsAlt": "هيكل مظلة سيارات على شكل حرف S بتصميم منحني أنيق، يوضح بروفيلات الألومنيوم وسقف البولي كربونات الفاخر الخاص بـ Warner.",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/custom-carport-design-sketch-with-dimensions-length-width-and-height-1024x642.jpg",
+    "designSketchAlt": "مخطط تصميم أولي لمظلة السيارات يوضح الأبعاد المتاحة للتخصيص بما في ذلك الطول والعرض والارتفاع لضمان تنفيذ دقيق ومثالي.",
+    "features": [
+      { "title": "مظلة أحادية الجانب (Single)", "desc": "مثالية للمنازل ذات المساحات المحدودة. تدعم مركبة واحدة وسهلة التركيب كأجزاء مستقلة أو محاذية للجدران.", "img": "https://img.polycanopy.com/2025/07/various-carport-designs-for-different-vehicle-types-single-side-y-type-s-type-m-type-and-more-655x1024.jpg", "alt": "توضيح يبين هياكل مظلات السيارات المختلفة بما في ذلك أحادية الجانب ونوع Y ونوع S ونوع M المناسبة لمختلف فئات المركبات واحتياجات المواقف." },
+      { "title": "مظلة ثنائية نوع Y-Type", "desc": "تتميز بأعمدة مركزية مزدوجة تمتد منها الأذرع بشكل متناظر للحفاظ على اتساع الأرضية وحماية سيارتين.", "img": "https://img.polycanopy.com/2025/07/reinforced-polycarbonate-carport-structure-windproof-fire-resistant-walkable-roof.jpg", "alt": "لقطة مقربة للمكونات الهيكلية لمظلة السيارات المصنوعة من البولي كربونات والألومنيوم، توضح الأعمدة بسمك 4 مم والعوارض المنحنية بسمك 3 مم وسقف بولي كربونات بكر مستورد." },
+      { "title": "إطار ألومنيوم مقاوم للتآكل", "desc": "إطار ألومنيوم عالي القوة: طلاء مضاد للتآكل، طبقة داخلية قوية لتحمل الأوزان الفائقة، ونواة لتشتيت الحرارة السريعة. أعمدة دعم بسمك 4 مم تتحمل أعاصير الدرجة 12.", "img": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg", "alt": "مقطع عرضي لإطار الألومنيوم الإنشائي" },
+      { "title": "ألواح بولي كربونات طويلة العمر", "desc": "اختر من بين مجموعة متنوعة من ألوان البولي كربونات. مصنوعة من خامات بكر نقية 100% من Bayer/SABIC ومصنعة بخط البثق الإيطالي الشهير Omipa. طبقة الحماية من الأشعة فوق البنفسجية تحجب الأشعة الضارة.", "img": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg", "alt": "جميع أنواع ألواح البولي كربونات الصلبة الملونة" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+      "frameAlt": "مقطع عرضي لإطار الألومنيوم الإنشائي",
+      "roofsImg": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+      "roofsAlt": "جميع أنواع ألواح البولي كربونات الصلبة الملونة",
+      "colors": [
+        { "name": "مفرد (3م × 5.5م × 3م)" },
+        { "name": "مزدوج نوع Y (6م × 5.5م × 3م)" },
+        { "name": "مزدوج نوع M (6م × 5.5م × 3م)" },
+        { "name": "مزدوج متسلسل (3م × 11م × 3م)" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Aluminum-Alloy-Frame-COLOR.jpg",
+      "waterproofAlt": "جميع أنواع قطاعات إطارات الألومنيوم المطلية ببودرة المقاومة",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg",
+      "poolCustomAlt": "مخطط تفصيلي يوضح المكونات التفصيلية لهيكل مظلة سيارات من البولي كربونات بما في ذلك بروفيلات السقف والأعمدة وقنوات المياه المدمجة"
+    },
+    "specsTitle": "أحجام المظلات المتاحة وقدرات التحمل والمواصفات الهندسية",
+    "specs": [
+      { "title": "نوع Single أحادي الجانب", "desc": "العرض: 3م | الطول: 5.5م | الارتفاع: 3م | السعة: سيارة واحدة" },
+      { "title": "نوع Y-joint العمود المركزي", "desc": "العرض: 6م | الطول: 5.5م | الارتفاع: 3م | السعة: سيارتين" },
+      { "title": "نوع M-joint القوس المزدوج", "desc": "العرض: 6م | الطول: 5.5م | الارتفاع: 3م | السعة: سيارتين" },
+      { "title": "نوع 2-joint الامتداد الطولي", "desc": "العرض: 3م | الطول: 11م | الارتفاع: 3م | السعة: سيارتين" },
+      { "title": "وحدة تجارية ممر 1", "desc": "العرض: 3م | الطول: 5.5م | الارتفاع: 3م | السعة: سيارة واحدة" },
+      { "title": "مصفوفة تجارية ممر 2", "desc": "العرض: 6م | الطول: 11م | الارتفاع: 3م | السعة: 4 سيارات" },
+      { "title": "نوع S-type السقف المنحني", "desc": "العرض: 3م | الطول: 5.5م | الارتفاع: 3م | السعة: سيارة واحدة" },
+      { "title": "نوع Cantilever المعلق الثقيل", "desc": "العرض: 3م | الطول: 5.5م | الارتفاع: 4.5م | السعة: سيارة واحدة" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/various-carport-designs-for-different-vehicle-types-single-side-y-type-s-type-m-type-and-more-655x1024.jpg",
+      "roofStylesAlt": "رسم توضيحي يبين هياكل مظلات السيارات المختلفة بما في ذلك أحادية الجانب ونوع Y ونوع S ونوع M",
+      "details": [
+        { "title": "نوع M-Type القوس المزدوج", "desc": "تصميم بقوس مزدوج مع سقف موحد. عصري ومتعدد الاستخدامات، ومناسب للمشاريع السكنية والتجارية الكبرى.", "img": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg" },
+        { "title": "نوع Cantilever المعلق الهيكلي", "desc": "مصمم بنظام دعم معلق يترك الأرضية خالية تماماً من الحواجز لضمان سهولة المناورة - ومثالي للعمارة الحديثة الفاخرة.", "img": "https://img.polycanopy.com/2025/07/custom-carport-design-sketch-with-dimensions-length-width-and-height-1024x642.jpg" },
+        { "title": "نوع S-Type السقف المنحني الجمالي", "desc": "سقف منحني جميل يضفي حساً معمارياً راقياً. شائع جداً للمنازل الفاخرة التي تبحث عن الكفاءة والتصميم المتميز.", "img": "https://img.polycanopy.com/2025/07/Elegant-S-Shaped-Single-Sided-Polycarbonate-Carport-for-Two-Vehicles.jpg" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+      "frameAlt": "تحليل مقطع عرضي لبروفيل ألومنيوم إنشائي لمظلات السيارات.",
+      "diagramImg": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg",
+      "diagramAlt": "مخطط تفصيلي يوضح المكونات التفصيلية وتوزيع الأجزاء الهيكلية لمظلة السيارات من البولي كربونات.",
+      "models": ["أكثر من 10 سنوات من المتانة المقاومة للعوامل الجوية", "أبعاد وتصاميم قابلة للتخصيص بالكامل", "سبائك ألومنيوم وبولي كربونات صلبة من درجات إنشائية صناعية ثقيلة"]
+    },
+    "challenges": {
+      "title": "لماذا تختار مظلات السيارات لدينا؟",
+      "subtitle": "من المنازل المعاصرة الحديثة إلى المواقف التجارية الكبرى، تحظى مظلاتنا بثقة عالمية فائقة نظراً لمتانتها العالية وتصميمها المتميز.",
+      "img": "https://img.polycanopy.com/2025/07/S-Curve-Suspended-Polycarbonate-Carport-with-Black-Solid-Roof.jpg",
+      "alt": "مظلة سيارات منحنية أنيقة أحادية الجانب لحماية الأصول الثمينة",
+      "points": [
+        "أكثر من 10 سنوات من المتانة الهيكلية المثبتة ميدانياً ضد الأعاصير القوية والرمال وأحمال الثلوج الكثيفة.",
+        "أحجام قابلة للتخصيص بالكامل تشمل طول الجدار وعمق الامتداد والارتفاع الإجمالي للمظلة.",
+        "أعمدة ألومنيوم ثقيلة بسمك 4 مم مع ألواح بولي كربونات صلبة تم بثقها بخطوط Omipa الإيطالية المتطورة.",
+        "تركيب ميداني سهل للغاية وبسيط مع الحد الأدنى من الصيانة المطلوبة، وأسعار مباشرة من المصنع مع شحن دولي معتمد."
+      ]
+    },
+    "cta": {
+      "title": "هل أنت جاهز للتعمق أكثر في المواصفات الهندسية أو تخصيص التصميم الخاص بك؟",
+      "subtitle": "قم بتنزيل الكتالوج الهندسي الخاص بنا، أو تحدث مباشرة مع فريق هندسة المبيعات العالمي لدينا عبر الرسائل الفورية.",
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "تحميل كتالوج خيارات وتصاميم مظلات السيارات من PolyCanopy (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20carport%20products",
+      "whatsappText": "احصل على تسعير دقيق واستشارة هندسية فورية عبر واتساب"
+    },
+    "testimonials": [
+    { "name": "جيان فلورا", "role": "مطور عقاري في الكويت", "text": "مظلة السيارات المصنوعة من البولي كربونات قوية ضد درجات الحرارة العالية والعواصف الرملية." },
+    { "name": "عميل من المكسيك", "role": "مالك منزل خاص", "text": "كان التثبيت مباشرًا والمتانة مثيرة للإعجاب." }
+  ]
+  },
+ "inside-corner-canopy": {
+    "title": "مظلة بولي كربونيت للأركان الداخلية من PolyCanopy",
+    "tags": ["مظلة زاوية", "حماية سلسة للأركان"],
+    "subtitle": "الرئيسية » المنتجات » مظلة الأركان الداخلية للمباني الحديثة | مأوى المطر",
+    "desc": "استكشف حلول مظلات الأركان الداخلية المصنوعة من ألواح البولي كربونيت والهياكل الألومنيوم. مثالية لتوفير تغطية سلسة بدون فواصل. مظلات مصممة خصيصًا للمساحات الغائرة لتوفير حماية كاملة من المطر مع خطوط معمارية أنيقة.",
+    "welcome": "تم تصميم مظلات الأركان الداخلية خصيصًا للمساحات المعمارية الغائرة حيث يشكل جداران زاوية داخلية. توفر هذه الهياكل حماية مستمرة من المطر مع الحفاظ على التناغم البصري لواجهة المبنى. تقدم PolyCanopy مظلات أركان داخلية مخصصة تناسب تمامًا مخططات المباني الغائرة. تم تصميمها باستخدام ألواح بولي كربونيت متينة وإطارات ألومنيوم تجمع بين الوظيفة والأناقة، وهي مناسبة للمناطق السكنية والتجارية على حد سواء.",
+    "image": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Bottom-View-of-Internal-Corner-Canopy-with-Light-Blue-Panel.jpg",
+    "globalProjectsAlt": "عرض مقرب من الأسفل لمظلة ركن داخلي تستخدم لوح بولي كربونيت باللون الأزرق الفاتح",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+    "designSketchAlt": "لقطة خارجية مقربة لمظلة زاوية تتميز بنظام أنابيب تصريف مدمج",
+    "features": [
+      {
+        "title": "نماذج وتكوينات قطاعات الألومنيوم",
+        "desc": "اختر الهيكل الإنشائي الرئيسي المناسب بناءً على متطلبات بحر المشروع ومواصفات مقاومة الرياح الإقليمية. نحن نقدم خطط تصنيع قطاعات مخصصة لتلبية معايير الأحمال عالية الكثافة.",
+        "img": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+        "alt": "لقطة خارجية مقربة لمظلة زاوية تتميز بنظام أنابيب تصريف مدمج"
+      },
+      {
+        "title": "مزايا التصميم لنماذج الأركان الداخلية لدينا",
+        "desc": "مظلات المطر للأركان الداخلية لدينا مصنوعة من:\n• ألواح البولي كربونيت: مقاومة عالية للصدمات، حماية من الأشعة فوق البنفسجية، ووضوح فائق للإضاءة (https://polycanopy.com/products/#Polycarbonate)\n• إطارات ألومنيوم مطلية بالبودرة: مقاومة للصدأ، خفيفة الوزن، وإطار معماري متين يدوم طويلاً (https://polycanopy.com/products/#Aluminum)",
+        "img": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+        "alt": "مظلة نافذة بتصميم ركن داخلي، مثبتة تمامًا على هيكل المبنى"
+      }
+    ],
+    "specsTitle": "سيناريوهات التطبيق المتنوعة",
+    "specs": [
+      { "title": "فجوات الشرفات والممرات على شكل حرف L", "desc": "حماية مستمرة وسلسة من العوامل الجوية لممرات المشاة الغائرة في المباني السكنية." },
+      { "title": "واجهات المحلات التجارية", "desc": "تظليل زاوية مخصص لترقية المظهر الفاخر لواجهة المحل ومنع تجمع مياه الأمطار." },
+      { "title": "مباني المدارس وباحات المكاتب", "desc": "يوفر تظليلاً خارجيًا شديد التحمل ومناطق مأوى آمنة للاستراحة في البنية التحتية العامة." },
+      { "title": "مداخل مواقف السيارات في الأركان الغائرة", "desc": "مسارات هندسية لتجميع المياه وتوجيه الأمطار الغزيرة بعيدًا عن مسارات دخول المركبات." }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg",
+      "roofStylesAlt": "مظلة بولي كربونيت مستمرة تشكل ممرًا طويلاً من المدخل الرئيسي إلى المخرج الخارجي",
+      "details": [
+        {
+          "title": "هل تحتاج إلى تصميم مظلة مخصص؟",
+          "desc": "سواء كنت تعمل في أركان معمارية ضيقة أو تصمم من الصفر، يمكن لـ PolyCanopy بناء هيكلك المثالي حسب الطلب. نحن ندعم الأبعاد والزوايا المخصصة، والتسليم السريع بأسعار المصنع المباشرة، وتقديم رسومات CAD للمساعدة في التصميم.",
+          "img": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+      "imgAlt": "مظلة نافذة بتصميم ركن داخلي، مثبتة تمامًا على هيكل المبنى",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+      "diagramAlt": "لقطة خارجية مقربة لمظلة زاوية تتميز بنظام أنابيب تصريف مدمج",
+      "models": ["مواصفات الأبعاد والزوايا المخصصة", "أسعار مباشرة من المصنع مع تسليم سريع", "مساعدة هندسية احترافية برسومات CAD"]
+    },
+    "challenges": {
+      "title": "مزايا التصميم لنماذج الأركان الداخلية لدينا",
+      "subtitle": "حماية سلسة من المطر مصممة هندسيًا بالكامل خصيصًا للمساحات الغائرة:",
+      "points": [
+        "ألواح البولي كربونيت: مقاومة عالية للصدمات، حماية من الأشعة فوق البنفسجية، ووضوح ممتاز للضوء",
+        "إطارات ألومنيوم مطلية بالبودرة: مقاومة للصدأ، خفيفة الوزن، ومتانة معمارية تدوم طويلاً",
+        "إخفاء عوارض التحمل داخل المخطط الغائر للحفاظ على التناخم البصري النظيف لواجهة المبنى"
+      ]
+    },
+    "cta": {
+      "title": "هل أنت جاهز للتعمق في المواصفات الهندسية أو تخصيص مخططك؟",
+      "subtitle": "قم بتنزيل الكتالوج الهندسي الخاص بنا، أو تحدث مباشرة مع فريق مبيعاتنا الهندسي العالمي عبر الرسائل الفورية.",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20inside%20corner%20canopy%20products",
+      "whatsappText": "احصل على تسعير مخصص مجاني عبر الواتساب"
+    },
+    "testimonials": [
+    { "name": "المدير لي", "role": "مطور عقارات تجارية", "text": "تصميم الزاوية المثالي حل مشاكل الصرف والتظليل في الزاوية الداخلية للمبنى. ملاءمة دقيقة للغاية." },
+    { "name": "السيد تشن", "role": "مالك فيلا فاخرة", "text": "هيكل مخصص خصيصًا لمنطقة الزاوية. ليس فقط عالي الأداء ولكنه يبدو أيضًا أنيقًا للغاية." }
+  ]
+  },
+  "polycarbonate-window-canopy": {
+    "title": "مظلة نوافذ وأبواب مخصصة من البولي كربونات",
+    "tags": ["مظلة فوق الباب", "مجرى مياه مدمج وعريض"],
+    "subtitle": "الرئيسية » المنتجات » مظلات الأبواب والنوافذ مباشرة من المصنع",
+    "desc": "هل تبحث عن حل مظلة موثوق وعصري لواجهة متجرك أو نوافذ منزلك？ تم تصميم مظلات البولي كربونات من النوع L والنوع R خصيصًا باستخدام مواد ممتازة وتأتي مع نظام تصريف وتركيب متكامل. استكشف التفاصيل الكاملة وشاهد كيف يقدم مصنعنا جودة يمكنك الوثوق بها.",
+    "welcome": "تعتبر مظلة البولي كربونات حلاً مثاليًا للمنازل الحديثة، واجهات المحلات، المقاهي، والمداخل التجارية. سواء تم استخدامها كمظلة نافذة أو مظلة باب، فإن هذا... نحن نقدم نوعين من الهياكل: نوع L - الانسيابي والمثالي لمعظم التركيبات، ونوع R - التصميم المنحني لمزيد من الجمال المعماري العالي.",
+    "image": "https://img.polycanopy.com/2025/07/Horizontal-Beam-Style-Canopy-Installed-Above-Balcony-Entrance.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Horizontal-Beam-Style-Canopy-Installed-Above-Balcony-Entrance.jpg",
+    "globalProjectsAlt": "مظلة ألومنيوم أفقية مستقيمة توفر حماية كاملة من المطر والشمس فوق باب شرفة في مبنى سكني فاخر.",
+    "features": [
+      {
+        "title": "تصميم متين وعصري مع تكوينات مرنة وهندسية",
+        "desc": "تعتبر مظلتنا الحل الأمثل للمنازل الحديثة، الواجهات، المقاهي والمداخل التجارية. يوفر حماية موثوقة ضد الشمس والمطر مع ملمس خارجي أنيق. تتوفر المظلات بتصميمين: نوع L المستقيم والانسيابي والمثالي لمعظم مواقع التثبيت، ونوع R المقوس والمصمم هندسياً لتعزيز القيمة البصرية المعمارية للمبنى وتوفير تغطية مثالية لمختلف القياسات.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-window-door-canopy-dimensions-detailed-size-char.jpg",
+        "alt": "مخطط أبعاد هندسي تفصيلي لمظلة البولي كربونات المخصصة للأبواب والنوافذ يوضح كامل مواصفات الحجم والمعايير المعمارية."
+      },
+      {
+        "title": "عملية تركيب كاملة - سهلة وآمنة للغاية",
+        "desc": "نحن نقدم دليل تركيب شامل وموضح خطوة بخطوة بالرسم التوضيحي، مما يضمن إعداد وتثبيت مظلتك بأمان وكفاءة عالية في الموقع. تم محاذاة وتطوير الهيكل ليكون مناسباً ومثالياً لكل من المقاولين المحترفين والتثبيت الذاتي السريع والآمن (DIY).",
+        "img": "https://img.polycanopy.com/2025/07/step-by-step-installation-guide-polycarbonate-canopy.jpg",
+        "alt": "مخطط خطوات تركيب مظلة البولي كربونات للأبواب والنوافذ يوضح بالتفصيل آلية التجميع المكونة من 12 خطوة مرئية."
+      },
+      {
+        "title": "تصنيع احترافي مع معالجة داخلية للألومنيوم في مصنعنا",
+        "desc": "بصفتنا مصنعًا إنتاجيًا مباشرًا، فإننا نتحكم في كل مرحلة من مراحل التصنيع. يضمن فريقنا الهندسي استخدام بروفيلات سبائك الألومنيوم 6063 الفاخرة لضمان أقصى درجات قوة الشد الهيكلية والصلابة. يتميز الإطار بمعالجة دقيقة لضمان أعلى معايير السلامة الهيكلية والأداء الميداني طويل الأمد في الهواء الطلق مع جودة لا مثيل لها.",
+        "img": "https://img.polycanopy.com/2025/07/aluminum-frame-fabrication-professional-canopy-manufacturing.jpg",
+        "alt": "عمال المصنع يقومون بقص وتجهيز قطاعات ألومنيوم إنشائية فئة 6063 بدقة بالغة لإنتاج مظلات."
+      },
+      {
+        "title": "نماذج قطاعات الألومنيوم والخيارات (سلسلة مستقيمة نوع L)",
+        "desc": "اختر الهيكل الإنشائي الرئيسي المناسب بناءً على متطلبات بحر المشروع ومواصفات مقاومة الرياح الإقليمية. يوفر الطراز نوع L اتصالاً جدارياً مستوياً ونظيفاً وبسيطاً ومثالي لتهيئة واجهات النوافذ المفرودة الخالية من التعقيد المعماري.",
+        "img": "https://img.polycanopy.com/2025/07/l-type-polycarbonate-canopy-cross-sectional-structure.jpg",
+        "alt": "مقطع عرضي يوضح البنية الداخلية وقنوات التدعيم لمظلة النوافذ المسطحة والبسيطة من النوع L."
+      },
+      {
+        "title": "نماذج قطاعات الألومنيوم والخيارات (سلسلة مقوسة نوع R)",
+        "desc": "اختر الهيكل الإنشائي الرئيسي المناسب بناءً على متطلبات بحر المشروع ومواصفات مقاومة الرياح الإقليمية. يوفر الطراز نوع R انحناءً قوسياً أنيقاً يشتت الرياح والأمطار بكفاءة انسيابية بارابولية طبيعية فائقة وتدفق سلس للمياه.",
+        "img": "https://img.polycanopy.com/2025/07/r-type-polycarbonate-canopy-cross-sectional-structure.jpg",
+        "alt": "مقطع عرضي هندسي يوضح بنية إطار مظلة الباب المقوسة من النوع R وتوزيع ضغوط التحمل الهيكلية."
+      },
+      {
+        "title": "تحليل وتفكيك المكونات بالكامل —— كل ما تحتاجه",
+        "desc": "تأتي كل مظلة مع طقم ملحقات هندسي متكامل وكامل يشمل كافة قطع التثبيت والإرساء الهيكلية اللازمة، مع وضع ملصقات واضحة وتسمية دقيقة على كل حزمة لتسهيل عملية الجرد والتعرف السريع في الموقع. يضمن لك الطقم المعياري تثبيتاً آمناً وسريعاً بدون أي نقص في القطع.",
+        "img": "https://img.polycanopy.com/2025/07/exploded-view-of-polycarbonate-canopy-components-full-parts-overview.jpg",
+        "alt": "رسم تفكيكي يوضح الأجزاء والمكونات الكاملة لمظلة النوافذ والأبواب، بما في ذلك支架 التثبيت، الألواح، البروفيلات وقطع التثبيت اللولبية."
+      },
+      {
+        "title": "نظام تصريف مياه مدمج وعالي الكفاءة",
+        "desc": "تم تصميم وهندسة المظلات لدينا بنظام مدمج يحتوي على مجرى رئيسي عريض لتجميع مياه السيول وأنابيب عمودية لتصريف المياه بسلاسة تامة، مما يلغي تمامًا مشاكل التدفق العلوي أو تنقيط المياه فوق الرؤوس عند المداخل. يضمن نظام التصريف المستقل تدفق المياه بانسحاب تام في مواسم الأمطار الغزيرة دون أي انسداد بفضل تصميم المجرى الموسع والمتين.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-canopy-drainage-system-gutter-and-downpipe-design.jpg",
+        "alt": "لقطة مقربة لنظام تصريف المظلة يوضح مجرى المياه المدمج والأنبوب العمودي المصمم لإدارة مياه الأمطار بكفاءة عالية."
+      },
+      {
+        "title": "كيفية قياس الأبعاد بدقة للمظلة الخاصة بك",
+        "desc": "لضمان الحصول على مقاس وهيكل متطابق تماماً مع واجهة مبناك، يرجى الاستعانة بدليل القياس المعياري الموضح لدينا لتحديد الطول المحوري الجداري والعمق البارز المثالي قبل تقديم طلب التصنيع المخصص. القياس الدقيق يضمن تلاحماً هيكلياً خالياً من أي فجوات ويوفر أقصى مساحة حماية ممكنة.",
+        "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+        "alt": "مخطط حساب الأبعاد لمعايير تركيب المظلة المدعومة بأعمدة جدارية أو المعلقة للأبواب والنوافذ."
+      },
+      {
+        "title": "خيارات الألوان والمواصفات الفنية التفصيلية للمواد",
+        "desc": "طراز وهيكل المنتج: نوع L المستقيم / نوع R المقوس\nخيارات ألوان الإطار: بني قهوة (Purple Coffee) / رمادي أسود / أبيض حليبي / نقشة خشب البلوط الذهبي الفاخر\nألوان ألواح التغطية: رمادي دخاني فاتح / رمادي دخاني متوسط / رمادي دخاني داكن / أزرق بحيرة / لون الشاي / شفاف بالكامل\n\nتفاصيل مواصفات المواد الأساسية:\n• هيكل الألومنيوم: سبائك 6063 إنشائية معتمدة، سمك 2.0 مم للقطاعات الرئيسية الحاملة للضغط، و1.2-2.0 مم للمسارات القضيبية الثانوية.\n• ألواح البولي كربونات الصلبة: خامات بكر نقية 100% من مصانع Bayer الألمانية، متوفرة بخيارات سمك 2.0 مم أو سمك ثقيل معزز 3.0 مم.\n• نظام العوارض الطولية: عارضتان رئيسيتان معتمدتان ضمن امتداد بحر بطول 6 أمتار، ويتم إدراج عارضة تدعيم ثقيلة إضافية لكل 3 أمتار متزايدة لضمان سلامة التثبيت الجداري.\n• نظام تجميع وتصريف السيول: خط تصريف مزدوج قياسي يشمل مجرى تصريف رئيسي ممتد ومدمج بالكامل مع أنبوب عمودي رأسي قياسي بطول 3 أمتار.\n\nيرجى الملاحظة: هذا المنتج عبارة عن نظام هندسي مخصص بالكامل وتعتبر الصور المعروضة في الصفحة مرجعاً للتصميم فقط، يرجى التواصل مع فريقنا الهندسي قبل تأكيد طلب المواصفات.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+        "alt": "مجموعة ألواح بولي كربونات صلبة ملونة توضح مرونة الخامات البكر العالية المصنعة."
+      },
+      {
+        "title": "من المصنع مباشرة - جودة موثوقة ودعم هندسي متكامل وشامل",
+        "desc": "نحن مصنع تصنيع إنتاجي مباشر، نوفر التصميم الكامل، الإنتاج الدقيق، والدعم الفني اللوجستي. لا وسطاء ولا تكاليف إضافية غير مبررة. اتصل بنا للحصول على طلبات مخصصة، أسعار الجملة، أو استشارة فنية هندسية متعمقة! سواء كنت شركة توزيع تجارية، مقاول بناء لمشاريع البنية التحتية، أو مالك فيلا تبحث عن التثبيت الذاتي الراقي، نحن شريكك الاستراتيجي المعتمد.",
+        "img": "https://img.polycanopy.com/2025/07/Premium-Polycarbonate-Resin-and-UV-Protection-Additives-Bayer-or-Sabic.jpg",
+        "alt": "حبيبات خام نقية وعالية الشفافية من خامات البولي كربونات الجاهزة لمعالجة البثق وإنتاج الألواح الفاخرة."
+      }
+    ],
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Transparent-Polycarbonate-Window-Canopy-Installed-Above-Window.jpg", "alt": "رسم هندسي يوضح مظلة شفافة بالكامل من البولي كربونات مثبتة فوق النوافذ والأبواب المعمارية." },
+      { "img": "https://img.polycanopy.com/2025/07/Transparent-Polycarbonate-Canopy-Design-for-Door-and-Window-Areas.jpg", "alt": "مظلة بولي كربونات شفافة ومثبتة فوق نافذة سكنية، تضمن نقل الإضاءة الفائق مع عزل الأمطار التام." },
+      { "img": "https://img.polycanopy.com/2025/07/Tea-Brown-Polycarbonate-Door-Canopy-with-Drainage-System.jpg", "alt": "مظلة باب باللون البني الشاي الفاخر مثبتة فوق مدخل رئيسي مع نظام قنوات تصريف مدمج وكفء." },
+      { "img": "https://img.polycanopy.com/2025/07/rainproof-door-canopy-installed-during-renovation-real-rain-test.jpg", "alt": "مظلة باب من البولي كربونات تم تركيبها أثناء تجديد المنزل، تمنع تدفق مياه الأمطار بكفاءة في اختبار المطر الحقيقي." },
+      { "img": "https://img.polycanopy.com/2025/07/L-Shaped-Brown-Polycarbonate-Door-Canopy-Installed-on-Villa-Entrance.jpg", "alt": "مظلة مدخل فيلا على شكل حرف L مصنوعة من البولي كربونات البني وإطار ألومنيوم بلون بني قهوة داكن." },
+      { "img": "https://img.polycanopy.com/2025/07/home-entrance-rain-canopy-long-blue-polycarbonate-installation.jpg", "alt": "مظلة مطر طويلة ممتدة باللون الأزرق البحيرة مثبتة فوق مدخل منزلي، توفر حماية ممتدة وموثوقة." },
+      { "img": "https://img.polycanopy.com/2025/07/Balcony-Canopy-with-Transparent-Roof-and-Clothes-Drying-Area.jpg", "alt": "مظلة شفافة من البولي كربونات مثبتة فوق بالكون، توفر مساحة جافة ومحمية لتعليق وتجفيف الملابس." },
+      { "img": "https://img.polycanopy.com/2025/07/deep-blue-polycarbonate-door-canopy-bottom-view-after-installation.jpg", "alt": "عرض من الأسفل لمظلة مطر زرقاء داكنة مثبتة عند المدخل، يوضح اللمسات النهائية النظيفة وهيكل الدعم المعزز." },
+      { "img": "https://img.polycanopy.com/2025/07/Front-Door-Rain-Canopy-with-Stylish-Design-and-Excellent-Drainage.jpg", "alt": "مظلة مطر حديثة مثبتة عند المدخل، تجمع بين الجاذبية الجمالية ونظام تصريف متكامل مدمج لحماية الأبواب." }
+    ],
+    "challenges": {
+      "title": "Applications – نطاق التطبيقات والسيناريوهات الواسعة",
+      "subtitle": "بفضل مظهرها الأنيق وبنيتها الإنشائية الوظيفية العالية، تعتبر مظلاتنا الخيار الأمثل للمواقع التالية:",
+      "img": "https://img.polycanopy.com/2025/07/Aluminum-Alloy-Frame-COLOR.jpg",
+      "alt": "بروفيلات ألومنيوم إنشائية ثقيلة مطلية ببودرة المقاومة الفائقة للعوامل الجوية والأكسدة المعمارية.",
+      "points": [
+        "واجهات المحلات التجارية الكبرى، منافذ بيع التجزئة ومداخل شوارع التسوق",
+        "شرفات المقاهي الخارجية الفاخرة، المطاعم السياحية ومداخل الأبواب الزجاجية للمتاجر",
+        "النوافذ الخارجية للمنازل السكنية الراقية، الفيلات المستقلة وشرفات المجمعات الشققية",
+        "البالكونات الواسعة، باحات الفناء، المداخل والمخارج الخلفية للمكاتب وممرات الربط الإنشائية العامة"
+      ]
+    },
+    "cta": {
+      "title": "من المصنع مباشرة - جودة موثوقة ودعم هندسي متكامل وشامل",
+      "subtitle": "تحدث مباشرة مع فريقنا الهندسي للمبيعات العالمية عبر الرسائل الفورية للحصول على استشارة هندسية فورية ومباشرة.",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20window%20door%20canopy%20products",
+      "whatsappText": "احصل على تسعير المصنع المباشر وعرض مخططات CAD مجانًا عبر واتساب"
+    },
+    "testimonials": [
+      {
+        "name": "David Green",
+        "role": "Operations Supervisor",
+        "text": "We’ve been using polycarbonate canopies in multiple locations, and the quality from this supplier is unmatched. The frames are made of solid 6063 aluminum alloy, which gives them excellent strength without being too heavy. The visual installation guide made the setup process quick and easy. The product's durability and modern design have not only enhanced the appearance of our properties but also provided our customers with better protection from the weather. Great service and highly dependable product."
+      },
+      {
+        "name": "James Turner",
+        "role": "Director of Facilities Management",
+        "text": "We recently installed the polycarbonate canopies from this supplier for several of our commercial properties, and the results have been outstanding. The L-Type design was perfect for our storefronts, providing sleek aesthetics and excellent protection against the elements. The quality of the aluminum frame and polycarbonate panels is top-notch, ensuring durability in harsh weather conditions. The installation process was straightforward thanks to the detailed guide provided. Highly recommend for businesses looking for reliable and stylish canopies."
+      },
+      {
+        "name": "Sarah Liu",
+        "role": "Procurement Manager",
+        "text": "We purchased the R-Type polycarbonate canopies for a few of our retail locations, and they have been a game-changer. The design adds a modern touch to our entrances, and the drainage system has performed flawlessly, even during heavy rain. The custom color options allowed us to match the canopies with our branding. We are very satisfied with the product and service."
+      }
+    ]
+  },
+  "suspended-polycarbonate-canopy": {
+    "title": "مظلة بولي كربونات معلقة – تصميم علوي أنيق بدون أعمدة",
+    "tags": ["بدون أعمدة أرضية", "مظلة معلقة بقضبان"],
+    "subtitle": "الرئيسية » المنتجات » مظلة معلقة من البولي كربونات",
+    "desc": "اكتشف نظام مظلات البولي كربونات المعلقة الخاص بنا، والمثالي للمداخل الحديثة ومواقف السيارات. مصمم بألواح بولي كربونات متينة وقضبان تعليق ألومنيوم، مما يلغي تمامًا الحاجة إلى أعمدة أرضية.",
+    "welcome": "تقدم PolyCanopy مظلات معلقة من الدرجة الهندسية مصنوعة من البولي كربونات وسبائك الألومنيوم. تجمع هذه المظلة العلوية، المثالية للتطبيقات السكنية والتجارية، بين الجمال المعماري والقوة وسهولة التخصيص. إنها تحرر مساحة الأرضية القيمة بينما توفر حماية فائقة من العوامل الجوية ومظهراً خارجياً أنيقاً للغاية.",
+    "image": "https://img.polycanopy.com/2025/07/Large-Public-Building-Entrance-with-Suspended-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Overhead-View-of-Black-Suspended-Canopy.jpg",
+    "globalProjectsAlt": "لقطة علوية لمظلة بولي كربونات معلقة باللون الأسود مستخدمة في واجهات الأبواب والنوافذ لدمج الحماية والأناقة",
+    "features": [
+      {
+        "title": "لماذا تختار المظلة المعلقة؟",
+        "desc": "تتطلب المظلات التقليدية أعمدة أرضية قد تعيق الممرات. توفر مظلتنا المعلقة ما يلي:\n• مظهر معماري أنيق وبسيط للغاية\n• لا حاجة للأعمدة – مما يخلق مساحة دخول نظيفة وخالية من العوائق\n• الحل الأمثل للممرات الضيقة، الشرفات، أو مداخل المباني ذات المساحة المحدودة\n• أحجام وأشكال هيكلية قابلة للتخصيص بالكامل حسب الطلب",
+        "img": "https://img.polycanopy.com/2025/07/Brown-Framed-Suspended-Canopy-for-Residential-Building.jpg",
+        "alt": "مظلة بولي كربونات معلقة بلون الشاي مدمجة بشكل مثالي في مجمع سكني حديث"
+      },
+      {
+        "title": "مصممة هندسياً من أجل المتانة والأداء الوظيفي",
+        "desc": "تم بناء أنظمة التعليق لدينا باستخدام مواد رائدة للتعامل مع أحمال الرياح والأمطار الغزيرة:\n• المواد: ألواح بولي كربونات صلبة (مقاومة للأشعة فوق البنفسجية والصدمات) وإطارات من سبائك الألومنيوم (خفيفة الوزن ومقاومة للصدأ).\n• الهيكل: قضبان تعليق متينة من الفولاذ المقاوم للصدأ (ستانلس ستيل) مثبتة مباشرة في الجدار الخرساني أو السقف.\n• التصريف: خيارات الشكل المنحني أو المائل مصممة لتصريف المياه بشكل طبيعي وسريع.",
+        "img": "https://img.polycanopy.com/2025/07/DIY-Polycarbonate-Canopy-Frame-in-Installation.jpg",
+        "alt": "أجزاء الإطار الهيكلي وقضبان الشد لمظلة البولي كربونات أثناء التجميع والتركيب الميداني"
+      }
+    ],
+    "specsTitle": "هندسة مخصصة تناسب مبناك تماماً",
+    "specs": [
+      { "title": "الحجم (الطول × البروز)", "desc": "طول تغطية وعمق بروز مخصصان ليناسبان أي فجوة أو مساحة معمارية بدقة." },
+      { "title": "لون الإطار والطلاء", "desc": "تشطيبات مطلية بمسحوق مقاوم للصدأ متوفرة بظلال مختلفة بما في ذلك الأسود والأبيض والقهوة." },
+      { "title": "خصائص البولي كربونات", "desc": "سمك وألوان ألواح قابلة للتخصيص (شفاف، دخاني، شاي، أزرق) لنقل الإضاءة بشكل مثالي." },
+      { "title": "نظام التثبيت والتعليق", "desc": "زوايا تعليق احترافية وأدوات تثبيت قوية تتناسب مع نوع الجدار ومستوى تحمل الأحمال." }
+    ],
+    "precision": {
+      "details": [
+        {
+          "title": "نحن نصنع بالضبط ما تحتاجه مبانيك",
+          "desc": "هل تبحث عن مظلة تناسب مساحتك المعمارية الفريدة؟ في PolyCanopy، نحن متخصصون في هندسة المظلات المعلقة المخصصة المصممة وفقًا لحجم مبناك ونمط الواجهة والاحتياجات الوظيفية. سواء كان ذلك لمدخل منزل حديث أو موقف سيارات تجاري، سيقدم فريقنا رسومات CAD تفصيلية، خيارات مواد دقيقة، وإرشادات احترافية للتركيب.",
+          "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg",
+      "imgAlt": "مظلة بولي كربونات شفافة بتصميم معلق يتم تثبيتها فوق النوافذ والأبواب الكبيرة",
+      "diagramImg": "https://img.polycanopy.com/2025/07/DIY-Polycarbonate-Canopy-Frame-in-Installation.jpg",
+      "diagramAlt": "أجزاء الإطار الهيكلي وقضبان الشد الثقيلة المخصصة لتركيب المظلة المعلقة بدون أعمدة",
+      "models": [
+        "نظام قضبان شد ثقيلة من الفولاذ المقاوم للصدأ",
+        "جماليات واجهة عائمة وبسيطة خالية من الأعمدة",
+        "زاوية انحدار قابلة للتعديل لتصريف المياه السريع"
+      ]
+    },
+    "challenges": {
+      "title": "تطبيقات مرنة – من المداخل إلى مواقف السيارات",
+      "subtitle": "تصميم التعليق متعدد الاستخدامات يجعله الحل النهائي والأمثل للمساحات التي يستحيل فيها التثبيت الأرضي:",
+      "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-Canopy.jpg",
+      "alt": "مظلة سيارات معلقة من البولي كربونات توفر موقفاً واسعاً للسيارات خالي من الأعمدة المزعجة",
+      "points": [
+        "المداخل الرئيسية والثانوية للمباني التجارية والمرافق العامة",
+        "الممرات السكنية الضيقة، الأبواب الخلفية، ومقاطِع الوصول إلى الطوابق السفلية",
+        "مناطق وقوف السيارات الخاصة والمقيدة المساحة والتي تتطلب مظلة سيارات بدون أعمدة",
+        "نوافذ واجهات المحلات ومناطق العرض التي تتطلب جمالية معمارية حديثة ونظيفة"
+      ]
+    },
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg", "alt": "مظلة ممر طويلة توفر حماية مستمرة وممتدة من المدخل الرئيسي إلى المخرج" },
+      { "img": "https://img.polycanopy.com/2025/07/Large-Public-Building-Entrance-with-Suspended-Canopy.jpg", "alt": "مدخل مبنى عام كبير تمت ترقيته بمظلة بولي كربونات معلقة أنيقة وعصرية" },
+      { "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-Canopy.jpg", "alt": "مظلة موقف سيارات معلقة خالية من الأعمدة لتسهيل وصول المركبات وركنها بسلاسة" },
+      { "img": "https://img.polycanopy.com/2025/07/Bottom-Up-View-of-Transparent-Suspended-Canopy.jpg", "alt": "منظر من الأسفل إلى الأعلى لمظلة معلقة شفافة يكشف عن إطار الألومنيوم الهندسي الأنيق" },
+      { "img": "https://img.polycanopy.com/2025/07/Suspension-Type-Door-Canopy-with-White-Frame.jpg", "alt": "مظلة باب من نوع التعليق تتميز بإطار ألومنيوم أبيض حديث ونظيف المظهر" },
+      { "img": "https://img.polycanopy.com/2025/07/Coffee-Frame-Suspended-Carport-at-Villa-Area.jpg", "alt": "موقف سيارات معلق بإطار بلون القهوة تم تركيبه بشكل لا تشوبه شائبة في منطقة فيلات سكنية" },
+      { "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg", "alt": "مظلة معلقة شفافة كبيرة الحجم مصممة هندسياً لتغطية النوافذ العريضة والأبواب المزدوجة" }
+    ],
+    "cta": {
+      "title": "هل تحتاج إلى مظلة معلقة مخصصة لمشروعك؟",
+      "subtitle": "أرسل لنا رسوماتك المعمارية أو صور الموقع، وسنرد عليك باقتراح هندسي وتوريد مخصص بالكامل!",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Suspended%20Polycarbonate%20Canopy%20products",
+      "whatsappText": "اطلب عرض سعر مخصص والمخططات مجاناً عبر واتساب"
+    },
+    "testimonials": [
+      {
+        "name": "جيسون لي",
+        "role": "مهندس معماري",
+        "text": "منحت المظلة المعلقة لمدخل مبنانا مظهرًا حديثًا ونظيفًا بينما حلت مشكلة تراكم المياه ببراعة. التصميم الخالي من الأعمدة يعتبر إضافة هائلة لجماليات واجهة المبنى."
+      },
+      {
+        "name": "ماريا جوميز",
+        "role": "مديرة فندق فاخر",
+        "text": "لقد أُعجبنا بعملية التركيب النظيفة السريعة ومتانة المواد الهندسية الفائقة. إنها تجعل ممر وصول السيارات الخاص بالفندق يبدو واسعًا وممتازًا للغاية."
+      }
+    ]
+  },
+  "corner-extended-polycarbonate-canopy": {
+    "title": "مظلة بولي كربونات ممتدة الزاوية",
+    "tags": ["توسعة الزاوية", "واجهة الفيلا"],
+    "subtitle": "الرئيسية » المنتجات » مظلة بولي كربونات ممتدة الزاوية – حماية أنيقة",
+    "desc": "استكشف مظلة البولي كربونات ذات التصميم الفريد الممتد في الزاوية. مثالية للفيلات والشرفات على شكل حرف L، وتجمع بين الحماية من العوامل الجوية واللمسات المعمارية الحديثة. مبنية بألواح بولي كربونات عالية القوة وإطارات ألومنيوم مطلية بالمسحوق.",
+    "welcome": "تتميز مظلة البولي كربونات بنمط الزاوية بامتداد مدبب، مما يوفر تغطية واسعة ولمسة معمارية عصرية. تم تصميمها لزيادة التغطية في الزوايا المعمارية البارزة، الشرفات، أو واجهات الفيلات. سواء كنت بحاجة إلى بروز دقيق لتصريف المياه أو لمسة معمارية جذابة، توفر PolyCanopy قياسات مخصصة وخيارات ألوان للإطار ودعم تصميم احترافي.",
+    "image": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+    "globalProjectsAlt": "تفاصيل زاوية مظلة البولي كربونات، تظهر وصلات الزوايا المصنوعة حسب الطلب",
+    "features": [
+      {
+        "title": "هيكل ممتد فريد للزاوية",
+        "desc": "تتميز الحافة الأمامية بنقطة زاوية بارزة تتبع محيطات المبنى بدقة. يوفر هذا التصميم تغطية سلسة للشرفات على شكل حرف L أو مداخل الزوايا، مما يحل مشكلة نقص التغطية عند تقاطعات المباني.",
+        "img": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+        "alt": "تفاصيل زاوية مظلة البولي كربونات، تظهر وصلات الزوايا المصنوعة حسب الطلب"
+      },
+      {
+        "title": "توازن بين الأناقة المعمارية والكفاءة",
+        "desc": "أكثر من مجرد أداة وظيفية، يعمل تصميم الزاوية الممتد كملحق معماري عصري. تم تصميم المظلة لتجمع بين الجمال وكفاءة التصريف، وتندمج بسلاسة في واجهة مبناك، محولة الزوايا الصعبة إلى مساحات أنيقة ومحمية.",
+        "img": "https://img.polycanopy.com/2025/07/External-Corner-Polycarbonate-Canopy-at-Villa.jpg",
+        "alt": "مظلة زاوية على شكل حرف L مثبتة في فيلا، مع قضيب تجفيف ملابس في الأسفل"
+      },
+      {
+        "title": "مواد ممتازة وسلامة هيكلية",
+        "desc": "تتميز بألواح بولي كربونات عالية القوة (مقاومة للأشعة فوق البنفسجية، شفافة أو ملونة، 2 مم – 8 مم) وإطارات ألومنيوم مطلية بالمسحوق (مقاومة للصدأ وقادرة على تحمل الأحمال الثقيلة). تضمن الوصلات الدقيقة اتصالاً سلسًا، وتمنع التسريبات مع تعزيز الصلابة الهيكلية.",
+        "img": "https://img.polycanopy.com/2025/07/Blue-Polycarbonate-Canopy-with-Corner-Connections.jpg",
+        "alt": "مظلة بولي كربونات تعرض الزوايا الداخلية والخارجية، مع ألواح زرقاء"
+      }
+    ],
+    "specsTitle": "التطبيقات والتكامل المعماري",
+    "specs": [
+      { "title": "الفيلات الفاخرة", "desc": "مثالية للشرفات الواسعة والزوايا المعمارية البارزة." },
+      { "title": "واجهات المباني متعددة الاتجاهات", "desc": "تتكيف مع حواف المباني المعقدة التي تفشل فيها المظلات القياسية." },
+      { "title": "المتاجر وواجهات العرض", "desc": "تعزز مداخل المباني التجارية بمظهر معماري فريد وعالي الجودة." },
+      { "title": "شرفات المباني السكنية", "desc": "توفر حماية ممتدة من العوامل الجوية للمساحات الشرفية على شكل حرف L." }
+    ],
+    "precision": {
+      "details": [
+        {
+          "title": "هندسة مخصصة لهندسة معمارية معقدة",
+          "desc": "كل مبنى له زوايا فريدة - ونحن هنا لمطابقتها. مظلة البولي كربونات الممتدة بالزاوية لدينا قابلة للتخصيص بالكامل لتناسب الشرفات على شكل حرف L، الواجهات متعددة الاتجاهات، أو تصاميم الفيلات البارزة. من القياسات المخصصة إلى ألوان الإطار ودعم التصميم ثلاثي الأبعاد، نحن شريكك في التفاصيل المعمارية.",
+          "img": "https://img.polycanopy.com/2025/07/Corner-Canopy-Frame-Structure-in-Factory.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/External-Corner-Polycarbonate-Canopy-at-Villa.jpg",
+      "imgAlt": "تفاصيل هيكلية لوصلة الزاوية للمظلة المخصصة",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Corner-Canopy-Frame-Structure-in-Factory.jpg",
+      "diagramAlt": "عرض من المصنع للإطار المعدني للمظلة الممتدة بالزاوية",
+      "models": [
+        "موصل زاوية دقيق على شكل حرف L",
+        "إطار عالي القوة ومقاوم للرياح",
+        "تصميم حافة انسيابي"
+      ]
+    },
+    "testimonials": [
+      { "name": "تشن يو", "role": "مالك فيلا", "text": "هذه المظلة طابقت أسلوب فيلتنا بشكل مثالي. تفاصيل الزاوية أضافت لمسة فريدة للشرفة." },
+      { "name": "فيكتور تشاو", "role": "مطور عقاري", "text": "حرفة ممتازة وحماية من العوامل الجوية. تصميم الزاوية الممتد عملي وأنيق في نفس الوقت." }
+    ],
+    "cta": {
+      "title": "هل تحتاج إلى خطة مظلة زاوية مخصصة؟",
+      "subtitle": "أرسل لنا رسوماتك المعمارية أو صور الموقع، وسنرد عليك باقتراح مخصص!",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Corner-Extended%20Polycarbonate%20Canopy%20products",
+      "whatsappText": "تواصل معنا للحصول على خطة مخصصة"
+    }
+  }
+}

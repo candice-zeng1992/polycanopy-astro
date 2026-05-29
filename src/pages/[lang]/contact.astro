@@ -1,0 +1,234 @@
+---
+import Header from '../../components/Header';
+import ContactHero from '../../components/contact/ContactHero';
+import ContactSection from '../../components/contact/ContactSection';
+import Footer from '../../components/Footer';
+
+import enDict from '../../i18n/en.json';
+import zhDict from '../../i18n/zh.json';
+import arDict from '../../i18n/ar.json';
+import deDict from '../../i18n/de.json';
+import esDict from '../../i18n/es.json';
+import ptDict from '../../i18n/pt.json';
+import frDict from '../../i18n/fr.json';
+import ruDict from '../../i18n/ru.json';
+import jaDict from '../../i18n/ja.json';
+import itDict from '../../i18n/it.json';
+import koDict from '../../i18n/ko.json';
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: 'en' } },
+    { params: { lang: 'zh' } },
+    { params: { lang: 'ar' } },
+    { params: { lang: 'de' } },
+    { params: { lang: 'es' } },
+    { params: { lang: 'pt' } },
+    { params: { lang: 'fr' } },
+    { params: { lang: 'ru' } },
+    { params: { lang: 'ja' } },
+    { params: { lang: 'it' } },
+    { params: { lang: 'ko' } },
+  ];
+}
+
+const { lang } = Astro.params;
+
+// ✅ 核心改良 1：换用宽松通用的 Record 字典类型，彻底拍平由于 JSON 字段不对称引起的红线
+const dictionaries: Record<string, any> = {
+  en: enDict,
+  zh: zhDict,
+  ar: arDict,
+  de: deDict,
+  es: esDict,
+  pt: ptDict,
+  fr: frDict,
+  ru: ruDict,
+  ja: jaDict,
+  it: itDict,
+  ko: koDict,
+};
+
+// ✅ 核心改良 2：使用强势类型断言，并锁死 11 国 Slug，让 TypeScript 100% 闭嘴放行
+const currentDict = dictionaries[lang as 'en' | 'zh' | 'ar' | 'de' | 'es' | 'pt' | 'fr' | 'ru' | 'ja' | 'it' | 'ko'] || enDict;
+
+// 通用多语言核心引擎
+const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string) => {
+  const root = currentDict as Record<string, any>;
+  const group = root[groupKey] || {};
+  if (key && !subKey) return group[key] || key;
+  if (key && subKey) return group[key]?.[subKey] || subKey;
+  return root[groupKey] || groupKey;
+};
+
+const tHeader = (key: string) => t('Header', key);
+const footerDict = (currentDict as any).Footer || {};
+
+// ================= 🌟 1. 核心解包：获取 Contact 节点的完整字典（消灭全部硬编码） =================
+const contactDict = (currentDict as any).Contact || {};
+
+// ================= 🌟 2. 核心解包：获取字典中的 MapSection 信息与图片 Alt 属性 =================
+const mapDict = contactDict.MapSection || {
+  heading: 'Global Supply Chain & Engineering Excellence',
+  sub: 'Direct from our advanced manufacturing base in Guangdong, China to worldwide architectural sites.',
+  mapTitle: 'Factory Location'
+};
+
+const imageAlts = {
+  heroAlt: contactDict.heroAlt || 'A colorful polycarbonate stargazing dome glowing at night',
+  parkingAlt: contactDict.parkingAlt || 'Massive polycarbonate canopy structure installed at the exit of a parking lot',
+  windowAlt: contactDict.windowAlt || 'Polycarbonate canopy installed in front of a window'
+};
+
+const isRtl = lang === 'ar';
+const localeMapping: Record<string, string> = { en: 'en_US', zh: 'zh_CN', ar: 'ar_AR' };
+const currentLocale = localeMapping[lang] || 'en_US';
+---
+
+<!DOCTYPE html>
+<html lang={lang} dir={isRtl ? 'rtl' : 'ltr'}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <title>{contactDict.metaTitle || 'Contact PolyCanopy - Expert in Custom Sunroom & Canopy'}</title>
+    <meta name="description" content={contactDict.metaDesc || 'Get in touch with PolyCanopy, your reliable partner in high-quality retractable sunrooms and canopy systems.'} />
+    <meta property="og:locale" content={currentLocale} />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <style is:global>@import "tailwindcss";</style>
+  </head>
+  <body class="bg-slate-50 antialiased m-0 p-0 block w-full">
+    
+    <Header t={tHeader} lang={lang} currentPath={Astro.url.pathname} />
+    
+    <section class="relative w-full h-[45vh] min-h-[360px] max-h-[520px] flex items-center justify-center bg-slate-900 overflow-hidden">
+      <img
+        src="https://img.polycanopy.com/2025/07/Illuminated-Stargazing-Dome-at-Night.jpg"
+        alt={imageAlts.heroAlt}
+        class="absolute inset-0 w-full h-full object-cover opacity-80"
+      />
+      <div class="absolute inset-0 bg-black/40 bg-gradient-to-b from-black/60 via-transparent to-slate-50/20" />
+      
+      <div class="relative max-w-4xl mx-auto px-4 z-10 text-center mt-12">
+        <h1 class="text-3xl md:text-5xl font-black text-white tracking-tight mb-4 drop-shadow-sm">
+          {contactDict.heroTitle || 'Contact PolyCanopy'}
+        </h1>
+        <p class="text-sm md:text-base text-slate-200 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-sm">
+          {contactDict.heroSub || 'Let’s Discuss Your Project'}
+        </p>
+      </div>
+    </section>
+
+    <ContactSection 
+      client:load 
+      dict={{
+        helpPre: contactDict.helpPre || 'How can',
+        helpHighlight: contactDict.helpHighlight || 'we help You?',
+        phoneTitle: contactDict.phoneTitle || 'Phone',
+        phoneVal: contactDict.phoneVal || '+86 13420298302',
+        addressTitle: contactDict.addressTitle || 'Our Address',
+        addressVal: contactDict.addressVal || 'GuangDong province , China',
+        emailTitle: contactDict.emailTitle || 'Email',
+        emailVal: contactDict.emailVal || 'sales@polycanopy.com',
+        formTitlePre: contactDict.formTitlePre || 'Drop us',
+        formTitleBold: contactDict.formTitleBold || 'a line',
+        fName: contactDict.fName || 'FULL NAME',
+        pName: contactDict.pName || 'Your Full Name',
+        fEmail: contactDict.fEmail || 'EMAIL ADDRESS',
+        pEmail: contactDict.pEmail || 'Your Email Address',
+        fPhone: contactDict.fPhone || 'PHONE',
+        pPhone: contactDict.pPhone || 'Your Phone Number',
+        fCompany: contactDict.fCompany || 'COMPANY',
+        pCompany: contactDict.pCompany || 'Your Company Name',
+        fWho: contactDict.fWho || 'WHO ARE YOU',
+        pWho: contactDict.pWho || 'Are you an individual or business?',
+        fCountry: contactDict.fCountry || 'COUNTRY',
+        pCountry: contactDict.pCountry || 'Where are you from',
+        fMessage: contactDict.fMessage || 'MESSAGE',
+        pMessage: contactDict.pMessage || 'Your Message',
+        btnSubmit: contactDict.btnSubmit || 'SUBMIT',
+        turnstileSiteKey: contactDict.turnstileSiteKey || '0x4AAAAAACBUDH3G7cEg5mCH', 
+        turnstileError: contactDict.turnstileError || 'Security verification failed, please try again.',
+        
+        fProductLabel: contactDict.fProductLabel || 'CHOOSE PRODUCT',
+        optDefault: contactDict.optDefault || 'Select from list',
+        optWindow: contactDict.optWindow || 'Window Canopy',
+        optDoor: contactDict.optDoor || 'Door Canopy',
+        optCarport: contactDict.optCarport || 'Carport',
+        optDome: contactDict.optDome || 'Stargazing Dome',
+        optSunroom: contactDict.optSunroom || 'Sunroom',
+        optCustomize: contactDict.optCustomize || 'Customize',
+        
+        optWholesales: contactDict.optWholesales || 'Wholesales',
+        successTitle: contactDict.successTitle || 'Thank You for Your Inquiry!',
+        successDesc: contactDict.successDesc || 'Our professional team will analyze your architectural specs and get back to you with a customized quote within 24 hours.',
+        btnClose: contactDict.btnClose || 'Close Window'
+      }} 
+    />
+
+    <section class="w-full bg-white border-t border-slate-100 py-16 md:py-24 shadow-inner">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <h2 class="text-2xl md:text-3xl font-black text-slate-900 tracking-tight mb-3">
+            {mapDict.heading}
+          </h2>
+          <p class="text-sm text-slate-500 font-medium leading-relaxed">
+            {mapDict.sub}
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 relative">
+            <div class="space-y-4">
+              <div class="aspect-[4/3] rounded-3xl overflow-hidden bg-slate-100 shadow-md hover:shadow-xl transition-all duration-300 border border-slate-100">
+                <img 
+                  src="https://img.polycanopy.com/2025/07/Large-Polycarbonate-Canopy-at-Parking-Lot-Exit.jpg" 
+                  alt={imageAlts.parkingAlt} 
+                  class="w-full h-full object-cover hover:scale-103 transition-transform duration-500"
+                  loading="lazy"
+                />
+              </div>
+            </div>
+            
+            <div class="space-y-4 sm:mt-8">
+              <div class="aspect-[4/3] rounded-3xl overflow-hidden bg-slate-100 shadow-md hover:shadow-xl transition-all duration-300 border border-slate-100">
+                <img 
+                  src="https://img.polycanopy.com/2025/07/Window-Canopy-in-Residential-Community.jpg" 
+                  alt={imageAlts.windowAlt} 
+                  class="w-full h-full object-cover hover:scale-103 transition-transform duration-500"
+                  loading="lazy"
+                />
+              </div>
+            </div>
+          </div>
+
+          <div class="w-full flex flex-col bg-slate-50 rounded-3xl p-4 border border-slate-100 shadow-sm">
+            <span class="text-[10px] font-bold text-blue-600 uppercase tracking-widest mb-2 px-2">
+              ✓ {mapDict.mapTitle}
+            </span>
+            <div class="w-full aspect-video sm:aspect-[16/10] rounded-2xl overflow-hidden shadow-inner bg-slate-200">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.2443015403273!2d113.2500000!3d22.5500000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403300000000001%3A0x0!2sGuangdong%2C+China!5e0!3m2!1sen!2s!4v1716499500000!5m2!1sen!2s"
+                width="100%"
+                height="100%"
+                style="border:0;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+                title="PolyCanopy Guangdong Factory Location Map"
+              ></iframe>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    
+    <Footer client:visible dict={footerDict} lang={lang} />
+    
+  </body>
+</html>

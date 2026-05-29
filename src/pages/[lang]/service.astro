@@ -1,0 +1,192 @@
+---
+// src/pages/[lang]/service.astro
+import Header from '../../components/Header';
+import ServiceHero from '../../components/service/ServiceHero';
+import ServiceProcess from '../../components/service/ServiceProcess';
+import FactoryTour from '../../components/service/FactoryTour';
+import Footer from '../../components/Footer';
+
+import enDict from '../../i18n/en.json';
+import zhDict from '../../i18n/zh.json';
+import arDict from '../../i18n/ar.json';
+import deDict from '../../i18n/de.json';
+import esDict from '../../i18n/es.json';
+import ptDict from '../../i18n/pt.json';
+import frDict from '../../i18n/fr.json';
+import ruDict from '../../i18n/ru.json';
+import jaDict from '../../i18n/ja.json';
+import itDict from '../../i18n/it.json';
+import koDict from '../../i18n/ko.json';
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: 'en' } },
+    { params: { lang: 'zh' } },
+    { params: { lang: 'ar' } },
+    { params: { lang: 'de' } },
+    { params: { lang: 'es' } },
+    { params: { lang: 'pt' } },
+    { params: { lang: 'fr' } },
+    { params: { lang: 'ru' } },
+    { params: { lang: 'ja' } },
+    { params: { lang: 'it' } },
+    { params: { lang: 'ko' } },
+  ];
+}
+
+const { lang } = Astro.params;
+
+const dictionaries: Record<'en' | 'zh' | 'ar', typeof enDict> = {
+  en: enDict,
+  zh: zhDict,
+  ar: arDict,
+  de: deDict,
+  es: esDict,
+  pt: ptDict,
+  fr: frDict,
+  ru: ruDict,
+  ja: jaDict,
+  it: itDict,
+  ko: koDict,
+};
+
+const currentDict = dictionaries[lang as keyof typeof dictionaries] || enDict;
+
+// Generic i18n helper
+const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string) => {
+  const root = currentDict as Record<string, any>;
+  const group = root[groupKey] || {};
+  
+  if (groupKey === 'Footer') {
+    if (tertiaryKey) {
+      const secondLevel = group[key] || {};
+      const thirdLevel = secondLevel[subKey || ''] || {};
+      return thirdLevel[tertiaryKey] || tertiaryKey;
+    }
+    if (subKey) return group[key]?.[subKey] || subKey;
+  }
+
+  if (key && !subKey) return group[key] || key;
+  if (key && subKey) return group[key]?.[subKey] || subKey;
+  
+  return root[groupKey] || groupKey;
+};
+
+const tHeader = (key: string) => t('Header', key);
+const footerDict = (currentDict as any).Footer || {};
+const tFooter = (groupKey: string, key: string) => {
+  return footerDict[key] || key;
+};
+
+// Service data extraction
+const svcSource = (currentDict as any).Service || {};
+const heroSource = svcSource.hero || {};
+const processSource = svcSource.process || {};
+const factorySource = svcSource.factory || {};
+
+// 4 service cards
+const serviceCards = [
+  { title: heroSource.card1Title || 'Source Manufacturer', desc: heroSource.card1Desc || 'Direct from factory, ensuring the best prices and quality control' },
+  { title: heroSource.card2Title || 'Honest Business', desc: heroSource.card2Desc || 'Integrity-based operations with transparent processes and reliable partnerships' },
+  { title: heroSource.card3Title || 'Professional Customization', desc: heroSource.card3Desc || 'Tailored solutions according to customer specifications and requirements' },
+  { title: heroSource.card4Title || 'Professional Export', desc: heroSource.card4Desc || 'Pursuing excellence in product quality and service for global markets' },
+];
+
+// 9 process steps
+const processSteps = [
+  processSource.step1 || 'Consult',
+  processSource.step2 || 'Determine Style',
+  processSource.step3 || 'Confirm Solution',
+  processSource.step4 || 'Deposit Payment',
+  processSource.step5 || 'Production',
+  processSource.step6 || 'Final Payment',
+  processSource.step7 || 'Shipping',
+  processSource.step8 || 'Customer Receipt',
+  processSource.step9 || 'Worry-free After-sales',
+];
+
+// 🌟 核心修正：pcImages 内部的 alt 变量名完美对齐你的 en.json 字典字段！
+const pcImages = [
+  { src: 'https://img.polycanopy.com/2025/07/Premium-Polycarbonate-Resin-and-UV-Protection-Additives-Bayer-or-Sabic.jpg', alt: factorySource.pcImg1Alt || 'Premium Polycarbonate Resin and UV Protection Additives from Bayer or SABIC', width: '1000', height: '1000' },
+  { src: 'https://img.polycanopy.com/2025/07/real-time-quality-control-transparent-solid-polycarbonate-sheet-being-produced-on-italian-omipa-line.jpg', alt: factorySource.pcImg2Alt || 'Real-time quality control on Italian OMIPA extrusion line producing transparent solid polycarbonate sheet', width: '1000', height: '1000' },
+  { src: 'https://img.polycanopy.com/2025/07/omipa-system-precision-feeding-and-advanced-uv-co-extrusion-technology-for-consistent-sheet-quality.jpg', alt: factorySource.pcImg3Alt || 'OMIPA system precision feeding and advanced UV co-extrusion technology for consistent sheet quality', width: '1000', height: '1000' },
+];
+
+// 🌟 核心修正：alImages 内部的 alt 变量名完美对齐你的 en.json 字典字段！
+const alImages = [
+  { src: 'https://img.polycanopy.com/2025/07/High-Quality-Aluminum-Tubes-in-Storage-Area.jpg', alt: factorySource.alImg1Alt || 'High-quality aluminum tubes and profiles stored in organized warehouse area', width: '788', height: '528' },
+  { src: 'https://img.polycanopy.com/2025/07/Assembled-Aluminum-Structures-for-Polycarbonate-System.jpg', alt: factorySource.alImg2Alt || 'Assembled aluminum frame structures for polycarbonate canopy system in the workshop', width: '800', height: '670' },
+  { src: 'https://img.polycanopy.com/2025/07/Aluminum-Frame-Storage-and-Delivery-Readiness.jpg', alt: factorySource.alImg3Alt || 'Aluminum frame storage and delivery readiness before packaging and shipping', width: '701', height: '475' },
+];
+
+const isRtl = lang === 'ar';
+const localeMapping: Record<string, string> = { en: 'en_US', zh: 'zh_CN', ar: 'ar_AR' };
+const currentLocale = localeMapping[lang] || 'en_US';
+
+const canonicalEn = 'https://polycanopy.com/en/service/';
+const canonicalZh = 'https://polycanopy.com/zh/service/';
+const canonicalAr = 'https://polycanopy.com/ar/service/';
+---
+
+<!DOCTYPE html>
+<html lang={lang} dir={isRtl ? 'rtl' : 'ltr'}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <link rel="alternate" hreflang="en" href={canonicalEn} />
+    <link rel="alternate" hreflang="zh" href={canonicalZh} />
+    <link rel="alternate" hreflang="ar" href={canonicalAr} />
+    <link rel="alternate" hreflang="x-default" href={canonicalEn} />
+    
+    <title>{heroSource.heading || 'Our Services'} - Polycanopy</title>
+    <meta name="description" content={heroSource.subtitle || 'Polycanopy customization services'} />
+    
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={`https://polycanopy.com/${lang}/service/`} />
+    <meta property="og:title" content={heroSource.heading || 'Our Services'} />
+    <meta property="og:description" content={heroSource.subtitle || 'Polycanopy services'} />
+    <meta property="og:image" content="https://img.polycanopy.com/2025/07/Premium-Polycarbonate-Resin-and-UV-Protection-Additives-Bayer-or-Sabic.jpg" />
+    <meta property="og:locale" content={currentLocale} />
+    <style is:global>@import "tailwindcss";</style>
+  </head>
+  <body class="bg-gray-50 antialiased m-0 p-0 block w-full">
+    
+    <Header t={tHeader} lang={lang} />
+    
+    <ServiceHero
+      heading={heroSource.heading || 'Our Services'}
+      subtitle={heroSource.subtitle || 'We are not just a factory, but your powerful supplier partner committed to excellence'}
+      cards={serviceCards}
+      advantageLabel={heroSource.advantageLabel || 'ADVANTAGE'} 
+    />
+    
+    <ServiceProcess
+      title={processSource.title || 'Customization Process'}
+      steps={processSteps}
+    />
+    
+    <FactoryTour
+      client:load
+      title={factorySource.title || 'Polycarbonate & Aluminum'}
+      subtitle={factorySource.subtitle || 'Discover how we produce and process our polycarbonate sheets and aluminum structures, from raw materials to factory operations'}
+      pc={{
+        heading: factorySource.pcHeading || 'Polycarbonate Systems',
+        desc: factorySource.pcDesc || 'High-quality polycarbonate sheets made with imported resin, advanced extrusion, and strict quality control',
+        images: pcImages,
+        zoomTip: factorySource.pcZoomTip || 'Click to Enlarge',
+      }}
+      aluminum={{
+        heading: factorySource.alHeading || 'Aluminum Profiles Systems',
+        desc: factorySource.alDesc || 'We utilize high-strength, corrosion-resistant aluminum profiles as an integral part of our polycarbonate sheet systems.',
+        images: alImages,
+        zoomTip: factorySource.alZoomTip || 'Click to Enlarge',
+      }}
+    />
+    
+    <Footer client:visible dict={footerDict} lang={lang} />
+    
+  </body>
+</html>

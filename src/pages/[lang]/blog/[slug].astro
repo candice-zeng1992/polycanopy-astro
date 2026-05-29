@@ -1,0 +1,203 @@
+---
+import Header from '../../../components/Header';
+import Footer from '../../../components/Footer';
+import { getPostsByLang } from '../../../utils/blogLoader';
+
+import enDict from '../../../i18n/en.json';
+import zhDict from '../../../i18n/zh.json';
+import arDict from '../../../i18n/ar.json';
+import deDict from '../../../i18n/de.json';
+import esDict from '../../../i18n/es.json';
+import ptDict from '../../../i18n/pt.json';
+import frDict from '../../../i18n/fr.json';
+import ruDict from '../../../i18n/ru.json';
+import jaDict from '../../../i18n/ja.json';
+import itDict from '../../../i18n/it.json';
+import koDict from '../../../i18n/ko.json';
+
+interface Post {
+  id: string;
+  lang: string;
+  title: string;
+  slug: string;
+  seoTitle?: string;
+  seoDesc?: string;
+  publishedAt: string;
+  author: string;
+  coverImage: string;
+  category: string;
+  excerpt?: string;
+  contentHtml: string;
+}
+
+const dictionaries = {
+  en: enDict, zh: zhDict, ar: arDict, de: deDict, es: esDict,
+  pt: ptDict, fr: frDict, ru: ruDict, ja: jaDict, it: itDict, ko: koDict,
+};
+
+export async function getStaticPaths() {
+  const languages = ['en', 'zh', 'ar', 'de', 'es', 'pt', 'fr', 'ru', 'ja', 'it', 'ko'];
+  
+  return languages.flatMap(lang => {
+    const rawPosts = getPostsByLang(lang);
+    const posts: Post[] = Array.isArray(rawPosts) ? rawPosts : [];
+    
+    return posts.map((post: Post) => ({
+      params: { lang, slug: post.slug || 'unknown' },
+      props: { 
+        targetPostId: post.id, 
+        lang 
+      }
+    }));
+  });
+}
+
+const { lang, targetPostId } = Astro.props;
+const currentSlug = Astro.params.slug;
+
+const rawAllPosts = getPostsByLang(lang);
+const allPosts: Post[] = Array.isArray(rawAllPosts) ? rawAllPosts : [];
+
+// 🌟 精准、高保真地牢取该语种本地硬盘中对应的真实文章
+let post = allPosts.find((p) => p.id === targetPostId);
+
+if (!post) {
+  post = allPosts.find((p) => p.slug === currentSlug);
+}
+
+// 安全降级：防止极端状态下的编译阻断
+if (!post) {
+  const enAllPosts = getPostsByLang('en');
+  post = enAllPosts.find((p) => p.id === targetPostId) || enAllPosts[0];
+}
+
+// ==================== 🛠️ 核心变量链条无损复活 ====================
+const formattedDate = new Date(post.publishedAt).toLocaleDateString(
+  lang === 'zh' ? 'zh-CN' : lang === 'ar' ? 'ar-SA' : 'en-US',
+  { year: 'numeric', month: 'long', day: 'numeric' }
+);
+
+const currentDict = dictionaries[lang as keyof typeof dictionaries] || enDict;
+
+const tHeader = (key: string) => {
+  const root = currentDict as Record<string, any>;
+  const group = root['Header'] || {};
+  return group[key] || key;
+};
+
+const footerDict = (currentDict as any).Footer || {};
+
+const sortedAllPosts = [...allPosts].sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+const currentIndex = sortedAllPosts.findIndex((p) => p.id === post.id);
+const prevPost = currentIndex > 0 ? sortedAllPosts[currentIndex - 1] : null;
+const nextPost = currentIndex < sortedAllPosts.length - 1 ? sortedAllPosts[currentIndex + 1] : null;
+
+// ==================== 📜 动态生成文章内部 H2 目录 ====================
+const headings: { text: string; id: string }[] = [];
+let cleanContentHtml = post.contentHtml || '';
+let h2Index = 0;
+if (cleanContentHtml) {
+  cleanContentHtml = cleanContentHtml.replace(/<h2>([\s\S]*?)<\/h2>/gi, (html, text) => {
+    const cleanText = text.replace(/<[^>]+>/g, '').trim();
+    const id = `heading-${h2Index++}`;
+    headings.push({ text: cleanText, id });
+    return `<h2 id="${id}">${text}</h2>`;
+  });
+}
+
+const i18nLabels = (currentDict as any).Common || { home: 'Home', blog: 'Blog', toc: 'On This Page' };
+const isRtl = lang === 'ar';
+---
+<!DOCTYPE html><html lang={lang} dir={isRtl ? 'rtl' : 'ltr'}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <title>{post.seoTitle || post.title}</title>
+    <meta name="description" content={post.seoDesc || post.excerpt} />
+    <style is:global>@import "tailwindcss";</style>
+  </head>
+  <body class="bg-slate-50 antialiased m-0 p-0 block w-full">
+    <Header t={tHeader} lang={lang} currentPath={Astro.url.pathname} />
+    
+    <section class="relative w-full h-[55vh] min-h-[420px] max-h-[650px] overflow-hidden">
+      <img src={post.coverImage} alt={post.title} class="absolute inset-0 w-full h-full object-cover" />
+      <div class="absolute inset-0 bg-gradient-to-b from-black/90 via-black/30 to-black/80" />
+      <div class="absolute bottom-0 left-0 right-0 p-6 md:p-12 lg:p-16">
+        <div class="max-w-6xl mx-auto w-full">
+          <span class="inline-block bg-blue-600/90 backdrop-blur-md text-white text-xs font-semibold px-3 py-1.5 rounded-full uppercase tracking-wider mb-4 shadow-sm">{post.category}</span>
+          <h1 class="text-3xl md:text-4xl lg:text-5xl font-black text-white leading-tight drop-shadow-xl max-w-4xl">{post.title}</h1>
+        </div>
+      </div>
+    </section>
+
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+      <nav class="flex items-center gap-2 text-sm text-gray-500 mb-8 overflow-x-auto whitespace-nowrap py-2" aria-label="Breadcrumb">
+        <a href={`/${lang}/`} class="hover:text-blue-600 transition-colors">{i18nLabels.home}</a>
+        <svg class={`w-3 h-3 text-gray-400 shrink-0 ${isRtl ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+        <a href={`/${lang}/blog/`} class="hover:text-blue-600 transition-colors">{i18nLabels.blog}</a>
+        <svg class={`w-3 h-3 text-gray-400 shrink-0 ${isRtl ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+        <span class="text-gray-800 font-medium truncate max-w-[240px] sm:max-w-none" aria-current="page">{post.title}</span>
+      </nav>
+
+      <div class="flex flex-col lg:flex-row gap-10 items-start">
+        <main class="flex-1 w-full max-w-none min-w-0 bg-white rounded-3xl p-6 md:p-10 shadow-sm border border-gray-100">
+          <div class="flex flex-wrap items-center gap-4 text-xs md:text-sm text-gray-400 mb-8 pb-6 border-b border-slate-100">
+            <div class="flex items-center gap-2">
+              <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg>
+              <span class="font-semibold text-gray-700">{post.author}</span>
+            </div>
+            <span class="text-gray-200">|</span>
+            <div class="flex items-center gap-2">
+              <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+              <time datetime={post.publishedAt}>{formattedDate}</time>
+            </div>
+          </div>
+
+          <div class="prose prose-slate prose-lg max-w-none" set:html={cleanContentHtml} />
+
+          <nav class="flex flex-col sm:flex-row justify-between gap-4 mt-16 pt-8 border-t border-slate-100">
+            {prevPost && (
+              <a href={`/${lang}/blog/${prevPost.slug}/`} class="group flex-1 p-5 rounded-2xl border border-slate-200 bg-slate-50/50 hover:bg-white hover:border-blue-400 hover:shadow-sm transition-all duration-200">
+                <span class="text-xs font-bold text-gray-400 uppercase tracking-wider block mb-1">← {lang === 'zh' ? '上一篇' : lang === 'ar' ? 'المقال السابق' : 'Previous'}</span>
+                <span class="text-sm font-semibold text-slate-800 group-hover:text-blue-600 transition-colors line-clamp-2">{prevPost.title}</span>
+              </a>
+            )}
+            {!prevPost && <div class="flex-1 hidden sm:block" />}
+            {nextPost && (
+              <a href={`/${lang}/blog/${nextPost.slug}/`} class="group flex-1 p-5 rounded-2xl border border-slate-200 bg-slate-50/50 hover:bg-white hover:border-blue-400 hover:shadow-sm transition-all duration-200 text-right">
+                <span class="text-xs font-bold text-gray-400 uppercase tracking-wider block mb-1">{lang === 'zh' ? '下一篇 →' : lang === 'ar' ? 'المقال التالي ←' : 'Next →'}</span>
+                <span class="text-sm font-semibold text-slate-800 group-hover:text-blue-600 transition-colors line-clamp-2">{nextPost.title}</span>
+              </a>
+            )}
+            {!nextPost && <div class="flex-1 hidden sm:block" />}
+          </nav>
+        </main>
+
+        {headings.length > 0 && (
+          <aside class="w-full lg:w-72 sticky top-28 shrink-0 hidden lg:block bg-white p-6 rounded-3xl border border-slate-100 shadow-sm">
+            <h2 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4 pb-2 border-b border-slate-100">{i18nLabels.toc}</h2>
+            <nav class="space-y-1 max-h-[60vh] overflow-y-auto pr-2">
+              {headings.map((heading) => (
+                <a href={`#${heading.id}`} class="block text-sm text-slate-600 hover:text-blue-600 py-1.5 transition-colors duration-150 leading-relaxed font-medium border-l-2 border-transparent pl-3 hover:border-blue-500">{heading.text}</a>
+              ))}
+            </nav>
+          </aside>
+        )}
+      </div>
+    </div>
+    <Footer client:visible dict={footerDict} lang={lang} />
+  </body>
+</html>
+
+<style is:global>
+  .prose h2 { font-size: 1.65rem; margin-top: 2.8rem; margin-bottom: 1.2rem; padding-bottom: 0.4rem; border-bottom: 1px solid #f1f5f9; color: #0f172a; }
+  .prose h3 { font-size: 1.25rem; margin-top: 2rem; margin-bottom: 0.8rem; color: #1e293b; }
+  .prose p { line-height: 1.85; margin-bottom: 1.4rem; color: #334155; }
+  .prose img { margin: 2.5rem auto; border-radius: 1.5rem; }
+  .prose ul, .prose ol { margin-bottom: 1.4rem; padding-left: 1.5rem; }
+  .prose li { margin-bottom: 0.5rem; color: #475569; }
+  .prose table { display: table; border: 1px solid #e2e8f0; }
+  .prose th, .prose td { border: 1px solid #e2e8f0; }
+</style>

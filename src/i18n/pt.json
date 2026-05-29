@@ -1,0 +1,691 @@
+{
+  "ProductsHero": {
+    "title": "Sistemas de Cobertura em Policarbonato e Alumínio",
+    "featuredSolutions": "Nossas Soluções em Destaque",
+    "viewDetails": "Ver Detalhes",
+    "subtitle": "Soluções de cobertura personalizadas, duráveis e elegantes",
+    "imageAlt": "Layout detalhado de dimensões de um carport em policarbonato com estruturas de alta resistência e sistema de drenagem de águas pluviais",
+    "imageTitle": "Dimensões Técnicas Polycanopy para Cobertura de Carport em Policarbonato"
+  },
+  "ProductSpecs": {
+    "title": "Especificações do Produto",
+    "spec1Title": "Personalização",
+    "spec1Desc": "Fabricado conforme especificações sob encomenda",
+    "spec2Title": "Origem",
+    "spec2Desc": "Fabricado na China",
+    "spec3Title": "Garantia",
+    "spec3Desc": "30 anos de vida útil",
+    "spec4Title": "Material da Estrutura",
+    "spec4Desc": "Liga de alumínio premium"
+  },
+  "MaterialIntro": {
+    "title": "Introdução aos Materiais",
+    "frameHeading": "Estrutura em Liga de Alumínio: Construção de Alta Resistência",
+    "frameDesc": "Perfis de alumínio de alta dureza e tenacidade resistem facilmente a tufões e condições climáticas severas.",
+    "panelHeading": "Painéis de Policarbonato",
+    "zoomTipFrame": "🔍 Clique para Ampliar o Detalhe do Perfil",
+    "zoomTipPanel": "🔍 Clique para Ampliar o Detalhe da Chapa",
+    "panelDesc": "Matérias-primas premium Bayer ou SABIC com proteção UV suficiente. Painéis de policarbonato garantidos por mais de 10 anos de vida útil.",
+    "color_champagne": "Champanhe",
+    "color_white": "Branco",
+    "color_gray": "Cinza",
+    "color_coffee": "Café",
+    "color_bronze": "Bronze",
+    "color_black": "Preto",
+    "aria_frame_btn": "Alterar imagem de pré-visualização da estrutura para a cor {color}",
+    "aria_panel_btn": "Alterar imagem de pré-visualização do painel de policarbonato para a cor {color}",
+    "alt_frame_champagne": "Opção de cor da estrutura de alumínio do toldo de policarbonato em acabamento champanhe elegante",
+    "alt_frame_white": "Opção de cor da estrutura de alumínio do toldo de policarbonato em acabamento branco limpo",
+    "alt_frame_gray": "Opção de cor da estrutura de alumínio do toldo de policarbonato em acabamento cinza moderno",
+    "alt_frame_coffee": "Opção de cor da estrutura de alumínio do toldo de policarbonato em acabamento café clássico",
+    "alt_panel_bronze": "Chapas sólidas de policarbonato com tonalidade bronze premium para proteção do toldo",
+    "alt_panel_white": "Chapas sólidas de policarbonato translúcido branco premium para iluminação suave",
+    "alt_panel_gray": "Chapas sólidas de policarbonato com tonalidade cinza premium para design arquitetônico moderno",
+    "alt_panel_black": "Chapas sólidas de policarbonato com tonalidade preta premium para sombreamento máximo"
+  },
+  "ProductAnalysis": {
+    "sectionTitle": "Análise do Produto",
+    "systemDesc": "O sistema de cobertura de policarbonato inclui suportes de parede, estrutura central reforçada, colunas reforçadas, tubos de descida, calhas e várias cores de painéis sólidos de policarbonato, painéis de partículas diamantadas ou painéis de partículas de gota de chuva.",
+    "whyTitle": "Por que escolher chapas de policarbonato de alta qualidade?",
+    "whyDesc1": "Em projetos de coberturas e claraboias, não é a estrutura de aço — é o painel que determina a longevidade. Chapas de baixa qualidade podem amarelar, rachar ou vazar em poucos anos, levando a substituições caras.",
+    "whyDesc2": "Nosso policarbonato premium possui uma camada de coextrusão UV em um dos lados, preservando a clareza e durabilidade por mais de 10 anos.",
+    "whyDesc3": "Escolha qualidade desde o início — Economize em manutenção e tenha tranquilidade.",
+    "altSystemImg": "Vista explodida da estrutura da cobertura com componentes identificados",
+    "altCompareImg": "Comparação entre chapas de policarbonato de alta e baixa qualidade"
+  },
+  "ProductFeatures": {
+    "sectionTitle": "Características do Produto",
+    "badge1": "Resistente à Corrosão",
+    "badge2": "Fácil Manutenção",
+    "badge3": "Transmissão de Luz",
+    "badge4": "Design Elegante",
+    "badge5": "Isolamento Acústico",
+    "mainFeatAlt": "Características do produto de policarbonato projetadas para resistência à carga de neve, proteção UV, defesa contra vento e chuva e resistência a impactos",
+    "mainFeatZoomTip": "🔍 Clique para ver o blueprint completo das funcionalidades",
+    "subHeading": "Desempenho Robusto e Testes Rigorosos",
+    "subDesc": "Veja como nossas estruturas enfrentam desafios extremos do mundo real",
+    "testLabel": "Teste de Desempenho",
+    "feat1Title": "Alta resistência a impactos",
+    "feat1Desc": "Alta resistência a impactos com chapas de policarbonato importadas da Alemanha — oferecendo 200 a 300 vezes a resistência ao impacto do vidro comum. Conhecido como 'vidro inquebrável' ou 'transparência semelhante ao aço'.",
+    "feat1Alt": "Martelo golpeando painel de policarbonato demonstrando alta resistência a impactos",
+    "feat2Title": "Altamente Flexível, Resistente e Versátil",
+    "feat2Desc": "Robusto e moldável, os painéis são fáceis de instalar e podem ser curvados a frio em estruturas arqueadas ou em forma de cúpula.",
+    "feat2Alt": "Pessoa curvando uma chapa de policarbonato para demonstrar sua excelente flexibilidade",
+    "feat3Title": "Resistente ao fogo",
+    "feat3Desc": "Inspecionado pelo Bureau de Supervisão de Qualidade de Materiais de Construção Anti-incêndio da China e seguindo a norma GB8624-1997, a chapa de policarbonato atingiu o Grau B1 de resistência à chama.",
+    "feat3Alt": "Teste de chama de isqueiro verificando a propriedade retardante de chamas do painel de policarbonato",
+    "feat4Title": "Proteção UV de Alta Eficiência",
+    "feat4Desc": "O toldo utiliza painéis de policarbonato importados da Alemanha que bloqueiam raios ultravioleta, suportam altas temperaturas e ajudam a reduzir o calor interno. Tratados com uma camada de coextrusão UV em um lado, os painéis isolam efetivamente o calor e bloqueiam a radiação UV externa, garantindo segurança para você e sua família.",
+    "feat4Alt": "Toldo de policarbonato sob luz solar demonstrando proteção UV",
+    "feat5Title": "Sistema de Drenagem Independente",
+    "feat5Desc": "Durante as estações chuvosas, o sistema de drenagem garante fluxo de água suave sem obstrução ou respingos. Resolve efetivamente problemas como acúmulo e transbordamento de água durante chuvas fortes. O design de calha alargada permite drenagem mais rápida.",
+    "feat5Alt": "Vista em close do sistema de calha independente com um tubo de descida curvo no toldo de policarbonato",
+    "feat6Title": "Sistema de Drenagem Independente de Grande Fluxo",
+    "feat6Desc": "Durante as estações chuvosas, o sistema de drenagem garante fluxo de água suave sem obstrução ou respingos. Resolve efetivamente problemas como acúmulo e transbordamento de água durante chuvas fortes. O design de calha alargada permite drenagem mais rápida.",
+    "feat6Alt": "Sistema de drenagem aprimorado com tubo de descida estendido e seção de calha alargada para melhor fluxo de água no toldo de policarbonato",
+    "feat7Title": "Perfis de Liga de Alumínio de Alta Resistência",
+    "feat7Desc": "Suporta o impacto de tufões de Categoria 12 com resiliência excepcional. A superfície é tratada com pintura eletrostática a pó para excelente resistência à corrosão.",
+    "feat7Sub1": "◆ Espessado e Reforçado",
+    "feat7Sub2": "◆ Resistente ao Acúmulo de Neve",
+    "feat7Alt": "Toldo de policarbonato instalado em área de forte nevasca, mostrando seu desempenho resistente à neve e construção detalhada em liga de alumínio",
+    "feat8Title": "Instalação Fácil com Acessórios Completos",
+    "feat8Desc": "Apresenta estrutura de sistema modular para montagem simples, com vigas de suporte de alta resistência e tecnologia especializada de instalação rápida que economiza tempo e esforço.",
+    "feat8Alt": "Colagem passo a passo da instalação mostrando suportes, painéis e montagem final do toldo de policarbonato, destacando seu processo de montagem simples"
+  },
+  "PremiumMaterials": {
+    "title": "Materiais de Qualidade Fazem Toda a Diferença",
+    "desc": "Liga de alumínio titânio-magnésio de grau aeroespacial com tecnologia de revestimento avançada e material de policarbonato da Bayer alemã garantem desempenho duradouro sem envelhecimento.",
+    "mat1Label": "Liga de alumínio de alta resistência",
+    "mat2Label": "Chapa de policarbonato da Bayer alemã",
+    "imgAlt": "Visão geral dos materiais do sistema de cobertura de policarbonato e alumínio premium: mostrando perfis de grau aeroespacial e detalhe da chapa virgem da Bayer alemã"
+  },
+  "ChooseUs": {
+    "heading": "Escolha-nos para Ter Tranquilidade",
+    "tagline": "Uma cobertura de qualidade faz toda a diferença",
+    "lifespanLabel": "Vida útil normal: 30 anos",
+    "lifespanValue": "Realmente Vale a Pena",
+    "g1Title": "Padrões Internacionais de Qualidade",
+    "g1Detail": "Perfil BG/T3190 6063 – Em conformidade com o padrão internacional 6063",
+    "g2Title": "Materiais Bayer Alemães",
+    "g2Detail": "Chapa de Policarbonato – Resistente a impactos, isolante acústico, isolante térmico, retardante de chamas",
+    "g3Title": "Medição e Instalação Orientadas",
+    "g3Detail": "Disponível em todo o mundo – Medição direta, personalização, entrega, instalação e suporte pós-venda",
+    "g4Title": "Serviço Pós-Venda Sem Preocupações",
+    "g4Detail": "Garantia Estendida",
+    "g5Title": "Garantia de Qualidade",
+    "g5Detail": ""
+  },
+  "Service": {
+    "hero": {
+      "heading": "Nossos Serviços",
+      "subtitle": "Não somos apenas uma fábrica, mas seu parceiro fornecedor poderoso comprometido com a excelência",
+      "card1Title": "Fabricante de Origem",
+      "advantageLabel": "VANTAGEM",
+      "card1Desc": "Direto da fábrica, garantindo os melhores preços e controle de qualidade",
+      "card2Title": "Negócios Honestos",
+      "card2Desc": "Operações baseadas na integridade, com processos transparentes e parcerias confiáveis",
+      "card3Title": "Personalização Profissional",
+      "card3Desc": "Soluções sob medida de acordo com as especificações e requisitos do cliente",
+      "card4Title": "Exportação Profissional",
+      "card4Desc": "Buscando excelência na qualidade do produto e serviço para mercados globais"
+    },
+    "process": {
+      "title": "Processo de Personalização",
+      "step1": "Consultar",
+      "step2": "Definir Estilo",
+      "step3": "Confirmar Solução",
+      "step4": "Pagamento de Sinal",
+      "step5": "Produção",
+      "step6": "Pagamento Final",
+      "step7": "Envio",
+      "step8": "Recebimento pelo Cliente",
+      "step9": "Pós-venda sem Preocupações"
+    },
+    "factory": {
+      "title": "Policarbonato e Alumínio",
+      "subtitle": "Descubra como produzimos e processamos nossas chapas de policarbonato e estruturas de alumínio com equipamentos de última geração e rigoroso controle de qualidade.",
+      "pcHeading": "Produção de Chapas de Policarbonato",
+      "pcDesc": "Nossas chapas de policarbonato são fabricadas com matérias-primas virgens Bayer/SABIC importadas da Alemanha, com aditivos de proteção UV. Operamos linhas de coextrusão OMIPA avançadas para qualidade superior da chapa, controle preciso de espessura e desempenho duradouro.",
+      "pcZoomTip": "🔍 Clique para ver detalhes da produção",
+      "pcImg1Alt": "Resina de policarbonato premium e aditivos de proteção UV da Bayer ou SABIC",
+      "pcImg2Alt": "Controle de qualidade em tempo real na linha de extrusão OMIPA italiana produzindo chapa sólida transparente de policarbonato",
+      "pcImg3Alt": "Alimentação de precisão do sistema OMIPA e tecnologia avançada de coextrusão UV para qualidade consistente da chapa",
+      "alHeading": "Estrutura e Montagem de Alumínio",
+      "alDesc": "Nossos perfis de liga de alumínio são extrudados com precisão a partir de material aeronáutico 6063-T5. A oficina de montagem dedicada garante que cada estrutura atenda a rigorosos padrões de qualidade antes da embalagem e envio global.",
+      "alZoomTip": "🔍 Clique para ver detalhes da oficina",
+      "alImg1Alt": "Tubos e perfis de alumínio de alta qualidade armazenados em área organizada do depósito",
+      "alImg2Alt": "Estruturas de alumínio montadas para sistema de cobertura de policarbonato na oficina",
+      "alImg3Alt": "Armazenamento e prontidão para entrega das estruturas de alumínio antes da embalagem e envio"
+    }
+  },
+  "Contact": {
+    "MapSection": {
+      "heading": "Excelência Global em Cadeia de Suprimentos e Engenharia",
+      "sub": "Diretamente da nossa base de fabricação avançada em Guangdong, China, para canteiros de obras em todo o mundo.",
+      "mapTitle": "Localização da Fábrica"
+    },
+    "metaTitle": "Contato PolyCanopy - Especialista em Varandas e Coberturas Personalizadas",
+    "metaDesc": "Entre em contato com a PolyCanopy, seu parceiro confiável em varandas retráteis de alta qualidade, sistemas de cobertura telescópica e cercamentos externos personalizados.",
+    "heroTitle": "Contato PolyCanopy",
+    "heroSub": "Vamos Discutir Seu Projeto",
+    "helpPre": "Como",
+    "helpHighlight": "podemos ajudar você?",
+    "phoneTitle": "Telefone",
+    "phoneVal": "+86 13420298302",
+    "addressTitle": "Nosso Endereço",
+    "addressVal": "Província de Guangdong, China",
+    "emailTitle": "E-mail",
+    "emailVal": "sales@polycanopy.com",
+    "formTitlePre": "Envie-nos",
+    "formTitleBold": "uma mensagem",
+    "fName": "NOME COMPLETO",
+    "pName": "Seu Nome Completo",
+    "fEmail": "ENDEREÇO DE E-MAIL",
+    "pEmail": "Seu Endereço de E-mail",
+    "fWho": "QUEM É VOCÊ",
+    "pWho": "Você é pessoa física ou jurídica?",
+    "fCountry": "PAÍS",
+    "pCountry": "De onde você é",
+    "fProductLabel": "ESCOLHA O PRODUTO",
+    "optDefault": "Selecione da lista",
+    "fMessage": "MENSAGEM",
+    "pMessage": "Sua Mensagem",
+    "fPhone": "TELEFONE (OPCIONAL)",
+    "pPhone": "Seu Número de Telefone",
+    "fCompany": "EMPRESA (OPCIONAL)",
+    "successTitle": "Obrigado por sua Consulta!",
+    "successDesc": "Nossa equipe profissional analisará suas especificações arquitetônicas e retornará com um orçamento personalizado em até 24 horas.",
+    "btnClose": "Fechar Janela",
+    "optWindow": "Cobertura para Janela",
+    "optDoor": "Cobertura para Porta",
+    "optCarport": "Garagem",
+    "optDome": "Cúpula para Observação de Estrelas",
+    "optSunroom": "Varanda",
+    "optCustomize": "Personalizado",
+    "optWholesales": "Atacado",
+    "pCompany": "Nome da Sua Empresa",
+    "btnSubmit": "ENVIAR",
+    "turnstileSiteKey": "0x4AAAAAACBUDH3G7cEg5mCH",
+    "heroAlt": "Cúpula de policarbonato colorida para observação de estrelas brilhando à noite, ideal para banners de projetos arquitetônicos",
+    "parkingAlt": "Estrutura massiva de cobertura de policarbonato instalada na saída de um estacionamento, oferecendo forte cobertura e design moderno",
+    "windowAlt": "Cobertura de policarbonato instalada em frente a uma janela, oferecendo proteção contra chuva silenciosa e elegante",
+    "turnstileError": "Falha na verificação de segurança. Tente novamente."
+  },
+  "Blog": {
+    "metaTitle": "Blog & Insights - PolyCanopy",
+    "metaDesc": "Explore nossos artigos mais recentes, guias de instalação e insights técnicos sobre soluções de coberturas de policarbonato.",
+    "heroTitle": "Base de Conhecimento e Insights",
+    "readMore": "Ler Artigo Completo →",
+    "dateFormat": "pt-BR",
+    "heroAlt": "Cobertura de policarbonato azul com estrutura de alumínio branco instalada ao ar livre sob um céu azul brilhante",
+    "heroSub": "Guias profissionais, análises técnicas e tendências de design para soluções de policarbonato."
+  },
+  "Common": {
+    "factoryDirect": "Direto da Fábrica",
+    "viewDetails": "Ver Detalhes",
+    "home": "Início",
+    "blog": "Blog",
+    "toc": "Nesta Página"
+  },
+  "Header": {
+    "home": "Início",
+    "products": "Produtos",
+    "service": "Serviço",
+    "blog": "Blog",
+    "contact": "Contato",
+    "language": "Idioma",
+    "logoAlt": "Polycanopy - Fabricante de coberturas de policarbonato premium",
+    "homeAlt": "Ir para a página inicial",
+    "navLabel": "Navegação principal",
+    "langSwitcher": "Seletor de idioma",
+    "switchEn": "Mudar for Inglês",
+    "switchZh": "Mudar for Chinês",
+    "switchAr": "Mudar for Árabe",
+    "switchDe": "Mudar for Alemão",
+    "switchEs": "Mudar for Espanhol",
+    "switchPt": "Mudar for Português",
+    "switchFr": "Mudar for Francês",
+    "switchRu": "Mudar for Russo",
+    "switchJa": "Mudar for Japonês",
+    "switchIt": "Mudar for Italiano",
+    "switchKo": "Mudar for Coreano"
+  },
+  "Hero": {
+    "titlePrefix": "Premium ",
+    "titleHighlight": "Policarbonato",
+    "titleSuffix": " Coberturas",
+    "subtitle": "Projetadas para Durabilidade, Criadas para os Belos Momentos da Vida",
+    "desc": "Experimente a combinação perfeita de resistência e elegância com nossas soluções premium de coberturas em policarbonato. Construídas para durar mais de uma década, melhorando seu estilo de vida.",
+    "btnText": "Descubra nossa solução",
+    "btnAriaLabel": "Navegue para a página de produtos para descobrir nossas soluções de coberturas em policarbonato",
+    "imageAlt": "Cobertura premium em policarbonato criando um espaço externo confortável",
+    "imageTitle": "Polycanopy Soluções Premium de Coberturas Externas"
+  },
+  "About": {
+    "title": "Sobre a Polycanopy",
+    "desc": "Liderando o setor com soluções inovadoras em coberturas de policarbonato, combinando excelência em engenharia alemã com décadas de experiência em exportação.",
+    "missionTitle": "Nossa Missão e Valores",
+    "mission1Title": "Materiais de Qualidade Premium",
+    "mission1Desc": "Chapas de policarbonato Bayer alemãs com garantia de mais de 10 anos",
+    "mission2Title": "Excelência em Exportação",
+    "mission2Desc": "Empresa de comércio internacional experiente com entrega global comprovada",
+    "mission3Title": "Soluções Personalizadas",
+    "mission3Desc": "Projetos de coberturas sob medida para atender suas necessidades arquitetônicas específicas",
+    "whyTitle": "Por que nos escolher",
+    "stat1Num": "10+",
+    "stat1Text": "Anos de Garantia",
+    "stat2Num": "200x",
+    "stat2Text": "Mais Resistente que o Vidro",
+    "stat3Num": "99%",
+    "stat3Text": "Proteção UV",
+    "stat4Num": "12",
+    "stat4Text": "Resistência ao Vento Grau 12"
+  },
+  "ProductRange": {
+    "title": "Nossa Gama de Produtos",
+    "desc": "Soluções abrangentes de coberturas para cada necessidade arquitetônica",
+    "items": {
+      "horizontal": {
+        "title": "Estilo Viga Horizontal",
+        "desc": "O estilo Viga Horizontal apresenta uma estrutura clássica de vigas cruzadas com aparência limpa e moderna. Oferece forte suporte e é ideal para varandas, janelas e entradas."
+      },
+      "suspended": {
+        "title": "Estilo Cabo Suspenso",
+        "desc": "O estilo Cabo Suspenso utiliza um sistema elegante de cabos de aço para sustentar a cobertura, criando um design leve e elegante. Esta solução que economiza espaço é especialmente adequada para toldos de janela."
+      },
+      "top_beam": {
+        "title": "Estilo Viga Superior",
+        "desc": "O estilo Viga Superior é suportado por vigas no topo, oferecendo excelente estabilidade e cobertura total. Esta estrutura é comumente usada para entradas de vilas, terraços ou grandes áreas de janelas."
+      },
+      "column": {
+        "title": "Estilo Suporte por Colunas",
+        "desc": "O estilo Suporte por Colunas possui colunas verticais na frente e atrás para máxima capacidade de carga. Esta cobertura cobre uma ampla área, sendo ideal para terraços, fachadas de lojas e estacionamentos residenciais."
+      },
+      "inner_corner": {
+        "title": "Estilo Canto Interno",
+        "desc": "O estilo Canto Interno é adaptado para junções de paredes internas, como varandas em L ou corredores. Proporciona excelente drenagem e abrigo estendido em espaços apertados."
+      },
+      "outer_corner": {
+        "title": "Estilo Canto Externo",
+        "desc": "O estilo Canto Externo é projetado para se ajustar aos ângulos externos de um edifício, estendendo a área de proteção perfeitamente. É perfeito para cobrir varandas de canto, fachadas de lojas ou passarelas externas."
+      },
+      "carport": {
+        "title": "Estilo Garagem",
+        "desc": "O estilo Garagem é especificamente projetado para proteger veículos do sol, chuva e detritos. Suportado por postes fortes e coberto com materiais duráveis, oferece excelente proteção."
+      },
+      "door_window": {
+        "title": "Estilo Toldo para Portas e Janelas",
+        "desc": "Este estilo é especificamente projetado para instalação acima de portas e janelas, proporcionando proteção eficaz contra chuva e luz solar direta. Compacto mas durável, mantém as entradas secas."
+      }
+    }
+  },
+  "Features": {
+    "title": "Características do Produto",
+    "subtitle": "Projetado para ter desempenho sob pressão — chuva, vento, neve e impactos.",
+    "items": {
+      "waterproof": {
+        "title": "Impermeável",
+        "desc": "Protege contra chuva, ferrugem, corrosão e danos superficiais — para proteção duradoura em qualquer clima."
+      },
+      "impact": {
+        "title": "Resistente a Impactos",
+        "desc": "Construído para suportar força e impacto de detritos em queda, garantindo integridade estrutural de longo prazo."
+      },
+      "wind": {
+        "title": "Proteção contra Vento",
+        "desc": "Estável e seguro contra ventos fortes, reduzindo oscilações e protegendo o que está abaixo."
+      },
+      "snow": {
+        "title": "Resistente a Carga de Neve",
+        "desc": "Projetado para suportar cargas pesadas de neve sem entortar ou rachar, mesmo em frio extremo."
+      }
+    }
+  },
+  "CustomService": {
+    "title": "Serviços de Design Personalizado",
+    "desc": "Cada projeto é único. Oferecemos personalização flexível para todos os componentes, atendendo às suas especificações exatas.",
+    "ariaLabel": "Parâmetros Personalizados",
+    "imageAlt": "Design e engenharia de cobertura personalizada",
+    "items": [
+      "Dimensões e acabamentos da estrutura de alumínio",
+      "Tamanhos e tonalidades dos painéis de policarbonato",
+      "Seleção de ferragens e acessórios",
+      "Embalagem e transporte profissionais",
+      "Desenhos técnicos e guias de instalação"
+    ]
+  },
+  "Specs": {
+    "title": "Especificações Técnicas",
+    "ariaLabel": "Tabela de Especificações Técnicas",
+    "data": {
+      "thickness": {
+        "label": "Espessura do Painel",
+        "value": "2mm – 8mm"
+      },
+      "frame": {
+        "label": "Material da Estrutura",
+        "value": "Alumínio 6063-T5"
+      },
+      "treatment": {
+        "label": "Tratamento de Superfície",
+        "value": "Pintura Eletrostática a Pó"
+      },
+      "wind": {
+        "label": "Resistência ao Vento",
+        "value": "120+ km/h"
+      },
+      "temp": {
+        "label": "Faixa de Temperatura",
+        "value": "-40°C a +120°C"
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Galeria de Aplicações",
+    "subtitle": "Instalações reais que demonstram versatilidade e beleza",
+    "ariaLabel": "Galeria de aplicações de projetos reais",
+    "items": {
+      "rooftop": {
+        "title": "Cobertura Moderna",
+        "desc": "Design elegante de telhado plano com painéis de alta transparência",
+        "btnText": "Explorar mais",
+        "imageAlt": "Cobertura moderna transparente com estrutura de alumínio para edifício residencial"
+      },
+      "carport": {
+        "title": "Garagem Residencial",
+        "desc": "Cobertura curva elegante que oferece sombra e proteção contra intempéries para carros",
+        "btnText": "Explorar mais",
+        "imageAlt": "Garagem residencial moderna com teto curvo transparente e SUV de luxo estacionado"
+      },
+      "sunroom": {
+        "title": "Jardim de Inverno Moderno",
+        "desc": "Estrutura transparente totalmente fechada oferece luz durante todo o ano",
+        "btnText": "Explorar mais",
+        "imageAlt": "Jardim de inverno abobadado totalmente fechado com painéis transparentes e vista para o campo"
+      }
+    }
+  },
+  "Faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre nossos toldos de policarbonato",
+    "ariaLabel": "Container de acordeão de perguntas frequentes",
+    "questions": [
+      {
+        "q": "O toldo pode ser personalizado para se adequar ao meu espaço?",
+        "a": "Sim! Oferecemos personalização completa em termos de dimensões, cores, espessura do painel e estilos de estrutura para aplicações residenciais ou comerciais. Basta nos enviar suas medidas e preferências."
+      },
+      {
+        "q": "O policarbonato é realmente mais resistente que o vidro?",
+        "a": "Absolutamente. As chapas de policarbonato são até 200 vezes mais resistentes que o vidro e praticamente inquebráveis. Também são mais leves e seguras em condições climáticas adversas, como granizo, vento e chuva forte."
+      },
+      {
+        "q": "O toldo bloqueia os raios UV?",
+        "a": "Sim, todos os nossos toldos possuem revestimentos resistentes a UV que bloqueiam mais de 99% da radiação UV prejudicial, protegendo seus móveis, portas e janelas contra danos solares."
+      },
+      {
+        "q": "Quanto tempo leva a instalação?",
+        "a": "A maioria das instalações leva algumas horas para um toldo de tamanho padrão. Fornecemos instruções fáceis de seguir e todos os acessórios necessários. Para projetos maiores ou comerciais, nossa equipe oferece suporte profissional de instalação."
+      },
+      {
+        "q": "Qual é a durabilidade do toldo em condições climáticas extremas?",
+        "a": "Nossos toldos de policarbonato são projetados para suportar fortes cargas de vento, chuva intensa e neve. Os suportes de liga de alumínio e as ferragens de aço inoxidável garantem durabilidade e resistência à corrosão a longo prazo."
+      },
+      {
+        "q": "Qual é o período de garantia?",
+        "a": "Oferecemos uma garantia limitada de 10 anos cobrindo defeitos de material, descoloração e desempenho estrutural. Detalhes completos da garantia estão disponíveis mediante solicitação."
+      },
+      {
+        "q": "Vocês oferecem preços por atacado para distribuidores ou construtores?",
+        "a": "Sim, oferecemos preços diferenciados por volume e serviços OEM/ODM para parceiros, empreiteiros e distribuidores. Entre em contato com nossa equipe de vendas para um orçamento personalizado."
+      },
+      {
+        "q": "Quais cores e acabamentos estão disponíveis?",
+        "a": "Nossos painéis de policarbonato estão disponíveis nos tons transparente, cinza, bronze e azul. As cores da estrutura incluem preto fosco, branco, prata e opções RAL personalizadas."
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "Depoimentos de Clientes",
+    "subtitle": "Confiado por clientes em todo o mundo pela qualidade e serviço",
+    "ariaLabel": "Seção de avaliações de clientes e classificações por estrelas",
+    "reviews": [
+      {
+        "name": "Eric Zhang",
+        "role": "Gerente de Projetos",
+        "company": "Hantai Construction Co.",
+        "country": "Austrália",
+        "text": "O toldo resistiu perfeitamente a uma forte tempestade logo após a instalação. O design de drenagem é inteligente e a estrutura de alumínio parece muito sólida. Com certeza usarei a PolyCanopy em projetos futuros."
+      },
+      {
+        "name": "Michael Robertson",
+        "role": "Incorporador Imobiliário",
+        "company": "ClearView Estates",
+        "country": "Estados Unidos",
+        "text": "O sistema de toldo superou nossas expectativas. Estrutura de alumínio resistente, visual moderno e limpo, e a instalação foi simples. Teve excelente desempenho nos ventos fortes recentes."
+      },
+      {
+        "name": "Ahmed Al-Mutairi",
+        "role": "Diretor Técnico",
+        "company": "Desert Shade Systems",
+        "country": "Emirados Árabes Unidos",
+        "text": "Excelente resistência ao calor e alta transparência. O toldo tem bom desempenho sob luz solar intensa, e a estrutura de alumínio não deforma nem desbota. Ideal para o clima do Golfo."
+      },
+      {
+        "name": "Sofia Martínez",
+        "role": "Arquiteta",
+        "company": "Línea Urbana S.A.",
+        "country": "Argentina",
+        "text": "Usamos a PolyCanopy em um projeto de café em cobertura em Buenos Aires. Os materiais são de primeira linha, especialmente o painel de policarbonato — muito claro e durável. Nossos clientes adoraram o resultado."
+      },
+      {
+        "name": "Lisa Chen",
+        "role": "Designer de Interiores",
+        "company": "Blossom Space Studio",
+        "country": "Singapura",
+        "text": "Excelente qualidade do material – especialmente o painel de policarbonato. A transparência é alta e muito mais seguro que vidro. Além disso, não precisamos nos preocupar com objetos caindo do andar de cima. Altamente recomendado!"
+      },
+      {
+        "name": "Thulani Mokoena",
+        "role": "Engenheiro de Obra",
+        "company": "BuildRight Solutions",
+        "country": "África do Sul",
+        "text": "A estrutura de alumínio é robusta e leve. Também apreciamos o design do sistema de calhas — muito útil durante as chuvas sazonais. Fica ótimo também em edifícios comerciais."
+      }
+    ]
+  },
+  "WhyChoose": {
+    "title": "Por que escolher a Polycanopy",
+    "subtitle": "Seu parceiro de confiança para soluções premium de coberturas",
+    "ariaLabel": "Seção de vantagens comerciais da empresa",
+    "items": {
+      "service": {
+        "title": "Atendimento Responsivo",
+        "desc": "Suporte ao cliente 24/7 com tempos de resposta rápidos para todas as consultas",
+        "ariaLabel": "Saiba mais sobre nosso processo de atendimento responsivo"
+      },
+      "custom": {
+        "title": "Parâmetros Personalizados",
+        "desc": "Opções flexíveis de personalização para atender às especificações exatas do seu projeto",
+        "ariaLabel": "Explore nossos parâmetros de especificação personalizados"
+      },
+      "export": {
+        "title": "Experiência em Exportação",
+        "desc": "Décadas de expertise em comércio internacional com capacidade de envio global",
+        "ariaLabel": "Revise nossas capacidades de exportação global"
+      },
+      "quote": {
+        "title": "Cotação Rápida",
+        "desc": "Precificação rápida e precisa com especificações técnicas detalhadas",
+        "ariaLabel": "Obtenha uma cotação técnica rápida agora"
+      }
+    }
+  },
+  "ProductDetail": {
+    "specsTitle": "Especificações do Produto",
+    "btnQuoteText": "Solicite seu Orçamento Gratuito",
+    "products": {
+      "retractable-telescopic-sunroom": {
+        "title": "Varanda Retrátil Telescópica",
+        "desc": "Projetada com alumínio de alta resistência 6063-T5 e policarbonato premium com camadas de coextrusão UV para conforto ao ar livre.",
+        "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+        "imageAlt": "Varanda Retrátil Telescópica instalada em terraço com design aberto",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Material da Estrutura",
+            "desc": "Liga de Alumínio 6063-T5 de Alta Resistência"
+          },
+          {
+            "id": 2,
+            "title": "Material da Cobertura",
+            "desc": "Chapa Sólida de Policarbonato (com coextrusão UV)"
+          },
+          {
+            "id": 3,
+            "title": "Operação",
+            "desc": "Deslizamento Telescópico Manual ou Motorizado"
+          }
+        ]
+      },
+      "stargazing-dome": {
+        "title": "Cúpula de Policarbonato para Observação de Estrelas",
+        "desc": "Uma vista imersiva de 360 graus para glamping, luxo em resorts e refeições ao ar livre.",
+        "image": "https://img.polycanopy.com/2025/07/polycarbonate-stargazing-dome-for-glamping.jpg",
+        "imageAlt": "Cúpula de Policarbonato para Observação de Estrelas para glamping e luxo ao ar livre",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Material Principal",
+            "desc": "Chapa Sólida de Policarbonato Premium"
+          },
+          {
+            "id": 2,
+            "title": "Estrutura Base",
+            "desc": "Base de Alumínio ou PC Integrado"
+          },
+          {
+            "id": 3,
+            "title": "Características",
+            "desc": "Transparente 360°, Resistente às Intempéries"
+          }
+        ]
+      }
+    }
+  },
+  "Footer": {
+    "quoteTitle": "Solicite um orçamento",
+    "quoteDesc": "Preencha seus dados abaixo com o produto que você precisa e entraremos em contato em até 24 horas",
+    "formName": "Seu nome",
+    "formPhone": "Seu telefone",
+    "formEmail": "Seu e-mail",
+    "formCountry": "País",
+    "btnSending": "Enviando...",
+    "btnSuccess": "Mensagem enviada!",
+    "btnFailed": "Falhou! Tente novamente",
+    "backToTop": "Voltar ao topo",
+    "formCountryPlaceholder": "De onde você é",
+    "formProducts": "Produtos",
+    "formUpload": "Carregar desenho técnico / layout do projeto",
+    "formSelectPlaceholder": "Selecionar da lista",
+    "formMessage": "Mensagem",
+    "formMessagePlaceholder": "Escreva uma mensagem",
+    "formSubmit": "Enviar agora",
+    "optWindow": "Cobertura para Janela",
+    "optDoor": "Cobertura para Porta",
+    "optCarport": "Garagem / Cobertura para Carro",
+    "optDome": "Cobertura em Domo",
+    "optSunroom": "Jardim de Inverno / Estufa",
+    "optCustomize": "Serviços de Design Personalizado",
+    "optWholesales": "Atacado / Distribuição",
+    "nlTitle": "Assine nossa newsletter para receber as últimas novidades sobre tecnologia de coberturas e desenvolvimentos do setor",
+    "nlPlaceholder": "E-mail",
+    "nlSubmit": "Inscrever-se",
+    "profileTitle": "Cobertura premium de policarbonato",
+    "profileDesc": "A PolyCanopy oferece coberturas de policarbonato de alta qualidade e personalizáveis, projetadas para espaços residenciais e comerciais. Desfrute de proteção durável com design elegante, feito para estilos de vida modernos.",
+    "profileReadMore": "Leia mais",
+    "contactTitle": "Informações de Contato",
+    "contactTel": "Tel: +86 13420298302",
+    "contactAddress": "Endereço: Província de Guangdong, China",
+    "termsTitle": "Termos e Condições",
+    "termsPrivacy": "Política de Privacidade",
+    "termsReturn": "Política de Devolução",
+    "exploreTitle": "EXPLORE NOSSAS PROPRIEDADES",
+    "explorePost1Title": "Por que a Chapa Sólida de Policarbonato de 3mm é o Material Ideal para Coberturas",
+    "explorePost2Title": "Protegendo sua Estrutura: Um Guia para Sistemas de Ancoragem em Áreas de Ventos Fortes",
+    "copyright": "© Polycanopy Todos os Direitos Reservados."
+  },
+  "ProductsDetail": {
+    "featuresTitle": "Recursos Avançados de Engenharia de Alto Desempenho",
+    "featuresSub": "A fabricação de precisão garante durabilidade de longo prazo contra elementos extremos.",
+    "framingTitle": "Excelência em Estrutura — Liga de Alumínio de Grau Arquitetônico",
+    "panelsTitle": "Painéis de Policarbonato Premium",
+    "precisionTitle": "Detalhes Estruturais de Precisão que Importam",
+    "profilesTitle": "Modelos e Opções de Perfis Estruturais de Alumínio",
+    "profilesDesc": "Escolha a espinha dorsal estrutural adequada com base no seu vão livre de engenharia e nas diretrizes regionais de carga de vento. Oferecemos opções de fabricação de perfis personalizados para atender a requisitos de alta densidade.",
+    "galleryTitle": "Galeria de Casos de Projeto",
+    "ctaTitle": "Pronto para se aprofundar em métricas de engenharia ou personalizar seus layouts?",
+    "ctaDesc": "Baixe nosso manual arquitetônico ou fale diretamente com nossa divisão global de engenharia de vendas via mensageiro instantâneo ao vivo.",
+    "trustedTitle": "Confiado por Profissionais Industriais em Todo o Mundo"
+  },
+  "FloatingWidget": {
+  "wechatHover": "Copiar ID do WeChat",
+  "copied": "Copiado!",
+  "waMessage": "Olá, visitei o seu site e estou interessado nos seus produtos de coberturas de policarbonato. Da página: ",
+  "emailSubject": "Consulta sobre soluções de coberturas e toldos de policarbonato",
+  "emailBody1": "Olá equipe de vendas da PolyCanopy, estou navegando no seu site e gostaria de obter um catálogo e tabela de preços. URL: ",
+  "emailBody2": "",
+  "toastMsg": "ID do WeChat copiado com sucesso!",
+  "ariaCloseCta": "Fechar menu de contato",
+  "ariaToggle": "Contate-nos",
+  "ariaEmail": "Enviar consulta por e-mail",
+  "ariaWechat": "Copiar conta do WeChat",
+  "ariaMessenger": "Conversar no Messenger",
+  "ariaWhatsapp": "Conversar no WhatsApp"
+},
+  "PrivacyPolicy": {
+    "title": "Política de Privacidade",
+    "effectiveDate": "Data de Vigência: 20 de julho de 2025",
+    "intro": "Obrigado por visitar a PolyCanopy. Esta Política de Privacidade explica como coletamos, usamos e protegemos seus dados pessoais quando você interage com nosso site, solicita informações ou envia documentos relacionados a projetos. Valorizamos sua privacidade e estamos comprometidos em proteger as informações que você compartilha conosco.",
+    "section1Title": "1. Quais Dados Pessoais Coletamos",
+    "section1Content": "Coletamos dados pessoais que você fornece voluntariamente por meio dos formulários de contato ou canais de comunicação do nosso site. Isso pode incluir:\n• Nome completo\n• Endereço de e-mail\n• Número de telefone\n• País ou região\n• Nome da empresa (opcional)\n• Conteúdo da mensagem ou consulta\n• Arquivos enviados (ex.: desenhos, requisitos, especificações do projeto)\n• Dados técnicos não pessoais, como endereço IP, tipo de navegador e visitas a páginas (apenas para análise)",
+    "section2Title": "2. Finalidade da Coleta de Dados",
+    "section2Content": "Usamos os dados coletados para as seguintes finalidades:\n• Responder às suas consultas ou solicitações de orçamento\n• Analisar as necessidades do seu projeto e fornecer soluções de produtos adequadas\n• Comunicar-nos com você para acompanhamentos ou consultas técnicas\n• Melhorar a funcionalidade do nosso site e a experiência do cliente\n• Cumprir obrigações legais ou regulatórias aplicáveis",
+    "section3Title": "3. Como Armazenamos e Protegemos Suas Informações",
+    "section3Content": "Suas informações são armazenadas com segurança em sistemas protegidos por senha. O acesso é limitado a pessoal autorizado da PolyCanopy que necessite das informações para atender sua solicitação ou apoiar seu projeto.\nTomamos medidas técnicas e organizacionais adequadas para evitar acesso não autorizado, perda ou uso indevido dos seus dados.",
+    "section4Title": "4. Confidencialidade dos Arquivos Enviados",
+    "section4Content": "Quaisquer arquivos que você enviar (como desenhos CAD, documentos de projeto ou especificações) são tratados como confidenciais. Esses materiais não serão compartilhados ou distribuídos sem sua permissão e são usados apenas internamente para revisar os requisitos do seu projeto.",
+    "section5Title": "5. Retenção de Dados",
+    "section5Content": "Mantemos os dados pessoais apenas pelo tempo necessário para cumprir as finalidades descritas nesta política, a menos que um período de retenção mais longo seja exigido por lei. Por exemplo:\n• Consultas e registros de contato: retidos por até 2 anos para fins de acompanhamento\n• Arquivos enviados: armazenados com segurança e excluídos mediante sua solicitação\n• Comunicações por e-mail: retidas como parte de nossa correspondência comercial, a menos que a exclusão seja solicitada",
+    "section6Title": "6. Compartilhamos Seus Dados?",
+    "section6Content": "Não. Não vendemos, alugamos ou trocamos seus dados pessoais com terceiros. Podemos compartilhar suas informações apenas nos seguintes casos:\n• Quando exigido por lei (ex.: solicitações governamentais, cumprimento da lei aplicável)\n• Com prestadores de serviços confiáveis que nos auxiliam na operação do nosso site (sob obrigações de confidencialidade)",
+    "section7Title": "7. Cookies e Tecnologias de Rastreamento",
+    "section7Content": "Atualmente, não usamos cookies para fins de publicidade ou criação de perfis. No entanto, podemos usar ferramentas básicas de análise (ex.: Google Analytics) para coletar dados anônimos sobre como os visitantes interagem com nosso site. Isso nos ajuda a melhorar o design do site e a experiência do usuário. Você pode desativar os cookies nas configurações do seu navegador.",
+    "section8Title": "8. Seus Direitos de Dados",
+    "section8Content": "Dependendo do seu país ou jurisdição, você pode ter o direito de:\n• Acessar seus dados pessoais\n• Solicitar correção ou exclusão dos seus dados\n• Retirar o consentimento para o processamento de dados\n• Solicitar uma cópia dos dados que mantemos sobre você\nPara exercer esses direitos, entre em contato conosco pelo e-mail sales@polycanopy.com",
+    "section9Title": "9. Links de Terceiros",
+    "section9Content": "Nosso site pode conter links para sites externos (como WhatsApp, YouTube ou mídias sociais). Não somos responsáveis pelas práticas de privacidade desses sites. Recomendamos que você revise suas políticas de privacidade antes de fornecer qualquer dado pessoal.",
+    "section10Title": "10. Alterações a Esta Política",
+    "section10Content": "Podemos atualizar esta Política de Privacidade periodicamente para refletir mudanças nos requisitos legais ou em nossas práticas. A versão mais recente será sempre publicada nesta página com uma data de vigência revisada.",
+    "section11Title": "11. Fale Conosco",
+    "section11Content": "Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade ou seus dados, entre em contato conosco:\nE-mail: sales@polycanopy.com\nSite: www.polycanopy.com"
+  },
+  "ReturnPolicy": {
+    "title": "Política de Devolução e Reembolso",
+    "effectiveDate": "Data de Vigência: 20 de julho de 2025",
+    "intro": "Na PolyCanopy, projetamos e fabricamos sistemas de coberturas, pérgolas e estruturas arquitetônicas sob medida, adaptadas às necessidades específicas de cada cliente. Devido à natureza personalizada de nossos produtos, nossa política de devolução e reembolso difere das lojas de comércio eletrônico padrão. Por favor, revise os seguintes termos cuidadosamente antes de fazer seu pedido.",
+    "section1Title": "1. Política de Produtos Personalizados",
+    "section1Content": "Todos os nossos produtos são fabricados sob medida de acordo com suas especificações, incluindo dimensões, seleção de materiais, acabamento e tipo de estrutura. Como tal, não podemos aceitar devoluções ou oferecer reembolsos por motivos como:\n• Mudança de ideia após a confirmação do pedido\n• Medidas incorretas ou dados do projeto fornecidos pelo cliente\n• Problemas de ajuste inesperados não relacionados a defeitos do produto\nRecomendamos fortemente revisar todas as especificações, desenhos e requisitos com nossa equipe antes de finalizar seu pedido.",
+    "section2Title": "2. Modificações e Cancelamentos de Pedidos",
+    "section2Content": "Você pode solicitar uma modificação ou cancelamento do seu pedido dentro de 48 horas após a confirmação do pedido e antes do início da produção. Uma vez que a fabricação tenha começado, não podemos modificar ou cancelar o pedido, e as taxas de produção integral serão aplicadas.",
+    "section3Title": "3. Mercadorias Danificadas ou Defeituosas",
+    "section3Content": "Se seus produtos chegarem danificados durante o transporte ou contiverem defeitos de fabricação, notifique-nos dentro de 48 horas após o recebimento. Para registrar uma reclamação, envie o seguinte para sales@polycanopy.com:\n• Número do pedido ou fatura\n• Fotos nítidas do dano ou defeito\n• Descrição do problema e dos componentes afetados\nApós a confirmação, ofereceremos uma solução adequada, como peças de reposição, kits de reparo ou reembolsos parciais, dependendo da gravidade do problema. Nos casos em que a substituição for necessária, a PolyCanopy cobrirá o custo do frete.",
+    "section4Title": "4. Elegibilidade para Devolução",
+    "section4Content": "Não aceitamos devoluções de produtos personalizados concluídos. No entanto, em certos casos aprovados (por exemplo, acessórios não personalizados enviados por engano), as devoluções podem ser organizadas sujeitas às seguintes condições:\n• A solicitação de devolução é feita dentro de 7 dias após a entrega\n• Os produtos devem estar não utilizados, sem danos e devolvidos na embalagem original ou equivalente\n• Os custos de frete de devolução são de responsabilidade do cliente",
+    "section5Title": "5. Cobertura de Garantia",
+    "section5Content": "Os produtos PolyCanopy são cobertos por uma garantia estrutural limitada. Os termos da garantia variam de acordo com o tipo de produto e serão confirmados durante a cotação. Desgaste normal, uso indevido, instalação inadequada ou danos relacionados ao clima não são cobertos. Por favor, mantenha todos os documentos técnicos para referência de garantia.",
+    "section6Title": "6. Força Maior",
+    "section6Content": "A PolyCanopy não será responsabilizada por atrasos ou incapacidade de cumprir pedidos devido a eventos fora de nosso controle, incluindo, mas não se limitando a desastres naturais, interrupções de transporte ou escassez de fornecedores.",
+    "section7Title": "7. Informações de Contato",
+    "section7Content": "Se você tiver dúvidas sobre nossa política de devolução ou garantia, entre em contato com nossa equipe de suporte:\nPolyCanopy\nE-mail: sales@polycanopy.com\nSite: www.polycanopy.com"
+  }
+}

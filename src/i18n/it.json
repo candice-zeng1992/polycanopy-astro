@@ -1,0 +1,691 @@
+{
+  "ProductsHero": {
+    "title": "Sistemi di Tettoie in Policarbonato e Alluminio",
+    "featuredSolutions": "Le Nostre Soluzioni in Evidenza",
+    "viewDetails": "Visualizza Dettagli",
+    "subtitle": "Soluzioni per tettoie su misura, durevoli ed eleganti",
+    "imageAlt": "Schema dimensionale dettagliato di una tettoia per auto in policarbonato con telai strutturali ad alta resistenza e sistema di grondaie per drenaggio acqua",
+    "imageTitle": "Dimensioni Tecniche Polycanopy della Tettoia per Auto in Policarbonato"
+  },
+  "ProductSpecs": {
+    "title": "Specifiche del Prodotto",
+    "spec1Title": "Personalizzazione",
+    "spec1Desc": "Specifiche su ordinazione",
+    "spec2Title": "Origine",
+    "spec2Desc": "Prodotto in Cina",
+    "spec3Title": "Garanzia",
+    "spec3Desc": "30 anni di vita utile",
+    "spec4Title": "Materiale del Telaio",
+    "spec4Desc": "Lega di alluminio premium"
+  },
+  "MaterialIntro": {
+    "title": "Introduzione ai Materiali",
+    "frameHeading": "Telaio in Lega di Alluminio: Costruzione ad Alta Resistenza",
+    "frameDesc": "Profili in alluminio ad elevata durezza e tenacità che resistono facilmente a tifoni e condizioni meteorologiche avverse.",
+    "panelHeading": "Pannelli in Policarbonato",
+    "zoomTipFrame": "🔍 Clicca per Ingrandire il Dettaglio del Profilo",
+    "zoomTipPanel": "🔍 Clicca per Ingrandire il Dettaglio della Lastra",
+    "panelDesc": "Materie prime premium Bayer o SABIC con adeguata protezione UV. Pannelli in policarbonato garantiti per oltre 10 anni di servizio.",
+    "color_champagne": "Champagne",
+    "color_white": "Bianco",
+    "color_gray": "Grigio",
+    "color_coffee": "Caffè",
+    "color_bronze": "Bronzo",
+    "color_black": "Nero",
+    "aria_frame_btn": "Cambia immagine di anteprima del telaio al colore {color}",
+    "aria_panel_btn": "Cambia immagine di anteprima del pannello in policarbonato al colore {color}",
+    "alt_frame_champagne": "Opzione colore telaio in alluminio per tettoia in policarbonato in elegante finitura champagne",
+    "alt_frame_white": "Opzione colore telaio in alluminio per tettoia in policarbonato in finitura bianco pulito",
+    "alt_frame_gray": "Opzione colore telaio in alluminio per tettoia in policarbonato in finitura grigio moderno",
+    "alt_frame_coffee": "Opzione colore telaio in alluminio per tettoia in policarbonato in finitura caffè classico",
+    "alt_panel_bronze": "Lastre piene in policarbonato color bronzo premium per protezione della tettoia",
+    "alt_panel_white": "Lastre piene in policarbonato traslucido bianco premium per illuminazione soffusa",
+    "alt_panel_gray": "Lastre piene in policarbonato color grigio premium per design architettonico moderno",
+    "alt_panel_black": "Lastre piene in policarbonato color nero premium per ombreggiatura massima"
+  },
+  "ProductAnalysis": {
+    "sectionTitle": "Analisi del Prodotto",
+    "systemDesc": "Il sistema di pensiline in policarbonato include staffe a parete, telaio centrale rinforzato, colonne rinforzate, pluviali, grondaie e vari colori di pannelli in policarbonato massiccio, pannelli a particelle diamantate o pannelli a particelle di goccia.",
+    "whyTitle": "Perché Scegliere Lastre in Policarbonato di Alta Qualità?",
+    "whyDesc1": "Nei progetti di pensiline e lucernari, non è la struttura in acciaio, ma il pannello a determinare la longevità. Lastre di bassa qualità possono ingiallire, creparsi o perdere entro pochi anni, portando a costose sostituzioni.",
+    "whyDesc2": "Il nostro policarbonato premium presenta uno strato coestruso UV su un lato, preservando la trasparenza e la durata per oltre 10 anni.",
+    "whyDesc3": "Scegli la qualità fin dall'inizio — Risparmia sulla manutenzione e goditi la tranquillità.",
+    "altSystemImg": "Vista esplosa della struttura della pensilina con componenti etichettati",
+    "altCompareImg": "Confronto tra lastre in policarbonato di alta e bassa qualità"
+  },
+  "ProductFeatures": {
+    "sectionTitle": "Caratteristiche del prodotto",
+    "badge1": "Resistente alla corrosione",
+    "badge2": "Facile manutenzione",
+    "badge3": "Trasmissione della luce",
+    "badge4": "Design elegante",
+    "badge5": "Isolamento acustico",
+    "mainFeatAlt": "Caratteristiche della pensilina in policarbonato progettate per resistere a carichi di neve, protezione UV, vento e pioggia, e urti",
+    "mainFeatZoomTip": "🔍 Clicca per visualizzare la mappa completa delle caratteristiche",
+    "subHeading": "Prestazioni estreme e test rigorosi",
+    "subDesc": "Scopri come le nostre strutture affrontano le sfide reali più estreme",
+    "testLabel": "Test di prestazione",
+    "feat1Title": "Elevata resistenza agli urti",
+    "feat1Desc": "Elevata resistenza agli urti con lastre in policarbonato importate dalla Germania, che offrono una resistenza all'impatto da 200 a 300 volte superiore rispetto al vetro normale. Comunemente noto come 'vetro infrangibile' o 'trasparenza simile all'acciaio'.",
+    "feat1Alt": "Martello che colpisce un pannello in policarbonato dimostrando l'elevata resistenza agli urti",
+    "feat2Title": "Altamente flessibile, resistente e versatile",
+    "feat2Desc": "Robusto e modellabile, i pannelli sono facili da installare e possono essere curvati a freddo in strutture ad arco o a cupola.",
+    "feat2Alt": "Persona che piega una lastra in policarbonato per dimostrarne l'eccellente flessibilità",
+    "feat3Title": "Resistente al fuoco",
+    "feat3Desc": "Ispezionato dall'Ufficio di supervisione della qualità dei materiali da costruzione antincendio della Cina e conforme alla norma GB8624-1997, il pannello in policarbonato ha raggiunto la classe B1 di resistenza alla fiamma.",
+    "feat3Alt": "Fiamma di un accendino che testa la proprietà ritardante di fiamma del pannello in policarbonato",
+    "feat4Title": "Protezione UV ad alta efficienza",
+    "feat4Desc": "La pensilina utilizza pannelli in policarbonato importati dalla Germania che bloccano i raggi ultravioletti, resistono alle alte temperature e aiutano a ridurre il calore interno. Trattati con uno strato coestruso UV su un lato, i pannelli isolano efficacemente dal calore e bloccano le radiazioni UV esterne, garantendo la sicurezza per te e la tua famiglia.",
+    "feat4Alt": "Pensilina in policarbonato sotto la luce solare che dimostra la protezione UV",
+    "feat5Title": "Sistema di drenaggio indipendente",
+    "feat5Desc": "Durante la stagione delle piogge, il sistema di drenaggio garantisce un flusso d'acqua regolare senza ostruzioni o schizzi. Risolve efficacemente problemi come accumulo e traboccamento d'acqua durante forti piogge. Il design della grondaia allargata consente un drenaggio più rapido.",
+    "feat5Alt": "Vista ravvicinata del sistema di grondaia indipendente con un pluviale curvo sulla pensilina in policarbonato",
+    "feat6Title": "Sistema di drenaggio indipendente ad alto flusso",
+    "feat6Desc": "Durante la stagione delle piogge, il sistema di drenaggio garantisce un flusso d'acqua regolare senza ostruzioni o schizzi. Risolve efficacemente problemi come accumulo e traboccamento d'acqua durante forti piogge. Il design della grondaia allargata consente un drenaggio più rapido.",
+    "feat6Alt": "Sistema di drenaggio potenziato con un pluviale esteso e una sezione di grondaia allargata per un migliore flusso d'acqua sulla pensilina in policarbonato",
+    "feat7Title": "Profili in lega di alluminio ad alta resistenza",
+    "feat7Desc": "Resiste all'impatto di tifoni di categoria 12 con eccezionale resilienza. La superficie è trattata con verniciatura elettrostatica a polvere per un'eccellente resistenza alla corrosione.",
+    "feat7Sub1": "◆ Ispessito e rinforzato",
+    "feat7Sub2": "◆ Resistente all'accumulo di neve",
+    "feat7Alt": "Pensilina in policarbonato installata in una zona con forti nevicate, che mostra le prestazioni di resistenza alla neve e la costruzione dettagliata in lega di alluminio",
+    "feat8Title": "Facile installazione con accessori completi",
+    "feat8Desc": "Struttura modulare per un montaggio semplice, con travi di supporto ad alta resistenza e tecnologia di installazione rapida specializzata che fa risparmiare tempo e fatica.",
+    "feat8Alt": "Collage di installazione passo-passo che mostra staffe, pannelli e configurazione finale della pensilina in policarbonato, evidenziando il semplice processo di assemblaggio"
+  },
+  "PremiumMaterials": {
+    "title": "I materiali di qualità fanno la differenza",
+    "desc": "Lega di alluminio titanio-magnesio di grado aerospaziale con tecnologia di rivestimento avanzata e materiale in policarbonato Bayer tedesco garantiscono prestazioni durature senza invecchiamento.",
+    "mat1Label": "Lega di alluminio ad alta resistenza",
+    "mat2Label": "Lastra in policarbonato Bayer tedesco",
+    "imgAlt": "Panoramica dei materiali del sistema di pensiline in policarbonato e alluminio premium: profili di grado aerospaziale e dettaglio della lastra vergine Bayer tedesca"
+  },
+  "ChooseUs": {
+    "heading": "Scegli noi per la tranquillità",
+    "tagline": "Una tettoia di qualità fa la differenza",
+    "lifespanLabel": "Vita utile normale: 30 anni",
+    "lifespanValue": "Ne vale davvero la pena",
+    "g1Title": "Standard di qualità internazionali",
+    "g1Detail": "Profilo BG/T3190 6063 – Conforme allo standard internazionale 6063",
+    "g2Title": "Materiali Bayer tedeschi",
+    "g2Detail": "Lastra in policarbonato – Resistente agli urti, fonoassorbente, isolante termico, ritardante di fiamma",
+    "g3Title": "Misurazione e installazione guidate",
+    "g3Detail": "Disponibile in tutto il mondo – Misurazione diretta, personalizzazione, consegna, installazione e assistenza post-vendita",
+    "g4Title": "Servizio post-vendita senza preoccupazioni",
+    "g4Detail": "Garanzia estesa",
+    "g5Title": "Garanzia di qualità",
+    "g5Detail": ""
+  },
+  "Service": {
+    "hero": {
+      "heading": "I Nostri Servizi",
+      "subtitle": "Non siamo solo una fabbrica, ma il vostro partner fornitore affidabile impegnato nell'eccellenza",
+      "card1Title": "Produttore Diretto",
+      "advantageLabel": "VANTAGGIO",
+      "card1Desc": "Direttamente dalla fabbrica, garantendo i migliori prezzi e controllo qualità",
+      "card2Title": "Business Onesto",
+      "card2Desc": "Operazioni basate sull'integrità con processi trasparenti e partnership affidabili",
+      "card3Title": "Personalizzazione Professionale",
+      "card3Desc": "Soluzioni su misura secondo le specifiche e i requisiti del cliente",
+      "card4Title": "Esportazione Professionale",
+      "card4Desc": "Alla ricerca dell'eccellenza nella qualità del prodotto e del servizio per i mercati globali"
+    },
+    "process": {
+      "title": "Processo di Personalizzazione",
+      "step1": "Consulenza",
+      "step2": "Definizione Stile",
+      "step3": "Conferma Soluzione",
+      "step4": "Pagamento Acconto",
+      "step5": "Produzione",
+      "step6": "Saldo Finale",
+      "step7": "Spedizione",
+      "step8": "Ricevimento Cliente",
+      "step9": "Assistenza Post-vendita Senza Preoccupazioni"
+    },
+    "factory": {
+      "title": "Policarbonato e Alluminio",
+      "subtitle": "Scopri come produciamo e lavoriamo le nostre lastre in policarbonato e le strutture in alluminio con attrezzature all'avanguardia e un rigoroso controllo qualità.",
+      "pcHeading": "Produzione Lastre in Policarbonato",
+      "pcDesc": "Le nostre lastre in policarbonato sono prodotte utilizzando materie prime vergini Bayer/SABIC importate dalla Germania con additivi anti-UV. Utilizziamo linee di co-estrusione OMIPA avanzate per una qualità superiore delle lastre, un controllo preciso dello spessore e prestazioni durature.",
+      "pcZoomTip": "🔍 Clicca per vedere i dettagli di produzione",
+      "pcImg1Alt": "Resina di policarbonato premium e additivi di protezione UV di Bayer o SABIC",
+      "pcImg2Alt": "Controllo qualità in tempo reale sulla linea di estrusione OMIPA italiana che produce lastre di policarbonato solido trasparente",
+      "pcImg3Alt": "Alimentazione di precisione del sistema OMIPA e tecnologia avanzata di co-estrusione UV per una qualità costante delle lastre",
+      "alHeading": "Struttura in Alluminio e Assemblaggio",
+      "alDesc": "I nostri profili in lega di alluminio sono estrusi con precisione da materiale aerospaziale 6063-T5. L'officina di assemblaggio dedicata garantisce che ogni struttura del telaio soddisfi rigorosi standard di qualità prima dell'imballaggio e della spedizione globale.",
+      "alZoomTip": "🔍 Clicca per vedere i dettagli dell'officina",
+      "alImg1Alt": "Tubi e profili in alluminio di alta qualità immagazzinati in un'area di magazzino organizzata",
+      "alImg2Alt": "Strutture del telaio in alluminio assemblate per il sistema di tettoie in policarbonato nell'officina",
+      "alImg3Alt": "Stoccaggio e preparazione alla consegna dei telai in alluminio prima dell'imballaggio e della spedizione"
+    }
+  },
+  "Contact": {
+    "MapSection": {
+      "heading": "Eccellenza nella Supply Chain Globale e nell'Ingegneria",
+      "sub": "Direttamente dal nostro avanzato stabilimento produttivo in Guangdong, Cina, verso cantieri architettonici in tutto il mondo.",
+      "mapTitle": "Posizione della Fabbrica"
+    },
+    "metaTitle": "Contatta PolyCanopy - Esperto in Verande e Tettoie Personalizzate",
+    "metaDesc": "Mettiti in contatto con PolyCanopy, il tuo partner affidabile per verande retrattili di alta qualità, sistemi di tettoie telescopiche, recinzioni esterne personalizzate.",
+    "heroTitle": "Contatta PolyCanopy",
+    "heroSub": "Parliamo del tuo Progetto",
+    "helpPre": "Come possiamo",
+    "helpHighlight": "aiutarti?",
+    "phoneTitle": "Telefono",
+    "phoneVal": "+86 13420298302",
+    "addressTitle": "Il Nostro Indirizzo",
+    "addressVal": "Provincia del Guangdong, Cina",
+    "emailTitle": "Email",
+    "emailVal": "sales@polycanopy.com",
+    "formTitlePre": "Scrivici",
+    "formTitleBold": "un messaggio",
+    "fName": "NOME COMPLETO",
+    "pName": "Il tuo nome completo",
+    "fEmail": "INDIRIZZO EMAIL",
+    "pEmail": "Il tuo indirizzo email",
+    "fWho": "CHI SEI",
+    "pWho": "Sei un privato o un'azienda?",
+    "fCountry": "PAESE",
+    "pCountry": "Da dove vieni",
+    "fProductLabel": "SCEGLI PRODOTTO",
+    "optDefault": "Seleziona dalla lista",
+    "fMessage": "MESSAGGIO",
+    "pMessage": "Il tuo messaggio",
+    "fPhone": "TELEFONO (OPZIONALE)",
+    "pPhone": "Il tuo numero di telefono",
+    "fCompany": "AZIENDA (OPZIONALE)",
+    "successTitle": "Grazie per la tua Richiesta!",
+    "successDesc": "Il nostro team professionale analizzerà le tue specifiche architettoniche e ti ricontatterà con un preventivo personalizzato entro 24 ore.",
+    "btnClose": "Chiudi Finestra",
+    "optWindow": "Tettuccio per Finestra",
+    "optDoor": "Tettuccio per Porta",
+    "optCarport": "Posto Auto Coperto",
+    "optDome": "Cupola per Osservazione Stellare",
+    "optSunroom": "Veranda",
+    "optCustomize": "Personalizza",
+    "optWholesales": "Vendita all'Ingrosso",
+    "pCompany": "Nome della tua Azienda",
+    "btnSubmit": "INVIA",
+    "turnstileSiteKey": "0x4AAAAAACBUDH3G7cEg5mCH",
+    "heroAlt": "Cupola per osservazione stellare in policarbonato colorato che brilla di notte, ideale per banner di progetti architettonici",
+    "parkingAlt": "Struttura massiccia in policarbonato installata all'uscita di un parcheggio, che offre ampia copertura e design moderno",
+    "windowAlt": "Tettuccio in policarbonato installato davanti a una finestra, che offre una protezione silenziosa ed elegante dalla pioggia",
+    "turnstileError": "Verifica di sicurezza fallita, riprova."
+  },
+  "Blog": {
+    "metaTitle": "Blog & Approfondimenti - PolyCanopy",
+    "metaDesc": "Scopri i nostri ultimi articoli, guide all'installazione e approfondimenti tecnici sulle soluzioni in policarbonato per tettoie.",
+    "heroTitle": "Knowledge Base e Approfondimenti",
+    "readMore": "Leggi l'articolo completo →",
+    "dateFormat": "it-IT",
+    "heroAlt": "Tettoria in policarbonato blu con struttura in alluminio bianco installata all'esterno sotto un cielo azzurro luminoso",
+    "heroSub": "Guide professionali, analisi tecniche e tendenze di design per soluzioni in policarbonato."
+  },
+  "Common": {
+    "factoryDirect": "Direttamente dalla fabbrica",
+    "viewDetails": "Visualizza dettagli",
+    "home": "Home",
+    "blog": "Blog",
+    "toc": "In questa pagina"
+  },
+  "Header": {
+    "home": "Home",
+    "products": "Prodotti",
+    "service": "Servizio",
+    "blog": "Blog",
+    "contact": "Contatto",
+    "language": "Lingua",
+    "logoAlt": "Polycanopy - Produttore di pensiline in policarbonato premium",
+    "homeAlt": "Vai alla home page",
+    "navLabel": "Navigazione principale",
+    "langSwitcher": "Selettore di lingua",
+    "switchEn": "Passa a Inglese",
+    "switchZh": "Passa a Cinese",
+    "switchAr": "Passa a Arabo",
+    "switchDe": "Passa a Tedesco",
+    "switchEs": "Passa a Spagnolo",
+    "switchPt": "Passa a Portoghese",
+    "switchFr": "Passa a Francese",
+    "switchRu": "Passa a Russo",
+    "switchJa": "Passa a Giapponese",
+    "switchIt": "Passa a Italiano",
+    "switchKo": "Passa a Coreano"
+  },
+  "Hero": {
+    "titlePrefix": "Tettoie ",
+    "titleHighlight": "in Policarbonato",
+    "titleSuffix": " Premium",
+    "subtitle": "Progettate per la Durabilità, Ideate per i Momenti Belli della Vita",
+    "desc": "Scopri il perfetto connubio tra resistenza ed eleganza con le nostre soluzioni premium per tettoie in policarbonato. Costruite per durare oltre un decennio, migliorando il tuo stile di vita.",
+    "btnText": "Scopri la nostra soluzione",
+    "btnAriaLabel": "Vai alla pagina dei prodotti per scoprire le nostre soluzioni per tettoie in policarbonato",
+    "imageAlt": "Tettoria premium in policarbonato che crea uno spazio abitativo esterno confortevole",
+    "imageTitle": "Polycanopy Soluzioni Premium per Tettoie da Esterno"
+  },
+  "About": {
+    "title": "Chi Siamo Polycanopy",
+    "desc": "Leader nel settore con soluzioni innovative per tettoie in policarbonato, che uniscono l'eccellenza dell'ingegneria tedesca a decenni di esperienza nell'esportazione.",
+    "missionTitle": "La Nostra Missione e i Nostri Valori",
+    "mission1Title": "Materiali di Qualità Premium",
+    "mission1Desc": "Lastre in policarbonato Bayer tedesco con garanzia di oltre 10 anni",
+    "mission2Title": "Eccellenza nell'Esportazione",
+    "mission2Desc": "Azienda di commercio internazionale esperta con consegne globali comprovate",
+    "mission3Title": "Soluzioni Personalizzate",
+    "mission3Desc": "Progetti di tettoie su misura per soddisfare i vostri specifici requisiti architettonici",
+    "whyTitle": "Perché Sceglierci",
+    "stat1Num": "10+",
+    "stat1Text": "Anni di Garanzia",
+    "stat2Num": "200x",
+    "stat2Text": "Più Resistente del Vetro",
+    "stat3Num": "99%",
+    "stat3Text": "Protezione UV",
+    "stat4Num": "12",
+    "stat4Text": "Resistenza al Vento Grado 12"
+  },
+  "ProductRange": {
+    "title": "La Nostra Gamma di Prodotti",
+    "desc": "Soluzioni complete per pensiline per ogni esigenza architettonica",
+    "items": {
+      "horizontal": {
+        "title": "Stile a Trave Orizzontale",
+        "desc": "La pensilina a trave orizzontale presenta una struttura classica a travatura incrociata con un aspetto pulito e moderno. Offre un forte supporto ed è ideale per balconi, finestre e ingressi."
+      },
+      "suspended": {
+        "title": "Stile a Cavi Sospesi",
+        "desc": "Lo stile a cavi sospesi utilizza un sistema di cavi d'acciaio elegante per sostenere la pensilina dall'alto, creando un design leggero ed elegante. Questa soluzione salvaspazio è particolarmente adatta per tende da finestra."
+      },
+      "top_beam": {
+        "title": "Stile a Trave Superiore",
+        "desc": "La pensilina a trave superiore è sostenuta da travi nella parte superiore, offrendo eccellente stabilità e copertura totale. Questa struttura è comunemente utilizzata per ingressi di ville, terrazze o ampie aree finestrate."
+      },
+      "column": {
+        "title": "Stile a Supporto su Colonna",
+        "desc": "Lo stile a supporto su colonna presenta colonne verticali anteriori e posteriori per la massima capacità di carico. Questa pensilina copre un'ampia area, rendendola ideale per terrazze, vetrine e tettoie residenziali."
+      },
+      "inner_corner": {
+        "title": "Stile per Angolo Interno",
+        "desc": "La pensilina per angolo interno è progettata su misura per giunzioni di pareti interne, come balconi a L o passaggi. Offre un eccellente drenaggio e una protezione estesa in spazi ristretti."
+      },
+      "outer_corner": {
+        "title": "Stile per Angolo Esterno",
+        "desc": "Lo stile per angolo esterno è progettato per adattarsi agli angoli esterni di un edificio, estendendo l'area protetta senza soluzione di continuità. È perfetto per coprire balconi d'angolo, vetrine o passerelle esterne."
+      },
+      "carport": {
+        "title": "Stile per Pensilina Auto",
+        "desc": "La pensilina per auto è specificamente progettata per proteggere i veicoli da sole, pioggia e detriti. Supportata da robusti montanti e sormontata da materiali durevoli, offre un'eccellente protezione."
+      },
+      "door_window": {
+        "title": "Stile per Tenda da Porta e Finestra",
+        "desc": "Questo stile è specificamente progettato per l'installazione sopra porte e finestre, fornendo una protezione efficace da pioggia e luce solare diretta. Compatta ma durevole, mantiene gli ingressi asciutti."
+      }
+    }
+  },
+  "Features": {
+    "title": "Caratteristiche del prodotto",
+    "subtitle": "Progettato per funzionare sotto pressione: pioggia, vento, neve e impatti.",
+    "items": {
+      "waterproof": {
+        "title": "Impermeabile",
+        "desc": "Protegge da pioggia, ruggine, corrosione e danni superficiali, garantendo una protezione duratura in qualsiasi condizione atmosferica."
+      },
+      "impact": {
+        "title": "Resistente agli urti",
+        "desc": "Costruito per resistere a forze e impatti da detriti cadenti, assicurando l'integrità strutturale a lungo termine."
+      },
+      "wind": {
+        "title": "Protezione dal vento",
+        "desc": "Stabile e sicuro contro forti venti, riducendo le oscillazioni e proteggendo ciò che si trova sotto."
+      },
+      "snow": {
+        "title": "Resistente al carico di neve",
+        "desc": "Progettato per sopportare carichi di neve pesanti senza piegarsi o rompersi, anche in condizioni di freddo estremo."
+      }
+    }
+  },
+  "CustomService": {
+    "title": "Servizi di Progettazione Personalizzata",
+    "desc": "Ogni progetto è unico. Offriamo una personalizzazione flessibile per tutti i componenti, in modo da soddisfare le vostre specifiche esatte.",
+    "ariaLabel": "Parametri Personalizzati",
+    "imageAlt": "Progettazione e ingegneria di pensiline personalizzate",
+    "items": [
+      "Dimensioni e finiture del telaio in alluminio",
+      "Dimensioni e tonalità dei pannelli in policarbonato",
+      "Selezione di hardware e accessori",
+      "Imballaggio e spedizione professionali",
+      "Disegni tecnici e guide all'installazione"
+    ]
+  },
+  "Specs": {
+    "title": "Specifiche Tecniche",
+    "ariaLabel": "Tabella delle Specifiche Tecniche",
+    "data": {
+      "thickness": {
+        "label": "Spessore del Pannello",
+        "value": "2mm – 8mm"
+      },
+      "frame": {
+        "label": "Materiale del Telaio",
+        "value": "Alluminio 6063-T5"
+      },
+      "treatment": {
+        "label": "Trattamento Superficiale",
+        "value": "Verniciatura a Polvere"
+      },
+      "wind": {
+        "label": "Carico del Vento",
+        "value": "120+ km/h"
+      },
+      "temp": {
+        "label": "Intervallo di Temperatura",
+        "value": "-40°C a +120°C"
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Galleria Applicazioni",
+    "subtitle": "Installazioni reali che mostrano versatilità e bellezza",
+    "ariaLabel": "Galleria di progetti applicativi reali",
+    "items": {
+      "rooftop": {
+        "title": "Tettoia Moderna",
+        "desc": "Design elegante per tetti piani con pannelli ad alta trasparenza",
+        "btnText": "Scopri di più",
+        "imageAlt": "Tettoia moderna trasparente con telaio in alluminio per edificio residenziale"
+      },
+      "carport": {
+        "title": "Carport Residenziale",
+        "desc": "Tettoia curva elegante che offre ombra e protezione dalle intemperie per auto",
+        "btnText": "Scopri di più",
+        "imageAlt": "Carport residenziale moderno con tetto curvo trasparente e SUV di lusso parcheggiato sotto"
+      },
+      "sunroom": {
+        "title": "Veranda Moderna",
+        "desc": "Struttura trasparente completamente chiusa per luce tutto l'anno",
+        "btnText": "Scopri di più",
+        "imageAlt": "Veranda ad arco completamente chiusa con pannelli trasparenti e vista sulla campagna"
+      }
+    }
+  },
+  "Faq": {
+    "title": "Domande Frequenti",
+    "subtitle": "Tutto ciò che devi sapere sulle nostre tettoie in policarbonato",
+    "ariaLabel": "Contenitore accordion delle domande frequenti",
+    "questions": [
+      {
+        "q": "La tettoia può essere personalizzata per adattarsi al mio spazio?",
+        "a": "Sì! Offriamo personalizzazione completa in termini di dimensioni, colori, spessore dei pannelli e stili di telaio per applicazioni residenziali o commerciali. Basta inviarci le vostre misure e preferenze."
+      },
+      {
+        "q": "Il policarbonato è davvero più resistente del vetro?",
+        "a": "Assolutamente. Le lastre in policarbonato sono fino a 200 volte più resistenti del vetro e praticamente infrangibili. Sono anche più leggere e più sicure in condizioni meteorologiche avverse come grandine, vento e forti piogge."
+      },
+      {
+        "q": "La tettoia blocca i raggi UV?",
+        "a": "Sì, tutte le nostre tettoie sono dotate di rivestimenti resistenti ai raggi UV che bloccano oltre il 99% delle radiazioni UV dannose, proteggendo mobili, porte e finestre dai danni del sole."
+      },
+      {
+        "q": "Quanto tempo richiede l'installazione?",
+        "a": "La maggior parte delle installazioni richiede alcune ore per una tettoia di dimensioni standard. Forniamo istruzioni facili da seguire e tutti gli accessori necessari. Per progetti più grandi o commerciali, il nostro team offre supporto professionale per l'installazione."
+      },
+      {
+        "q": "Quanto è resistente la tettoia in condizioni meteorologiche estreme?",
+        "a": "Le nostre tettoie in policarbonato sono progettate per resistere a forti carichi di vento, pioggia intensa e neve. I supporti in lega di alluminio e i raccordi in acciaio inossidabile garantiscono durata a lungo termine e resistenza alla corrosione."
+      },
+      {
+        "q": "Qual è il periodo di garanzia?",
+        "a": "Forniamo una garanzia limitata di 10 anni che copre difetti dei materiali, scolorimento e prestazioni strutturali. I dettagli completi della garanzia sono disponibili su richiesta."
+      },
+      {
+        "q": "Offrite prezzi all'ingrosso per distributori o costruttori?",
+        "a": "Sì, offriamo prezzi all'ingrosso scaglionati e servizi OEM/ODM per partner, appaltatori e distributori. Contatta il nostro team di vendita per un preventivo personalizzato."
+      },
+      {
+        "q": "Quali colori e finiture sono disponibili?",
+        "a": "I nostri pannelli in policarbonato sono disponibili nelle tonalità trasparente, grigio, bronzo e blu. I colori del telaio includono nero opaco, bianco, argento e opzioni RAL personalizzate."
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "Testimonianze dei Clienti",
+    "subtitle": "Apprezzati in tutto il mondo per qualità e servizio",
+    "ariaLabel": "Sezione recensioni clienti e valutazioni a stelle",
+    "reviews": [
+      {
+        "name": "Eric Zhang",
+        "role": "Project Manager",
+        "company": "Hantai Construction Co.",
+        "country": "Australia",
+        "text": "La pensilina ha retto perfettamente durante un improvviso temporale subito dopo l'installazione. Il sistema di drenaggio è intelligente e il telaio in alluminio è molto solido. Utilizzerò sicuramente PolyCanopy per progetti futuri."
+      },
+      {
+        "name": "Michael Robertson",
+        "role": "Property Developer",
+        "company": "ClearView Estates",
+        "country": "Stati Uniti",
+        "text": "Il sistema di pensiline ha superato le nostre aspettative. Struttura in alluminio robusta, aspetto moderno e pulito, installazione semplice. Ha funzionato egregiamente durante le recenti forti raffiche di vento."
+      },
+      {
+        "name": "Ahmed Al-Mutairi",
+        "role": "Direttore Tecnico",
+        "company": "Desert Shade Systems",
+        "country": "Emirati Arabi Uniti",
+        "text": "Eccellente resistenza al calore e alta trasparenza. La pensilina si comporta bene sotto la luce solare intensa e il telaio in alluminio non si deforma né scolorisce. Ideale per il clima del Golfo."
+      },
+      {
+        "name": "Sofia Martínez",
+        "role": "Architetto",
+        "company": "Línea Urbana S.A.",
+        "country": "Argentina",
+        "text": "Abbiamo utilizzato PolyCanopy per un progetto di caffetteria su tetto a Buenos Aires. I materiali sono di prima qualità, specialmente il pannello in policarbonato: molto trasparente e durevole. I nostri clienti adorano il risultato."
+      },
+      {
+        "name": "Lisa Chen",
+        "role": "Interior Designer",
+        "company": "Blossom Space Studio",
+        "country": "Singapore",
+        "text": "Qualità dei materiali eccellente – soprattutto il pannello in policarbonato. La trasparenza è elevata e molto più sicuro del vetro. Inoltre, non dobbiamo preoccuparci di oggetti che cadono dai piani superiori. Altamente consigliato!"
+      },
+      {
+        "name": "Thulani Mokoena",
+        "role": "Ingegnere di Cantiere",
+        "company": "BuildRight Solutions",
+        "country": "Sudafrica",
+        "text": "Il telaio in alluminio è robusto e leggero. Apprezziamo anche il sistema di grondaia: molto utile durante le piogge stagionali. Ha un bell'aspetto anche sugli edifici commerciali."
+      }
+    ]
+  },
+  "WhyChoose": {
+    "title": "Perché Scegliere Polycanopy",
+    "subtitle": "Il tuo partner di fiducia per soluzioni canopy premium",
+    "ariaLabel": "Sezione vantaggi commerciali aziendali",
+    "items": {
+      "service": {
+        "title": "Servizio Reattivo",
+        "desc": "Assistenza clienti 24/7 con tempi di risposta rapidi per tutte le richieste",
+        "ariaLabel": "Scopri di più sul nostro processo di servizio reattivo"
+      },
+      "custom": {
+        "title": "Parametri Personalizzati",
+        "desc": "Opzioni di personalizzazione flessibili per soddisfare le specifiche esatte del tuo progetto",
+        "ariaLabel": "Esplora i nostri parametri di specifica personalizzati"
+      },
+      "export": {
+        "title": "Esperienza nell'Export",
+        "desc": "Decenni di competenza nel commercio internazionale con capacità di spedizione globale",
+        "ariaLabel": "Rivedi le nostre capacità di esportazione globali"
+      },
+      "quote": {
+        "title": "Preventivo Rapido",
+        "desc": "Prezzi rapidi e accurati con specifiche tecniche dettagliate",
+        "ariaLabel": "Ottieni subito un preventivo tecnico rapido"
+      }
+    }
+  },
+  "ProductDetail": {
+    "specsTitle": "Specifiche del Prodotto",
+    "btnQuoteText": "Richiedi il Tuo Preventivo Gratuito",
+    "products": {
+      "retractable-telescopic-sunroom": {
+        "title": "Veranda Telescopica Retrattile",
+        "desc": "Progettata con alluminio 6063-T5 ad alta resistenza e policarbonato premium con strati di co-estrusione UV per il comfort all'aperto.",
+        "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+        "imageAlt": "Veranda telescopica retrattile installata su terrazza con design apribile",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Materiale Strutturale",
+            "desc": "Lega di alluminio 6063-T5 ad alta resistenza"
+          },
+          {
+            "id": 2,
+            "title": "Materiale di Copertura",
+            "desc": "Lastra piena in policarbonato (con co-estrusione UV)"
+          },
+          {
+            "id": 3,
+            "title": "Funzionamento",
+            "desc": "Scorrimento telescopico manuale o motorizzato"
+          }
+        ]
+      },
+      "stargazing-dome": {
+        "title": "Cupola per Osservazione Stellare in Policarbonato",
+        "desc": "Una vista immersiva a 360° per glamping, lusso resort e ristorazione all'aperto.",
+        "image": "https://img.polycanopy.com/2025/07/polycarbonate-stargazing-dome-for-glamping.jpg",
+        "imageAlt": "Cupola per osservazione stellare in policarbonato per glamping e lusso all'aperto",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Materiale Principale",
+            "desc": "Lastra piena in policarbonato premium"
+          },
+          {
+            "id": 2,
+            "title": "Telaio di Base",
+            "desc": "Base in alluminio o PC integrato"
+          },
+          {
+            "id": 3,
+            "title": "Caratteristiche",
+            "desc": "Trasparente a 360°, resistente agli agenti atmosferici"
+          }
+        ]
+      }
+    }
+  },
+  "Footer": {
+    "quoteTitle": "Richiedi un preventivo",
+    "quoteDesc": "Inserisci i tuoi dati qui sotto con il prodotto di cui hai bisogno e ti risponderemo entro 24 ore",
+    "formName": "Il tuo nome",
+    "formPhone": "Il tuo telefono",
+    "formEmail": "La tua email",
+    "formCountry": "Paese",
+    "btnSending": "Invio in corso...",
+    "btnSuccess": "Messaggio inviato!",
+    "btnFailed": "Fallito! Riprova",
+    "backToTop": "Torna su",
+    "formCountryPlaceholder": "Da dove vieni",
+    "formProducts": "Prodotti",
+    "formUpload": "Carica disegno tecnico / layout del progetto",
+    "formSelectPlaceholder": "Seleziona dalla lista",
+    "formMessage": "Messaggio",
+    "formMessagePlaceholder": "Scrivi un messaggio",
+    "formSubmit": "Invia ora",
+    "optWindow": "Tettuccio per finestra",
+    "optDoor": "Tettuccio per porta",
+    "optCarport": "Posto auto / Copertura garage",
+    "optDome": "Tettuccio a cupola",
+    "optSunroom": "Veranda / Serra",
+    "optCustomize": "Servizi di progettazione personalizzata",
+    "optWholesales": "Vendita all'ingrosso / Distribuzione",
+    "nlTitle": "Iscriviti alla nostra newsletter per ricevere gli ultimi approfondimenti sulla tecnologia delle tettoie e sugli sviluppi del settore",
+    "nlPlaceholder": "Email",
+    "nlSubmit": "Iscriviti",
+    "profileTitle": "Tettuccio premium in policarbonato",
+    "profileDesc": "PolyCanopy offre tettoie in policarbonato di alta qualità e personalizzabili, progettate sia per spazi residenziali che commerciali. Goditi una protezione durevole con un design elegante, pensato per gli stili di vita moderni.",
+    "profileReadMore": "Leggi di più",
+    "contactTitle": "Informazioni di contatto",
+    "contactTel": "Tel: +86 13420298302",
+    "contactAddress": "Indirizzo: Provincia del Guangdong, Cina",
+    "termsTitle": "Termini e condizioni",
+    "termsPrivacy": "Informativa sulla privacy",
+    "termsReturn": "Politica di reso",
+    "exploreTitle": "ESPLORA LE NOSTRE PROPRIETÀ",
+    "explorePost1Title": "Perché la lastra in policarbonato compatto da 3 mm è il materiale ideale per le coperture delle tettoie",
+    "explorePost2Title": "Mettere in sicurezza la tua struttura: guida ai sistemi di ancoraggio per aree ad alto vento",
+    "copyright": "© Polycanopy Tutti i diritti riservati."
+  },
+  "ProductsDetail": {
+    "featuresTitle": "Caratteristiche di Ingegneria Avanzata di Livello Industriale",
+    "featuresSub": "La produzione di precisione garantisce una durabilità a lungo termine contro gli elementi estremi.",
+    "framingTitle": "Eccellenza Strutturale — Lega di Alluminio per Architettura",
+    "panelsTitle": "Pannelli in Policarbonato Premium",
+    "precisionTitle": "Dettagli Strutturali di Precisione che Contano",
+    "profilesTitle": "Modelli e Opzioni di Profili Strutturali in Alluminio",
+    "profilesDesc": "Scegli la struttura portante appropriata in base alla luce libera di ingegneria e alle linee guida regionali per il carico del vento. Offriamo opzioni di produzione personalizzate per soddisfare requisiti di alta densità.",
+    "galleryTitle": "Galleria di Progetti",
+    "ctaTitle": "Pronto per approfondire i parametri ingegneristici o personalizzare i tuoi layout?",
+    "ctaDesc": "Scarica il nostro manuale architettonico o contatta direttamente la nostra divisione di vendita ingegneristica globale tramite messaggistica istantanea.",
+    "trustedTitle": "Apprezzato dai Professionisti Industriali in Tutto il Mondo"
+  },
+  "FloatingWidget": {
+  "wechatHover": "Copia ID WeChat",
+  "copied": "Copiato!",
+  "waMessage": "Ciao, ho visitato o vostro sito web e sono interessato alle vostre coperture in policarbonato. Dalla pagina: ",
+  "emailSubject": "Richiesta di informazioni su soluzioni di coperture e pensiline in policarbonato",
+  "emailBody1": "Gentile team commerciale di PolyCanopy, sto navigando sul vostro sito e vorrei ricevere un catalogo e il listino prezzi. URL: ",
+  "emailBody2": "",
+  "toastMsg": "ID WeChat copiato con successo!",
+  "ariaCloseCta": "Chiudi il menu di contatto",
+  "ariaToggle": "Contattaci",
+  "ariaEmail": "Invia richiesta via e-mail",
+  "ariaWechat": "Copia account WeChat",
+  "ariaMessenger": "Chatta su Messenger",
+  "ariaWhatsapp": "Chatta su WhatsApp"
+},
+  "PrivacyPolicy": {
+    "title": "Informativa sulla Privacy",
+    "effectiveDate": "Data di entrata in vigore: 20 luglio 2025",
+    "intro": "Grazie per aver visitato PolyCanopy. La presente Informativa sulla Privacy spiega come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali quando interagisci con il nostro sito web, richiedi informazioni o invii documenti relativi a progetti. Teniamo alla tua privacy e ci impegniamo a salvaguardare le informazioni che condividi con noi.",
+    "section1Title": "1. Quali dati personali raccogliamo",
+    "section1Content": "Raccogliamo i dati personali che fornisci volontariamente attraverso i moduli di contatto del nostro sito web o i canali di comunicazione. Questi possono includere:\n• Nome e Cognome\n• Indirizzo email\n• Numero di telefono\n• Paese o Regione\n• Nome dell'azienda (opzionale)\n• Contenuto del messaggio o della richiesta\n• File caricati (ad es. disegni, requisiti, specifiche di progetto)\n• Dati tecnici non personali, come indirizzo IP, tipo di browser e visite alle pagine (solo a fini analitici)",
+    "section2Title": "2. Finalità della raccolta dei dati",
+    "section2Content": "Utilizziamo i dati raccolti per i seguenti scopi:\n• Rispondere alle tue richieste o richieste di preventivo\n• Analizzare le tue esigenze progettuali e fornire soluzioni di prodotto adeguate\n• Comunicare con te per follow-up o consulenze tecniche\n• Migliorare la funzionalità del nostro sito web e l'esperienza del cliente\n• Adempiere agli obblighi legali o normativi applicabili",
+    "section3Title": "3. Come conserviamo e proteggiamo le tue informazioni",
+    "section3Content": "Le tue informazioni sono conservate in modo sicuro su sistemi protetti da password. L'accesso è limitato al personale autorizzato di PolyCanopy che necessita delle informazioni per soddisfare la tua richiesta o supportare il tuo progetto.\nAdottiamo misure tecniche e organizzative appropriate per prevenire accessi non autorizzati, perdita o uso improprio dei tuoi dati.",
+    "section4Title": "4. Riservatezza dei file caricati",
+    "section4Content": "Tutti i file che carichi (come disegni CAD, documenti di progettazione o specifiche) sono trattati come riservati. Questi materiali non saranno condivisi o distribuiti senza il tuo permesso e vengono utilizzati solo internamente per la revisione dei requisiti del tuo progetto.",
+    "section5Title": "5. Conservazione dei dati",
+    "section5Content": "Conserviamo i dati personali solo per il tempo necessario a soddisfare le finalità descritte nella presente informativa, salvo che sia richiesto un periodo di conservazione più lungo dalla legge. Ad esempio:\n• Richieste e registri di contatto: conservati fino a 2 anni per scopi di follow-up\n• File caricati: conservati in modo sicuro e cancellati su tua richiesta\n• Comunicazioni email: conservate come parte della nostra corrispondenza commerciale, salvo richiesta di cancellazione",
+    "section6Title": "6. Condividiamo i tuoi dati?",
+    "section6Content": "No. Non vendiamo, affittiamo o scambiamo i tuoi dati personali con terze parti. Potremmo condividere le tue informazioni solo nei seguenti casi:\n• Quando richiesto dalla legge (ad es. richieste governative, conformità alla legge applicabile)\n• Con fornitori di servizi fidati che ci assistono nella gestione del nostro sito web (sotto obblighi di riservatezza)",
+    "section7Title": "7. Cookie e tecnologie di tracciamento",
+    "section7Content": "Attualmente non utilizziamo cookie per scopi pubblicitari o di profilazione. Tuttavia, potremmo utilizzare strumenti di analisi di base (ad es. Google Analytics) per raccogliere dati anonimi su come i visitatori interagiscono con il nostro sito web. Questo ci aiuta a migliorare la progettazione del sito e l'esperienza utente. Puoi disabilitare i cookie tramite le impostazioni del tuo browser.",
+    "section8Title": "8. I tuoi diritti sui dati",
+    "section8Content": "A seconda del tuo paese o giurisdizione, potresti avere il diritto di:\n• Accedere ai tuoi dati personali\n• Richiedere la correzione o la cancellazione dei tuoi dati\n• Revocare il consenso al trattamento dei dati\n• Richiedere una copia dei dati che conserviamo su di te\nPer esercitare questi diritti, contattaci all'indirizzo sales@polycanopy.com",
+    "section9Title": "9. Collegamenti a siti terzi",
+    "section9Content": "Il nostro sito web può contenere collegamenti a siti esterni (come WhatsApp, YouTube o social media). Non siamo responsabili per le pratiche sulla privacy di tali siti. Ti consigliamo di rivedere le loro informative sulla privacy prima di fornire qualsiasi dato personale.",
+    "section10Title": "10. Modifiche alla presente informativa",
+    "section10Content": "Potremmo aggiornare la presente Informativa sulla Privacy di tanto in tanto per riflettere cambiamenti nei requisiti legali o nelle nostre pratiche. La versione più recente sarà sempre pubblicata su questa pagina con una data di entrata in vigore aggiornata.",
+    "section11Title": "11. Contattaci",
+    "section11Content": "Se hai domande o dubbi sulla presente Informativa sulla Privacy o sui tuoi dati, contattaci:\nEmail: sales@polycanopy.com\nSito web: www.polycanopy.com"
+  },
+  "ReturnPolicy": {
+    "title": "Politica di Reso e Rimborso",
+    "effectiveDate": "Data di entrata in vigore: 20 luglio 2025",
+    "intro": "Presso PolyCanopy, progettiamo e produciamo sistemi di coperture, verande e strutture architettoniche su misura per le esigenze specifiche di ogni cliente. A causa della natura personalizzata dei nostri prodotti, la nostra politica di reso e rimborso differisce dai negozi di e-commerce standard. Si prega di rivedere attentamente i seguenti termini prima di effettuare l'ordine.",
+    "section1Title": "1. Politica sui prodotti personalizzati",
+    "section1Content": "Tutti i nostri prodotti sono realizzati su misura in base alle vostre specifiche, incluse dimensioni, selezione dei materiali, finitura e tipo di struttura. Di conseguenza, non possiamo accettare resi né offrire rimborsi per motivi quali:\n• Cambio di idea dopo la conferma dell'ordine\n• Misure o dati di progetto errati forniti dal cliente\n• Problemi di montaggio imprevisti non correlati a difetti del prodotto\nRaccomandiamo vivamente di rivedere tutte le specifiche, i disegni e i requisiti con il nostro team prima di finalizzare l'ordine.",
+    "section2Title": "2. Modifiche e cancellazioni dell'ordine",
+    "section2Content": "È possibile richiedere una modifica o la cancellazione dell'ordine entro 48 ore dalla conferma dell'ordine e prima dell'inizio della produzione. Una volta iniziata la fabbricazione, non possiamo modificare o cancellare l'ordine e verranno applicati i costi di produzione completi.",
+    "section3Title": "3. Merce danneggiata o difettosa",
+    "section3Content": "Se i prodotti arrivano danneggiati durante la spedizione o presentano difetti di fabbricazione, si prega di comunicarcelo entro 48 ore dal ricevimento. Per presentare un reclamo, inviare quanto segue a sales@polycanopy.com:\n• Numero d'ordine o fattura\n• Foto chiare del danno o del difetto\n• Descrizione del problema e dei componenti interessati\nDopo la conferma, offriremo una soluzione adeguata come parti di ricambio, kit di riparazione o rimborsi parziali a seconda della gravità del problema. Nei casi in cui sia necessaria una sostituzione, PolyCanopy coprirà i costi di spedizione.",
+    "section4Title": "4. Idoneità al reso",
+    "section4Content": "Non accettiamo resi di prodotti personalizzati completati. Tuttavia, in alcuni casi approvati (ad esempio, accessori non personalizzati spediti per errore), i resi possono essere organizzati alle seguenti condizioni:\n• Richiesta di reso effettuata entro 7 giorni dalla consegna\n• I prodotti devono essere non utilizzati, non danneggiati e restituiti nell'imballaggio originale o equivalente\n• I costi di spedizione per il reso sono a carico del cliente",
+    "section5Title": "5. Copertura della garanzia",
+    "section5Content": "I prodotti PolyCanopy sono coperti da una garanzia strutturale limitata. I termini di garanzia variano in base al tipo di prodotto e saranno confermati in fase di preventivo. L'usura normale, l'uso improprio, l'installazione errata o i danni legati alle condizioni atmosferiche non sono coperti. Si prega di conservare tutti i documenti tecnici per riferimento in garanzia.",
+    "section6Title": "6. Forza maggiore",
+    "section6Content": "PolyCanopy non sarà ritenuta responsabile per ritardi o incapacità di evadere gli ordini a causa di eventi al di fuori del nostro controllo, inclusi ma non limitati a disastri naturali, interruzioni delle spedizioni o carenze di fornitori.",
+    "section7Title": "7. Informazioni di contatto",
+    "section7Content": "Se avete domande sulla nostra politica di reso o garanzia, contattate il nostro team di supporto:\nPolyCanopy\nEmail: sales@polycanopy.com\nSito web: www.polycanopy.com"
+  }
+}

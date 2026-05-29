@@ -1,7 +1,8 @@
 // src/components/products/MaterialIntro.tsx
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import PhotoSwipeLightbox from 'photoswipe/lightbox';
+import 'photoswipe/style.css';
 
-// 定义单项颜色切片的底层数据接口
 interface ColorItem {
   id: string;
   label: string;
@@ -9,23 +10,18 @@ interface ColorItem {
   img: string;
 }
 
-// 组件外部注入的纯死字符串字典接口
 interface MaterialIntroProps {
   frameHeading: string;
   frameDesc: string;
   panelHeading: string;
   panelDesc: string;
-  // 板材多语言标签
   colorBronze: string;
   colorWhite: string;
   colorGray: string;
   colorBlack: string;
-  // 骨架多语言标签
   colorChampagne: string;
-  // 动态 Aria 模板文字（例如："Switch frame to {color} color"）
   ariaFrameBtnTemplate: string;
   ariaPanelBtnTemplate: string;
-  // 各种切图的 Alt 翻译
   altFrameChampagne: string;
   altFrameWhite: string;
   altFrameGray: string;
@@ -34,6 +30,9 @@ interface MaterialIntroProps {
   altPanelWhite: string;
   altPanelGray: string;
   altPanelBlack: string;
+  // 🌟 核心新增：专门接收悬停放大提示的多语言文本
+  zoomTipFrame: string;
+  zoomTipPanel: string;
 }
 
 export default function MaterialIntro({
@@ -41,10 +40,10 @@ export default function MaterialIntro({
   colorBronze, colorWhite, colorGray, colorBlack, colorChampagne,
   ariaFrameBtnTemplate, ariaPanelBtnTemplate,
   altFrameChampagne, altFrameWhite, altFrameGray, altFrameCoffee,
-  altPanelBronze, altPanelWhite, altPanelGray, altPanelBlack
+  altPanelBronze, altPanelWhite, altPanelGray, altPanelBlack,
+  zoomTipFrame, zoomTipPanel
 }: MaterialIntroProps) {
 
-  // 1. 骨架颜色池数据重组
   const frameColors: ColorItem[] = [
     { id: 'champagne', label: colorChampagne, alt: altFrameChampagne, img: 'https://img.polycanopy.com/2025/07/canopy-frame-color-options-available-in-champagne-white-gray-and-coffee-finishes.jpg' },
     { id: 'white', label: colorWhite, alt: altFrameWhite, img: 'https://img.polycanopy.com/2025/07/canopy-frame-color-options-available-in-champagne-white-gray-and-coffee-finishes.jpg' },
@@ -52,7 +51,6 @@ export default function MaterialIntro({
     { id: 'coffee', label: 'Coffee', alt: altFrameCoffee, img: 'https://img.polycanopy.com/2025/07/canopy-frame-color-options-available-in-champagne-white-gray-and-coffee-finishes.jpg' },
   ];
 
-  // 2. 板材颜色池数据重组
   const panelColors: ColorItem[] = [
     { id: 'bronze', label: colorBronze, alt: altPanelBronze, img: 'https://img.polycanopy.com/2025/07/Various-Colors-of-Polycarbonate-Solid-Sheets.jpg' },
     { id: 'white', label: colorWhite, alt: altPanelWhite, img: 'https://img.polycanopy.com/2025/07/Various-Colors-of-Polycarbonate-Solid-Sheets.jpg' },
@@ -63,7 +61,19 @@ export default function MaterialIntro({
   const [activeFrame, setActiveFrame] = useState<ColorItem>(frameColors[0]);
   const [activePanel, setActivePanel] = useState<ColorItem>(panelColors[0]);
 
-  // 🌟 降维核心：手动解析 JSON 里的 {color} 动态占位符，完美平替 useTranslations 的变量注入功能
+  useEffect(() => {
+    const lightbox = new PhotoSwipeLightbox({
+      gallery: '.pswp-material-gallery',
+      children: 'a.pswp-trigger',
+      pswpModule: () => import('photoswipe'),
+    });
+    lightbox.init();
+
+    return () => {
+      lightbox.destroy();
+    };
+  }, []);
+
   const parseAriaLabel = (template: string, value: string) => {
     if (!template) return `Switch to ${value}`;
     return template.replace(/{color}/g, value);
@@ -74,7 +84,7 @@ export default function MaterialIntro({
       <div className="max-w-7xl mx-auto px-4 md:px-8 grid grid-cols-1 lg:grid-cols-2 gap-12">
         
         {/* ================= 左侧：铝合金骨架选型块 ================= */}
-        <div className="flex flex-col justify-between border border-gray-100 p-6 md:p-8 rounded-2xl shadow-sm text-start bg-white">
+        <div className="flex flex-col justify-between border border-gray-100 p-6 md:p-8 rounded-2xl shadow-sm text-start bg-white pswp-material-gallery">
           <div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">{frameHeading}</h3>
             <p className="text-gray-600 mb-6 font-light leading-relaxed text-sm md:text-base">{frameDesc}</p>
@@ -101,18 +111,30 @@ export default function MaterialIntro({
             </div>
           </div>
           
-          <div className="relative w-full h-[250px] md:h-[300px] rounded-xl overflow-hidden bg-gray-50 group">
+          <a 
+            href={activeFrame.img}
+            data-pswp-width="1200"
+            data-pswp-height="900"
+            aria-label={zoomTipFrame}
+            className="pswp-trigger group relative w-full h-[250px] md:h-[300px] rounded-xl overflow-hidden bg-gray-50 block shadow-sm"
+          >
             <img 
               src={activeFrame.img} 
               alt={activeFrame.alt} 
-              className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-103"
+              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-103"
               loading="lazy"
             />
-          </div>
+            {/* 悬停提示文字：完美符合高对比度深翡翠绿 */}
+            <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-all duration-300 flex items-center justify-center">
+              <span className="opacity-0 group-hover:opacity-100 transform translate-y-2 group-hover:translate-y-0 text-white bg-[#184e77]/90 px-4 py-2 rounded-full text-xs font-semibold tracking-wide transition-all duration-300 shadow-md">
+                {zoomTipFrame}
+              </span>
+            </div>
+          </a>
         </div>
 
         {/* ================= 右侧：聚碳酸酯板材选型块 ================= */}
-        <div className="flex flex-col justify-between border border-gray-100 p-6 md:p-8 rounded-2xl shadow-sm text-start bg-white">
+        <div className="flex flex-col justify-between border border-gray-100 p-6 md:p-8 rounded-2xl shadow-sm text-start bg-white pswp-material-gallery">
           <div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">{panelHeading}</h3>
             <p className="text-gray-600 mb-6 font-light leading-relaxed text-sm md:text-base">{panelDesc}</p>
@@ -139,14 +161,25 @@ export default function MaterialIntro({
             </div>
           </div>
           
-          <div className="relative w-full h-[250px] md:h-[300px] rounded-xl overflow-hidden bg-gray-50 group">
+          <a 
+            href={activePanel.img}
+            data-pswp-width="1200"
+            data-pswp-height="900"
+            aria-label={zoomTipPanel}
+            className="pswp-trigger group relative w-full h-[250px] md:h-[300px] rounded-xl overflow-hidden bg-gray-50 block shadow-sm"
+          >
             <img 
               src={activePanel.img} 
               alt={activePanel.alt} 
-              className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-103"
+              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-103"
               loading="lazy"
             />
-          </div>
+            <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-all duration-300 flex items-center justify-center">
+              <span className="opacity-0 group-hover:opacity-100 transform translate-y-2 group-hover:translate-y-0 text-white bg-[#184e77]/90 px-4 py-2 rounded-full text-xs font-semibold tracking-wide transition-all duration-300 shadow-md">
+                {zoomTipPanel}
+              </span>
+            </div>
+          </a>
         </div>
 
       </div>

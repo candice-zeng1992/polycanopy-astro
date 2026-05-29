@@ -1,0 +1,362 @@
+---
+import Layout from '../../../layouts/Layout.astro'; 
+import Header from '../../../components/Header';
+import Footer from '../../../components/Footer';
+import DetailHero from '../../../components/product-detail/DetailHero';
+import ProductSpecs from '../../../components/products/ProductSpecs';
+import { getDictionary, getProductDictionary } from '../../../i18n';
+
+export async function getStaticPaths() {
+  const languages = ['en', 'zh', 'ar', 'de', 'es', 'pt', 'fr', 'ru', 'ja', 'it', 'ko'];
+  const slugs = [
+    'retractable-telescopic-sunroom', 
+    'terrace-canopy',
+    'stargazing-dome',
+    'inside-corner-canopy',
+    'corner-extended-polycarbonate-canopy',
+    'suspended-polycarbonate-canopy',
+    'polycarbonate-window-canopy', 
+    'polycarbonate-carport'
+  ];
+  return slugs.flatMap(slug => languages.map(lang => ({ params: { lang, slug } })));
+}
+
+const { lang, slug } = Astro.params;
+const dict = getDictionary(lang) || {};
+const headerDict = (dict as any).Header || {};
+const footerDict = (dict as any).Footer || {};
+
+const i18nLabels = (dict as any).Common || { 
+  home: 'Home', 
+  blog: 'Blog', 
+  toc: 'On This Page' 
+};
+
+const productDict = getProductDictionary(lang);
+const product = productDict[slug as string] || productDict['retractable-telescopic-sunroom'] || {};
+
+// ==================== 🌟 智能解耦：从本地字典提取 UI 标签，无损向下兼容 ====================
+const uiLabels = {
+  featuresTitle: product.uiLabels?.featuresTitle || (dict as any).ProductsDetail?.featuresTitle || (lang === 'zh' ? '硬核高级工程特性' : 'Hardcore Advanced Engineering Features'),
+  featuresSub: product.uiLabels?.featuresSub || (dict as any).ProductsDetail?.featuresSub || (lang === 'zh' ? '精密制造确保长期耐久性，从容应对极端气候' : 'Precision manufacturing guarantees long-term durability against extreme elements.'),
+  framingTitle: product.uiLabels?.framingTitle || (dict as any).ProductsDetail?.framingTitle || (lang === 'zh' ? '型材典范 — 航空级高强度铝合金结构' : 'Framing Excellence — Architectural Grade Aluminum Alloy'),
+  panelsTitle: product.uiLabels?.panelsTitle || (dict as any).ProductsDetail?.panelsTitle || (lang === 'zh' ? '优质聚碳酸酯板材（智能调温板/中空板/耐力板）' : 'Premium Polycarbonate Panels'),
+  precisionTitle: product.uiLabels?.precisionTitle || (dict as any).ProductsDetail?.precisionTitle || (lang === 'zh' ? '精密结构细节，至关重要' : 'Precision Structural Details That Matter'),
+  profilesTitle: product.uiLabels?.profilesTitle || (dict as any).ProductsDetail?.profilesTitle || (lang === 'zh' ? '铝型材结构型号 & 选配' : 'Aluminum Structural Profile Models & Options'),
+  profilesDesc: product.uiLabels?.profilesDesc || (dict as any).ProductsDetail?.profilesDesc || (lang === 'zh' ? '根据工程跨度需求 and 区域抗风规范选择合适的结构主骨架。我们提供个性化型材制造方案，满足高密度承载要求。' : 'Choose the appropriate structural backbone based on your engineering clear span and regional wind load guidelines. We provide personalized profile manufacturing options to fit high density requirements.'),
+  galleryTitle: product.uiLabels?.galleryTitle || (dict as any).ProductsDetail?.galleryTitle || (lang === 'zh' ? '项目案例实拍画廊' : 'Project Case Gallery'),
+  ctaTitle: product.uiLabels?.ctaTitle || (dict as any).ProductsDetail?.ctaTitle || (lang === 'zh' ? '准备深入了解工程参数或定制您的方案？' : 'Ready to deep dive into engineering metrics or customize your layouts?'),
+  ctaDesc: product.uiLabels?.ctaDesc || (dict as any).ProductsDetail?.ctaDesc || (lang === 'zh' ? '下载我们的工程设计手册，或通过在线即时通讯直接与全球销售工程师团队沟通。' : 'Download our architectural handbook or speak directly to our global sales engineering division via live instant messenger.'),
+  trustedTitle: product.uiLabels?.trustedTitle || (dict as any).ProductsDetail?.trustedTitle || (lang === 'zh' ? '深受全球行业专业人士信赖' : 'Trusted by Industrial Professionals Worldwide')
+};
+
+const schemaData = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": product.title,
+  "image": product.image,
+  "description": product.desc,
+  "sku": "SD-001",
+  "brand": { "@type": "Brand", "name": "PolyCanopy" },
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+};
+---
+
+<Layout title={`${product.title || 'Product'} | PolyCanopy Official`}>
+  <head>
+    <script type="application/ld+json" set:html={JSON.stringify(schemaData)}></script>
+  </head>
+
+  <div class="relative z-50">
+    <Header t={(key: string) => headerDict[key] || key} lang={lang} currentPath={Astro.url.pathname} />
+  </div>
+
+  <main id="product-gallery" class="overflow-x-hidden bg-white text-gray-800">
+    
+    <nav aria-label="breadcrumb" class="absolute top-24 left-0 w-full z-40 py-2 border-b border-white/10 text-xs md:text-sm">
+      <div class="max-w-7xl mx-auto px-4 md:px-8 text-gray-300 font-light">
+        <ol class="flex items-center flex-wrap gap-2">
+          <li>
+            <a href={`/${lang}/`} class="hover:text-white transition-colors">{i18nLabels.home}</a>
+          </li>
+          <li><span class="opacity-50">»</span></li>
+          <li>
+            <a href={`/${lang}/products`} class="hover:text-white transition-colors">{headerDict['products'] || 'Products'}</a>
+          </li>
+          <li><span class="opacity-50">»</span></li>
+          <li class="text-white font-medium" aria-current="page">{product.title}</li>
+        </ol>
+      </div>
+    </nav>
+
+    <DetailHero 
+      title={product.title || ''}
+      description={product.desc || ''}
+      imageUrl={product.image || ''}
+      imageAlt={product.title || 'PolyCanopy product'}
+    />
+
+    <section class="max-w-7xl mx-auto px-4 md:px-8 py-16 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <article class="space-y-6">
+        <p class="text-lg text-gray-600 leading-relaxed font-light whitespace-pre-line">{product.welcome}</p>
+        <div class="pt-4">
+          <a href={product.cta?.whatsappUrl || '#'} target="_blank" class="inline-flex items-center gap-2 bg-[#12b886] hover:bg-[#0ca678] text-white font-bold px-8 py-4 rounded-lg shadow-lg hover:shadow-xl transition-all tracking-wide text-sm">
+            {product.cta?.whatsappText || 'Get Live Free Consultation'}
+          </a>
+        </div>
+      </article>
+      <figure class="grid grid-cols-1 gap-4">
+        <a href={product.globalProjectsImg} class="pswp-link cursor-zoom-in block" data-pswp-width="1600" data-pswp-height="1200" target="_blank">
+          <img src={product.globalProjectsImg} alt={product.globalProjectsAlt || 'PolyCanopy global projects'} class="w-full h-auto rounded-xl shadow-md object-cover hover:opacity-90 transition-opacity" loading="lazy" />
+        </a>
+      </figure>
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 md:px-8 py-16 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center border-t border-gray-100">
+      <figure class="order-2 lg:order-1">
+        {product.challenges?.img && (
+          <a href={product.challenges.img} class="pswp-link cursor-zoom-in block" data-pswp-width="1000" data-pswp-height="563" target="_blank">
+            <img 
+              src={product.challenges.img} 
+              alt={product.challenges.alt || product.challenges.title} 
+              class="w-full h-auto rounded-xl shadow-md object-cover hover:opacity-90 transition-opacity" 
+              loading="lazy" 
+            />
+          </a>
+        )}
+      </figure>
+      <article class="space-y-6 order-1 lg:order-2">
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 tracking-tight">
+          {product.challenges?.title || "Durable Weather Protection"}
+        </h2>
+        <p class="text-gray-600 font-light text-base md:text-lg">
+          {product.challenges?.subtitle || ""}
+        </p>
+        <ul class="space-y-3 font-light text-gray-700 text-sm md:text-base">
+          {product.challenges?.points && product.challenges.points.map((point: string) => (
+            <li class="flex items-start gap-3">
+              <span class="w-2 h-2 rounded-full bg-teal-500 mt-2 flex-shrink-0"></span>
+              <span>{point}</span>
+            </li>
+          ))}
+        </ul>
+      </article>
+    </section>
+
+    {product.features && product.features.length > 0 && (
+      <section class="bg-gray-50 py-20 border-y border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+          <h2 class="text-3xl md:text-4xl font-extrabold text-center text-gray-900 tracking-tight mb-4">{uiLabels.featuresTitle}</h2>
+          <p class="text-center text-gray-500 max-w-2xl mx-auto mb-16 font-light">{uiLabels.featuresSub}</p>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {product.features.map((feat: any) => (
+              <article class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
+                <a href={feat.img} class="pswp-link cursor-zoom-in block" data-pswp-width="1200" data-pswp-height="800" target="_blank">
+                  <img src={feat.img} alt={feat.alt || feat.title} class="w-full h-48 object-cover hover:scale-105 transition-transform duration-500" loading="lazy" />
+                </a>
+                <div class="p-6 flex-1 flex flex-col gap-3">
+                  <h3 class="text-xl font-bold text-gray-900">{feat.title}</h3>
+                  <p class="text-gray-600 text-sm leading-relaxed font-light">{feat.desc}</p>
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <section class="max-w-7xl mx-auto px-4 md:px-8 py-20 space-y-24">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <figure>
+          <a href={product.materials?.frameImg} class="pswp-link cursor-zoom-in block bg-gray-50 p-4 rounded-xl shadow-xl hover:shadow-2xl transition-shadow" data-pswp-width="1200" data-pswp-height="1600" target="_blank">
+           <img 
+              src={product.materials?.frameImg || "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg"} 
+              alt={product.materials?.frameAlt || 'Aluminum Profile Cross-Section'} 
+              class="w-full h-auto max-h-[500px] object-contain" 
+              loading="lazy" 
+            />
+          </a>
+        </figure>
+        <article class="space-y-6">
+          <h2 class="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">{uiLabels.framingTitle}</h2>
+          <p class="text-gray-600 leading-relaxed font-light">{product.materials?.frameAlt || ''}</p>
+        </article>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center lg:direction-rtl">
+        <figure class="lg:col-start-2">
+          <a href={product.materials?.roofsImg} class="pswp-link cursor-zoom-in block bg-gray-50 p-4 rounded-xl shadow-xl hover:shadow-2xl transition-shadow" data-pswp-width="1200" data-pswp-height="1600" target="_blank">
+            <img 
+              src={product.materials?.roofsImg || "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg"} 
+              alt={product.materials?.roofsAlt || 'Polycarbonate Panel'} 
+              class="w-full h-auto max-h-[500px] object-contain" 
+              loading="lazy" 
+            />
+          </a>
+        </figure>
+        <article class="space-y-6 lg:col-start-1">
+          <h2 class="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">{uiLabels.panelsTitle}</h2>
+          <p class="text-gray-600 leading-relaxed font-light">{product.materials?.roofsAlt || ''}</p>
+          <div class="flex flex-wrap gap-3 pt-2">
+            {product.materials?.colors && product.materials.colors.map((color: any) => (
+              <span class="px-4 py-2 bg-gray-100 rounded-md text-xs font-medium text-gray-700 border border-gray-200" title={color.alt || color.name}>{color.name}</span>
+            ))}
+          </div>
+        </article>
+      </div>
+    </section>
+
+    {product.specs && product.specs.length > 0 && (
+      <ProductSpecs title={product.specsTitle || 'Technical Specifications'} specs={product.specs} />
+    )}
+
+    {product.precision?.roofStylesImg && (
+      <section class="max-w-7xl mx-auto px-4 md:px-8 pb-20">
+        <figure class="flex flex-col gap-4">
+          <a href={product.precision.roofStylesImg} class="pswp-link cursor-zoom-in block" data-pswp-width="1600" data-pswp-height="1200" target="_blank">
+            <img src={product.precision.roofStylesImg} alt={product.precision.roofStylesAlt || 'Roof styles'} class="w-full h-auto rounded-xl shadow-md object-cover border border-gray-100 hover:opacity-90 transition-opacity" loading="lazy" />
+          </a>
+          <figcaption class="text-xs text-gray-400 text-center font-light">{product.precision.roofStylesAlt}</figcaption>
+        </figure>
+      </section>
+    )}
+
+    {product.precision?.details && product.precision.details.length > 0 && (
+      <section class="bg-gray-50 py-20 border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+          <h2 class="text-2xl md:text-3xl font-bold text-center text-gray-900 mb-12">{uiLabels.precisionTitle}</h2>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {product.precision.details.map((detail: any) => (
+              <article class="bg-white p-6 rounded-xl shadow-2xs border border-gray-100 flex flex-col gap-4">
+                <a href={detail.img} class="pswp-link cursor-zoom-in block" data-pswp-width="1200" data-pswp-height="800" target="_blank">
+                  <img src={detail.img} alt={detail.alt || detail.title} class="w-full h-40 object-cover rounded-lg hover:scale-105 transition-transform" loading="lazy" />
+                </a>
+                <h3 class="text-lg font-bold text-gray-900">{detail.title}</h3>
+                <p class="text-sm text-gray-500 leading-relaxed font-light">{detail.desc}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <section class="max-w-7xl mx-auto px-4 md:px-8 py-20 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <article class="space-y-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 tracking-tight">{uiLabels.profilesTitle}</h2>
+        <p class="text-gray-600 font-light leading-relaxed">{uiLabels.profilesDesc}</p>
+        <ul class="space-y-3 font-medium text-gray-800">
+          {product.profiles?.models && product.profiles.models.map((model: string) => (
+            <li class="flex items-center gap-3 text-sm">
+              <span class="w-2 h-2 rounded-full bg-teal-500"></span>
+              {model}
+            </li>
+          ))}
+        </ul>
+      </article>
+      <figure class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        {product.profiles?.img && (
+          <a href={product.profiles.img} class="pswp-link cursor-zoom-in" data-pswp-width="1600" data-pswp-height="800" target="_blank">
+            <img src={product.profiles.img} alt={product.profiles.imgAlt || 'Aluminum profile'} class="w-full h-full object-cover rounded-lg shadow-sm hover:opacity-90" loading="lazy" />
+          </a>
+        )}
+        {product.profiles?.diagramImg && (
+          <a href={product.profiles.diagramImg} class="pswp-link cursor-zoom-in" data-pswp-width="1600" data-pswp-height="1600" target="_blank">
+            <img src={product.profiles.diagramImg} alt={product.profiles.diagramAlt || 'Technical diagram'} class="w-full h-full object-cover rounded-lg shadow-sm hover:opacity-90" loading="lazy" />
+          </a>
+        )}
+      </figure>
+    </section>
+
+    {product.gallery && product.gallery.length > 0 && (
+      <section class="max-w-7xl mx-auto px-4 md:px-8 py-20 border-t border-gray-100">
+        <h2 class="text-3xl font-extrabold text-center text-gray-900 tracking-tight mb-12">
+          {uiLabels.galleryTitle}
+        </h2>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+          {product.gallery.map((item: any) => (
+            <a href={item.img} class="pswp-link block overflow-hidden rounded-xl shadow-sm hover:shadow-lg transition-all cursor-zoom-in" data-pswp-width="1600" data-pswp-height="1200" target="_blank">
+              <img src={item.img} alt={item.alt} class="w-full h-48 object-cover hover:scale-105 transition-transform duration-500" loading="lazy" />
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section class="bg-gradient-to-r from-[#184e77] to-[#1e6091] text-white py-16 text-center">
+      <div class="max-w-4xl mx-auto px-4 space-y-6">
+        <h2 class="text-3xl font-extrabold tracking-tight">{uiLabels.ctaTitle}</h2>
+        <p class="text-gray-200 max-w-xl mx-auto font-light text-sm md:text-base">{uiLabels.ctaDesc}</p>
+        <div class="flex flex-col sm:flex-row justify-center gap-4">
+          {product.cta?.downloadUrl && (
+            <a href={product.cta.downloadUrl} 
+               aria-label="Download technical brochure" 
+               class="px-8 py-3 bg-white text-[#184e77] font-bold rounded hover:bg-gray-100 transition-colors">
+              {product.cta.downloadText}
+            </a>
+          )}
+          <a href={product.cta?.whatsappUrl} 
+             aria-label="Contact sales team via WhatsApp" 
+             class="px-8 py-3 bg-[#12b886] hover:bg-[#0ca678] rounded text-white font-bold transition-colors">
+            {product.cta?.whatsappText}
+          </a>
+        </div>
+        {product.allProjectsImg && (
+          <figure class="pt-8 max-w-xs mx-auto">
+            <a 
+              href={product.allProjectsImg} 
+              class="pswp-link cursor-zoom-in block" 
+              data-pswp-width="1200" 
+              data-pswp-height="2400" 
+              target="_blank"
+            >
+               <img 
+                 src={product.allProjectsImg} 
+                 alt={product.allProjectsAlt || 'PolyCanopy project gallery overview'} 
+                 class="w-full h-auto rounded-lg shadow-lg border border-white/20 hover:opacity-90" 
+                 loading="lazy" 
+               />
+            </a>
+          </figure>
+        )}
+      </div>
+    </section>
+
+    {product.testimonials && product.testimonials.length > 0 && (
+      <section class="max-w-7xl mx-auto px-4 md:px-8 py-20">
+        <h2 class="text-2xl md:text-3xl font-bold text-center text-gray-900 mb-12">{uiLabels.trustedTitle}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {product.testimonials.map((test: any) => (
+            <blockquote class="bg-gray-50 p-8 rounded-xl border border-gray-100 shadow-sm flex flex-col justify-between gap-6">
+              <p class="text-gray-600 text-sm leading-relaxed font-light italic">“{test.text}”</p>
+              <cite class="not-italic flex flex-col gap-1">
+                <span class="font-bold text-gray-900 text-base">{test.name}</span>
+                <span class="text-xs text-teal-600 font-medium uppercase tracking-wider">{test.role}</span>
+              </cite>
+            </blockquote>
+          ))}
+        </div>
+      </section>
+    )}
+  </main>
+    
+  <Footer dict={footerDict} lang={lang} client:visible />
+
+  <script>
+    import PhotoSwipeLightbox from 'photoswipe/lightbox';
+    import 'photoswipe/style.css';
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const lightbox = new PhotoSwipeLightbox({
+        gallery: '#product-gallery', 
+        children: 'a.pswp-link',     
+        pswpModule: () => import('photoswipe')
+      });
+      lightbox.init();
+    });
+  </script>
+</Layout>

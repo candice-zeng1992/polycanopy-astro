@@ -1,0 +1,25 @@
+User-agent: *
+
+# 1. ✅ 允许蜘蛛访问根路径和所有语言子目录，确保重定向顺畅
+Allow: /
+Allow: /en/
+Allow: /zh/
+Allow: /ar/
+Allow: /de/
+Allow: /es/
+Allow: /pt/
+Allow: /fr/
+Allow: /ru/
+Allow: /ja/
+Allow: /it/
+Allow: /ko/
+
+# 2. ❌ 拦截后台功能路径、感谢页和临时页面
+Disallow: /admin/
+Disallow: */thank-you
+Disallow: */success
+Disallow: /search
+Disallow: /api/
+
+# 3. 🌟 完美的总地图索引指向
+Sitemap: https://polycanopy.com/sitemap-index.xml

@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Allow: /en/
+Allow: /zh/
+Allow: /ar/
+Allow: /de/
+Allow: /es/
+Allow: /pt/
+Allow: /fr/
+Allow: /ru/
+Allow: /ja/
+Allow: /it/
+Allow: /ko/
+
+Disallow: /admin/
+Disallow: */thank-you
+Disallow: */success
+Disallow: /search
+Disallow: /api/
+
+Sitemap: https://polycanopy.com/sitemap-index.xml

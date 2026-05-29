@@ -1,0 +1,537 @@
+# =========================================================================
+# 🌐 PolyCanopy Cloudflare Edge Network 301 Redirects Engine
+# =========================================================================
+# Old WordPress Localized Paths -> New Standard Dynamic Clean Paths
+# Status: 301 Permanent Redirect (Preserves 100% Google SEO Link Juice)
+
+# -------------------------------------------------------------------------
+# 📦 2. 产品大厅栏目页对齐 (彻底清洗老 WP 各种泰语/阿拉伯语/德语别名乱码)
+# -------------------------------------------------------------------------
+/ar/المنتجات/                                /ar/products/                                          301
+/de/produkte/                                /de/products/                                          301
+/es/productos/                                /es/products/                                          301
+/pt/produtos/                                /pt/products/                                          301
+/fr/produits/                                /fr/products/                                          301
+/ru/продукция/                               /ru/products/                                          301
+/ja/製品/                                    /ja/products/                                          301
+/it/prodotti/                                /it/products/                                          301
+/ko/제품/                                    /ko/products/                                          301
+/zh/产品/                                    /zh/products/                                          301
+
+# -------------------------------------------------------------------------
+# 🛠️ 3. 服务与方案页面对齐 (Service / Dienstleistung / サービス)
+/ar/الخدمة/                                  /ar/service/                                           301
+/de/dienstleistung/                          /de/service/                                           301
+/es/servicio/                                /es/service/                                           301
+/pt/servico/                                 /pt/service/                                           301
+/ru/сервис/                                  /ru/service/                                           301
+/ja/サービス/                                /ja/service/                                           301
+/it/servizio/                                /it/service/                                           301
+/ko/서비스/                                  /ko/service/                                           301
+/zh/服务/                                    /zh/service/                                           301
+
+# -------------------------------------------------------------------------
+# 📜 4. 退换货政策页面对齐 (Return & Refund Policy)
+# -------------------------------------------------------------------------
+/ar/سياسة-الإرجاع/                           /ar/return-policy/                                     301
+/de/ruckgabepolitik/                         /de/return-policy/                                     301
+/es/politica-de-devoluciones/                /es/return-policy/                                     301
+/pt/politica-de-devolucao/                   /pt/return-policy/                                     301
+/fr/politique-de-retour/                     /fr/return-policy/                                     301
+/ru/политика-возврата/                       /ru/return-policy/                                     301
+/ja/リターンポリシー/                        /ja/return-policy/                                     301
+/it/politica-di-restituzione/                /it/return-policy/                                     301
+/ko/반품-정책/                               /ko/return-policy/                                     301
+/zh/退货政策/                                /zh/return-policy/                                     301
+
+# -------------------------------------------------------------------------
+# 🔒 5. 隐私政策页面对齐 (Privacy Policy)
+# -------------------------------------------------------------------------
+/ar/سياسة-الخصوصية/                          /ar/privacy-policy/                                    301
+/de/datenschutzbestimmungen/                 /de/privacy-policy/                                    301
+/es/politica-de-privacidad/                  /es/privacy-policy/                                    301
+/pt/politica-de-privacidade/                 /pt/privacy-policy/                                    301
+/fr/politique-de-confidentialite/            /fr/privacy-policy/                                    301
+/ru/политика-конфиденциальности/             /ru/privacy-policy/                                    301
+/ja/プライバシーポリシー/                    /ja/privacy-policy/                                    301
+/it/informativa-sulla-privacy/               /it/privacy-policy/                                    301
+/ko/개인정보-보호정책/                       /ko/privacy-policy/                                    301
+/zh/隐私政策/                                /zh/privacy-policy/                                    301
+
+# -------------------------------------------------------------------------
+# 📝 6. 博客文章大厅页对齐 (Blog / المدونة / ブログ)
+# -------------------------------------------------------------------------
+/ar/المدونة/                                 /ar/blog/                                              301
+/ja/ブログ/                                  /ja/blog/                                              301
+/it/blog/                                    /it/blog/                                              301
+/ko/블로그/                                  /ko/blog/                                              301
+/zh/博客/                                    /zh/blog/                                              301
+
+# -------------------------------------------------------------------------
+# 📞 7. 联系我们询盘页对齐 (Contact / الاتصال / 連絡先)
+# -------------------------------------------------------------------------
+/ar/الاتصال/                                 /ar/contact/                                           301
+/de/kontakt/                                 /de/contact/                                           301
+/es/pongase-en-contacto-con/                 /es/contact/                                           301
+/pt/contato/                                 /pt/contact/                                           301
+/ru/связаться-с/                             /ru/contact/                                           301
+/ja/コンタクト/                              /ja/contact/                                           301
+/it/contatto/                                /it/contact/                                           301
+/ko/연락처/                                  /ko/contact/                                           301
+/zh/联系/                                    /zh/contact/                                           301
+
+# =========================================================================
+# 📦 8. 核心单品详情页对齐 (老 WP 11国单品别名 -> 新站统一干净二级路由)
+# =========================================================================
+
+# --- 1. 悬挂式聚碳酸酯顶篷 (Suspended Canopy) ---
+/en/product/suspended-polycarbonate-canopy/                                                     /en/products/suspended-polycarbonate-canopy/           301
+/ar/المنتج/مظلة-معلقة-من-البولي-كربونات/                                                            /ar/products/suspended-polycarbonate-canopy/           301
+/de/produkt/abgehangte-uberdachung-aus-polycarbonat/                                            /de/products/suspended-polycarbonate-canopy/           301
+/es/producto/marquesina-suspendida-de-policarbonato/                                            /es/products/suspended-polycarbonate-canopy/           301
+/pt/produto/cobertura-suspensa-de-policarbonato/                                                /pt/products/suspended-polycarbonate-canopy/           301
+/fr/produit/auvent-suspendu-en-polycarbonate/                                                   /fr/products/suspended-polycarbonate-canopy/           301
+/ru/продукт/подвесной-навес-из-поликарбоната/                                                   /ru/products/suspended-polycarbonate-canopy/           301
+/ja/製品-2/吊り下げ式ポリカーボネート製キャノピー/                                                /ja/products/suspended-polycarbonate-canopy/           301
+/it/prodotto/tettoia-sospesa-in-policarbonato/                                                  /it/products/suspended-polycarbonate-canopy/           301
+/ko/제품-2/서스펜شن-폴리카보네이트-캐노피/                                                      /ko/products/suspended-polycarbonate-canopy/           301
+/zh/product/suspended-polycarbonate-canopy/                                                     /zh/products/suspended-polycarbonate-canopy/           301
+/zh/产品-2/悬挂式聚碳酸酯顶篷/                                                                  /zh/products/suspended-polycarbonate-canopy/           301
+
+# --- 2. 聚碳酸酯内角顶篷 (Inside Corner Canopy) ---
+/en/product/inside-corner-canopy-polycarbonate/                                                 /en/products/inside-corner-canopy/                     301
+/ar/المنتج/بولي-كربونات-الزاوية-الداخلية-للمظلة/                                                    /ar/products/inside-corner-canopy/                     301
+/de/produkt/innenecke-vordach-polycarbonat/                                                     /de/products/inside-corner-canopy/                     301
+/es/producto/toldo-de-esquina-interior-policarbonato/                                           /es/products/inside-corner-canopy/                     301
+/pt/produto/policarbonato-de-canto-interno/                                                     /pt/products/inside-corner-canopy/                     301
+/fr/produit/auvent-dangle-interieur-polycarbonate/                                              /fr/products/inside-corner-canopy/                     301
+/ru/продукт/внутренний-угловой-козырек-из-полика/                                               /ru/products/inside-corner-canopy/                     301
+/ja/製品-2/インサイドコーナーキャノピー-ポリカーボネート/                                        /ja/products/inside-corner-canopy/                     301
+/it/prodotto/tettoia-angolare-interna-in-policarbonato/                                         /it/products/inside-corner-canopy/                     301
+/ko/제품-2/내부-코너-캐노피-폴리카보네이트/                                                      /ko/products/inside-corner-canopy/                     301
+/zh/product/inside-corner-canopy-polycarbonate/                                                 /zh/products/inside-corner-canopy/                     301
+/zh/产品-2/聚碳酸酯内角顶篷/                                                                    /zh/products/inside-corner-canopy/                     301
+
+# --- 3. 转角扩展聚碳酸酯顶篷 (Corner Extended Canopy) ---
+/en/product/corner-extended-polycarbonate-canopy/                                               /en/products/corner-extended-polycarbonate-canopy/     301
+/ar/المنتج/مظلة-بولي-كربونات-ممتدة-الزاوية/                                                         /ar/products/corner-extended-polycarbonate-canopy/     301
+/de/produkt/uber-eck-verlangertes-polycarbonat-vordach/                                         /de/products/corner-extended-polycarbonate-canopy/     301
+/es/producto/marquesina-de-policarbonato-extendida-en-esquina/                                  /es/products/corner-extended-polycarbonate-canopy/     301
+/pt/produto/dossel-de-policarbonato-com-canto-estendido/                                        /pt/products/corner-extended-polycarbonate-canopy/     301
+/fr/produit/auvent-en-polycarbonate-prolonge-dun-coin/                                          /fr/products/corner-extended-polycarbonate-canopy/     301
+/ru/продукт/угловой-удлиненный-навес-из-поликарб/                                               /ru/products/corner-extended-polycarbonate-canopy/     301
+/ja/製品-2/コーナー・エクステンديد・ポリカーボネート/                                            /ja/products/corner-extended-polycarbonate-canopy/     301
+/it/prodotto/tettoia-in-policarbonato-estesa-ad-angolo/                                         /it/products/corner-extended-polycarbonate-canopy/     301
+/ko/제품-2/코너-확장형-폴리카보네이트-캐노피/                                                    /ko/products/corner-extended-polycarbonate-canopy/     301
+/zh/product/corner-extended-polycarbonate-canopy/                                               /zh/products/corner-extended-polycarbonate-canopy/     301
+/zh/产品-2/转角扩展聚碳酸酯顶篷/                                                                /zh/products/corner-extended-polycarbonate-canopy/     301
+
+# --- 4. 聚碳酸酯窗篷门遮阳篷 (Window & Door Canopy) ---
+/en/product/polycarbonate-window-canopy-door-awning/                                            /en/products/polycarbonate-window-canopy/              301
+/ar/المنتج/مظلة-باب-مظلة-النوافذ-المصنوعة-من-البو/                                                 /ar/products/polycarbonate-window-canopy/              301
+/de/produkt/fenstervordach-aus-polycarbonat-turmarkise/                                         /de/products/polycarbonate-window-canopy/              301
+/es/producto/toldo-de-policarbonato-para-ventanas-y-puertas/                                    /es/products/polycarbonate-window-canopy/              301
+/pt/produto/toldo-de-policarbonato-para-janelas-e-portas/                                       /pt/products/polycarbonate-window-canopy/              301
+/fr/produit/auvent-de-fenetre-en-polycarbonate-auvent-de-porte/                                /fr/products/polycarbonate-window-canopy/              301
+/ru/продукт/поликарбонатный-навес-для-окон-и-двер/                                              /ru/products/polycarbonate-window-canopy/              301
+/ja/製品-2/ポリカーボネート・ウィンドウ・キャノピー・ド/                                          /ja/products/polycarbonate-window-canopy/              301
+/it/prodotto/tenda-da-sole-in-policarbonato-per-porte-e-finestre/                               /it/products/polycarbonate-window-canopy/              301
+/ko/제품-2/폴리카보네이트-창문-캐노피-도어-어닝/                                                    /ko/products/polycarbonate-window-canopy/              301
+/zh/product/polycarbonate-window-canopy-door-awning/                                            /zh/products/polycarbonate-window-canopy/              301
+/zh/产品-2/聚碳酸酯窗停门遮阳篷/                                                                /zh/products/polycarbonate-window-canopy/              301
+
+# --- 5. 聚碳酸酯车棚车库盖 (Polycarbonate Carport) ---
+/en/product/polycarbonate-carport-garage-cover/                                                 /en/products/polycarbonate-carport/                    301
+/ar/المنتج/غطاء-مرآب-السيارات-من-البولي-كربونات/                                                    /ar/products/polycarbonate-carport/                    301
+/de/produkt/carport-garagenabdeckung-aus-polycarbonat/                                          /de/products/polycarbonate-carport/                    301
+/es/producto/cubierta-de-policarbonato-para-garaje/                                             /es/products/polycarbonate-carport/                    301
+/pt/produto/cobertura-de-policarbonato-para-garagem/                                            /pt/products/polycarbonate-carport/                    301
+/fr/produit/abri-de-voiture-en-polycarbonate-couverture-de-garage/                              /fr/products/polycarbonate-carport/                    301
+/ru/продукт/поликарбонатное-покрытие-гаража/                                                    /ru/products/polycarbonate-carport/                    301
+/ja/製品-2/ポリカーボネート製カーポート・ガレージカバー/                                          /ja/products/polycarbonate-carport/                    301
+/it/prodotto/copertura-carport-garage-in-policarbonato/                                         /it/products/polycarbonate-carport/                    301
+/ko/제품-2/폴리카보네이트-카-포트-차고-커버/                                                      /ko/products/polycarbonate-carport/                    301
+/zh/product/polycarbonate-carport-garage-cover/                                                 /zh/products/polycarbonate-carport/                    301
+/zh/产品-2/聚碳酸酯车棚车库盖/                                                                  /zh/products/polycarbonate-carport/                    301
+
+# --- 6. 露台天篷设计尺寸 (Terrace Canopy) ---
+/en/product/terrace-canopy-design-materials-sizes/                                              /en/products/terrace-canopy/                           301
+/ar/المنتج/أحجام-مواد-تصميم-مظلة-الشرفة/                                                            /ar/products/terrace-canopy/                           301
+/de/produkt/terrassenuberdachung-design-materialien-grosen/                                     /de/products/terrace-canopy/                           301
+/es/producto/diseno-de-marquesinas-para-terrazas-materiales-tamanos/                            /es/products/terrace-canopy/                           301
+/pt/produto/design-do-dossel-do-terraco-materiais-tamanhos/                                      /pt/products/terrace-canopy/                           301
+/fr/produit/conception-de-lauvent-de-la-terrasse-materiaux-dimensions/                          /fr/products/terrace-canopy/                           301
+/ru/продукт/дизайн-навеса-террасы-материалы-разм/                                               /ru/products/terrace-canopy/                           301
+/ja/製品-2/テラス・キャノピー・デザイン-素材-サイズ/                                              /ja/products/terrace-canopy/                           301
+/it/prodotto/progettazione-di-una-tettoia-a-terrazza-materiali-dimensioni/                      /it/products/terrace-canopy/                           301
+/ko/제품-2/테라스-캐노피-디자인-재료-크기/                                                      /ko/products/terrace-canopy/                           301
+/zh/product/terrace-canopy-design-materials-sizes/                                              /zh/products/terrace-canopy/                           301
+/zh/产品-2/露台天篷设计材料尺寸/                                                                /zh/products/terrace-canopy/                           301
+
+# --- 7. 伸缩式可收缩阳光房 (Retractable Sunroom) ---
+/en/product/retractable-telescopic-sunroom/                                                     /en/products/retractable-telescopic-sunroom/          301
+/ar/المنتج/غرفة-تشمس-تلسكوبية-قابلة-للسحب/                                                         /ar/products/retractable-telescopic-sunroom/          301
+/de/produkt/versenkbare-teleskop-sonnenstube/                                                   /de/products/retractable-telescopic-sunroom/          301
+/es/producto/terraza-acristalada-telescopica-retractil/                                         /es/products/retractable-telescopic-sunroom/          301
+/pt/produto/solario-telescopico-retratil/                                                       /pt/products/retractable-telescopic-sunroom/          301
+/fr/produit/veranda-telescopique-retractable/                                                   /fr/products/retractable-telescopic-sunroom/          301
+/ru/продукт/выдвижной-телескопический-солярий/                                                  /ru/products/retractable-telescopic-sunroom/          301
+/ja/製品-2/格納式伸縮サンルーム/                                                                /ja/products/retractable-telescopic-sunroom/          301
+/it/prodotto/veranda-telescopica-a-scomparsa/                                                   /it/products/retractable-telescopic-sunroom/          301
+/ko/제품-2/접이식-텔레스코픽-선룸/                                                              /ko/products/retractable-telescopic-sunroom/          301
+/zh/product/retractable-telescopic-sunroom/                                                     /zh/products/retractable-telescopic-sunroom/          301
+/zh/产品-2/伸缩式阳光房/                                                                        /zh/products/retractable-telescopic-sunroom/          301
+
+# --- 8. 聚碳酸酯观星穹顶 (Stargazing Dome) ---
+/en/product/polycarbonate-stargazing-dome-for-glamping/                                         /en/products/stargazing-dome/                          301
+/ar/المنتج/قبة-مراقبة-النجوم-المصنوعة-من-البولي-ك/                                                 /ar/products/stargazing-dome/                          301
+/de/product/polycarbonat-sternenkuppel-fur-glamping/                                            /de/products/stargazing-dome/                          301
+/de/produkt/polycarbonat-sternenkuppel-fur-glamping/                                            /de/products/stargazing-dome/                          301
+/es/producto/cupula-de-policarbonato-para-glamping/                                             /es/products/stargazing-dome/                          301
+/pt/produto/cupula-de-policarbonato-para-observacao-de-estrelas-para-glamping/                  /pt/products/stargazing-dome/                          301
+/fr/produit/dome-dobservation-des-etoiles-en-polycarbonate-pour-le-glamping/                   /fr/products/stargazing-dome/                          301
+/ru/продукт/поликарбонатный-купол-для-наблюдени/                                                /ru/products/stargazing-dome/                          301
+/ja/製品-2/グランピング用ポリカーボネート製星空ドーム/                                            /ja/products/stargazing-dome/                          301
+/it/prodotto/cupola-stellare-in-policarbonato-per-il-glamping/                                  /it/products/stargazing-dome/                          301
+/ko/제품-2/글램핑용-폴리카보네이트-별-관측-돔/                                                    /ko/products/stargazing-dome/                          301
+/zh/product/polycarbonate-stargazing-dome-for-glamping/                                         /zh/products/stargazing-dome/                          301
+/zh/产品-2/用于露营的聚碳酸酯观星穹顶/                                                          /zh/products/stargazing-dome/                          301
+
+# --- 9. 老网站脏产品聚合路由纠偏 (Product Catalog Root) ---
+/en/product/                                                                                    /en/products/                                          301
+/ar/المنتج/                                                                                     /ar/products/                                          301
+/de/produkt/                                                                                    /de/products/                                          301
+/es/producto/                                                                                   /es/products/                                          301
+/pt/producto/                                                                                   /pt/products/                                          301
+/fr/produit/                                                                                    /fr/products/                                          301
+/ru/продукт/                                                                                    /ru/products/                                          301
+/ja/製品-2/                                                                                     /ja/products/                                          301
+/it/prodotto/                                                                                   /it/products/                                          301
+/ko/제품-2/                                                                                     /ko/products/                                          301
+/zh/产品-2/                                                                                     /zh/products/                                          301
+
+# =========================================================================
+# 📝 9. 博客文章详情页纠偏 (老 WP 分类夹层/乱码别名 -> 11国新项目 /blog/ 路由)
+# =========================================================================
+
+# --- 1. 聚碳酸酯顶篷的优势和应用 (advantages-and-applications...) ---
+/en/advantages-and-applications-of-polycarbonate-canopies/                             /en/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ar/مزايا-الستائر-المصنوعة-من-البولي-كربو/                                             /ar/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/de/vorteile-und-anwendungen-von-polycarbonat-vordachern/                             /de/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/es/ventajas-y-aplicaciones-de-las-marquesinas-de-policarbonato/                       /es/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/pt/vantagens-e-aplicacoes-dos-toldos-de-policarbonato/                                 /pt/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/fr/avantages-et-applications-des-auvents-en-polycarbonate/                            /fr/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ru/преимущества-и-области-применения-на/                                              /ru/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ja/ポリカーボネート製キャノピーの利点と用途-2/                                          /ja/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/it/vantaggi-e-applicazioni-delle-tettoie-in-policarbonato/                            /it/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ko/폴리카보네이트-캐노피의-장점-및-적용-분야/                                          /ko/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/zh/聚碳酸酯顶篷的优势和应用/                                                          /zh/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+
+# --- 2. 如何选择适合您需要的顶篷 (how-to-choose...) ---
+/en/how-to-choose-the-right-polycarbonate-canopy-for-your-needs/                       /en/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ar/كيف-تختار-مظلة-البولي-كربونات-المناسب/                                             /ar/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/de/wie-sie-das-richtige-polycarbonat-vordach-fur-ihre-bedurfnisse-auswahlen/           /de/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/es/como-elegir-el-toldo-de-policarbonato-que-mejor-se-adapta-a-sus-necesidades/       /es/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/pt/como-escolher-o-toldo-de-policarbonato-certo-para-suas-necessidades/               /pt/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/fr/comment-choisir-lauvent-en-polycarbonate-le-mieux-adapte-a-vos-besoins/            /fr/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ru/как-правильно-выбрать-навес-из-полика/                                              /ru/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ja/ニーズに合ったポリカーボネート製キャノピーの/                                       /ja/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/it/come-scegliere-la-tettoia-in-policarbonato-piu-adatta-alle-vostre-esigenze/         /it/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ko/필요에-맞는-폴리카보네이트-캐노피를-선택하는-방/                                   /ko/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/zh/如何选择适合您需要的聚碳酸酯顶篷/                                                  /zh/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+
+# --- 3. 顶篷日常维护技巧 (maintenance-tips...) ---
+/en/maintenance-tips-for-polycarbonate-canopies-to-ensure-longevity/                    /en/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ar/نصائح-لصيانة-المظلات-المصنوعة-من-البو/                                             /ar/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/de/pflegetipps-fur-polycarbonat-vordacher-zur-gewahrleistung-der-langlebigkeit/       /de/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/es/consejos-de-mantenimiento-de-las-cubiertas-de-policarbonato-para-garantizar-su-longevidad/ /es/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/pt/dicas-de-manutencao-para-toldos-de-policarbonato-para-garantir-a-longevidade/       /pt/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/fr/conseils-dentretien-pour-les-auvents-en-polycarbonate-afin-dassurer-leur-longevite/ /fr/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ru/советы-по-уходу-за-навесами-из-поликарбон/                                         /ru/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ja/ポリカーボネート製キャノピーを長持ちさせるた/                                       /ja/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/it/consigli-per-la-manutenzione-delle-tettoie-in-policarbonato-per-garantirne-la-longevita/ /it/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ko/폴리카보네이트-캐노피의-수명을-보장하기-위한-유/                                   /ko/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/zh/确保聚碳酸酯顶篷使用寿命的维护技巧/                                                /zh/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+
+# --- 4. 可开闭伸缩天篷系统 (retractable-polycarbonate...) ---
+/en/retractable-polycarbonate-canopy-systems-ultimate-flexibility/                      /en/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ar/أنظمة-المظلات-المصنوعة-من-البولي-كربو/                                             /ar/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/de/einziehbare-polycarbonat-vordachsysteme-ultimative-flexibilitat/                    /de/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/es/sistemas-de-marquesinas-retractiles-de-policarbonato-maxima-flexibilidad/           /es/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/pt/sistemas-de-cobertura-retratil-de-policarbonato-flexibilidade-maxima/               /pt/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/fr/systemes-dauvents-retractables-en-polycarbonate-flexibilite-ultime/                /fr/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ru/раздвижные-системы-навесов-из-полика/                                               /ru/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ja/開閉式ポリカーボネートキャノピーシステム-究極/                                       /ja/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/it/sistemi-di-pensiline-retrattili-in-policarbonato-massima-flessibilita/              /it/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ko/개폐식-폴리카보네이트-캐노피-시스템-궁극의-유연/                                   /ko/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/zh/可伸缩聚碳酸酯顶篷系统-终极灵活性/                                                  /zh/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+
+# --- 5. 天篷许可与法规指南 (polycarbonate-canopy-permits...) ---
+/en/polycarbonate-canopy-permits-and-regulations-guide/                                 /en/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ar/دليل-تصاريح-ولوائح-المظلات-المصنوعة-م/                                             /ar/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/de/leitfaden-fur-genehmigungen-und-vorschriften-fur-polycarbonat-vordacher/           /de/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/es/guia-de-permisos-y-normativas-para-marquesinas-de-policarbonato/                    /es/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/pt/guia-de-permissoes-e-regulamentos-de-toldos-de-policarbonato/                       /pt/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/fr/guide-des-permis-et-reglementations-pour-les-auvents-en-polycarbonate/              /fr/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ru/руководство-по-разрешениям-и-правила/                                               /ru/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ja/ポリカーボネート製キャノピーに関する許可およ/                                       /ja/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/it/guida-alle-autorizzazioni-e-ai-regolamenti-per-le-pensiline-in-policarbonato/       /it/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ko/폴리카보네이트-캐노피-허가-및-규정-가이드/                                          /ko/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/zh/聚碳酸酯天篷许可和法规指南/                                                        /zh/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+
+# --- 6. 用于观星和天文台的天篷 (polycarbonate-canopies-for-stargazing...) ---
+/en/polycarbonate-canopies-for-stargazing-and-observatories/                           /en/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ar/الستائر-المصنوعة-من-البولي-كربونات-لم/                                             /ar/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/de/uberdachungen-aus-polycarbonat-fur-sterngucker-und-sternwarten/                     /de/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/es/marquesinas-de-policarbonato-para-observacion-de-estrellas-y-observatorios/         /es/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/pt/coberturas-de-policarbonato-para-observacao-de-estrelas-e-observatorios/           /pt/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/fr/auvents-en-polycarbonate-pour-lobservation-des-etoiles-et-les-observatoires/        /fr/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ru/навесы-из-поликарбоната-для-наблюден/                                               /ru/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ja/星空観察・天文台用ポリカーボネート製キャノピ/                                       /ja/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/it/tettoie-in-policarbonato-per-losservazione-delle-stelle-e-degli-osservatori/       /it/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/ko/별-관측-및-천문대용-폴리카보네이트-캐노피/                                          /ko/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+/zh/用于观星和天文台的聚碳酸酯顶篷/                                                    /zh/blog/securing-your-structure-a-guide-to-anchoring-systems-for-high-wind-areas/  301
+
+# --- 7. 智能多语言保底清道夫拦截 (最后这 11 行用来死守你提到的那些完全同名基础链接，防止老 WP 的分类重合导致 404) ---
+/en/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /en/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ar/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /ar/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/de/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /de/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/es/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /es/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/pt/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /pt/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/fr/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /fr/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ru/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /ru/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ja/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /ja/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/it/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /it/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/ko/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /ko/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+/zh/3mm-solid-polycarbonate-sheet-canopy-roofing/                                       /zh/blog/3mm-solid-polycarbonate-sheet-canopy-roofing/  301
+
+# =========================================================================
+# 📂 10. 博客分类目录页全面收拢 (老 WP 繁杂分类 -> 11国新项目标准 /blog/ 大厅)
+# =========================================================================
+
+# --- 1. 设计趋势与创新分类 (design-trends-and-innovations...) ---
+/en/category/design-trends-and-innovations-in-polycarbonate-canopies/                   /en/blog/                                              301
+/ar/الفئة/اتجاهات-التصميم-والابتكارات-في-المظل/                                          /ar/blog/                                              301
+/de/kategorie/designtrends-und-innovationen-bei-vordachern-aus-polycarbonat/           /de/blog/                                              301
+/es/categoria/tendencias-de-diseno-e-innovaciones-en-cubiertas-de-policarbonato/       /es/blog/                                              301
+/pt/categoria/tendencias-de-design-e-inovacoes-em-coberturas-de-policarbonato/         /pt/blog/                                              301
+/fr/categorie/tendances-et-innovations-dans-le-domaine-des-auvents-en-polycarbonate/    /fr/blog/                                              301
+/ru/категория/тенденции-и-инновации-в-дизайне-навес/                                    /ru/blog/                                              301
+/ja/カテゴリー/ポリカーボネート製キャノピーのデザイントレン/                               /ja/blog/                                              301
+/it/categoria/tendenze-e-innovazioni-nel-design-delle-tettoie-in-policarbonato/         /it/blog/                                              301
+/ko/카테고리/폴리카보네이트-캐노피의-디자인-트렌드와-혁신/                               /ko/blog/                                              301
+/zh/类别/聚碳酸酯顶篷的设计趋势与创新/                                                   /zh/blog/                                              301
+
+# --- 2. 如何选择和安装分类 (how-to-choose-and-install...) ---
+/en/category/how-to-choose-and-install-the-right-polycarbonate-canopy/                  /en/blog/                                              301
+/ar/الفئة/كيفية-اختيار-مظلة-البولي-كربونات-المن/                                         /ar/blog/                                              301
+/de/kategorie/wie-man-das-richtige-polycarbonat-vordach-auswahlt-und-installiert/       /de/blog/                                              301
+/es/categoria/como-elegir-e-instalar-la-marquesina-de-policarbonato-adecuada/           /es/blog/                                              301
+/pt/categoria/como-escolher-e-instalar-a-cobertura-de-policarbonato-correta/             /pt/blog/                                              301
+/fr/categorie/comment-choisir-et-installer-le-bon-auvent-en-polycarbonate/              /fr/blog/                                              301
+/ru/категория/как-правильно-выбрать-и-установить-на/                                    /ru/blog/                                              301
+/ja/カテゴリー/ポリカーボネート製キャノピーの正しい選び方と/                               /ja/blog/                                              301
+/it/categoria/come-scegliere-e-installare-la-giusta-tettoia-in-policarbonato/           /it/blog/                                              301
+/ko/카테고리/올바른-폴리카보네이트-캐노피-선택-및-설치-방법/                               /ko/blog/                                              301
+/zh/类别/如何选择和安装合适的聚碳酸酯顶篷/                                               /zh/blog/                                              301
+
+# --- 3. 聚碳酸酯顶篷优势与应用分类 (polycarbonate-canopy-advantages...) ---
+/en/category/polycarbonate-canopy-advantages-and-applications/                          /en/blog/                                              301
+/ar/الفئة/مزايا-وتطبيقات-مظلة-البولي-كربونات/                                           /ar/blog/                                              301
+/de/kategorie/vorteile-und-anwendungen-von-vordachern-aus-polycarbonat/                 /de/blog/                                              301
+/es/categoria/ventajas-y-applications-de-las-cubiertas-de-policarbonato/                /es/blog/                                              301
+/pt/categoria/vantagens-e-aplicacoes-da-cobertura-de-policarbonato/                     /pt/blog/                                              301
+/fr/categorie/avantages-et-applications-de-lauvent-en-polycarbonate/                    /fr/blog/                                              301
+/ru/категория/преимущества-и-применение-навесов-из/                                     /ru/blog/                                              301
+/ja/カテゴリー/ポリカーボネート製キャノピーの利点と用途/                                 /ja/blog/                                              301
+/it/categoria/vantaggi-e-applicazioni-delle-pensiline-in-policarbonato/                 /it/blog/                                              301
+/ko/카테고리/폴리카보네이트-캐노피의-장점-및-응용-분야/                                 /ko/blog/                                              301
+/zh/类别/聚碳酸酯顶篷的优点和应用/                                                       /zh/blog/                                              301
+
+# --- 4. 官方主博客通用分类 (polycarbonate-canopy-blog) ---
+/en/category/polycarbonate-canopy-blog/                                                 /en/blog/                                              301
+/ar/الفئة/polycarbonate-canopy-blog/                                                    /ar/blog/                                              301
+/de/kategorie/polycarbonate-canopy-blog/                                                /de/blog/                                              301
+/es/categoria/polycarbonate-canopy-blog/                                                /es/blog/                                              301
+/pt/categoria/polycarbonate-canopy-blog/                                                /pt/blog/                                              301
+/fr/categorie/polycarbonate-canopy-blog/                                                /fr/blog/                                              301
+/ru/категория/polycarbonate-canopy-blog/                                                /ru/blog/                                              301
+/ja/カテゴリー/polycarbonate-canopy-blog/                                                /ja/blog/                                              301
+/it/categoria/polycarbonate-canopy-blog/                                                /it/blog/                                              301
+/ko/카테고리/polycarbonate-canopy-blog/                                                 /ko/blog/                                              301
+/zh/类别/polycarbonate-canopy-blog/                                                     /zh/blog/                                              301
+
+# =========================================================================
+# 🏷️ 11. 博客标签页全量收拢 (老 WP 标签乱码 -> 11国新项目标准 /blog/ 大厅)
+# =========================================================================
+
+# --- 1. 耐久性标签 (canopy-durability) ---
+/en/tag/canopy-durability/                                                   /en/blog/                                              301
+/ar/العلامة/canopy-durability/                                                /ar/blog/                                              301
+/de/tag/canopy-durability/                                                   /de/blog/                                              301
+/es/etiqueta/canopy-durability/                                              /es/blog/                                              301
+/pt/etiqueta/canopy-durability/                                              /pt/blog/                                              301
+/fr/etiquette/canopy-durability/                                             /fr/blog/                                              301
+/ru/тег/canopy-durability/                                                   /ru/blog/                                              301
+/ja/タグ/canopy-durability/                                                   /ja/blog/                                              301
+/it/tag/canopy-durability/                                                   /it/blog/                                              301
+/ko/태그/canopy-durability/                                                   /ko/blog/                                              301
+/zh/标签/canopy-durability/                                                   /zh/blog/                                              301
+
+# --- 2. 维护技巧标签 (canopy-maintenance) ---
+/en/tag/canopy-maintenance/                                                  /en/blog/                                              301
+/ar/العلامة/canopy-maintenance/                                               /ar/blog/                                              301
+/de/tag/canopy-maintenance/                                                  /de/blog/                                              301
+/es/etiqueta/canopy-maintenance/                                             /es/blog/                                              301
+/pt/etiqueta/canopy-maintenance/                                             /pt/blog/                                              301
+/fr/etiquette/canopy-maintenance/                                            /fr/blog/                                              301
+/ru/тег/canopy-maintenance/                                                  /ru/blog/                                              301
+/ja/タグ/canopy-maintenance/                                                  /ja/blog/                                              301
+/it/tag/canopy-maintenance/                                                  /it/blog/                                              301
+/ko/태그/canopy-maintenance/                                                  /ko/blog/                                              301
+/zh/标签/canopy-maintenance/                                                  /zh/blog/                                              301
+
+# --- 3. 选购指南标签 (canopy-selection-guide) ---
+/en/tag/canopy-selection-guide/                                              /en/blog/                                              301
+/ar/العلامة/canopy-selection-guide/                                           /ar/blog/                                              301
+/de/tag/canopy-selection-guide/                                              /de/blog/                                              301
+/es/etiqueta/canopy-selection-guide/                                         /es/blog/                                              301
+/pt/etiqueta/canopy-selection-guide/                                         /pt/blog/                                              301
+/fr/etiquette/canopy-selection-guide/                                        /fr/blog/                                              301
+/ru/тег/canopy-selection-guide/                                              /ru/blog/                                              301
+/ja/タグ/canopy-selection-guide/                                              /ja/blog/                                              301
+/it/tag/canopy-selection-guide/                                              /it/blog/                                              301
+/ko/태그/canopy-selection-guide/                                              /ko/blog/                                              301
+/zh/标签/canopy-selection-guide/                                              /zh/blog/                                              301
+
+# --- 4. 清洁技巧标签 (cleaning-polycarbonate-sheets) ---
+/en/tag/cleaning-polycarbonate-sheets/                                       /en/blog/                                              301
+/ar/العلامة/cleaning-polycarbonate-sheets/                                    /ar/blog/                                              301
+/de/tag/cleaning-polycarbonate-sheets/                                       /de/blog/                                              301
+/es/etiqueta/cleaning-polycarbonate-sheets/                                  /es/blog/                                              301
+/pt/etiqueta/cleaning-polycarbonate-sheets/                                  /pt/blog/                                              301
+/fr/etiquette/cleaning-polycarbonate-sheets/                                 /fr/blog/                                              301
+/ru/тег/cleaning-polycarbonate-sheets/                                       /ru/blog/                                              301
+/ja/タグ/cleaning-polycarbonate-sheets/                                       /ja/blog/                                              301
+/it/tag/cleaning-polycarbonate-sheets/                                       /it/blog/                                              301
+/ko/태그/cleaning-polycarbonate-sheets/                                       /ko/blog/                                              301
+/zh/标签/cleaning-polycarbonate-sheets/                                       /zh/blog/                                              301
+
+# --- 5. 商业方案标签 (commercial-canopy-options) ---
+/en/tag/commercial-canopy-options/                                           /en/blog/                                              301
+/ar/العلامة/commercial-canopy-options/                                        /ar/blog/                                              301
+/de/tag/commercial-canopy-options/                                           /de/blog/                                              301
+/es/etiqueta/commercial-canopy-options/                                      /es/blog/                                              301
+/pt/etiqueta/commercial-canopy-options/                                      /pt/blog/                                              301
+/fr/etiquette/commercial-canopy-options/                                     /fr/blog/                                              301
+/ru/тег/commercial-canopy-options/                                           /ru/blog/                                              301
+/ja/タグ/commercial-canopy-options/                                           /ja/blog/                                              301
+/it/tag/commercial-canopy-options/                                           /it/blog/                                              301
+/ko/태그/commercial-canopy-options/                                           /ko/blog/                                              301
+/zh/标签/commercial-canopy-options/                                           /zh/blog/                                              301
+
+# --- 6. 耐用顶篷标签 (durable-canopies) ---
+/en/tag/durable-canopies/                                                    /en/blog/                                              301
+/ar/العلامة/durable-canopies/                                                 /ar/blog/                                              301
+/de/tag/durable-canopies/                                                    /de/blog/                                              301
+/es/etiqueta/durable-canopies/                                               /es/blog/                                              301
+/pt/etiqueta/durable-canopies/                                               /pt/blog/                                              301
+/fr/etiquette/durable-canopies/                                              /fr/blog/                                              301
+/ru/тег/durable-canopies/                                                    /ru/blog/                                              301
+/ja/タグ/durable-canopies/                                                    /ja/blog/                                              301
+/it/tag/durable-canopies/                                                    /it/blog/                                              301
+/ko/태그/durable-canopies/                                                    /ko/blog/                                              301
+/zh/标签/durable-canopies/                                                    /zh/blog/                                              301
+
+# --- 7. 家居遮阳标签 (home-shade-ideas) ---
+/en/tag/home-shade-ideas/                                                    /en/blog/                                              301
+/ar/العلامة/home-shade-ideas/                                                 /ar/blog/                                              301
+/de/tag/home-shade-ideas/                                                    /de/blog/                                              301
+/es/etiqueta/home-shade-ideas/                                               /es/blog/                                              301
+/pt/etiqueta/home-shade-ideas/                                               /pt/blog/                                              301
+/fr/etiquette/home-shade-ideas/                                              /fr/blog/                                              301
+/ru/тег/home-shade-ideas/                                                    /ru/blog/                                              301
+/ja/タグ/home-shade-ideas/                                                    /ja/blog/                                              301
+/it/tag/home-shade-ideas/                                                    /it/blog/                                              301
+/ko/태그/home-shade-ideas/                                                    /ko/blog/                                              301
+/zh/标签/home-shade-ideas/                                                    /zh/blog/                                              301
+
+# --- 8. 户外遮阳方案标签 (outdoor-shade-solutions) ---
+/en/tag/outdoor-shade-solutions/                                             /en/blog/                                              301
+/ar/العلامة/حلول-التظليل-الخارجي/                                              /ar/blog/                                              301
+/de/tag/outdoor-beschattungslosungen/                                         /de/blog/                                              301
+/es/etiqueta/soluciones-de-sombra-para-exteriores/                                /es/blog/                                              301
+/pt/etiqueta/solucoes-para-sombreamento-externo/                                  /pt/blog/                                              301
+/fr/etiquette/solutions-dombrage-pour-lexterieur/                             /fr/blog/                                              301
+/ru/тег/наружные-теневые-решения/                                              /ru/blog/                                              301
+/ja/タグ/アウトドアシェードソリューション/                                             /ja/blog/                                              301
+/it/tag/soluzioni-di-ombreggiamento-per-esterni/                              /it/blog/                                              301
+/ko/태그/실외-그늘막-솔루션/                                                       /ko/blog/                                              301
+/zh/标签/户外遮阳解决方案/                                                     /zh/blog/                                              301
+
+# --- 9. 聚碳酸酯雨棚标签 (polycarbonate-canopies) ---
+/en/tag/polycarbonate-canopies/                                              /en/blog/                                              301
+/ar/العلامة/polycarbonate-canopies/                                           /ar/blog/                                              301
+/de/tag/polycarbonate-canopies/                                              /de/blog/                                              301
+/es/etiqueta/polycarbonate-canopies/                                         /es/blog/                                              301
+/pt/etiqueta/polycarbonate-canopies/                                         /pt/etiqueta/                                          301
+/fr/etiquette/polycarbonate-canopies/                                        /fr/blog/                                              301
+/ru/тег/polycarbonate-canopies/                                              /ru/blog/                                              301
+/ja/タグ/polycarbonate-canopies/                                              /ja/blog/                                              301
+/it/tag/polycarbonate-canopies/                                              /it/blog/                                              301
+/ko/태그/polycarbonate-canopies/                                              /ko/blog/                                              301
+/zh/标签/polycarbonate-canopies/                                              /zh/blog/                                              301
+
+# --- 10. 聚碳酸酯屋面标签 (polycarbonate-roofing) ---
+/en/tag/polycarbonate-roofing/                                               /en/blog/                                              301
+/ar/العلامة/polycarbonate-roofing/                                            /ar/blog/                                              301
+/de/tag/polycarbonate-roofing/                                               /de/blog/                                              301
+/es/etiqueta/polycarbonate-roofing/                                          /es/blog/                                              301
+/pt/etiqueta/polycarbonate-roofing/                                          /pt/blog/                                              301
+/fr/etiquette/polycarbonate-roofing/                                         /fr/blog/                                              301
+/ru/тег/polycarbonate-roofing/                                               /ru/blog/                                              301
+/ja/タグ/polycarbonate-roofing/                                               /ja/blog/                                              301
+/it/tag/polycarbonate-roofing/                                               /it/blog/                                              301
+/ko/태그/polycarbonate-roofing/                                               /ko/blog/                                              301
+/zh/标签/polycarbonate-roofing/                                               /zh/blog/                                              301
+
+# --- 11. 耐候雨棚标签 (weather-resistant-canopies) ---
+/en/tag/weather-resistant-canopies/                                          /en/blog/                                              301
+/ar/العلامة/weather-resistant-canopies/                                       /ar/blog/                                              301
+/de/tag/weather-resistant-canopies/                                          /de/blog/                                              301
+/es/etiqueta/weather-resistant-canopies/                                     /es/blog/                                              301
+/pt/etiqueta/weather-resistant-canopies/                                     /pt/blog/                                              301
+/fr/etiquette/weather-resistant-canopies/                                    /fr/blog/                                              301
+/ru/тег/weather-resistant-canopies/                                          /ru/blog/                                              301
+/ja/タグ/weather-resistant-canopies/                                          /ja/blog/                                              301
+/it/tag/weather-resistant-canopies/                                          /it/blog/                                              301
+/ko/태그/weather-resistant-canopies/                                          /ko/blog/                                              301
+/zh/标签/weather-resistant-canopies/                                          /zh/blog/                                              301
+
+# --- 12. 防风雨天篷标签 (weatherproof-canopies) ---
+/en/tag/weatherproof-canopies/                                               /en/blog/                                              301
+/ar/العلامة/weatherproof-canopies/                                            /ar/blog/                                              301
+/de/tag/weatherproof-canopies/                                               /de/blog/                                              301
+/es/etiqueta/weatherproof-canopies/                                          /es/blog/                                              301
+/pt/etiqueta/weatherproof-canopies/                                          /pt/blog/                                              301
+/fr/etiquette/weatherproof-canopies/                                         /fr/blog/                                              301
+/ru/тег/weatherproof-canopies/                                               /ru/blog/                                              301
+/ja/タグ/weatherproof-canopies/                                               /ja/blog/                                              301
+/it/tag/weatherproof-canopies/                                               /it/blog/                                              301
+/ko/태그/weatherproof-canopies/                                               /ko/blog/                                              301
+/zh/标签/weatherproof-canopies/                                               /zh/blog/                                              301
+
+# =========================================================================
+# 📦 12. 产品分类目录页全面收拢 (老 WP 产品分类 -> 11国新项目标准 /products/ 大厅)
+# =========================================================================
+/en/product-category/polycarbonate-canopy-styles-structures/                            /en/products/                                          301
+/ar/فئة-المنتج/هياكل-أنماط-المظلات-المصنوعة-من-البول/                                       /ar/products/                                          301
+/de/produktkategorie/polycarbonat-vordachkonstruktionen/                                 /de/products/                                          301
+/es/categoria-de-productos/estructuras-de-policarbonato-estilo-marquesina/               /es/products/                                          301
+/pt/categoria-do-produto/estruturas-de-policarbonato-estilo-dossel/                     /pt/products/                                          301
+/fr/categorie-de-produits/structures-de-styles-dauvents-en-polycarbonate/                /fr/products/                                          301
+/ru/категория-продукта/стилевые-конструкции-навесов-из-поли/                             /ru/products/                                          301
+/ja/商品カテゴリー/ポリカーボネートキャノピースタイル/                                       /ja/products/                                          301
+/it/categoria-di-prodotto/strutture-in-policarbonato-per-baldacchini/                    /it/products/                                          301
+/ko/제품-카테고리/폴리카보네이트-캐노피-스타일-구조/                                       /ko/products/                                          301
+/zh/产品类别/聚碳酸酯天篷式结构/                                                         /zh/products/                                          301

@@ -1,5 +1,4 @@
 ---
-// src/pages/[lang]/index.astro
 import Header from '../../components/Header';
 import Hero from '../../components/home/Hero';
 import About from '../../components/home/About';
@@ -12,28 +11,46 @@ import Gallery from '../../components/home/Gallery';
 import Testimonials from '../../components/home/Testimonials';
 import Faq from '../../components/home/Faq.tsx';
 import Footer from '../../components/Footer';
+import { getPostsByLang } from '../../utils/blogLoader'; // 🌟 引入博客数据源用于页脚随机推荐
 
 import enDict from '../../i18n/en.json';
 import zhDict from '../../i18n/zh.json';
 import arDict from '../../i18n/ar.json';
+import deDict from '../../i18n/de.json';
+import esDict from '../../i18n/es.json';
+import ptDict from '../../i18n/pt.json';
+import frDict from '../../i18n/fr.json';
+import ruDict from '../../i18n/ru.json';
+import jaDict from '../../i18n/ja.json';
+import itDict from '../../i18n/it.json';
+import koDict from '../../i18n/ko.json';
 
 export function getStaticPaths() {
   return [
     { params: { lang: 'en' } },
     { params: { lang: 'zh' } },
     { params: { lang: 'ar' } },
+    { params: { lang: 'de' } },
+    { params: { lang: 'es' } },
+    { params: { lang: 'pt' } },
+    { params: { lang: 'fr' } },
+    { params: { lang: 'ru' } },
+    { params: { lang: 'ja' } },
+    { params: { lang: 'it' } },
+    { params: { lang: 'ko' } },
   ];
 }
 
 const { lang } = Astro.params;
 
-const dictionaries: Record<'en' | 'zh' | 'ar', typeof enDict> = {
-  en: enDict,
-  zh: zhDict,
-  ar: arDict,
+// ✅ 换用 Record<string, any> 宽松高兼容类型，彻底消除类型对不齐红线
+const dictionaries: Record<string, any> = {
+  en: enDict, zh: zhDict, ar: arDict, de: deDict, es: esDict,
+  pt: ptDict, fr: frDict, ru: ruDict, ja: jaDict, it: itDict, ko: koDict
 };
 
-const currentDict = dictionaries[lang as keyof typeof dictionaries] || enDict;
+// ✅ 使用 11 国强势类型断言，彻底封杀 TypeScript 编译红线
+const currentDict = dictionaries[lang as 'en' | 'zh' | 'ar' | 'de' | 'es' | 'pt' | 'fr' | 'ru' | 'ja' | 'it' | 'ko'] || enDict;
 
 // 全局普通双层/三层多语言提取通用引擎
 const t = (groupKey: string, key: string, subKey?: string, tertiaryKey?: string) => {
@@ -107,74 +124,49 @@ const tCustomService = (key: string, subKey?: string) => t('CustomService', key,
 const tSpecs = (key: string, subKey?: string) => t('Specs', key, subKey);
 const tGallery = (key: string, subKey?: string) => t('Gallery', key, subKey);
 const tTestimonials = (key: string, subKey?: string) => t('Testimonials', key, subKey);
-const tFooter = (key: string, subKey?: string, tertiaryKey?: string) => t('Footer', key, subKey, tertiaryKey);
+const footerDict = (currentDict as any).Footer || {};
+
+// 🌟 动态页脚文章洗牌引擎
+const allBlogPosts = getPostsByLang(lang) || [];
+const footerRandomPosts = [...allBlogPosts]
+  .sort(() => 0.5 - Math.random())
+  .slice(0, 2)
+  .map(p => ({
+    slug: p.slug || '',
+    title: p.title || '',
+    coverImage: p.coverImage || 'https://img.polycanopy.com/default-blog.jpg'
+  }));
 
 const isRtl = lang === 'ar';
-const localeMapping: Record<string, string> = { en: 'en_US', zh: 'zh_CN', ar: 'ar_AR' };
-const currentLocale = localeMapping[lang] || 'en_US';
 
-const canonicalEn = `https://polycanopy.com/en/`;
-const canonicalZh = `https://polycanopy.com/zh/`;
-const canonicalAr = `https://polycanopy.com/ar/`;
+// 🌟 11国地道 locale 映射池，用于增强大厂建材站的 OpenGraph 权重
+const localeMapping: Record<string, string> = { 
+  en: 'en_US', zh: 'zh_CN', ar: 'ar_AR', de: 'de_DE', es: 'es_MX',
+  pt: 'pt_BR', fr: 'fr_FR', ru: 'ru_RU', ja: 'ja_JP', it: 'it_IT', ko: 'ko_KR'
+};
+const currentLocale = localeMapping[lang] || 'en_US';
+import Layout from '../../layouts/Layout.astro';
 ---
 
-<!DOCTYPE html>
-<html lang={lang} dir={isRtl ? 'rtl' : 'ltr'}>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<Layout title={`${tHero('titlePrefix')}${tHero('titleHighlight')}${tHero('titleSuffix')}`} lang={lang}>
     
-    <meta name="robots" content="noindex, nofollow" />
+  <Header t={tHeader} lang={lang} currentPath={Astro.url.pathname} />
+  
+  <Hero t={tHero} lang={lang} />
+  
+  <About t={tAbout} />
+  <WhyChoose t={tWhyChoose} lang={lang} />
+  
+  <ProductRange t={tProductRange} lang={lang} />
 
-    <link 
-      rel="preload" 
-      fetchpriority="high" 
-      as="image" 
-      href="https://img.polycanopy.com/2025/07/Polycanopy-Premium-Outdoor-Canopy-Solutions.jpg" 
-      type="image/jpeg"
-    />
-    
-    <link rel="alternate" hreflang="en" href={canonicalEn} />
-    <link rel="alternate" hreflang="zh" href={canonicalZh} />
-    <link rel="alternate" hreflang="ar" href={canonicalAr} />
-    <link rel="alternate" hreflang="x-default" href={canonicalEn} />
-    
-    <title>{tHero('titlePrefix')}{tHero('titleHighlight')}{tHero('titleSuffix')}</title>
-    <meta name="description" content={currentDict.Hero?.desc || "Premium polycarbonate canopy solutions manufactured for maximum durability."} />
-    
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content={`https://polycanopy.com/${lang}/`} />
-    <meta property="og:title" content={`${tHero('titlePrefix')}${tHero('titleHighlight')}${tHero('titleSuffix')}`} />
-    <meta property="og:description" content={currentDict.Hero?.desc || "Premium polycarbonate canopy solutions."} />
-    <meta property="og:image" content="https://img.polycanopy.com/assets/polycanopy-og-share.jpg" />
-    <meta property="og:locale" content={currentLocale} />
+  <Features t={tFeatures} />
+  <CustomService t={tCustomService} />
+  <Specs t={tSpecs} lang={lang} />
+  <Gallery t={tGallery} lang={lang} />
+  <Testimonials t={tTestimonials} />
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={`${tHero('titlePrefix')}${tHero('titleHighlight')}${tHero('titleSuffix')}`} />
-    <meta name="twitter:description" content={currentDict.Hero?.desc || "Premium polycarbonate canopy solutions."} />
-    <meta name="twitter:image" content="https://img.polycanopy.com/assets/polycanopy-og-share.jpg" />
+  <Faq title={faqTitle} subtitle={faqSubtitle} items={faqQuestionsArray} client:load />
 
-    <style is:global>@import "tailwindcss";</style>
-  </head>
-  <body class="bg-gray-50 antialiased m-0 p-0 block w-full">
+  <Footer client:visible dict={footerDict} lang={lang} latestPosts={footerRandomPosts} />
     
-    <Header t={tHeader} lang={lang} />
-    
-    <Hero t={tHero} lang={lang} />
-    
-    <About t={tAbout} />
-    <WhyChoose t={tWhyChoose} lang={lang} />
-    <ProductRange t={tProductRange} lang={lang} />
-
-    <Features t={tFeatures} />
-    <CustomService t={tCustomService} />
-    <Specs t={tSpecs} lang={lang} />
-    <Gallery t={tGallery} lang={lang} />
-    <Testimonials t={tTestimonials} />
-
-    <Faq title={faqTitle} subtitle={faqSubtitle} items={faqQuestionsArray} client:load />
-
-    <Footer t={tFooter} lang={lang} />
-    
-  </body>
-</html>
+</Layout>

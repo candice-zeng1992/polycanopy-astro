@@ -1,23 +1,95 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
-	</body>
-</html>
+---
+// src/layouts/Layout.astro
 
-<style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
-</style>
+// 🌟 1. 物理路径引入悬浮聊天组件
+import FloatingWidget from '../components/FloatingWidget';
+
+// 🌟 2. 静态打捞 11 国母语字典，确保静态打包器（Vite）完美捕获
+import enDict from '../i18n/en.json';
+import zhDict from '../i18n/zh.json';
+import arDict from '../i18n/ar.json';
+import deDict from '../i18n/de.json';
+import esDict from '../i18n/es.json';
+import ptDict from '../i18n/pt.json';
+import frDict from '../i18n/fr.json';
+import ruDict from '../i18n/ru.json';
+import jaDict from '../i18n/ja.json';
+import itDict from '../i18n/it.json';
+import koDict from '../i18n/ko.json';
+
+interface Props {
+    title: string;
+    lang?: string;
+}
+
+const { title, lang = "en" } = Astro.props;
+
+// 🌟 3. 获取对应的语种数据池
+const dicts: Record<string, any> = { 
+    en: enDict, zh: zhDict, ar: arDict, de: deDict, es: esDict, 
+    pt: ptDict, fr: frDict, ru: ruDict, ja: jaDict, it: itDict, ko: koDict 
+};
+const resolvedDict = dicts[lang as string] || enDict;
+
+// 🌟 4. 强制打捞大写或小写的 FloatingWidget 节点，并注入防熔断空对象 {}
+const rawWidgetDict = resolvedDict.FloatingWidget || resolvedDict.floatingWidget || enDict.FloatingWidget || {};
+
+// 🌟 5. 大小写平替兼容清洗，彻底解决大小写不一致导致的隐形崩溃
+const widgetDict = {
+  wechatHover: rawWidgetDict.wechatHover || rawWidgetDict.WechatHover || "Copy WeChat ID",
+  copied: rawWidgetDict.copied || rawWidgetDict.Copied || "Copied!",
+  waMessage: rawWidgetDict.waMessage || rawWidgetDict.WaMessage || "Hi, I am interested in your polycarbonate canopy from: ",
+  emailSubject: rawWidgetDict.emailSubject || rawWidgetDict.EmailSubject || "Inquiry about Polycarbonate Canopy",
+  emailBody1: rawWidgetDict.emailBody1 || rawWidgetDict.EmailBody1 || "Hello, I visited your website and am interested in your products. URL: ",
+  emailBody2: rawWidgetDict.emailBody2 || rawWidgetDict.EmailBody2 || "",
+  toastMsg: rawWidgetDict.toastMsg || rawWidgetDict.ToastMsg || "WeChat ID Copied Successfully!",
+  ariaCloseCta: rawWidgetDict.ariaCloseCta || rawWidgetDict.AriaCloseCta || "Close chat menu",
+  ariaToggle: rawWidgetDict.ariaToggle || rawWidgetDict.AriaToggle || "Contact us",
+  ariaEmail: rawWidgetDict.ariaEmail || rawWidgetDict.AriaEmail || "Send Email",
+  ariaWechat: rawWidgetDict.ariaWechat || rawWidgetDict.AriaWechat || "Copy WeChat ID",
+  ariaMessenger: rawWidgetDict.ariaMessenger || rawWidgetDict.AriaMessenger || "Contact on Messenger",
+  ariaWhatsapp: rawWidgetDict.ariaWhatsapp || rawWidgetDict.AriaWhatsapp || "Contact on WhatsApp"
+};
+
+// 🌟 6. 核心重构：剥离掉路径前面的 2 位语种前缀（例如将 "/zh/products/xxx" 清洗为 "products/xxx"）
+// 从而获取纯粹的内页相对路径，防止 hreflang 全部死锁在首页
+const currentPathname = Astro.url.pathname;
+const cleanPath = currentPathname.replace(/^\/([a-z]{2})\//, '').replace(/^\//, '');
+
+// 动态生成当前页面的绝对规范 URL
+const canonicalURL = new URL(currentPathname, "https://polycanopy.com");
+
+// 支持的 11 国语言静态数组大盘
+const allLangs = ['en', 'zh', 'ar', 'de', 'es', 'pt', 'fr', 'ru', 'ja', 'it', 'ko'];
+---
+
+<!doctype html>
+<html lang={lang} dir={lang === 'ar' ? 'rtl' : 'ltr'}>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{title}</title>
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href={canonicalURL} />
+        <link rel="icon" type="image/png" href="/favicon.png" />
+        <link rel="apple-touch-icon" href="/favicon.png" />
+        
+        <link rel="alternate" hreflang="x-default" href={`https://polycanopy.com/en/${cleanPath}`} />
+        
+        {allLangs.map((l) => (
+          <link rel="alternate" hreflang={l} href={`https://polycanopy.com/${l}/${cleanPath}`} />
+        ))}
+        
+        <style is:global>
+            @import "tailwindcss";
+            html, body { margin: 0; padding: 0; box-sizing: border-box; }
+        </style>
+    </head>
+    <body class="bg-white text-slate-900 antialiased">
+        
+        <slot /> 
+
+        <FloatingWidget client:load dict={widgetDict} />
+        
+    </body>
+</html>

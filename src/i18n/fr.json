@@ -1,0 +1,691 @@
+{
+  "ProductsHero": {
+    "title": "Systèmes d'auvent en polycarbonate et aluminium",
+    "featuredSolutions": "Nos solutions vedettes",
+    "viewDetails": "Voir les détails",
+    "subtitle": "Solutions d'auvent sur mesure, durables et esthétiques",
+    "imageAlt": "Plan coté détaillé d'un carport en polycarbonate avec cadres structurels à haute résistance et système de gouttière d'évacuation des eaux",
+    "imageTitle": "Dimensions techniques Polycanopy du carport en polycarbonate"
+  },
+  "ProductSpecs": {
+    "title": "Spécifications du produit",
+    "spec1Title": "Personnalisation",
+    "spec1Desc": "Fabriqué sur mesure selon vos spécifications",
+    "spec2Title": "Origine",
+    "spec2Desc": "Fabriqué en Chine",
+    "spec3Title": "Garantie",
+    "spec3Desc": "30 ans de durée de vie",
+    "spec4Title": "Matériau du cadre",
+    "spec4Desc": "Alliage d'aluminium de qualité supérieure"
+  },
+  "MaterialIntro": {
+    "title": "Introduction des Matériaux",
+    "frameHeading": "Cadre en Alliage d'Aluminium : Construction Haute Résistance",
+    "frameDesc": "Des profilés en aluminium à haute dureté et forte ténacité résistent facilement aux typhons et aux conditions météorologiques sévères.",
+    "panelHeading": "Panneaux en Polycarbonate",
+    "zoomTipFrame": "🔍 Cliquez pour agrandir le détail du profilé",
+    "zoomTipPanel": "🔍 Cliquez pour agrandir le détail de la plaque",
+    "panelDesc": "Matières premières premium Bayer ou SABIC avec protection UV suffisante. Panneaux en polycarbonate garantis pour plus de 10 ans de service.",
+    "color_champagne": "Champagne",
+    "color_white": "Blanc",
+    "color_gray": "Gris",
+    "color_coffee": "Café",
+    "color_bronze": "Bronze",
+    "color_black": "Noir",
+    "aria_frame_btn": "Changer l'image d'aperçu du cadre pour la couleur {color}",
+    "aria_panel_btn": "Changer l'image d'aperçu du panneau en polycarbonate pour la couleur {color}",
+    "alt_frame_champagne": "Option de couleur de cadre en aluminium pour auvent en polycarbonate, finition champagne élégante",
+    "alt_frame_white": "Option de couleur de cadre en aluminium pour auvent en polycarbonate, finition blanc pur",
+    "alt_frame_gray": "Option de couleur de cadre en aluminium pour auvent en polycarbonate, finition gris moderne",
+    "alt_frame_coffee": "Option de couleur de cadre en aluminium pour auvent en polycarbonate, finition café classique",
+    "alt_panel_bronze": "Plaques pleines en polycarbonate teinté bronze premium pour protection d'auvent",
+    "alt_panel_white": "Plaques pleines en polycarbonate translucide blanc premium pour éclairage doux",
+    "alt_panel_gray": "Plaques pleines en polycarbonate teinté gris premium pour design architectural moderne",
+    "alt_panel_black": "Plaques pleines en polycarbonate teinté noir premium pour ombrage maximal"
+  },
+  "ProductAnalysis": {
+    "sectionTitle": "Analyse du produit",
+    "systemDesc": "Le système d'auvent en polycarbonate comprend des supports muraux, un cadre central renforcé, des poteaux renforcés, des descentes d'eau, des gouttières et divers panneaux en polycarbonate pleins de couleur, panneaux à particules diamant ou panneaux à particules goutte d'eau.",
+    "whyTitle": "Pourquoi choisir des plaques en polycarbonate de haute qualité ?",
+    "whyDesc1": "Dans les projets d'auvents et de verrières, ce n'est pas la structure en acier, mais le panneau qui détermine la longévité. Les plaques de qualité inférieure peuvent jaunir, se fissurer ou fuir en quelques années, entraînant des remplacements coûteux.",
+    "whyDesc2": "Notre polycarbonate premium est doté d'une couche co-extrudée anti-UV sur une face, préservant la clarté et la durabilité pendant plus de 10 ans.",
+    "whyDesc3": "Choisissez la qualité dès le départ — Économisez sur l'entretien et profitez d'une tranquillité d'esprit.",
+    "altSystemImg": "Vue éclatée de la structure de l'auvent avec composants étiquetés",
+    "altCompareImg": "Comparaison de plaques en polycarbonate de haute qualité et de faible qualité"
+  },
+  "ProductFeatures": {
+    "sectionTitle": "Caractéristiques du produit",
+    "badge1": "Résistant à la corrosion",
+    "badge2": "Entretien facile",
+    "badge3": "Transmission lumineuse",
+    "badge4": "Design élégant",
+    "badge5": "Isolation phonique",
+    "mainFeatAlt": "Caractéristiques de l'auvent en polycarbonate conçues pour la résistance aux charges de neige, la protection UV, la défense contre le vent et la pluie, et la résistance aux chocs",
+    "mainFeatZoomTip": "🔍 Cliquez pour voir le plan détaillé des caractéristiques",
+    "subHeading": "Performances robustes et tests rigoureux",
+    "subDesc": "Découvrez comment nos structures résistent aux défis extrêmes du monde réel",
+    "testLabel": "Test de performance",
+    "feat1Title": "Haute résistance aux chocs",
+    "feat1Desc": "Haute résistance aux chocs grâce aux plaques en polycarbonate importées d'Allemagne — offrant 200 à 300 fois la résistance aux chocs du verre ordinaire. Communément appelé 'verre incassable' ou 'transparence semblable à l'acier'.",
+    "feat1Alt": "Marteau frappant un panneau d'auvent en polycarbonate démontrant une haute résistance aux chocs",
+    "feat2Title": "Hautement flexible, solide et polyvalent",
+    "feat2Desc": "Robustes et formables, les panneaux sont faciles à installer et peuvent être cintrés à froid en structures arquées ou en dôme.",
+    "feat2Alt": "Personne pliant une plaque en polycarbonate pour démontrer son excellente flexibilité",
+    "feat3Title": "Résistant au feu",
+    "feat3Desc": "Inspecté par le Bureau de supervision de la qualité des matériaux de construction anti-incendie de Chine et suivant la norme GB8624-1997, le panneau en polycarbonate a atteint la classe B1 de résistance aux flammes.",
+    "feat3Alt": "Test de flamme de briquet sur la propriété ignifuge du panneau en polycarbonate",
+    "feat4Title": "Protection UV à haute efficacité",
+    "feat4Desc": "L'auvent utilise des panneaux en polycarbonate importés d'Allemagne qui bloquent les rayons ultraviolets, résistent aux hautes températures et aident à réduire la chaleur intérieure. Traités avec une couche co-extrudée UV sur une face, les panneaux isolent efficacement contre la chaleur et bloquent les rayonnements UV externes, assurant votre sécurité et celle de votre famille.",
+    "feat4Alt": "Auvent en polycarbonate sous la lumière du soleil démontrant la protection UV",
+    "feat5Title": "Système de drainage indépendant",
+    "feat5Desc": "Pendant les saisons des pluies, le système de drainage assure un écoulement fluide de l'eau sans obstruction ni éclaboussures. Il résout efficacement les problèmes d'accumulation et de débordement lors de fortes pluies. La conception de la gouttière élargie permet un drainage plus rapide.",
+    "feat5Alt": "Vue rapprochée du système de gouttière indépendant avec un tuyau de descente courbé sur l'auvent en polycarbonate",
+    "feat6Title": "Système de drainage indépendant à grand débit",
+    "feat6Desc": "Pendant les saisons des pluies, le système de drainage assure un écoulement fluide de l'eau sans obstruction ni éclaboussures. Il résout efficacement les problèmes d'accumulation et de débordement lors de fortes pluies. La conception de la gouttière élargie permet un drainage plus rapide.",
+    "feat6Alt": "Système de drainage amélioré avec un tuyau de descente allongé et une section de gouttière élargie pour un meilleur écoulement de l'eau sur l'auvent en polycarbonate",
+    "feat7Title": "Profilés en alliage d'aluminium à haute résistance",
+    "feat7Desc": "Résiste à l'impact des typhons de catégorie 12 avec une résilience exceptionnelle. La surface est traitée par revêtement en poudre électrostatique pour une excellente résistance à la corrosion.",
+    "feat7Sub1": "◆ Épaissi et renforcé",
+    "feat7Sub2": "◆ Résistant à l'accumulation de neige",
+    "feat7Alt": "Auvent en polycarbonate installé dans une zone de fortes chutes de neige, montrant ses performances de résistance à la neige et la construction détaillée en alliage d'aluminium",
+    "feat8Title": "Installation facile avec accessoires complets",
+    "feat8Desc": "Doté d'une structure modulaire pour un assemblage simple, avec des poutres de support à haute résistance et une technologie d'installation rapide spécialisée qui fait gagner du temps et des efforts.",
+    "feat8Alt": "Collage étape par étape de l'installation montrant les supports, les panneaux et la configuration finale de l'auvent en polycarbonate, mettant en évidence son processus d'assemblage simple"
+  },
+  "PremiumMaterials": {
+    "title": "Des matériaux de qualité font toute la différence",
+    "desc": "Un alliage d'aluminium titane-magnésium de qualité aérospatiale avec une technologie de revêtement avancée et du polycarbonate Bayer allemand garantit des performances durables sans vieillissement.",
+    "mat1Label": "Alliage d'aluminium à haute résistance",
+    "mat2Label": "Plaque en polycarbonate Bayer allemand",
+    "imgAlt": "Aperçu des matériaux du système d'auvent en polycarbonate et aluminium haut de gamme : profils de qualité aérospatiale et détail de la plaque vierge Bayer allemande"
+  },
+  "ChooseUs": {
+    "heading": "Choisissez-nous pour la tranquillité d'esprit",
+    "tagline": "Un auvent de qualité fait toute la différence",
+    "lifespanLabel": "Durée de vie normale : 30 ans",
+    "lifespanValue": "Vraiment rentable",
+    "g1Title": "Normes de qualité internationales",
+    "g1Detail": "Profilé BG/T3190 6063 – Conforme à la norme internationale 6063",
+    "g2Title": "Matériaux Bayer allemands",
+    "g2Detail": "Plaque en polycarbonate – Résistant aux chocs, insonorisant, isolant thermique, ignifuge",
+    "g3Title": "Mesure et installation guidées",
+    "g3Detail": "Disponible dans le monde entier – Mesure directe, personnalisation, livraison, installation et service après-vente",
+    "g4Title": "Service après-vente sans souci",
+    "g4Detail": "Garantie prolongée",
+    "g5Title": "Assurance qualité",
+    "g5Detail": ""
+  },
+  "Service": {
+    "hero": {
+      "heading": "Nos Services",
+      "subtitle": "Nous ne sommes pas qu'une usine, mais votre partenaire fournisseur puissant engagé dans l'excellence",
+      "card1Title": "Fabricant Source",
+      "advantageLabel": "AVANTAGE",
+      "card1Desc": "Directement de l'usine, garantissant les meilleurs prix et un contrôle qualité optimal",
+      "card2Title": "Affaires Honnêtes",
+      "card2Desc": "Opérations basées sur l'intégrité avec des processus transparents et des partenariats fiables",
+      "card3Title": "Personnalisation Professionnelle",
+      "card3Desc": "Solutions sur mesure selon les spécifications et exigences du client",
+      "card4Title": "Exportation Professionnelle",
+      "card4Desc": "Recherche de l'excellence dans la qualité des produits et des services pour les marchés mondiaux"
+    },
+    "process": {
+      "title": "Processus de Personnalisation",
+      "step1": "Consultation",
+      "step2": "Détermination du Style",
+      "step3": "Confirmation de la Solution",
+      "step4": "Paiement d'Acompte",
+      "step5": "Production",
+      "step6": "Paiement Final",
+      "step7": "Expédition",
+      "step8": "Réception Client",
+      "step9": "Service Après-Vente Sans Souci"
+    },
+    "factory": {
+      "title": "Polycarbonate et Aluminium",
+      "subtitle": "Découvrez comment nous produisons et transformons nos plaques de polycarbonate et nos structures en aluminium avec des équipements de pointe et un contrôle qualité rigoureux.",
+      "pcHeading": "Production de Plaques de Polycarbonate",
+      "pcDesc": "Nos plaques de polycarbonate sont fabriquées à partir de matières premières vierges Bayer/SABIC importées d'Allemagne avec des additifs anti-UV. Nous exploitons des lignes de co-extrusion OMIPA avancées pour une qualité de plaque supérieure, un contrôle précis de l'épaisseur et des performances durables.",
+      "pcZoomTip": "🔍 Cliquez pour voir le détail de production",
+      "pcImg1Alt": "Résine de polycarbonate premium et additifs de protection UV de Bayer ou SABIC",
+      "pcImg2Alt": "Contrôle qualité en temps réel sur la ligne d'extrusion OMIPA italienne produisant une plaque de polycarbonate solide transparente",
+      "pcImg3Alt": "Alimentation de précision du système OMIPA et technologie avancée de co-extrusion UV pour une qualité de plaque constante",
+      "alHeading": "Structure et Assemblage en Aluminium",
+      "alDesc": "Nos profilés en alliage d'aluminium sont extrudés avec précision à partir de matériau de qualité aérospatiale 6063-T5. L'atelier d'assemblage dédié garantit que chaque structure de cadre répond à des normes de qualité strictes avant l'emballage et l'expédition mondiale.",
+      "alZoomTip": "🔍 Cliquez pour voir le détail de l'atelier",
+      "alImg1Alt": "Tubes et profilés en aluminium de haute qualité stockés dans une zone d'entrepôt organisée",
+      "alImg2Alt": "Structures de cadre en aluminium assemblées pour le système de canopy en polycarbonate dans l'atelier",
+      "alImg3Alt": "Stockage et préparation à la livraison des cadres en aluminium avant emballage et expédition"
+    }
+  },
+  "Contact": {
+    "MapSection": {
+      "heading": "Excellence en chaîne d'approvisionnement mondiale et ingénierie",
+      "sub": "Directement depuis notre base de fabrication avancée à Guangdong, en Chine, vers les sites architecturaux du monde entier.",
+      "mapTitle": "Emplacement de l'usine"
+    },
+    "metaTitle": "Contacter PolyCanopy - Expert en vérandas et auvents sur mesure",
+    "metaDesc": "Contactez PolyCanopy, votre partenaire fiable pour les vérandas rétractables de haute qualité, les systèmes d'auvent télescopiques et les enceintes extérieures personnalisées.",
+    "heroTitle": "Contacter PolyCanopy",
+    "heroSub": "Discutons de votre projet",
+    "helpPre": "Comment",
+    "helpHighlight": "pouvons-nous vous aider ?",
+    "phoneTitle": "Téléphone",
+    "phoneVal": "+86 13420298302",
+    "addressTitle": "Notre adresse",
+    "addressVal": "Province du Guangdong, Chine",
+    "emailTitle": "E-mail",
+    "emailVal": "sales@polycanopy.com",
+    "formTitlePre": "Envoyez-nous",
+    "formTitleBold": "un message",
+    "fName": "NOM COMPLET",
+    "pName": "Votre nom complet",
+    "fEmail": "ADRESSE E-MAIL",
+    "pEmail": "Votre adresse e-mail",
+    "fWho": "QUI ÊTES-VOUS",
+    "pWho": "Êtes-vous un particulier ou une entreprise ?",
+    "fCountry": "PAYS",
+    "pCountry": "D'où venez-vous",
+    "fProductLabel": "CHOISIR UN PRODUIT",
+    "optDefault": "Sélectionnez dans la liste",
+    "fMessage": "MESSAGE",
+    "pMessage": "Votre message",
+    "fPhone": "TÉLÉPHONE (FACULTATIF)",
+    "pPhone": "Votre numéro de téléphone",
+    "fCompany": "ENTREPRISE (FACULTATIF)",
+    "successTitle": "Merci pour votre demande !",
+    "successDesc": "Notre équipe professionnelle analysera vos spécifications architecturales et vous reviendra avec un devis personnalisé sous 24 heures.",
+    "btnClose": "Fermer la fenêtre",
+    "optWindow": "Auvent de fenêtre",
+    "optDoor": "Auvent de porte",
+    "optCarport": "Carport",
+    "optDome": "Dôme d'observation des étoiles",
+    "optSunroom": "Véranda",
+    "optCustomize": "Personnalisé",
+    "optWholesales": "Vente en gros",
+    "pCompany": "Nom de votre entreprise",
+    "btnSubmit": "ENVOYER",
+    "turnstileSiteKey": "0x4AAAAAACBUDH3G7cEg5mCH",
+    "heroAlt": "Dôme d'observation en polycarbonate coloré brillant la nuit, idéal pour les bannières de projets architecturaux",
+    "parkingAlt": "Structure d'auvent massive en polycarbonate installée à la sortie d'un parking, offrant une couverture solide et un design moderne",
+    "windowAlt": "Auvent en polycarbonate installé devant une fenêtre, offrant une protection contre la pluie silencieuse et élégante",
+    "turnstileError": "La vérification de sécurité a échoué, veuillez réessayer."
+  },
+  "Blog": {
+    "metaTitle": "Blog & Insights - PolyCanopy",
+    "metaDesc": "Découvrez nos derniers articles, guides d'installation et analyses techniques sur les solutions d'auvent en polycarbonate.",
+    "heroTitle": "Base de connaissances et analyses",
+    "readMore": "Lire l'article complet →",
+    "dateFormat": "fr-FR",
+    "heroAlt": "Auvent en polycarbonate bleu avec structure en aluminium blanc installé à l'extérieur sous un ciel bleu lumineux",
+    "heroSub": "Guides professionnels, analyses techniques et tendances de conception pour les solutions en polycarbonate."
+  },
+  "Common": {
+    "factoryDirect": "Direct usine",
+    "viewDetails": "Voir les détails",
+    "home": "Accueil",
+    "blog": "Blog",
+    "toc": "Sur cette page"
+  },
+  "Header": {
+    "home": "Accueil",
+    "products": "Produits",
+    "service": "Service",
+    "blog": "Blog",
+    "contact": "Contact",
+    "language": "Langue",
+    "logoAlt": "Polycanopy - Fabricant d'auvents en polycarbonate premium",
+    "homeAlt": "Aller à la page d'accueil",
+    "navLabel": "Navigation principale",
+    "langSwitcher": "Sélecteur de langue",
+    "switchEn": "Passer en Anglais",
+    "switchZh": "Passer en Chinois",
+    "switchAr": "Passer en Arabe",
+    "switchDe": "Passer en Allemand",
+    "switchEs": "Passer en Espagnol",
+    "switchPt": "Passer en Portugais",
+    "switchFr": "Passer en Français",
+    "switchRu": "Passer en Russe",
+    "switchJa": "Passer en Japonais",
+    "switchIt": "Passer en Italien",
+    "switchKo": "Passer en Coréen"
+  },
+  "Hero": {
+    "titlePrefix": "Auvent ",
+    "titleHighlight": "Polycarbonate",
+    "titleSuffix": " Premium",
+    "subtitle": "Conçu pour la durabilité, imaginé pour les beaux moments de la vie",
+    "desc": "Découvrez l'alliance parfaite entre robustesse et élégance avec nos solutions d'auvents en polycarbonate premium. Conçus pour durer plus d'une décennie tout en améliorant votre cadre de vie.",
+    "btnText": "Découvrir notre solution",
+    "btnAriaLabel": "Accéder à la page produits pour découvrir nos solutions d'auvents en polycarbonate",
+    "imageAlt": "Auvent en polycarbonate premium créant un espace de vie extérieur confortable",
+    "imageTitle": "Polycanopy Solutions d'Auvent Extérieur Premium"
+  },
+  "About": {
+    "title": "À propos de Polycanopy",
+    "desc": "Leader du secteur avec des solutions innovantes de canopées en polycarbonate, alliant l'excellence de l'ingénierie allemande à des décennies d'expertise en exportation.",
+    "missionTitle": "Notre mission et nos valeurs",
+    "mission1Title": "Matériaux de qualité premium",
+    "mission1Desc": "Plaques en polycarbonate Bayer allemand avec garantie de 10 ans et plus",
+    "mission2Title": "Excellence à l'export",
+    "mission2Desc": "Société de commerce international expérimentée avec une livraison mondiale éprouvée",
+    "mission3Title": "Solutions sur mesure",
+    "mission3Desc": "Conceptions de canopées adaptées à vos besoins architecturaux spécifiques",
+    "whyTitle": "Pourquoi nous choisir",
+    "stat1Num": "10+",
+    "stat1Text": "Ans de garantie",
+    "stat2Num": "200x",
+    "stat2Text": "Plus résistant que le verre",
+    "stat3Num": "99%",
+    "stat3Text": "Protection UV",
+    "stat4Num": "12",
+    "stat4Text": "Résistance au vent de grade"
+  },
+  "ProductRange": {
+    "title": "Notre gamme de produits",
+    "desc": "Solutions complètes d'auvents pour tous les besoins architecturaux",
+    "items": {
+      "horizontal": {
+        "title": "Style à poutre horizontale",
+        "desc": "L'auvent de style à poutre horizontale présente une structure classique à poutres croisées avec une apparence propre et moderne. Il offre un soutien solide et est idéal pour les balcons, fenêtres et entrées."
+      },
+      "suspended": {
+        "title": "Style à câble suspendu",
+        "desc": "Le style à câble suspendu utilise un système de câbles en acier élégant pour maintenir l'auvent en hauteur, créant un design léger et élégant. Cette solution gain de place est particulièrement adaptée aux stores de fenêtres."
+      },
+      "top_beam": {
+        "title": "Style à poutre supérieure",
+        "desc": "L'auvent de style à poutre supérieure est soutenu par des poutres en haut, offrant une excellente stabilité et une couverture complète. Cette structure est couramment utilisée pour les entrées de villas, terrasses ou grandes fenêtres."
+      },
+      "column": {
+        "title": "Style à support par colonnes",
+        "desc": "Le style à support par colonnes comporte des colonnes verticales à l'avant et à l'arrière pour une capacité de charge maximale. Cet auvent couvre une large zone, ce qui le rend idéal pour les terrasses, devantures de magasins et abris de voiture résidentiels."
+      },
+      "inner_corner": {
+        "title": "Style pour angle intérieur",
+        "desc": "L'auvent de style pour angle intérieur est conçu pour les jonctions de murs intérieurs, comme les balcons en L ou les passages. Il offre un excellent drainage et une protection étendue dans les espaces restreints."
+      },
+      "outer_corner": {
+        "title": "Style pour angle extérieur",
+        "desc": "Le style pour angle extérieur est conçu pour s'adapter aux angles extérieurs d'un bâtiment, prolongeant la zone de protection de manière transparente. Il est parfait pour couvrir les balcons d'angle, les devantures de magasins ou les allées extérieures."
+      },
+      "carport": {
+        "title": "Style abri de voiture",
+        "desc": "L'auvent de style abri de voiture est spécialement conçu pour protéger les véhicules du soleil, de la pluie et des débris. Soutenu par des poteaux solides et surmonté de matériaux durables, il offre une excellente protection."
+      },
+      "door_window": {
+        "title": "Style store pour porte et fenêtre",
+        "desc": "Ce style est spécialement conçu pour une installation au-dessus des portes et fenêtres, offrant une protection efficace contre la pluie et la lumière directe du soleil. Compact mais durable, il maintient les entrées au sec."
+      }
+    }
+  },
+  "Features": {
+    "title": "Caractéristiques du produit",
+    "subtitle": "Conçu pour performer sous pression — pluie, vent, neige et impacts.",
+    "items": {
+      "waterproof": {
+        "title": "Étanchéité",
+        "desc": "Protège contre la pluie, la rouille, la corrosion et les dommages de surface — pour une protection durable par tous les temps."
+      },
+      "impact": {
+        "title": "Résistance aux chocs",
+        "desc": "Conçu pour résister aux forces et aux impacts de débris, garantissant l'intégrité structurelle à long terme."
+      },
+      "wind": {
+        "title": "Protection contre le vent",
+        "desc": "Stable et sécurisé face aux vents forts, réduisant les balancements et protégeant ce qui se trouve en dessous."
+      },
+      "snow": {
+        "title": "Résistance à la charge de neige",
+        "desc": "Conçu pour supporter de lourdes charges de neige sans se plier ni se fissurer, même par grand froid."
+      }
+    }
+  },
+  "CustomService": {
+    "title": "Services de conception sur mesure",
+    "desc": "Chaque projet est unique. Nous offrons une personnalisation flexible pour tous les composants afin de répondre à vos spécifications exactes.",
+    "ariaLabel": "Paramètres personnalisés",
+    "imageAlt": "Conception et ingénierie de canopée sur mesure",
+    "items": [
+      "Dimensions et finitions du cadre en aluminium",
+      "Tailles et teintes des panneaux en polycarbonate",
+      "Sélection de la quincaillerie et des accessoires",
+      "Emballage et expédition professionnels",
+      "Plans techniques et guides d'installation"
+    ]
+  },
+  "Specs": {
+    "title": "Spécifications Techniques",
+    "ariaLabel": "Tableau des spécifications techniques",
+    "data": {
+      "thickness": {
+        "label": "Épaisseur du panneau",
+        "value": "2mm – 8mm"
+      },
+      "frame": {
+        "label": "Matériau du cadre",
+        "value": "Aluminium 6063-T5"
+      },
+      "treatment": {
+        "label": "Traitement de surface",
+        "value": "Revêtement par poudre"
+      },
+      "wind": {
+        "label": "Résistance au vent",
+        "value": "120+ km/h"
+      },
+      "temp": {
+        "label": "Plage de température",
+        "value": "-40°C à +120°C"
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Galerie d'applications",
+    "subtitle": "Installations réelles démontrant la polyvalence et la beauté",
+    "ariaLabel": "Galerie de projets d'application réels",
+    "items": {
+      "rooftop": {
+        "title": "Toit-terrasse moderne",
+        "desc": "Design élégant de toit plat avec panneaux à haute transparence",
+        "btnText": "Explorer plus",
+        "imageAlt": "Auvent de toit transparent moderne avec cadre en aluminium pour bâtiment résidentiel"
+      },
+      "carport": {
+        "title": "Carport résidentiel",
+        "desc": "Auvent courbé élégant offrant une protection ombragée et tout temps pour les voitures",
+        "btnText": "Explorer plus",
+        "imageAlt": "Carport résidentiel moderne avec toit transparent courbé et SUV de luxe garé en dessous"
+      },
+      "sunroom": {
+        "title": "Véranda moderne",
+        "desc": "Structure transparente entièrement fermée offrant une lumière toute l'année",
+        "btnText": "Explorer plus",
+        "imageAlt": "Véranda voûtée entièrement fermée avec panneaux transparents et vue sur la campagne"
+      }
+    }
+  },
+  "Faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Tout ce que vous devez savoir sur nos auvents en polycarbonate",
+    "ariaLabel": "Conteneur d'accordéon des questions fréquemment posées",
+    "questions": [
+      {
+        "q": "L'auvent peut-il être personnalisé pour s'adapter à mon espace ?",
+        "a": "Oui ! Nous offrons une personnalisation complète en termes de dimensions, couleurs, épaisseur des panneaux et styles de cadre pour des applications résidentielles ou commerciales. Envoyez-nous simplement vos mesures et préférences."
+      },
+      {
+        "q": "Le polycarbonate est-il vraiment plus résistant que le verre ?",
+        "a": "Absolument. Les feuilles de polycarbonate sont jusqu'à 200 fois plus résistantes que le verre et pratiquement incassables. Elles sont également plus légères et plus sûres dans des conditions météorologiques difficiles comme la grêle, le vent et les fortes pluies."
+      },
+      {
+        "q": "L'auvent bloque-t-il les rayons UV ?",
+        "a": "Oui, tous nos auvents sont dotés de revêtements anti-UV qui bloquent plus de 99 % des rayonnements UV nocifs, protégeant ainsi vos meubles, portes et fenêtres des dommages causés par le soleil."
+      },
+      {
+        "q": "Combien de temps prend l'installation ?",
+        "a": "La plupart des installations prennent plusieurs heures pour un auvent de taille standard. Nous fournissons des instructions faciles à suivre et tous les accessoires nécessaires. Pour les projets plus grands ou commerciaux, notre équipe offre un support d'installation professionnel."
+      },
+      {
+        "q": "Quelle est la durabilité de l'auvent par temps extrême ?",
+        "a": "Nos auvents en polycarbonate sont conçus pour résister à de fortes charges de vent, aux fortes pluies et à la neige. Les supports en alliage d'aluminium et les raccords en acier inoxydable garantissent une durabilité à long terme et une résistance à la corrosion."
+      },
+      {
+        "q": "Quelle est la période de garantie ?",
+        "a": "Nous offrons une garantie limitée de 10 ans couvrant les défauts de matériaux, la décoloration et les performances structurelles. Les détails complets de la garantie sont disponibles sur demande."
+      },
+      {
+        "q": "Proposez-vous des tarifs de gros pour les distributeurs ou les constructeurs ?",
+        "a": "Oui, nous proposons des prix de gros par paliers et des services OEM/ODM pour les partenaires, entrepreneurs et distributeurs. Veuillez contacter notre équipe commerciale pour un devis personnalisé."
+      },
+      {
+        "q": "Quelles couleurs et finitions sont disponibles ?",
+        "a": "Nos panneaux en polycarbonate sont disponibles en teintes transparentes, grises, bronze et bleues. Les couleurs des cadres incluent le noir mat, le blanc, l'argent et des options RAL personnalisées."
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "Témoignages Clients",
+    "subtitle": "Apprécié par des clients du monde entier pour la qualité et le service",
+    "ariaLabel": "Section des avis clients et des évaluations par étoiles",
+    "reviews": [
+      {
+        "name": "Eric Zhang",
+        "role": "Chef de Projet",
+        "company": "Hantai Construction Co.",
+        "country": "Australie",
+        "text": "La verrière a parfaitement résisté à un violent orage survenu juste après l'installation. La conception du drainage est intelligente et le cadre en aluminium semble très solide. J'utiliserai certainement PolyCanopy pour de futurs projets."
+      },
+      {
+        "name": "Michael Robertson",
+        "role": "Promoteur Immobilier",
+        "company": "ClearView Estates",
+        "country": "États-Unis",
+        "text": "Le système de verrière a dépassé nos attentes. Structure en aluminium robuste, aspect moderne et épuré, installation simple. Il a parfaitement résisté aux récents vents violents."
+      },
+      {
+        "name": "Ahmed Al-Mutairi",
+        "role": "Directeur Technique",
+        "company": "Desert Shade Systems",
+        "country": "Émirats Arabes Unis",
+        "text": "Excellente résistance à la chaleur et haute transparence. La verrière se comporte bien sous un fort ensoleillement, et le cadre en aluminium ne se déforme ni ne se décolore. Idéal pour le climat du Golfe."
+      },
+      {
+        "name": "Sofia Martínez",
+        "role": "Architecte",
+        "company": "Línea Urbana S.A.",
+        "country": "Argentine",
+        "text": "Nous avons utilisé PolyCanopy pour un projet de café-terrasse à Buenos Aires. Les matériaux sont de première qualité, en particulier le panneau en polycarbonate — très clair et durable. Nos clients adorent le résultat."
+      },
+      {
+        "name": "Lisa Chen",
+        "role": "Architecte d'Intérieur",
+        "company": "Blossom Space Studio",
+        "country": "Singapour",
+        "text": "Excellente qualité des matériaux – surtout le panneau en polycarbonate. La transparence est élevée et bien plus sûre que le verre. De plus, nous n'avons pas à nous soucier des chutes d'objets depuis l'étage supérieur. Hautement recommandé !"
+      },
+      {
+        "name": "Thulani Mokoena",
+        "role": "Ingénieur de Chantier",
+        "company": "BuildRight Solutions",
+        "country": "Afrique du Sud",
+        "text": "Le cadre en aluminium est robuste et léger. Nous apprécions également la conception du système de gouttière — très utile pendant les pluies saisonnières. Il a aussi fière allure sur les bâtiments commerciaux."
+      }
+    ]
+  },
+  "WhyChoose": {
+    "title": "Pourquoi choisir Polycanopy",
+    "subtitle": "Votre partenaire de confiance pour des solutions de canopy premium",
+    "ariaLabel": "Section des avantages commerciaux de l'entreprise",
+    "items": {
+      "service": {
+        "title": "Service réactif",
+        "desc": "Support client 24h/24 et 7j/7 avec des temps de réponse rapides pour toutes les demandes",
+        "ariaLabel": "En savoir plus sur notre processus de service réactif"
+      },
+      "custom": {
+        "title": "Paramètres personnalisés",
+        "desc": "Options de personnalisation flexibles pour répondre à vos spécifications de projet exactes",
+        "ariaLabel": "Explorez nos paramètres de spécification personnalisés"
+      },
+      "export": {
+        "title": "Expérience à l'export",
+        "desc": "Des décennies d'expertise en commerce international avec des capacités d'expédition mondiales",
+        "ariaLabel": "Consultez nos capacités d'exportation mondiales"
+      },
+      "quote": {
+        "title": "Devis rapide",
+        "desc": "Tarification rapide et précise avec des spécifications techniques détaillées",
+        "ariaLabel": "Obtenez un devis technique rapide maintenant"
+      }
+    }
+  },
+  "ProductDetail": {
+    "specsTitle": "Fiche technique",
+    "btnQuoteText": "Obtenez votre devis gratuit",
+    "products": {
+      "retractable-telescopic-sunroom": {
+        "title": "Véranda télescopique rétractable",
+        "desc": "Conçue en aluminium 6063-T5 haute résistance et polycarbonate premium avec couches de co-extrusion UV pour le confort extérieur.",
+        "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+        "imageAlt": "Véranda télescopique rétractable installée sur terrasse avec design ouvrant",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Matériau de structure",
+            "desc": "Alliage d'aluminium 6063-T5 haute résistance"
+          },
+          {
+            "id": 2,
+            "title": "Matériau de toiture",
+            "desc": "Plaque pleine en polycarbonate (avec co-extrusion UV)"
+          },
+          {
+            "id": 3,
+            "title": "Fonctionnement",
+            "desc": "Coulissement télescopique manuel ou motorisé"
+          }
+        ]
+      },
+      "stargazing-dome": {
+        "title": "Dôme d'observation des étoiles en polycarbonate",
+        "desc": "Une vue immersive à 360° pour le glamping, le luxe en resort et les repas en extérieur.",
+        "image": "https://img.polycanopy.com/2025/07/polycarbonate-stargazing-dome-for-glamping.jpg",
+        "imageAlt": "Dôme d'observation des étoiles en polycarbonate pour glamping et luxe extérieur",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Matériau principal",
+            "desc": "Plaque pleine en polycarbonate premium"
+          },
+          {
+            "id": 2,
+            "title": "Cadre de base",
+            "desc": "Aluminium ou base PC intégrée"
+          },
+          {
+            "id": 3,
+            "title": "Caractéristiques",
+            "desc": "Transparent à 360°, résistant aux intempéries"
+          }
+        ]
+      }
+    }
+  },
+  "Footer": {
+    "quoteTitle": "Demander un devis",
+    "quoteDesc": "Remplissez vos coordonnées ci-dessous avec le produit dont vous avez besoin et nous vous répondrons sous 24 heures",
+    "formName": "Votre nom",
+    "formPhone": "Votre téléphone",
+    "formEmail": "Votre email",
+    "formCountry": "Pays",
+    "btnSending": "Envoi en cours...",
+    "btnSuccess": "Message envoyé !",
+    "btnFailed": "Échec ! Réessayez",
+    "backToTop": "Retour en haut",
+    "formCountryPlaceholder": "D'où venez-vous",
+    "formProducts": "Produits",
+    "formUpload": "Télécharger le dessin technique / plan du projet",
+    "formSelectPlaceholder": "Sélectionnez dans la liste",
+    "formMessage": "Message",
+    "formMessagePlaceholder": "Écrivez un message",
+    "formSubmit": "Envoyer maintenant",
+    "optWindow": "Auvent de fenêtre",
+    "optDoor": "Auvent de porte",
+    "optCarport": "Carport / Abri de garage",
+    "optDome": "Auvent dôme",
+    "optSunroom": "Véranda / Serre",
+    "optCustomize": "Services de conception personnalisée",
+    "optWholesales": "Vente en gros / Distribution",
+    "nlTitle": "Abonnez-vous à notre newsletter pour les dernières informations sur la technologie des auvents et les développements de l'industrie",
+    "nlPlaceholder": "Email",
+    "nlSubmit": "S'abonner",
+    "profileTitle": "Auvent premium en polycarbonate",
+    "profileDesc": "PolyCanopy propose des auvents en polycarbonate de haute qualité et personnalisables, conçus pour les espaces résidentiels et commerciaux. Profitez d'une protection durable avec un design élégant, adapté aux modes de vie modernes.",
+    "profileReadMore": "En savoir plus",
+    "contactTitle": "Coordonnées",
+    "contactTel": "Tél : +86 13420298302",
+    "contactAddress": "Adresse : Province du Guangdong, Chine",
+    "termsTitle": "Conditions générales",
+    "termsPrivacy": "Politique de confidentialité",
+    "termsReturn": "Politique de retour",
+    "exploreTitle": "EXPLOREZ NOS PROPRIÉTÉS",
+    "explorePost1Title": "Pourquoi la plaque en polycarbonate plein de 3 mm est le matériau idéal pour la toiture d'auvent",
+    "explorePost2Title": "Sécuriser votre structure : Guide des systèmes d'ancrage pour les zones à vents forts",
+    "copyright": "© Polycanopy Tous droits réservés."
+  },
+  "ProductsDetail": {
+    "featuresTitle": "Fonctionnalités d'ingénierie avancée de pointe",
+    "featuresSub": "La fabrication de précision garantit une durabilité à long terme face aux éléments extrêmes.",
+    "framingTitle": "Excellence du châssis — Alliage d'aluminium de qualité architecturale",
+    "panelsTitle": "Panneaux en polycarbonate de qualité supérieure",
+    "precisionTitle": "Détails structurels de précision qui comptent",
+    "profilesTitle": "Modèles et options de profilés structurels en aluminium",
+    "profilesDesc": "Choisissez la structure porteuse appropriée en fonction de votre portée libre technique et des directives régionales de charge de vent. Nous proposons des options de fabrication de profilés personnalisés pour répondre aux exigences de haute densité.",
+    "galleryTitle": "Galerie de projets réalisés",
+    "ctaTitle": "Prêt à approfondir les mesures techniques ou à personnaliser vos configurations ?",
+    "ctaDesc": "Téléchargez notre manuel d'architecture ou parlez directement à notre division d'ingénierie commerciale mondiale via notre messagerie instantanée.",
+    "trustedTitle": "Approuvé par les professionnels industriels du monde entier"
+  },
+  "FloatingWidget": {
+  "wechatHover": "Copier l'ID WeChat",
+  "copied": "Copié !",
+  "waMessage": "Bonjour, j'ai visité votre site web et je suis intéressé par vos auvents en polycarbonate. Depuis la page : ",
+  "emailSubject": "Demande de renseignements sur les solutions d'auvents et de carports en polycarbonate",
+  "emailBody1": "Bonjour l'équipe commerciale de PolyCanopy, je navigue sur votre site et souhaiterais obtenir un catalogue ainsi que les tarifs dégressifs. URL : ",
+  "emailBody2": "",
+  "toastMsg": "ID WeChat copié avec succès !",
+  "ariaCloseCta": "Fermer le menu de contact",
+  "ariaToggle": "Contactez-nous",
+  "ariaEmail": "Envoyer une demande par e-mail",
+  "ariaWechat": "Copier le compte WeChat",
+  "ariaMessenger": "Discuter sur Messenger",
+  "ariaWhatsapp": "Discuter sur WhatsApp"
+},
+  "PrivacyPolicy": {
+    "title": "Politique de confidentialité",
+    "effectiveDate": "Date d'entrée en vigueur : 20 juillet 2025",
+    "intro": "Merci de visiter PolyCanopy. La présente politique de confidentialité explique comment nous collectons, utilisons et protégeons vos données personnelles lorsque vous interagissez avec notre site web, demandez des informations ou soumettez des documents liés à un projet. Nous accordons une grande importance à votre vie privée et nous nous engageons à protéger les informations que vous partagez avec nous.",
+    "section1Title": "1. Données personnelles que nous collectons",
+    "section1Content": "Nous collectons les données personnelles que vous fournissez volontairement via les formulaires de contact ou les canaux de communication de notre site web. Cela peut inclure :\n• Nom complet\n• Adresse e-mail\n• Numéro de téléphone\n• Pays ou région\n• Nom de l'entreprise (facultatif)\n• Contenu du message ou de la demande\n• Fichiers téléchargés (par exemple, plans, cahiers des charges, spécifications de projet)\n• Données techniques non personnelles, telles que l'adresse IP, le type de navigateur et les pages visitées (à des fins d'analyse uniquement)",
+    "section2Title": "2. Finalité de la collecte des données",
+    "section2Content": "Nous utilisons les données collectées aux fins suivantes :\n• Répondre à vos demandes de renseignements ou de devis\n• Analyser les besoins de votre projet et proposer des solutions produits adaptées\n• Communiquer avec vous pour des suivis ou des consultations techniques\n• Améliorer la fonctionnalité de notre site web et l'expérience client\n• Respecter les obligations légales ou réglementaires applicables",
+    "section3Title": "3. Stockage et protection de vos informations",
+    "section3Content": "Vos informations sont stockées en toute sécurité sur des systèmes protégés par mot de passe. L'accès est limité au personnel autorisé de PolyCanopy qui a besoin de ces informations pour répondre à votre demande ou soutenir votre projet.\nNous prenons des mesures techniques et organisationnelles appropriées pour empêcher tout accès non autorisé, perte ou utilisation abusive de vos données.",
+    "section4Title": "4. Confidentialité des fichiers téléchargés",
+    "section4Content": "Tout fichier que vous téléchargez (tel que des plans CAO, des documents de conception ou des spécifications) est traité comme confidentiel. Ces documents ne seront pas partagés ou distribués sans votre autorisation et sont utilisés uniquement en interne pour examiner les exigences de votre projet.",
+    "section5Title": "5. Conservation des données",
+    "section5Content": "Nous conservons les données personnelles uniquement pendant la durée nécessaire à la réalisation des finalités décrites dans la présente politique, sauf si une période de conservation plus longue est requise par la loi. Par exemple :\n• Demandes de renseignements et dossiers de contact : conservés jusqu'à 2 ans à des fins de suivi\n• Fichiers téléchargés : stockés en toute sécurité et supprimés sur demande\n• Communications par e-mail : conservées dans le cadre de notre correspondance professionnelle, sauf demande de suppression",
+    "section6Title": "6. Partage de vos données",
+    "section6Content": "Non. Nous ne vendons, ne louons ni n'échangeons vos données personnelles avec des tiers. Nous pouvons partager vos informations uniquement dans les cas suivants :\n• Lorsque la loi l'exige (par exemple, demandes gouvernementales, conformité à la loi applicable)\n• Avec des prestataires de services de confiance qui nous aident à exploiter notre site web (sous obligation de confidentialité)",
+    "section7Title": "7. Cookies et technologies de suivi",
+    "section7Content": "Nous n'utilisons actuellement pas de cookies à des fins publicitaires ou de profilage. Cependant, nous pouvons utiliser des outils d'analyse de base (par exemple, Google Analytics) pour collecter des données anonymes sur la manière dont les visiteurs interagissent avec notre site web. Cela nous aide à améliorer la conception du site et l'expérience utilisateur. Vous pouvez désactiver les cookies via les paramètres de votre navigateur.",
+    "section8Title": "8. Vos droits sur les données",
+    "section8Content": "Selon votre pays ou juridiction, vous pouvez avoir le droit de :\n• Accéder à vos données personnelles\n• Demander la correction ou la suppression de vos données\n• Retirer votre consentement au traitement des données\n• Demander une copie des données que nous détenons à votre sujet\nPour exercer ces droits, veuillez nous contacter à l'adresse sales@polycanopy.com",
+    "section9Title": "9. Liens vers des sites tiers",
+    "section9Content": "Notre site web peut contenir des liens vers des sites externes (tels que WhatsApp, YouTube ou les réseaux sociaux). Nous ne sommes pas responsables des pratiques de confidentialité de ces sites. Nous vous recommandons de consulter leurs politiques de confidentialité avant de fournir des données personnelles.",
+    "section10Title": "10. Modifications de cette politique",
+    "section10Content": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre pour refléter les changements dans les exigences légales ou nos pratiques. La version la plus récente sera toujours affichée sur cette page avec une date d'entrée en vigueur révisée.",
+    "section11Title": "11. Nous contacter",
+    "section11Content": "Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité ou vos données, veuillez nous contacter :\nE-mail : sales@polycanopy.com\nSite web : www.polycanopy.com"
+  },
+  "ReturnPolicy": {
+    "title": "Politique de retour et de remboursement",
+    "effectiveDate": "Date d'entrée en vigueur : 20 juillet 2025",
+    "intro": "Chez PolyCanopy, nous concevons et fabriquons des systèmes d'auvent, des vérandas et des structures architecturales sur mesure, adaptés aux besoins spécifiques de chaque client. En raison de la nature personnalisée de nos produits, notre politique de retour et de remboursement diffère des boutiques en ligne standard. Veuillez examiner attentivement les conditions suivantes avant de passer votre commande.",
+    "section1Title": "1. Politique relative aux produits personnalisés",
+    "section1Content": "Tous nos produits sont fabriqués sur mesure selon vos spécifications, notamment les dimensions, le choix des matériaux, la finition et le type de structure. Par conséquent, nous ne pouvons accepter les retours ni offrir de remboursements pour les raisons suivantes :\n• Changement d'avis après confirmation de la commande\n• Mesures incorrectes ou données de projet fournies par le client\n• Problèmes d'ajustement imprévus non liés à un défaut du produit\nNous vous recommandons vivement de vérifier toutes les spécifications, les dessins et les exigences avec notre équipe avant de finaliser votre commande.",
+    "section2Title": "2. Modifications et annulations de commande",
+    "section2Content": "Vous pouvez demander une modification ou une annulation de votre commande dans les 48 heures suivant la confirmation de la commande et avant le début de la production. Une fois la fabrication commencée, nous ne pouvons ni modifier ni annuler la commande, et la totalité des frais de production sera facturée.",
+    "section3Title": "3. Marchandises endommagées ou défectueuses",
+    "section3Content": "Si vos produits arrivent endommagés pendant le transport ou présentent des défauts de fabrication, veuillez nous en informer dans les 48 heures suivant la réception. Pour déposer une réclamation, envoyez les éléments suivants à sales@polycanopy.com :\n• Numéro de commande ou facture\n• Photos claires des dommages ou défauts\n• Description du problème et des composants concernés\nAprès confirmation, nous proposerons une solution appropriée telle que des pièces de rechange, des kits de réparation ou des remboursements partiels selon la gravité du problème. Dans les cas où un remplacement est nécessaire, PolyCanopy prendra en charge les frais d'expédition.",
+    "section4Title": "4. Éligibilité au retour",
+    "section4Content": "Nous n'acceptons pas les retours de produits personnalisés terminés. Cependant, dans certains cas approuvés (par exemple, des accessoires non personnalisés expédiés par erreur), des retours peuvent être organisés sous réserve des conditions suivantes :\n• La demande de retour est faite dans les 7 jours suivant la livraison\n• Les produits doivent être inutilisés, non endommagés et retournés dans leur emballage d'origine ou équivalent\n• Les frais de retour sont à la charge du client",
+    "section5Title": "5. Couverture de la garantie",
+    "section5Content": "Les produits PolyCanopy sont couverts par une garantie structurelle limitée. Les conditions de garantie varient selon le type de produit et seront confirmées lors du devis. L'usure normale, la mauvaise utilisation, une installation incorrecte ou les dommages liés aux intempéries ne sont pas couverts. Veuillez conserver tous les documents techniques pour référence de garantie.",
+    "section6Title": "6. Force majeure",
+    "section6Content": "PolyCanopy ne peut être tenu responsable des retards ou de l'incapacité à exécuter les commandes en raison d'événements indépendants de notre volonté, y compris mais sans s'y limiter, les catastrophes naturelles, les perturbations d'expédition ou les pénuries de fournisseurs.",
+    "section7Title": "7. Coordonnées",
+    "section7Content": "Si vous avez des questions concernant notre politique de retour ou de garantie, veuillez contacter notre équipe d'assistance :\nPolyCanopy\nEmail : sales@polycanopy.com\nSite Web : www.polycanopy.com"
+  }
+}

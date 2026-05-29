@@ -1,0 +1,691 @@
+{
+  "ProductsHero": {
+    "title": "Polycarbonat-Aluminium-Vordachsysteme",
+    "featuredSolutions": "Unsere vorgestellten Lösungen",
+    "viewDetails": "Details anzeigen",
+    "subtitle": "Individuell gestaltete, langlebige und ästhetische Vordachlösungen",
+    "imageAlt": "Detaillierte Maßzeichnung eines Polycarbonat-Carports mit hochfesten Tragrahmen und Wasserablaufsystem",
+    "imageTitle": "Polycanopy Technische Maße des Polycarbonat-Carport-Vordachs"
+  },
+  "ProductSpecs": {
+    "title": "Produktspezifikationen",
+    "spec1Title": "Anpassung",
+    "spec1Desc": "Nach Bestellspezifikationen gefertigt",
+    "spec2Title": "Herkunft",
+    "spec2Desc": "Hergestellt in China",
+    "spec3Title": "Garantie",
+    "spec3Desc": "30 Jahre Lebensdauer",
+    "spec4Title": "Rahmenmaterial",
+    "spec4Desc": "Hochwertige Aluminiumlegierung"
+  },
+  "MaterialIntro": {
+    "title": "Materialeinführung",
+    "frameHeading": "Aluminiumlegierungsrahmen: Hochfeste Konstruktion",
+    "frameDesc": "Aluminiumprofile mit hoher Härte und starker Zähigkeit widerstehen mühelos Taifunen und extremen Wetterbedingungen.",
+    "panelHeading": "Polycarbonatplatten",
+    "zoomTipFrame": "🔍 Zum Vergrößern des Profildetails klicken",
+    "zoomTipPanel": "🔍 Zum Vergrößern des Plattendetails klicken",
+    "panelDesc": "Hochwertige Rohstoffe von Bayer oder SABIC mit ausreichendem UV-Schutz. Polycarbonatplatten mit einer Garantie von über 10 Jahren Nutzungsdauer.",
+    "color_champagne": "Champagner",
+    "color_white": "Weiß",
+    "color_gray": "Grau",
+    "color_coffee": "Kaffee",
+    "color_bronze": "Bronze",
+    "color_black": "Schwarz",
+    "aria_frame_btn": "Rahmenvorschaubild auf Farbe {color} umschalten",
+    "aria_panel_btn": "Polycarbonatplatten-Vorschaubild auf Farbe {color} umschalten",
+    "alt_frame_champagne": "Polycarbonat-Vordach Aluminiumrahmen Farboption in eleganter Champagner-Ausführung",
+    "alt_frame_white": "Polycarbonat-Vordach Aluminiumrahmen Farboption in sauberer Weiß-Ausführung",
+    "alt_frame_gray": "Polycarbonat-Vordach Aluminiumrahmen Farboption in moderner Grau-Ausführung",
+    "alt_frame_coffee": "Polycarbonat-Vordach Aluminiumrahmen Farboption in klassischer Kaffee-Ausführung",
+    "alt_panel_bronze": "Hochwertige bronzefarbene Polycarbonat-Vollplatten für Vordachschutz",
+    "alt_panel_white": "Hochwertige weiße lichtdurchlässige Polycarbonat-Vollplatten für sanfte Beleuchtung",
+    "alt_panel_gray": "Hochwertige grau getönte Polycarbonat-Vollplatten für modernes architektonisches Design",
+    "alt_panel_black": "Hochwertige schwarz getönte Polycarbonat-Vollplatten für maximale Beschattung"
+  },
+  "ProductAnalysis": {
+    "sectionTitle": "Produktanalyse",
+    "systemDesc": "Das Polycarbonat-Vordachsystem umfasst Wandhalterungen, verstärkte Mittelrahmen, verstärkte Stützen, Fallrohre, Dachrinnen sowie verschiedene Farben von massiven Polycarbonatplatten, Diamantpartikelplatten oder Regentropfenpartikelplatten.",
+    "whyTitle": "Warum hochwertige Polycarbonatplatten wählen?",
+    "whyDesc1": "Bei Vordach- und Oberlichtprojekten ist es nicht der Stahlrahmen – es ist die Platte, die die Langlebigkeit bestimmt. Minderwertige Platten können innerhalb weniger Jahre vergilben, reißen oder undicht werden, was zu kostspieligen Austauscharbeiten führt.",
+    "whyDesc2": "Unser Premium-Polycarbonat verfügt über eine einseitige UV-coextrudierte Schicht, die Klarheit und Haltbarkeit für über 10 Jahre bewahrt.",
+    "whyDesc3": "Wählen Sie von Anfang an Qualität – Sparen Sie Wartungskosten und genießen Sie Sorgenfreiheit.",
+    "altSystemImg": "Explosionszeichnung der Vordachstruktur mit beschrifteten Komponenten",
+    "altCompareImg": "Vergleich von hochwertigen und minderwertigen Polycarbonatplatten"
+  },
+  "ProductFeatures": {
+    "sectionTitle": "Produkteigenschaften",
+    "badge1": "Korrosionsbeständig",
+    "badge2": "Pflegeleicht",
+    "badge3": "Lichtdurchlässigkeit",
+    "badge4": "Ästhetisches Design",
+    "badge5": "Schalldämmung",
+    "mainFeatAlt": "Polycarbonat-Vordach mit Produkteigenschaften für Schneelastbeständigkeit, UV-Schutz, Wind- und Regenschutz sowie Schlagfestigkeit",
+    "mainFeatZoomTip": "🔍 Klicken Sie hier, um den umfassenden Funktionsplan anzuzeigen",
+    "subHeading": "Harte Leistung & strenge Prüfung",
+    "subDesc": "Erfahren Sie, wie unsere Konstruktionen extremen realen Herausforderungen standhalten",
+    "testLabel": "Leistungstest",
+    "feat1Title": "Hohe Schlagfestigkeit",
+    "feat1Desc": "Hohe Schlagfestigkeit mit deutschen Polycarbonatplatten – 200- bis 300-mal höhere Schlagfestigkeit als normales Glas. Allgemein bekannt als 'unzerbrechliches Glas' oder 'stahlähnliche Transparenz'.",
+    "feat1Alt": "Hammer schlägt auf Polycarbonat-Vordachplatte und demonstriert hohe Schlagfestigkeit",
+    "feat2Title": "Hochflexibel, stabil und vielseitig",
+    "feat2Desc": "Robust und formbar, die Platten sind einfach zu installieren und können kalt zu Bogen- oder Kuppelstrukturen gebogen werden.",
+    "feat2Alt": "Person biegt eine Polycarbonatplatte, um ihre hervorragende Flexibilität zu demonstrieren",
+    "feat3Title": "Feuerbeständig",
+    "feat3Desc": "Geprüft durch die chinesische Überwachungsbehörde für Brandschutz-Baumaterialqualität und gemäß der Norm GB8624-1997 erreicht die Polycarbonatplatte die Brandschutzklasse B1.",
+    "feat3Alt": "Feuerzeugflamme testet die flammhemmende Eigenschaft der Polycarbonatplatte",
+    "feat4Title": "Hocheffizienter UV-Schutz",
+    "feat4Desc": "Das Vordach verwendet deutsche Polycarbonatplatten, die ultraviolette Strahlen blockieren, hohen Temperaturen standhalten und zur Reduzierung der Innenraumwärme beitragen. Mit einer einseitigen UV-Coextrusionsschicht behandelt, isolieren die Platten effektiv gegen Wärme und blockieren externe UV-Strahlung, was Sicherheit für Sie und Ihre Familie gewährleistet.",
+    "feat4Alt": "Polycarbonat-Vordach unter Sonnenlicht, das UV-Schutz demonstriert",
+    "feat5Title": "Unabhängiges Entwässerungssystem",
+    "feat5Desc": "Während der Regenzeit gewährleistet das Entwässerungssystem einen reibungslosen Wasserfluss ohne Verstopfung oder Spritzer. Es löst effektiv Probleme wie Wasseransammlung und Überlauf bei starkem Regen. Das verbreiterte Dachrinnendesign ermöglicht eine schnellere Entwässerung.",
+    "feat5Alt": "Nahaufnahme des unabhängigen Dachrinnensystems mit gebogenem Fallrohr am Polycarbonat-Vordach",
+    "feat6Title": "Unabhängiges Großvolumen-Entwässerungssystem",
+    "feat6Desc": "Während der Regenzeit gewährleistet das Entwässerungssystem einen reibungslosen Wasserfluss ohne Verstopfung oder Spritzer. Es löst effektiv Probleme wie Wasseransammlung und Überlauf bei starkem Regen. Das verbreiterte Dachrinnendesign ermöglicht eine schnellere Entwässerung.",
+    "feat6Alt": "Verbessertes Entwässerungssystem mit verlängertem Fallrohr und verbreitertem Dachrinnenabschnitt für verbesserten Wasserfluss am Polycarbonat-Vordach",
+    "feat7Title": "Hochfeste Aluminiumlegierungsprofile",
+    "feat7Desc": "Hält der Einwirkung von Taifunen der Kategorie 12 mit außergewöhnlicher Widerstandsfähigkeit stand. Die Oberfläche ist mit einer elektrostatischen Pulverbeschichtung für hervorragende Korrosionsbeständigkeit behandelt.",
+    "feat7Sub1": "◆ Verstärkt & verdickt",
+    "feat7Sub2": "◆ Schneelastbeständig",
+    "feat7Alt": "Polycarbonat-Vordach in einem Gebiet mit starkem Schneefall installiert, das seine Schneelastbeständigkeit und detaillierte Aluminiumlegierungskonstruktion zeigt",
+    "feat8Title": "Einfache Installation mit komplettem Zubehör",
+    "feat8Desc": "Modulares Systemdesign für einfache Montage, mit hochfesten Stützträgern und spezieller Schnellinstallationstechnologie, die Zeit und Mühe spart.",
+    "feat8Alt": "Schritt-für-Schritt-Installationscollage mit Halterungen, Platten und Endaufbau des Polycarbonat-Vordachs, die den einfachen Montageprozess hervorhebt"
+  },
+  "PremiumMaterials": {
+    "title": "Hochwertige Materialien machen den Unterschied",
+    "desc": "Titan-Magnesium-Aluminiumlegierung in Luftfahrtqualität mit fortschrittlicher Beschichtungstechnologie und deutschem Bayer-Polycarbonat-Material gewährleisten eine dauerhafte Leistung ohne Alterung.",
+    "mat1Label": "Hochfeste Aluminiumlegierung",
+    "mat2Label": "Deutsche Bayer-Polycarbonatplatte",
+    "imgAlt": "Übersicht über Premium-Polycarbonat-Aluminium-Dachsystem-Materialien: Darstellung von Profilen in Luftfahrtqualität und Detailansicht der deutschen Bayer-Neuware-Platte"
+  },
+  "ChooseUs": {
+    "heading": "Wählen Sie uns für Ihre Sicherheit",
+    "tagline": "Eine Qualitätsüberdachung macht den Unterschied",
+    "lifespanLabel": "Normale Nutzungsdauer: 30 Jahre",
+    "lifespanValue": "Wirklich lohnenswert",
+    "g1Title": "Internationale Qualitätsstandards",
+    "g1Detail": "BG/T3190 6063 Profil – Entspricht dem internationalen Standard 6063",
+    "g2Title": "Materialien von Bayer (Deutschland)",
+    "g2Detail": "Polycarbonatplatte – Schlagfest, schalldämmend, wärmeisolierend, flammhemmend",
+    "g3Title": "Angeleitete Maßnahme und Installation",
+    "g3Detail": "Weltweit verfügbar – Direktvermessung, Anpassung, Lieferung, Installation und Kundendienst",
+    "g4Title": "Sorgenfreier Kundendienst",
+    "g4Detail": "Erweiterte Garantie",
+    "g5Title": "Qualitätssicherung",
+    "g5Detail": ""
+  },
+  "Service": {
+    "hero": {
+      "heading": "Unsere Dienstleistungen",
+      "subtitle": "Wir sind nicht nur eine Fabrik, sondern Ihr leistungsstarker Partner, der sich für Exzellenz einsetzt",
+      "card1Title": "Hersteller direkt",
+      "advantageLabel": "VORTEIL",
+      "card1Desc": "Direkt ab Werk für beste Preise und Qualitätskontrolle",
+      "card2Title": "Ehrliches Geschäft",
+      "card2Desc": "Integritätsbasierte Abläufe mit transparenten Prozessen und zuverlässigen Partnerschaften",
+      "card3Title": "Professionelle Anpassung",
+      "card3Desc": "Maßgeschneiderte Lösungen nach Kundenspezifikationen und Anforderungen",
+      "card4Title": "Professioneller Export",
+      "card4Desc": "Streben nach Exzellenz in Produktqualität und Service für globale Märkte"
+    },
+    "process": {
+      "title": "Anpassungsprozess",
+      "step1": "Beratung",
+      "step2": "Stil festlegen",
+      "step3": "Lösung bestätigen",
+      "step4": "Anzahlung",
+      "step5": "Produktion",
+      "step6": "Restzahlung",
+      "step7": "Versand",
+      "step8": "Kundenempfang",
+      "step9": "Sorgenfreier Kundendienst"
+    },
+    "factory": {
+      "title": "Polycarbonat & Aluminium",
+      "subtitle": "Entdecken Sie, wie wir unsere Polycarbonatplatten und Aluminiumstrukturen mit modernster Ausrüstung und strenger Qualitätskontrolle herstellen und verarbeiten.",
+      "pcHeading": "Polycarbonatplatten-Produktion",
+      "pcDesc": "Unsere Polycarbonatplatten werden aus deutschen importierten Bayer/SABIC Neuware-Rohstoffen mit UV-beständigen Additiven hergestellt. Wir betreiben fortschrittliche OMIPA-Coextrusionslinien für überlegene Plattenqualität, präzise Dickenkontrolle und langlebige Leistung.",
+      "pcZoomTip": "🔍 Klicken Sie hier, um Produktionsdetails anzuzeigen",
+      "pcImg1Alt": "Premium-Polycarbonat-Harz und UV-Schutzadditive von Bayer oder SABIC",
+      "pcImg2Alt": "Echtzeit-Qualitätskontrolle auf italienischer OMIPA-Extrusionslinie zur Herstellung transparenter massiver Polycarbonatplatten",
+      "pcImg3Alt": "OMIPA-System mit präziser Zuführung und fortschrittlicher UV-Coextrusionstechnologie für gleichbleibende Plattenqualität",
+      "alHeading": "Aluminiumstruktur & Montage",
+      "alDesc": "Unsere Aluminiumlegierungsprofile werden präzisionsstranggepresst aus dem Luftfahrtmaterial 6063-T5. Die spezielle Montagewerkstatt stellt sicher, dass jede Rahmenstruktur vor Verpackung und weltweitem Versand strengen Qualitätsstandards entspricht.",
+      "alZoomTip": "🔍 Klicken Sie hier, um Werkstattdetails anzuzeigen",
+      "alImg1Alt": "Hochwertige Aluminiumrohre und -profile in organisiertem Lagerbereich",
+      "alImg2Alt": "Montierte Aluminiumrahmenstrukturen für Polycarbonat-Vordachsysteme in der Werkstatt",
+      "alImg3Alt": "Aluminiumrahmenlagerung und Versandbereitschaft vor Verpackung und Versand"
+    }
+  },
+  "Contact": {
+    "MapSection": {
+      "heading": "Globale Lieferkette & technische Exzellenz",
+      "sub": "Direkt von unserem modernen Fertigungsstandort in Guangdong, China, zu Baustellen weltweit.",
+      "mapTitle": "Standort der Fabrik"
+    },
+    "metaTitle": "Kontakt PolyCanopy - Experte für maßgeschneiderte Wintergärten & Vordächer",
+    "metaDesc": "Nehmen Sie Kontakt mit PolyCanopy auf, Ihrem zuverlässigen Partner für hochwertige ausfahrbare Wintergärten, Teleskop-Vordachsysteme und maßgeschneiderte Außenbereiche.",
+    "heroTitle": "Kontaktieren Sie PolyCanopy",
+    "heroSub": "Lassen Sie uns über Ihr Projekt sprechen",
+    "helpPre": "Wie können",
+    "helpHighlight": "wir Ihnen helfen?",
+    "phoneTitle": "Telefon",
+    "phoneVal": "+86 13420298302",
+    "addressTitle": "Unsere Adresse",
+    "addressVal": "Provinz Guangdong, China",
+    "emailTitle": "E-Mail",
+    "emailVal": "sales@polycanopy.com",
+    "formTitlePre": "Schreiben Sie",
+    "formTitleBold": "uns",
+    "fName": "VOLLSTÄNDIGER NAME",
+    "pName": "Ihr vollständiger Name",
+    "fEmail": "E-MAIL-ADRESSE",
+    "pEmail": "Ihre E-Mail-Adresse",
+    "fWho": "WER SIND SIE",
+    "pWho": "Sind Sie eine Privatperson oder ein Unternehmen?",
+    "fCountry": "LAND",
+    "pCountry": "Woher kommen Sie?",
+    "fProductLabel": "PRODUKT AUSWÄHLEN",
+    "optDefault": "Aus Liste auswählen",
+    "fMessage": "NACHRICHT",
+    "pMessage": "Ihre Nachricht",
+    "fPhone": "TELEFON (OPTIONAL)",
+    "pPhone": "Ihre Telefonnummer",
+    "fCompany": "UNTERNEHMEN (OPTIONAL)",
+    "successTitle": "Vielen Dank für Ihre Anfrage!",
+    "successDesc": "Unser professionelles Team wird Ihre architektonischen Spezifikationen analysieren und Ihnen innerhalb von 24 Stunden ein maßgeschneidertes Angebot unterbreiten.",
+    "btnClose": "Fenster schließen",
+    "optWindow": "Fenster-Vordach",
+    "optDoor": "Tür-Vordach",
+    "optCarport": "Carport",
+    "optDome": "Sternenkuppel",
+    "optSunroom": "Wintergarten",
+    "optCustomize": "Sonderanfertigung",
+    "optWholesales": "Großhandel",
+    "pCompany": "Name Ihres Unternehmens",
+    "btnSubmit": "ABSENDEN",
+    "turnstileSiteKey": "0x4AAAAAACBUDH3G7cEg5mCH",
+    "heroAlt": "Bunte Polycarbonat-Sternenkuppel, die nachts leuchtet, ideal für Architekturprojekt-Banner",
+    "parkingAlt": "Großflächige Polycarbonat-Vordachkonstruktion an einer Parkplatzausfahrt, die starken Schutz und modernes Design bietet",
+    "windowAlt": "Polycarbonat-Vordach vor einem Fenster installiert, das ruhigen und eleganten Regenschutz bietet",
+    "turnstileError": "Sicherheitsüberprüfung fehlgeschlagen, bitte versuchen Sie es erneut."
+  },
+  "Blog": {
+    "metaTitle": "Blog & Einblicke - PolyCanopy",
+    "metaDesc": "Entdecken Sie unsere neuesten Artikel, Installationsanleitungen und technischen Einblicke zu Polycarbonat-Vordachlösungen.",
+    "heroTitle": "Wissensdatenbank & Einblicke",
+    "readMore": "Ganzen Artikel lesen →",
+    "dateFormat": "de-DE",
+    "heroAlt": "Blaues Polycarbonat-Vordach mit weißem Aluminiumrahmen, installiert im Freien unter einem hellblauen Himmel",
+    "heroSub": "Professionelle Leitfäden, technische Analysen und Designtrends für Polycarbonat-Lösungen."
+  },
+  "Common": {
+    "factoryDirect": "Direkt ab Werk",
+    "viewDetails": "Details anzeigen",
+    "home": "Startseite",
+    "blog": "Blog",
+    "toc": "Auf dieser Seite"
+  },
+  "Header": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "service": "Service",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "language": "Sprache",
+    "logoAlt": "Polycanopy - Hersteller von Premium-Polycarbonat-Vordächern",
+    "homeAlt": "Zur Startseite",
+    "navLabel": "Hauptnavigation",
+    "langSwitcher": "Sprachauswahl",
+    "switchEn": "Auf Englisch umschalten",
+    "switchZh": "Auf Chinesisch umschalten",
+    "switchAr": "Auf Arabisch umschalten",
+    "switchDe": "Auf Deutsch umschalten",
+    "switchEs": "Auf Spanisch umschalten",
+    "switchPt": "Auf Portugiesisch umschalten",
+    "switchFr": "Auf Französisch umschalten",
+    "switchRu": "Auf Russisch umschalten",
+    "switchJa": "Auf Japanisch umschalten",
+    "switchIt": "Auf Italienisch umschalten",
+    "switchKo": "Auf Koreanisch umschalten"
+  },
+  "Hero": {
+    "titlePrefix": "Premium ",
+    "titleHighlight": "Polycarbonat",
+    "titleSuffix": "Vordächer",
+    "subtitle": "Entwickelt für Langlebigkeit, gestaltet für die schönen Momente des Lebens",
+    "desc": "Erleben Sie die perfekte Kombination aus Stärke und Eleganz mit unseren hochwertigen Polycarbonat-Vordachlösungen. Gebaut für über ein Jahrzehnt Haltbarkeit, während sie Ihren Lebensstil bereichern.",
+    "btnText": "Entdecken Sie unsere Lösung",
+    "btnAriaLabel": "Navigieren Sie zur Produktseite, um unsere Polycarbonat-Vordachlösungen zu entdecken",
+    "imageAlt": "Hochwertiges Polycarbonat-Vordach, das einen komfortablen Außenwohnbereich schafft",
+    "imageTitle": "Polycanopy Premium Outdoor-Vordachlösungen"
+  },
+  "About": {
+    "title": "Über Polycanopy",
+    "desc": "Führend in der Branche mit innovativen Polycarbonat-Vordachlösungen, die deutsche Ingenieurskunst mit jahrzehntelanger Exportexpertise verbinden.",
+    "missionTitle": "Unsere Mission & Werte",
+    "mission1Title": "Premium-Qualitätsmaterialien",
+    "mission1Desc": "Deutsche Bayer-Polycarbonatplatten mit 10+ Jahren Garantie",
+    "mission2Title": "Export-Exzellenz",
+    "mission2Desc": "Erfahrenes internationales Handelsunternehmen mit bewährter globaler Lieferung",
+    "mission3Title": "Individuelle Lösungen",
+    "mission3Desc": "Maßgeschneiderte Vordachdesigns für Ihre spezifischen architektonischen Anforderungen",
+    "whyTitle": "Warum uns wählen",
+    "stat1Num": "10+",
+    "stat1Text": "Jahre Garantie",
+    "stat2Num": "200x",
+    "stat2Text": "Stärker als Glas",
+    "stat3Num": "99%",
+    "stat3Text": "UV-Schutz",
+    "stat4Num": "12",
+    "stat4Text": "Windwiderstandsklasse"
+  },
+  "ProductRange": {
+    "title": "Unser Produktsortiment",
+    "desc": "Umfassende Vordachlösungen für jeden architektonischen Bedarf",
+    "items": {
+      "horizontal": {
+        "title": "Horizontalbalken-Stil",
+        "desc": "Das Vordach im Horizontalbalken-Stil zeichnet sich durch eine klassische Querbalkenstruktur mit einem klaren, modernen Erscheinungsbild aus. Es bietet starken Halt und ist ideal für Balkone, Fenster und Eingänge."
+      },
+      "suspended": {
+        "title": "Abgehängter Seil-Stil",
+        "desc": "Der abgehängte Seil-Stil verwendet ein elegantes Stahlseilsystem, um das Vordach zu tragen, und schafft so ein leichtes und elegantes Design. Diese platzsparende Lösung eignet sich besonders für Fenstermarkisen."
+      },
+      "top_beam": {
+        "title": "Oberbalken-Stil",
+        "desc": "Das Vordach im Oberbalken-Stil wird durch Balken an der Oberseite gestützt und bietet hervorragende Stabilität und vollständige Abdeckung. Diese Struktur wird häufig für Villeneingänge, Terrassen oder große Fensterbereiche verwendet."
+      },
+      "column": {
+        "title": "Stützen-Stil",
+        "desc": "Der Stützen-Stil verfügt über vertikale Säulen vorne und hinten für maximale Tragfähigkeit. Dieses Vordach deckt eine große Fläche ab und ist ideal für Terrassen, Ladenfronten und private Carports."
+      },
+      "inner_corner": {
+        "title": "Innenecken-Stil",
+        "desc": "Das Vordach im Innenecken-Stil ist für innere Wandanschlüsse wie L-förmige Balkone oder Durchgänge maßgeschneidert. Es bietet eine hervorragende Entwässerung und erweiterten Wetterschutz auf engem Raum."
+      },
+      "outer_corner": {
+        "title": "Außenecken-Stil",
+        "desc": "Der Außenecken-Stil ist so konzipiert, dass er um die Außenecken eines Gebäudes passt und den Schutzbereich nahtlos erweitert. Ideal zur Abdeckung von Eckbalkonen, Ladenfronten oder Außengehwegen."
+      },
+      "carport": {
+        "title": "Carport-Stil",
+        "desc": "Das Vordach im Carport-Stil wurde speziell entwickelt, um Fahrzeuge vor Sonne, Regen und Schmutz zu schützen. Gestützt von starken Pfosten und bedeckt mit langlebigen Materialien, bietet es hervorragenden Schutz."
+      },
+      "door_window": {
+        "title": "Tür- und Fenstermarkisen-Stil",
+        "desc": "Dieser Stil ist speziell für die Montage über Türen und Fenstern konzipiert und bietet effektiven Schutz vor Regen und direkter Sonneneinstrahlung. Kompakt und dennoch langlebig, hält es Eingänge trocken."
+      }
+    }
+  },
+  "Features": {
+    "title": "Produkteigenschaften",
+    "subtitle": "Konzipiert für Höchstleistung unter Druck – Regen, Wind, Schnee und Aufprall.",
+    "items": {
+      "waterproof": {
+        "title": "Wasserdicht",
+        "desc": "Schützt vor Regen, Rost, Korrosion und Oberflächenschäden – für dauerhaften Schutz bei jedem Wetter."
+      },
+      "impact": {
+        "title": "Schlagfest",
+        "desc": "Gebaut, um Kräften und Stößen durch herabfallende Trümmer standzuhalten, und gewährleistet langfristige strukturelle Integrität."
+      },
+      "wind": {
+        "title": "Windschutz",
+        "desc": "Stabil und sicher bei starkem Wind, reduziert Schwingungen und schützt das darunter Liegende."
+      },
+      "snow": {
+        "title": "Schneelastbeständig",
+        "desc": "Entwickelt, um hohen Schneelasten ohne Verbiegen oder Risse standzuhalten, selbst bei extremer Kälte."
+      }
+    }
+  },
+  "CustomService": {
+    "title": "Individuelle Designleistungen",
+    "desc": "Jedes Projekt ist einzigartig. Wir bieten flexible Anpassungen für alle Komponenten, die Ihren genauen Spezifikationen entsprechen.",
+    "ariaLabel": "Individuelle Parameter",
+    "imageAlt": "Individuelles Vordach-Design und -Engineering",
+    "items": [
+      "Aluminiumrahmen-Maße und Oberflächen",
+      "Polycarbonatplatten-Größen und Tönungen",
+      "Auswahl von Beschlägen und Zubehör",
+      "Professionelle Verpackung und Versand",
+      "Technische Zeichnungen und Montageanleitungen"
+    ]
+  },
+  "Specs": {
+    "title": "Technische Spezifikationen",
+    "ariaLabel": "Tabelle der technischen Spezifikationen",
+    "data": {
+      "thickness": {
+        "label": "Plattenstärke",
+        "value": "2 mm – 8 mm"
+      },
+      "frame": {
+        "label": "Rahmenmaterial",
+        "value": "6063-T5 Aluminium"
+      },
+      "treatment": {
+        "label": "Oberflächenbehandlung",
+        "value": "Pulverbeschichtung"
+      },
+      "wind": {
+        "label": "Windlast",
+        "value": "120+ km/h"
+      },
+      "temp": {
+        "label": "Temperaturbereich",
+        "value": "-40 °C bis +120 °C"
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Anwendungsgalerie",
+    "subtitle": "Reale Installationen, die Vielseitigkeit und Schönheit demonstrieren",
+    "ariaLabel": "Galerie realer Projektanwendungen",
+    "items": {
+      "rooftop": {
+        "title": "Moderne Dachterrasse",
+        "desc": "Elegantes Flachdachdesign mit hochtransparenten Paneelen",
+        "btnText": "Mehr entdecken",
+        "imageAlt": "Moderne transparente Dachüberdachung mit Aluminiumrahmen für Wohngebäude"
+      },
+      "carport": {
+        "title": "Wohn-Carport",
+        "desc": "Elegantes gebogenes Vordach für schattigen, wettergeschützten Stellplatz",
+        "btnText": "Mehr entdecken",
+        "imageAlt": "Moderner Wohn-Carport mit gebogenem transparentem Dach und darunter geparktem Luxus-SUV"
+      },
+      "sunroom": {
+        "title": "Moderner Wintergarten",
+        "desc": "Vollständig geschlossene transparente Struktur für ganzjähriges Licht",
+        "btnText": "Mehr entdecken",
+        "imageAlt": "Vollständig geschlossener gewölbter Wintergarten mit transparenten Paneelen und Landschaftsblick"
+      }
+    }
+  },
+  "Faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Alles, was Sie über unsere Polycarbonat-Vordächer wissen müssen",
+    "ariaLabel": "Akkordeon-Container für häufig gestellte Fragen",
+    "questions": [
+      {
+        "q": "Kann das Vordach an meinen Raum angepasst werden?",
+        "a": "Ja! Wir bieten eine vollständige Anpassung in Bezug auf Abmessungen, Farben, Plattenstärken und Rahmenstile für private oder gewerbliche Anwendungen. Senden Sie uns einfach Ihre Maße und Wünsche."
+      },
+      {
+        "q": "Ist Polycarbonat wirklich stärker als Glas?",
+        "a": "Absolut. Polycarbonatplatten sind bis zu 200-mal stärker als Glas und nahezu unzerbrechlich. Sie sind zudem leichter und sicherer bei extremen Wetterbedingungen wie Hagel, Wind und Starkregen."
+      },
+      {
+        "q": "Blockiert das Vordach UV-Strahlen?",
+        "a": "Ja, alle unsere Vordächer sind mit UV-beständigen Beschichtungen ausgestattet, die über 99 % der schädlichen UV-Strahlung blockieren und Ihre Möbel, Türen und Fenster vor Sonnenschäden schützen."
+      },
+      {
+        "q": "Wie lange dauert die Installation?",
+        "a": "Die meisten Installationen dauern bei einem Standard-Vordach mehrere Stunden. Wir bieten leicht verständliche Anleitungen und alle erforderlichen Zubehörteile. Bei größeren oder gewerblichen Projekten unterstützt unser Team mit professioneller Installationshilfe."
+      },
+      {
+        "q": "Wie widerstandsfähig ist das Vordach bei extremem Wetter?",
+        "a": "Unsere Polycarbonat-Vordächer sind so konstruiert, dass sie starken Windlasten, Starkregen und Schnee standhalten. Die Aluminiumlegierungs-Halterungen und Edelstahlbeschläge gewährleisten langfristige Haltbarkeit und Korrosionsbeständigkeit."
+      },
+      {
+        "q": "Wie lange beträgt die Garantiezeit?",
+        "a": "Wir gewähren eine 10-jährige eingeschränkte Garantie, die Materialfehler, Verfärbungen und strukturelle Leistung abdeckt. Vollständige Garantiedetails erhalten Sie auf Anfrage."
+      },
+      {
+        "q": "Bieten Sie Mengenrabatte für Händler oder Bauunternehmen?",
+        "a": "Ja, wir bieten gestaffelte Großhandelspreise sowie OEM/ODM-Dienstleistungen für Partner, Auftragnehmer und Händler. Bitte kontaktieren Sie unser Vertriebsteam für ein individuelles Angebot."
+      },
+      {
+        "q": "Welche Farben und Oberflächen sind verfügbar?",
+        "a": "Unsere Polycarbonatplatten sind in den Farbtönen klar, grau, bronze und blau erhältlich. Rahmenfarben umfassen mattschwarz, weiß, silber und kundenspezifische RAL-Optionen."
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "Kundenstimmen",
+    "subtitle": "Von Kunden weltweit für Qualität und Service geschätzt",
+    "ariaLabel": "Kundenbewertungen und Sternebewertungen",
+    "reviews": [
+      {
+        "name": "Eric Zhang",
+        "role": "Projektmanager",
+        "company": "Hantai Construction Co.",
+        "country": "Australien",
+        "text": "Das Vordach hielt direkt nach der Montage einem plötzlichen starken Regensturm perfekt stand. Das Entwässerungssystem ist durchdacht und der Aluminiumrahmen wirkt sehr solide. Ich werde PolyCanopy auf jeden Fall für zukünftige Projekte verwenden."
+      },
+      {
+        "name": "Michael Robertson",
+        "role": "Projektentwickler",
+        "company": "ClearView Estates",
+        "country": "Vereinigte Staaten",
+        "text": "Das Vordachsystem hat unsere Erwartungen übertroffen. Starke Aluminiumstruktur, sauberes modernes Design und die Montage war unkompliziert. Es hat sich bei den letzten starken Winden hervorragend bewährt."
+      },
+      {
+        "name": "Ahmed Al-Mutairi",
+        "role": "Technischer Direktor",
+        "company": "Desert Shade Systems",
+        "country": "VAE",
+        "text": "Hervorragende Hitzebeständigkeit und hohe Transparenz. Das Vordach funktioniert bei starker Sonneneinstrahlung gut, und der Aluminiumrahmen verzieht oder verblasst nicht. Ideal für das Golfklima."
+      },
+      {
+        "name": "Sofia Martínez",
+        "role": "Architektin",
+        "company": "Línea Urbana S.A.",
+        "country": "Argentinien",
+        "text": "Wir haben PolyCanopy für ein Dachcafé-Projekt in Buenos Aires verwendet. Die Materialien sind erstklassig, insbesondere die Polycarbonatplatte – sehr klar und langlebig. Unsere Kunden lieben das Ergebnis."
+      },
+      {
+        "name": "Lisa Chen",
+        "role": "Innenarchitektin",
+        "company": "Blossom Space Studio",
+        "country": "Singapur",
+        "text": "Hervorragende Materialqualität – besonders die Polycarbonatplatte. Die Transparenz ist hoch und viel sicherer als Glas. Außerdem müssen wir uns keine Sorgen über herabfallende Gegenstände von oben machen. Sehr empfehlenswert!"
+      },
+      {
+        "name": "Thulani Mokoena",
+        "role": "Bauingenieur",
+        "company": "BuildRight Solutions",
+        "country": "Südafrika",
+        "text": "Der Aluminiumrahmen ist robust und leicht. Wir schätzen auch das Dachrinnensystem – sehr nützlich bei saisonalen Regenfällen. Es sieht auch an Gewerbegebäuden großartig aus."
+      }
+    ]
+  },
+  "WhyChoose": {
+    "title": "Warum Polycanopy wählen",
+    "subtitle": "Ihr vertrauenswürdiger Partner für Premium-Kanopylösungen",
+    "ariaLabel": "Abschnitt zu den kommerziellen Vorteilen des Unternehmens",
+    "items": {
+      "service": {
+        "title": "Reaktionsschneller Service",
+        "desc": "24/7-Kundenbetreuung mit schnellen Reaktionszeiten bei allen Anfragen",
+        "ariaLabel": "Erfahren Sie mehr über unseren reaktionsschnellen Serviceprozess"
+      },
+      "custom": {
+        "title": "Kundenspezifische Parameter",
+        "desc": "Flexible Anpassungsoptionen, die Ihren genauen Projektanforderungen entsprechen",
+        "ariaLabel": "Entdecken Sie unsere kundenspezifischen Spezifikationsparameter"
+      },
+      "export": {
+        "title": "Exporterfahrung",
+        "desc": "Jahrzehntelange internationale Handelserfahrung mit globalen Versandkapazitäten",
+        "ariaLabel": "Überprüfen Sie unsere globalen Exportfähigkeiten"
+      },
+      "quote": {
+        "title": "Schnelle Angebotserstellung",
+        "desc": "Schnelle und genaue Preisgestaltung mit detaillierten technischen Spezifikationen",
+        "ariaLabel": "Jetzt ein schnelles technisches Angebot einholen"
+      }
+    }
+  },
+  "ProductDetail": {
+    "specsTitle": "Technische Spezifikationen",
+    "btnQuoteText": "Kostenloses Angebot anfordern",
+    "products": {
+      "retractable-telescopic-sunroom": {
+        "title": "Ausziehbares Teleskop-Sonnenzimmer",
+        "desc": "Konstruiert aus hochfestem 6063-T5-Aluminium und erstklassigem Polycarbonat mit UV-Coextrusionsschichten für höchsten Außenkomfort.",
+        "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+        "imageAlt": "Ausziehbares Teleskop-Sonnenzimmer auf Terrasse mit öffenbarem Design installiert",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Strukturmaterial",
+            "desc": "Hochfeste Aluminiumlegierung 6063-T5"
+          },
+          {
+            "id": 2,
+            "title": "Dachmaterial",
+            "desc": "Polycarbonat-Vollplatte (mit UV-Coextrusion)"
+          },
+          {
+            "id": 3,
+            "title": "Bedienung",
+            "desc": "Manuell oder motorisiertes Teleskop-Schiebesystem"
+          }
+        ]
+      },
+      "stargazing-dome": {
+        "title": "Polycarbonat-Sternenbeobachtungskuppel",
+        "desc": "Ein 360-Grad-Panoramablick für Glamping, Luxus-Resorts und Außengastronomie.",
+        "image": "https://img.polycanopy.com/2025/07/polycarbonate-stargazing-dome-for-glamping.jpg",
+        "imageAlt": "Polycarbonat-Sternenbeobachtungskuppel für Glamping und Luxus im Freien",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Hauptmaterial",
+            "desc": "Premium-Polycarbonat-Vollplatte"
+          },
+          {
+            "id": 2,
+            "title": "Basisrahmen",
+            "desc": "Aluminium oder integrierter PC-Sockel"
+          },
+          {
+            "id": 3,
+            "title": "Eigenschaften",
+            "desc": "360° transparent, witterungsbeständig"
+          }
+        ]
+      }
+    }
+  },
+  "Footer": {
+    "quoteTitle": "Angebot anfordern",
+    "quoteDesc": "Geben Sie unten Ihre Daten und das gewünschte Produkt ein. Wir melden uns innerhalb von 24 Stunden bei Ihnen.",
+    "formName": "Ihr Name",
+    "formPhone": "Ihre Telefonnummer",
+    "formEmail": "Ihre E-Mail",
+    "formCountry": "Land",
+    "btnSending": "Wird gesendet...",
+    "btnSuccess": "Nachricht gesendet!",
+    "btnFailed": "Fehlgeschlagen! Erneut versuchen",
+    "backToTop": "Nach oben",
+    "formCountryPlaceholder": "Woher kommen Sie?",
+    "formProducts": "Produkte",
+    "formUpload": "Technische Zeichnung / Projektlayout hochladen",
+    "formSelectPlaceholder": "Aus Liste auswählen",
+    "formMessage": "Nachricht",
+    "formMessagePlaceholder": "Nachricht schreiben",
+    "formSubmit": "Jetzt senden",
+    "optWindow": "Fenstervordach",
+    "optDoor": "Türvordach",
+    "optCarport": "Carport / Garagenüberdachung",
+    "optDome": "Kuppelvordach",
+    "optSunroom": "Wintergarten / Gewächshaus",
+    "optCustomize": "Individuelle Designleistungen",
+    "optWholesales": "Großhandel / Vertrieb",
+    "nlTitle": "Abonnieren Sie unseren Newsletter für die neuesten Einblicke in Vordachtechnologie und Branchenentwicklungen.",
+    "nlPlaceholder": "E-Mail",
+    "nlSubmit": "Abonnieren",
+    "profileTitle": "Premium-Polycarbonat-Vordach",
+    "profileDesc": "PolyCanopy bietet hochwertige, individuell anpassbare Polycarbonat-Vordächer für Wohn- und Gewerberäume. Genießen Sie dauerhaften Schutz mit elegantem Design, maßgeschneidert für moderne Lebensstile.",
+    "profileReadMore": "Weiterlesen",
+    "contactTitle": "Kontaktinformationen",
+    "contactTel": "Tel: +86 13420298302",
+    "contactAddress": "Adresse: Provinz Guangdong, China",
+    "termsTitle": "Allgemeine Geschäftsbedingungen",
+    "termsPrivacy": "Datenschutzrichtlinie",
+    "termsReturn": "Rückgaberecht",
+    "exploreTitle": "ENTDECKEN SIE UNSERE EIGENSCHAFTEN",
+    "explorePost1Title": "Warum 3 mm massive Polycarbonatplatte das ideale Material für Vordachdächer ist",
+    "explorePost2Title": "Sichern Sie Ihre Konstruktion: Ein Leitfaden zu Verankerungssystemen für windreiche Gebiete",
+    "copyright": "© Polycanopy Alle Rechte vorbehalten."
+  },
+  "ProductsDetail": {
+    "featuresTitle": "Hochleistungs-Engineering-Funktionen für anspruchsvolle Anwendungen",
+    "featuresSub": "Präzisionsfertigung garantiert langfristige Beständigkeit gegen extreme Witterungseinflüsse.",
+    "framingTitle": "Rahmenexzellenz – Architekturqualität aus Aluminiumlegierung",
+    "panelsTitle": "Premium-Polycarbonatplatten",
+    "precisionTitle": "Präzise strukturelle Details, die zählen",
+    "profilesTitle": "Aluminium-Strukturprofilmodelle und Optionen",
+    "profilesDesc": "Wählen Sie das passende strukturelle Rückgrat basierend auf Ihren technischen Spannweiten und regionalen Windlastrichtlinien. Wir bieten maßgeschneiderte Profilherstellungsoptionen für hohe Dichteanforderungen.",
+    "galleryTitle": "Projektgalerie",
+    "ctaTitle": "Bereit für technische Kennzahlen oder individuelle Layouts?",
+    "ctaDesc": "Laden Sie unser Architekturhandbuch herunter oder sprechen Sie direkt mit unserer globalen Vertriebsingenieurabteilung über den Live-Chat.",
+    "trustedTitle": "Vertrauen von Industrieprofis weltweit"
+  },
+  "FloatingWidget": {
+  "wechatHover": "WeChat-ID kopieren",
+  "copied": "Kopiert!",
+  "waMessage": "Hallo, ich habe Ihre Website besucht und interessiere mich für Ihre Polycarbonat-Überdachungen. Von Seite: ",
+  "emailSubject": "Anfrage zu Überdachungs- und Carport-Lösungen aus Polycarbonat",
+  "emailBody1": "Hallo PolyCanopy-Vertriebsteam, ich stöbere auf Ihrer Website und würde gerne einen Katalog und Preisstaffelungen erhalten. URL: ",
+  "emailBody2": "",
+  "toastMsg": "WeChat-ID erfolgreich kopiert!",
+  "ariaCloseCta": "Kontaktmenü schließen",
+  "ariaToggle": "Kontaktieren Sie uns",
+  "ariaEmail": "E-Mail-Anfrage senden",
+  "ariaWechat": "WeChat-Konto kopieren",
+  "ariaMessenger": "Chatten auf Messenger",
+  "ariaWhatsapp": "Chatten auf WhatsApp"
+},
+  "PrivacyPolicy": {
+    "title": "Datenschutzerklärung",
+    "effectiveDate": "Gültig ab: 20. Juli 2025",
+    "intro": "Vielen Dank, dass Sie PolyCanopy besuchen. Diese Datenschutzerklärung erläutert, wie wir Ihre personenbezogenen Daten erfassen, verwenden und schützen, wenn Sie mit unserer Website interagieren, Informationen anfordern oder projektbezogene Dokumente übermitteln. Wir legen Wert auf Ihre Privatsphäre und verpflichten uns, die von Ihnen mit uns geteilten Informationen zu schützen.",
+    "section1Title": "1. Welche personenbezogenen Daten wir erfassen",
+    "section1Content": "Wir erfassen personenbezogene Daten, die Sie freiwillig über die Kontaktformulare oder Kommunikationskanäle unserer Website bereitstellen. Dazu können gehören:\n• Vollständiger Name\n• E-Mail-Adresse\n• Telefonnummer\n• Land oder Region\n• Firmenname (optional)\n• Inhalt der Nachricht oder Anfrage\n• Hochgeladene Dateien (z. B. Zeichnungen, Anforderungen, Projektspezifikationen)\n• Nicht personenbezogene technische Daten wie IP-Adresse, Browsertyp und Seitenbesuche (nur für Analysezwecke)",
+    "section2Title": "2. Zweck der Datenerhebung",
+    "section2Content": "Wir verwenden die von uns erhobenen Daten für folgende Zwecke:\n• Zur Beantwortung Ihrer Anfragen oder Angebotsanfragen\n• Zur Analyse Ihres Projektbedarfs und Bereitstellung geeigneter Produktlösungen\n• Zur Kommunikation mit Ihnen im Rahmen von Nachfassaktionen oder technischen Beratungen\n• Zur Verbesserung unserer Website-Funktionalität und des Kundenerlebnisses\n• Zur Erfüllung geltender gesetzlicher oder regulatorischer Verpflichtungen",
+    "section3Title": "3. Wie wir Ihre Informationen speichern und schützen",
+    "section3Content": "Ihre Informationen werden sicher auf passwortgeschützten Systemen gespeichert. Der Zugriff ist auf autorisierte Mitarbeiter von PolyCanopy beschränkt, die die Informationen zur Bearbeitung Ihrer Anfrage oder zur Unterstützung Ihres Projekts benötigen.\nWir ergreifen geeignete technische und organisatorische Maßnahmen, um unbefugten Zugriff, Verlust oder Missbrauch Ihrer Daten zu verhindern.",
+    "section4Title": "4. Vertraulichkeit hochgeladener Dateien",
+    "section4Content": "Alle von Ihnen hochgeladenen Dateien (wie CAD-Zeichnungen, Konstruktionsdokumente oder Spezifikationen) werden als vertraulich behandelt. Diese Materialien werden ohne Ihre Zustimmung nicht weitergegeben oder verbreitet und nur intern zur Prüfung Ihrer Projektanforderungen verwendet.",
+    "section5Title": "5. Datenspeicherung",
+    "section5Content": "Wir speichern personenbezogene Daten nur so lange, wie es für die Erfüllung der in dieser Richtlinie beschriebenen Zwecke erforderlich ist, es sei denn, eine längere Speicherung ist gesetzlich vorgeschrieben. Zum Beispiel:\n• Anfragen und Kontaktdaten: bis zu 2 Jahre für Nachfasszwecke\n• Hochgeladene Dateien: sicher gespeichert und auf Ihren Wunsch gelöscht\n• E-Mail-Kommunikation: als Teil unserer Geschäftskorrespondenz aufbewahrt, sofern keine Löschung beantragt wird",
+    "section6Title": "6. Geben wir Ihre Daten weiter?",
+    "section6Content": "Nein. Wir verkaufen, vermieten oder handeln nicht mit Ihren personenbezogenen Daten. Wir können Ihre Informationen nur in folgenden Fällen weitergeben:\n• Wenn gesetzlich erforderlich (z. B. behördliche Anfragen, Einhaltung geltenden Rechts)\n• An vertrauenswürdige Dienstleister, die uns beim Betrieb unserer Website unterstützen (unter Vertraulichkeitsverpflichtungen)",
+    "section7Title": "7. Cookies und Tracking-Technologien",
+    "section7Content": "Wir verwenden derzeit keine Cookies für Werbe- oder Profiling-Zwecke. Wir können jedoch grundlegende Analysetools (z. B. Google Analytics) verwenden, um anonyme Daten darüber zu sammeln, wie Besucher mit unserer Website interagieren. Dies hilft uns, das Seitendesign und die Benutzererfahrung zu verbessern. Sie können Cookies über Ihre Browsereinstellungen deaktivieren.",
+    "section8Title": "8. Ihre Datenschutzrechte",
+    "section8Content": "Abhängig von Ihrem Land oder Ihrer Gerichtsbarkeit haben Sie möglicherweise das Recht auf:\n• Zugang zu Ihren personenbezogenen Daten\n• Berichtigung oder Löschung Ihrer Daten\n• Widerruf der Einwilligung zur Datenverarbeitung\n• Anforderung einer Kopie der von uns über Sie gespeicherten Daten\nUm diese Rechte auszuüben, kontaktieren Sie uns bitte unter sales@polycanopy.com",
+    "section9Title": "9. Links zu Drittanbietern",
+    "section9Content": "Unsere Website kann Links zu externen Websites enthalten (wie WhatsApp, YouTube oder soziale Medien). Wir sind nicht verantwortlich für die Datenschutzpraktiken dieser Websites. Wir empfehlen Ihnen, deren Datenschutzerklärungen zu lesen, bevor Sie personenbezogene Daten angeben.",
+    "section10Title": "10. Änderungen dieser Richtlinie",
+    "section10Content": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren, um Änderungen gesetzlicher Anforderungen oder unserer Praktiken widerzuspiegeln. Die neueste Version wird immer auf dieser Seite mit einem überarbeiteten Gültigkeitsdatum veröffentlicht.",
+    "section11Title": "11. Kontaktieren Sie uns",
+    "section11Content": "Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung oder Ihren Daten haben, kontaktieren Sie uns bitte:\nE-Mail: sales@polycanopy.com\nWebsite: www.polycanopy.com"
+  },
+  "ReturnPolicy": {
+    "title": "Rückgabe- und Erstattungsrichtlinie",
+    "effectiveDate": "Gültig ab: 20. Juli 2025",
+    "intro": "Bei PolyCanopy entwerfen und fertigen wir maßgefertigte Vordachsysteme, Wintergärten und architektonische Strukturen, die auf die spezifischen Anforderungen jedes Kunden zugeschnitten sind. Aufgrund des kundenspezifischen Charakters unserer Produkte unterscheidet sich unsere Rückgabe- und Erstattungsrichtlinie von Standard-E-Commerce-Shops. Bitte lesen Sie die folgenden Bedingungen vor der Bestellung sorgfältig durch.",
+    "section1Title": "1. Richtlinie für kundenspezifische Produkte",
+    "section1Content": "Alle unsere Produkte werden nach Ihren Vorgaben gefertigt, einschließlich Abmessungen, Materialauswahl, Oberfläche und Strukturtyp. Daher können wir keine Rücknahmen oder Rückerstattungen aus folgenden Gründen akzeptieren:\n• Sinneswandel nach Auftragsbestätigung\n• Vom Kunden bereitgestellte falsche Maße oder Projektdaten\n• Unerwartete Passformprobleme, die nicht auf Produktfehler zurückzuführen sind\nWir empfehlen dringend, alle Spezifikationen, Zeichnungen und Anforderungen vor der endgültigen Bestellung mit unserem Team zu überprüfen.",
+    "section2Title": "2. Auftragsänderungen und Stornierungen",
+    "section2Content": "Sie können innerhalb von 48 Stunden nach Auftragsbestätigung und vor Produktionsbeginn eine Änderung oder Stornierung Ihrer Bestellung beantragen. Sobald die Fertigung begonnen hat, können wir die Bestellung nicht mehr ändern oder stornieren, und es fallen die vollen Fertigungskosten an.",
+    "section3Title": "3. Beschädigte oder fehlerhafte Ware",
+    "section3Content": "Wenn Ihre Produkte während des Versands beschädigt ankommen oder Herstellungsfehler aufweisen, benachrichtigen Sie uns bitte innerhalb von 48 Stunden nach Erhalt. Um einen Anspruch geltend zu machen, senden Sie Folgendes an sales@polycanopy.com:\n• Bestellnummer oder Rechnung\n• Klare Fotos des Schadens oder Fehlers\n• Beschreibung des Problems und der betroffenen Komponenten\nNach Bestätigung bieten wir eine geeignete Lösung wie Ersatzteile, Reparatursets oder Teilrückerstattungen, abhängig vom Schweregrad des Problems. In Fällen, in denen ein Ersatz erforderlich ist, übernimmt PolyCanopy die Versandkosten.",
+    "section4Title": "4. Rückgabefähigkeit",
+    "section4Content": "Wir akzeptieren keine Rückgaben von fertigen kundenspezifischen Produkten. In bestimmten genehmigten Fällen (z. B. versehentlich versandte nicht kundenspezifische Zubehörteile) können jedoch Rückgaben unter folgenden Bedingungen arrangiert werden:\n• Rückgabeantrag innerhalb von 7 Tagen nach Lieferung\n• Produkte müssen unbenutzt, unbeschädigt und in der Originalverpackung oder gleichwertiger Verpackung zurückgesendet werden\n• Die Rücksendekosten trägt der Kunde",
+    "section5Title": "5. Garantieabdeckung",
+    "section5Content": "PolyCanopy-Produkte sind durch eine eingeschränkte strukturelle Garantie abgesichert. Die Garantiebedingungen variieren je nach Produkttyp und werden während der Angebotserstellung bestätigt. Normale Abnutzung, unsachgemäße Verwendung, falsche Installation oder witterungsbedingte Schäden sind nicht abgedeckt. Bitte bewahren Sie alle technischen Unterlagen für Garantiezwecke auf.",
+    "section6Title": "6. Höhere Gewalt",
+    "section6Content": "PolyCanopy haftet nicht für Verzögerungen oder die Unfähigkeit, Bestellungen aufgrund von Ereignissen zu erfüllen, die außerhalb unserer Kontrolle liegen, einschließlich, aber nicht beschränkt auf Naturkatastrophen, Versandunterbrechungen oder Lieferengpässe bei Lieferanten.",
+    "section7Title": "7. Kontaktinformationen",
+    "section7Content": "Wenn Sie Fragen zu unserer Rückgabe- oder Garantierichtlinie haben, kontaktieren Sie bitte unser Support-Team:\nPolyCanopy\nE-Mail: sales@polycanopy.com\nWebseite: www.polycanopy.com"
+  }
+}

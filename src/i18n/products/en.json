@@ -1,0 +1,707 @@
+{
+  "retractable-telescopic-sunroom": {
+    "title": "Retractable Telescopic Sunroom by PolyCanopy",
+    "tags": ["Motorized", "Custom Size"],
+    "subtitle": "Home » product » Retractable Telescopic Sunroom by PolyCanopy",
+    "desc": "PolyCanopy's retractable sunroom is a smart, modular outdoor system built for style, comfort, and durability. Featuring hidden motors, smooth sliding, insulation, energy-saving kits, and full customization, it's the ideal solution for terraces, gardens, pools, and more.",
+    "welcome": "Welcome to PolyCanopy – your dedicated sunroom expert. We've proudly completed over 180,000 retractable modular structures across the globe in the past 10 years, offering families more light, more joy, and more comfort. Tailored Smart Outdoor Living Spaces. As a recognized member of the National Sunroom Association, PolyCanopy designs and manufactures intelligent sunrooms customized to your space.",
+    "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/polycarbonate-sunroom-projects-around-the-world-tokyo-bangkok-hanoi-dhaka-kuala-lumpur-and-more-1024x808.jpg",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Preliminary-Design-Sketch-of-Modular-Polycarbonate-Sunroom-1024x635.jpg",
+    "features": [
+      { "title": "Modular Assembly", "desc": "Prefabricated modular components for rapid on-site installation, reducing construction time and labor.", "img": "https://img.polycanopy.com/2025/07/Modular-Structure-Design-for-Fast-On-Site-Installation.jpg", "alt": "Modular polycarbonate sunroom components being assembled on-site for efficient and time-saving installation" },
+      { "title": "Concealed Motor System", "desc": "Integrated hidden 24V DC brushless motor & guide system for safe, stable, quiet operation and clean look with no visible mechanisms.", "img": "https://img.polycanopy.com/2025/07/Concealed-Motor-System-for-Silent-Operation-and-Sleek-Appearance.jpg", "alt": "Close-up view of the concealed motor system in the sunroom, designed for low-noise operation and a clean, modern look" },
+      { "title": "Smooth Sliding Mechanism", "desc": "Precision aluminum tracks and nylon pulley system for effortless, silent opening and closing.", "img": "https://img.polycanopy.com/2025/07/Smooth-Sliding-System-with-Precision-Track-Design.jpg", "alt": "Detailed close-up of the sliding track system, ensuring smooth and effortless door movement in the sunroom" },
+      { "title": "Sound & Heat Insulation", "desc": "Multi-layer sealant system and energy-saving standard kit with foamed rubber gaskets blocks heat transfer and cold air leakage.", "img": "https://img.polycanopy.com/2025/07/Thermal-and-Sound-Insulation-from-Dome-Roof-Design.jpg", "alt": "Top-down view of the sunroom roof showcasing its insulation performance against heat and noise" },
+      { "title": "Energy-Saving Standard Kit", "desc": "Triple-seal insulation with foamed rubber gaskets blocks heat transfer and cold air leakage.", "img": "https://img.polycanopy.com/2025/07/Standard-Energy-Saving-Configuration-for-Better-Efficiency.jpg", "alt": "Partial view of the polycarbonate sunroom showing its standard energy-saving components" },
+      { "title": "Wind & Snow Resistance", "desc": "Thickened high-strength aluminum pillars. Wind resistance: up to 120KN/h (Grade 12). Snow load capacity: 0.5KN/m².", "img": "https://img.polycanopy.com/2025/07/Enhanced-Wind-Resistance-with-Reinforced-Aluminum-Support-Columns.jpg", "alt": "Structural detail of thickened aluminum alloy columns that provide increased wind resistance for the sunroom" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/cross-section-of-6061-t6-aluminum-alloy-strong-corrosion-resistant-and-weldable-scaled.jpg",
+      "frameAlt": "Detailed cross-sectional view of high-strength 6061-T6 aluminum alloy used in sunroom frame structures",
+      "roofsImg": "https://img.polycanopy.com/2025/07/material-comparison-laminated-tempered-glass-vs-4mm-solid-polycarbonate-panel-scaled.jpg",
+      "roofsAlt": "Side-by-side view comparing double-layer laminated tempered glass and a 4mm thick solid polycarbonate panel",
+      "colors": [
+        { "name": "Dark Gray", "img": "https://img.polycanopy.com/2025/07/dark-gray-aluminum-frame-finish-sleek-and-modern-look.jpg", "alt": "Close-up view of dark gray aluminum frame finish" },
+        { "name": "Coffee Brown", "img": "https://img.polycanopy.com/2025/07/coffee-brown-aluminum-frame-finish-warm-and-natural-tone.jpg", "alt": "Detail of coffee brown aluminum frame finish" },
+        { "name": "Classic White", "img": "https://img.polycanopy.com/2025/07/white-aluminum-frame-finish-clean-and-timeless-design.jpg", "alt": "White aluminum sunroom frame finish close-up" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Finished-Sunroom-Interior-with-Six-Layer-Waterproof-Protection.jpg",
+      "waterproofAlt": "Interior view of completed sunroom showcasing six-layer waterproof system",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/retractable-transparent-sunroom-roof-over-swimming-pool-interior-poolside-view.jpg",
+      "poolCustomAlt": "View from inside the swimming pool showing a retractable sunroom roof"
+    },
+    "specsTitle": "Product Specifications",
+    "specs": [
+      { "title": "Main Frame Material", "desc": "High-strength 6063-T5/6061-T6 Aluminum Alloy" },
+      { "title": "Surface Finish", "desc": "Electrostatic Powder Coating finishes" },
+      { "title": "Roof Shapes", "desc": "Arched, single-slope, multi-slope customized configurations" },
+      { "title": "Wind Resistance", "desc": "120KN/h (Grade 12 Typhoon Proof)" },
+      { "title": "Snow Load Capacity", "desc": "0.5KN/m²" },
+      { "title": "Opening Method", "desc": "Manual push / 24V Electric remote drive" },
+      { "title": "Opening Direction", "desc": "Single-side / Dual-side retractable telescopic" },
+      { "title": "Production Cycle", "desc": "15–20 days manufacturing timeline" },
+      { "title": "Warranty", "desc": "3 years structural warranty" },
+      { "title": "Optional Add-ons", "desc": "LED Lighting System, Shading System, Ventilation System, Audio System" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/various-sunroom-roof-styles-arched-polygonal-dome-and-single-slope-designs.jpg",
+      "roofStylesAlt": "Overview of multiple sunroom roof types including arched, polygonal, dome-shaped, and single-slope structures",
+      "details": [
+        { "title": "24V Concealed Brushless Motor", "desc": "Safe, stable, and ultra-quiet operation seamlessly integrated inside.", "img": "https://img.polycanopy.com/2025/07/Detail-View-of-Concealed-24W-DC-Brushless-Motor-for-Safe-Stable-and-Quiet-Operation-1.jpg", "alt": "Close-up of the hidden 24W DC brushless motor" },
+        { "title": "LED Strip Lighting", "desc": "Low voltage, high color rendering, long lifespan, and energy efficient.", "img": "https://img.polycanopy.com/2025/07/close-up-of-led-light-strip-energy-efficient-high-cri-and-long-lasting-design.jpg", "alt": "Detail view of LED strip lighting used in the sunroom" },
+        { "title": "Optional Clean Coating", "desc": "Special surface anti-fouling coating available for Polycarbonate panels.", "img": "https://img.polycanopy.com/2025/07/polycarbonate-panel-surface-with-optional-clean-coating-blue-brown-and-clear-colors.jpg", "alt": "Partial view of polycarbonate panels with optional clean surface coating" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/aluminum-profile-options-type-85-type-130-type-188-for-sunroom-structures.jpg",
+      "imgAlt": "Comparison of aluminum alloy profiles in Type 85, Type 130, and Type 188 specifications",
+      "diagramImg": "https://img.polycanopy.com/2025/07/cross-section-diagram-of-6063-t5-aluminum-profile-structural-details-for-sunroom.jpg",
+      "diagramAlt": "Technical cross-sectional view of 6063-T5 aluminum alloy profile",
+      "models": ["Type 85 structural spec", "Type 130 structural spec", "Type 188 extra-large span spec"]
+    },
+    "allProjectsImg": "https://img.polycanopy.com/2025/07/all-kind-of-projects-of-sunroom.jpg",
+    "allProjectsAlt": "all kinds of sun room project by polycanopy",
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/polycanopy-sunroom-catalogue_compressed.pdf",
+      "downloadText": "Download PolyCanopy Sunroom Catalogue (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20sunroom%20products",
+      "whatsappText": "Get Live Free Consultation via WhatsApp"
+    },
+    "testimonials": [
+      { "name": "Liam O'Connor", "role": "Architect", "text": "As a design firm, we appreciate not only the aesthetics but also the technical excellence behind PolyCanopy's engineering." },
+      { "name": "Kenji Sato", "role": "Project Manager", "text": "PolyCanopy's modular sunroom was a game changer for our rooftop restaurant in Tokyo. Installation was quick and clean." },
+      { "name": "Emily Zhang", "role": "Director of Operations", "text": "We needed a customizable and weather-resistant structure for our hotel's outdoor pool area. The retractable canopy from PolyCanopy was the perfect fit." }
+    ]
+  },
+  "stargazing-dome": {
+    "title": "Polycarbonate Stargazing Dome – The Ultimate Eye-Catching Outdoor Pod",
+    "tags": ["Glamping Pod", "Fast Install"],
+    "subtitle": "Home » product » Polycarbonate Stargazing Dome – The Ultimate Eye-Catching Outdoor Pod",
+    "desc": "PolyCanopy’s panoramic stargazing domes offer a perfect blend of visual impact and durability. Ideal for glamping, dining, mountain-top retreats, and more, these modular dome rooms combine visual impact with industrial-grade durability. With advanced materials, customizable layouts, and factory-direct pricing, our domes are engineered for business success.",
+    "welcome": "Welcome to PolyCanopy – your dedicated sunroom and dome expert. We’ve proudly completed over 180,000 retractable and dome modular structures across the globe in the past 10 years, offering clients premium commercial performance and unforgettable outdoor stays. As a recognized member of the National Sunroom Association, PolyCanopy designs and manufactures intelligent panoramic pods customized to your unique landscape properties.",
+    "image": "https://img.polycanopy.com/2025/07/Dome-Used-for-Outdoor-Glamping.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Dome-Installation-at-Mountain-Resort.jpg",
+    "globalProjectsAlt": "Transparent polycarbonate dome used as a scenic seating area in a premium mountain resort",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Custom-Design-Sketch-for-Dome-Project.jpg",
+    "designSketchAlt": "Engineering-grade CAD blueprint design sketch of custom dome layout",
+    "features": [
+      { "title": "Fire-Resistant Commercial Grade Materials", "desc": "Core dome units utilize strictly selected flame-retardant base materials, fully compliant with international commercial public space and high-end hospitality fire safety standards.", "img": "https://img.polycanopy.com/2025/07/Fire-Resistant-Polycarbonate-Structure.jpg", "alt": "High-grade polycarbonate and aluminum dome house with fire-retardant materials" },
+      { "title": "Rain-Proof Flange Design", "desc": "Advanced seamless lap-joint structure, featuring custom physical edge flanges and vertical drainage channels to completely eliminate leakage risks.", "img": "https://img.polycanopy.com/2025/07/Rainproof-Edges-and-Drainage-System.jpg", "alt": "Waterproof design with overlapping flanges and upright structural sealing at every joint" },
+      { "title": "Integrated Anti-Insect Mesh", "desc": "Standard inclusion of premium high-density mosquito mesh doors and ventilation windows for every dome, balancing natural airflow with total insect protection.", "img": "https://img.polycanopy.com/2025/07/Mosquito-Screen-Door-Windows-Included-Mosquito-Screen-Door-Windows-Included.jpg", "alt": "Dome house with integrated micro-mesh doors and ventilation windows for maximum insect protection" },
+      { "title": "Extreme Shell Rigidity", "desc": "Premium virgin polycarbonate shell with high-quality single-sided UV co-extrusion layer, providing long-term resistance against impacts, yellowing, and cracking.", "img": "https://img.polycanopy.com/2025/07/urable-Wall-Panels-with-High-Flexibility.jpg", "alt": "High-toughness virgin polycarbonate walls being flexed to demonstrate structural resilience" },
+      { "title": "Thermal Insulation & Climate Control", "desc": "Features thickened custom precision-track shading curtains, fully compatible with wall-mounted or central AC systems for year-round comfort.", "img": "https://img.polycanopy.com/2025/07/Insulated-Interior-with-A-C-Installation-Option.jpg", "alt": "Polycarbonate dome room designed for year-round thermal comfort with multi-layer insulation" },
+      { "title": "Engineering-Grade Wind Resistance", "desc": "Bottom structure designed with heavy-duty reinforced anchoring, specifically field-tested to safely resist strong mountaintop winds and pressure fluctuations.", "img": "https://img.polycanopy.com/2025/07/Windproof-Design-for-Harsh-Conditions.jpg", "alt": "Fixed foundation dome house structure tested for strong storm wind resistance in alpine locations" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/High-Quality-Aluminum-Frame-Side-View-for-Polycarbonate-Dome.jpg",
+      "frameAlt": "Architectural-grade virgin aluminum alloy frame with precision extruded smooth finish",
+      "roofsImg": "https://img.polycanopy.com/2025/07/Flexible-Polycarbonate-Panel-with-UV-Coating.jpg",
+      "roofsAlt": "High-transparency, high-tensile virgin polycarbonate sheet demonstrating structural flexibility",
+      "colors": [
+        { "name": "360° Panoramic Clear Shell", "img": "https://img.polycanopy.com/2025/07/Exterior-View-of-the-Modular-Polycarbonate-Stargazing-Room.jpg", "alt": "Full outside view of the transparent dome-shaped glamping pod" },
+        { "name": "Vibrant Night Lighting Finish", "img": "https://img.polycanopy.com/2025/07/Top-Down-View-of-Colorful-Stargazing-Room-Used-for-Glamping.jpg", "alt": "Overhead view of the stargazing dome used as a glamping unit" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Dome-Rendering-Based-on-Project-Design.jpg",
+      "waterproofAlt": "3D visualization rendering of a luxury resort dome cluster based on client specifications",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/Final-Installed-Dome-Matching-Original-Sketch.jpg",
+      "poolCustomAlt": "Completed and installed commercial modular dome destination matching the proposed conceptual blueprint"
+    },
+    "specsTitle": "Dome Dimensions, Selection & Load Capacity",
+    "specs": [
+      { "title": "Customized Engineering Consultation", "desc": "Structural sizing layout tailored to specific geographic wind loads and environmental engineering requirements." },
+      { "title": "2.8m Diameter Mini Pod", "desc": "6.1㎡ area, 2.7m height. Ideal for 2-4 person dining or garden lounge seating.", "img": "https://img.polycanopy.com/2025/07/dome-sunroom-28m-diameter-for-2-4-people.jpg", "alt": "2.8m compact polycarbonate dome pod" },
+      { "title": "3.25m Diameter Standard Pod", "desc": "8.3㎡ area, 2.7m height. Optimized for 6-8 person circular dining arrangements.", "img": "https://img.polycanopy.com/2025/07/medium-dome-house-3-25m-diameter-for-6-8-people-83.jpg", "alt": "3.25m standard polycarbonate dome" },
+      { "title": "3.5m Diameter Multi-Purpose Pod", "desc": "9.6㎡ area. Versatile space for 6-8 person hospitality or commercial reception.", "img": "https://img.polycanopy.com/2025/07/spacious-dome-35m-diameter-for-6-8-people.jpg", "alt": "3.5m multi-purpose dome pod" },
+      { "title": "4.2m Diameter Glamping Suite", "desc": "13.84㎡ area, 2.8m height. Suitable for 8-10 people or boutique resort sleeping quarters.", "img": "https://img.polycanopy.com/2025/07/large-dome-sunroom-42m-width-for-8-10-people-1384.jpg", "alt": "4.2m boutique glamping suite" },
+      { "title": "4.8m Diameter Luxury Suite", "desc": "18.1㎡ area, 3m height. Reinforced frame, comfortably fits 12–14 people for luxury glamping suites.", "img": "https://img.polycanopy.com/2025/07/xl-dome-house-48m-width-for-12-14-people.jpg", "alt": "4.8m luxury dome suite" },
+      { "title": "5.35m Diameter Flagship Pod", "desc": "22.46㎡ area, 3.2m height. Designed for high-end hospitality accommodations.", "img": "https://img.polycanopy.com/2025/07/extra-large-dome-535m-width-for-16-18-people.jpg", "alt": "5.35m flagship dome suite" },
+      { "title": "5.9m Diameter Giant Pod", "desc": "27.5㎡ area. Grand interior, hosts 20–22 people, ideal for commercial events.", "img": "https://img.polycanopy.com/2025/07/giant-dome-5-9m-width-for-20-22-people-275.jpg", "alt": "5.9m commercial giant dome" },
+      { "title": "Oval Dome (6.13m x 4.13m)", "desc": "21.65㎡ area, 3m height. Unique elliptical layout for enhanced aesthetic modularity.", "img": "https://img.polycanopy.com/2025/07/oval-dome-613m-x-413m-for-20-22-people.jpg", "alt": "6.13m elliptical modular dome" },
+      { "title": "Flagship Oval Suite (7.35m x 5.35m)", "desc": "33.16㎡ area, 3.2m height. The largest capacity for 24–26 people high-end events.", "img": "https://img.polycanopy.com/2025/07/oval-dome-house-735m-x-535m-for-24-26-people.jpg", "alt": "7.35m flagship oval suite" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Stargazing-Glamping-Pod-Displayed-at-Trade-Show-Booth.jpg",
+      "roofStylesAlt": "Modular panoramic dome showcased at a commercial hospitality trade exhibition",
+      "details": [
+        { "title": "Waterproof Top Seal Gasket", "desc": "Aerodynamic high-density waterproof rubber sealing strip ensuring protection against rainwater leakage.", "img": "https://img.polycanopy.com/2025/07/Top-Waterproof-Rubber-Strip.jpg", "alt": "Dome apex waterproof seal detail" },
+        { "title": "Reinforced Apex Ring & Door Frame", "desc": "Heavy-duty CNC bent aluminum apex ring and seamless doorframe for superior structural rigidity.", "img": "https://img.polycanopy.com/2025/07/Reinforced-Top-Connector-Ring-and-integrated-bent-aluminum-door.jpg", "alt": "Reinforced aluminum apex and door frame" },
+        { "title": "Built-in Wiring Channels", "desc": "Hidden wire slots integrated within the roof frame for clean, professional electrical installations.", "img": "https://img.polycanopy.com/2025/07/built-in-cable-channel-no-exposed-wires.jpg", "alt": "Internal cable routing channel detail" },
+        { "title": "Seamless Curved Panels", "desc": "One-piece large-angle curved cutting for seamless aesthetics and dust-free maintenance.", "img": "https://img.polycanopy.com/2025/07/Seamless-curved-shape.jpg", "alt": "Seamless curved polycarbonate panel detail" },
+        { "title": "Top-Mounted Ventilation System", "desc": "Integrated mechanical and natural multi-stage circulation system for fresh indoor airflow.", "img": "https://img.polycanopy.com/2025/07/Integrated-Fresh-Air-System.jpg", "alt": "Top-mounted fresh air circulation unit" },
+        { "title": "CNC Precision Seam Cutting", "desc": "Vertical CNC edge cutting ensures precise panel fitting, eliminating gaps for insects and dust.", "img": "https://img.polycanopy.com/2025/07/Precision-CNC-Cutting-with-Perfect-Seal.jpg", "alt": "CNC precision edge cutting illustration" },
+        { "title": "Long-Life UV Co-Extrusion Board", "desc": "High-end additives and uniform UV layer ensure long-term clarity and aging resistance.", "img": "https://img.polycanopy.com/2025/07/UV-Coated-Panel-Comparison.jpg", "alt": "UV co-extrusion weather resistance comparison" },
+        { "title": "Radiant Heat Reflection", "desc": "Transparent panel properties naturally reduce glare and block harmful heat radiation.", "img": "https://img.polycanopy.com/2025/07/Dome-Installation-at-Mountain-Resort.jpg", "alt": "Thermal insulation performance under sunlight" },
+        { "title": "Rapid Modular Assembly", "desc": "Standard 2–3 hour assembly with modular linking compatibility.", "img": "https://img.polycanopy.com/2025/07/quick-assembly.jpg", "alt": "On-site modular assembly process" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/High-Strength-Aluminum-Side-Frame.jpg",
+      "imgAlt": "High-strength aluminum side frame",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Structural-Diagram-of-Dome-House-with-LED-Aluminum-Frame-and-UV-Panel-1024x976.jpg",
+      "diagramAlt": "Structural breakdown diagram",
+      "models": ["CNC-precision cutting", "Circular ventilation system", "IP65 waterproof LED lighting"]
+    },
+    "challenges": {
+      "title": "Solves Real Outdoor Challenges – Adds Visual Value",
+      "subtitle": "Glamping pods that attract attention without advertising.",
+      "points": [
+        "Self-promoting scenic pods",
+        "Ideal for café patios or garden lounges",
+        "Custom branding options available"
+      ]
+    },
+    "allProjectsImg": "https://img.polycanopy.com/2025/07/Dome-House-Showcased-at-Exhibition.jpg",
+    "allProjectsAlt": "PolyCanopy industrial expo project showcase",
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Night-View-of-the-Stargazing-Room-with-Ambient-Lighting.jpg", "alt": "Glowing dome glamping room illuminated at night, showcasing soft LED lighting and a welcoming ambiance for overnight stays." },
+      { "img": "https://img.polycanopy.com/2025/07/Inside-View-of-Glamping-Dome-with-Pink-Curtain.jpg", "alt": "Interior photo of the polycarbonate dome, looking out through elegant pink curtains, blending privacy with scenic views." },
+      { "img": "https://img.polycanopy.com/2025/07/Outside-View-into-the-Stargazing-Room-with-Pink-Drapes.jpg", "alt": "Exterior shot of the modular dome glamping room, showcasing the interior pink curtains through the transparent shell." },
+      { "img": "https://img.polycanopy.com/2025/07/Interior-of-the-Stargazing-Room-with-Bed-for-Glamping-Stay.jpg", "alt": "Cozy interior of the modular glamping dome, featuring a bed setup for homestay use, suitable for Airbnb or vacation rentals." },
+      { "img": "https://img.polycanopy.com/2025/07/Glamping-Dome-Bed-Area-Viewed-from-Alternate-Anglev.jpg", "alt": "Alternate perspective showing the interior sleeping area of the dome-shaped glamping room with comfortable furnishing." },
+      { "img": "https://img.polycanopy.com/2025/07/Exterior-View-of-the-Modular-Polycarbonate-Stargazing-Room.jpg", "alt": "Full outside view of the transparent dome-shaped glamping pod with white plastic support structure and panoramic skylight design." },
+      { "img": "https://img.polycanopy.com/2025/07/Ventilation-System-on-the-Dome-Roof-of-the-Polycarbonate-Glamping-Room.jpg", "alt": "White air ventilation system installed on the top of the transparent polycarbonate dome, providing fresh airflow inside the glamping room." },
+      { "img": "https://img.polycanopy.com/2025/07/Modular-Connection-for-Indoor-Linking.jpg", "alt": "Multiple dome rooms connected with internal doorways" }
+    ],
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "Download PolyCanopy Stargazing Dome Brochure (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20dome%20products",
+      "whatsappText": "Get Live Free Consultation via WhatsApp"
+    },
+    "testimonials": [
+      { "name": "Emily Zhao", "role": "Boutique Hotel Owner", "text": "The PolyCanopy dome helped us create a high-end glamping experience that attracts influencers every weekend. The installation team was fast, and the dome has held up well in heavy rain and sun." },
+      { "name": "Olivier Dubois", "role": "Resort Operator", "text": "Our customers love the transparency and open view. The LED lighting and ventilation system make the experience luxurious even in remote areas." },
+      { "name": "Maria Gonzalez", "role": "Café Owner", "text": "We turned our garden into a photo hotspot with two transparent domes. The curved design is easy to maintain and brings in natural light all day." },
+      { "name": "Jack Li", "role": "Outdoor Camp Director", "text": "These domes are incredibly durable. The windproof anchoring kept them steady even during strong mountain winds. Highly recommend for eco campsites." }
+    ]
+  },
+  "terrace-canopy": {
+    "title": "Front Porch Polycarbonate Canopy by PolyCanopy",
+    "tags": ["Terrace Cover", "UV Protection"],
+    "subtitle": "Home » product » Terrace Canopy Design – Sizes, Materials & Frame Types",
+    "desc": "A modern terrace canopy solution made with durable polycarbonate sheets and rust-proof aluminum frames, designed to offer protection from the sun and rain while enhancing the building’s architectural appeal. Built with premium-grade engineering materials, our customized porch structures are designed for longevity and robust field performance.",
+    "welcome": "A well-designed terrace canopy not only protects your entrance or front area from sun and rain, but also enhances the overall appearance of the building. Whether used for homes, villas, commercial buildings, or shops, a modern canopy built with Polycanopy's polycarbonate sheets and aluminum frames is durable, functional, and aesthetically pleasing. We use materials from trusted global suppliers and manufacture with precision to ensure structural rigidity and long-lasting outdoor lifecycle.",
+    "image": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+    "globalProjectsAlt": "A multi-story villa with terrace canopies installed on all balconies and entrances, featuring polycarbonate roofing and aluminum structures.",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg",
+    "designSketchAlt": "Horizontal illustration showing the structural design differences between L-type and R-type terrace canopies, including wall-mounted and projection views",
+    "features": [
+      { "title": "Advanced UV Protection Layers", "desc": "High-quality solid polycarbonate panels extruded with a durable single-sided UV protective layer, blocking harmful solar radiation while maintaining supreme light clarity over 10 years.", "img": "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg", "alt": "A solid polycarbonate sheet illuminated by a UV flashlight, clearly demonstrating its UV protection layer" },
+      { "title": "Architectural Aluminum Framing", "desc": "Rust-proof, high-hardness 6063 extruded aluminum profiles providing supreme long-term structural stability, weather load capacity, and a sleek modern silhouette.", "img": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg", "alt": "Detailed view of the metal frame used in the canopy, showing high-quality aluminum profiles and components" },
+      { "title": "Optional Maintenance Window", "desc": "For added functionality, our systems can be customized with a reserved inspection window on the top cover, allowing easy access for component cleaning without disassembling.", "img": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg", "alt": "polycarbonate canopy with a reserved top window for inspection and maintenance access" },
+      { "title": "Heavy Duty Drainage Engineering", "desc": "Every configuration layout is technically mapped with integrated collector paths and dual downpipes to route heavy rainwater safely away from doorways.", "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg", "alt": "Illustration of how to measure and calculate the area of a post-supported canopy, showing L-type and R-type formulas based on wall-mounted and projection lengths" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+      "frameAlt": "Detailed view of the metal frame used in the canopy, showing high-quality aluminum profiles and components",
+      "roofsImg": "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg",
+      "roofsAlt": "A solid polycarbonate sheet illuminated by a UV flashlight, clearly demonstrating its UV protection layer",
+      "colors": [
+        { "name": "Purple Coffee Texture" },
+        { "name": "Sleek Black Gray" },
+        { "name": "Classic Milky White" },
+        { "name": "Premium Golden Oak" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg",
+      "waterproofAlt": "polycarbonate canopy with a reserved top window for inspection and maintenance access",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+      "poolCustomAlt": "A multi-story villa with terrace canopies installed on all balconies and entrances, featuring polycarbonate roofing and aluminum structures."
+    },
+    "specsTitle": "Standard Configuration & Technical Specifications",
+    "specs": [
+      { "title": "Structural Frame Models", "desc": "Minimalist clean L-Type Frame or curved protective R-Type Arc Canopy adaptations." },
+      { "title": "Aluminum Frame Grade", "desc": "Premium 6063 A-bar aluminum profile: 2.0mm thickness for load positions, 1.2-2.0mm for secondary bars." },
+      { "title": "Polycarbonate Thickness", "desc": "Raw virgin solid polycarbonate panels, available in 2.0mm or upgraded 3.0mm anti-impact specifications." },
+      { "title": "Profile Coating Finishes", "desc": "Purple Coffee / Sleek Black Gray / Classic Milky White / Premium Golden Oak textures." },
+      { "title": "Panel Shielding Colors", "desc": "Light Smoke Gray / Medium Smoke Gray / Dark Smoke Gray / Lake Blue / Tea Color / Fully Transparent." },
+      { "title": "Rainwater Gutter System", "desc": "Standard setup contains 2 downpipes (1 header integration gutter, 1 standalone 3-meter vertical drain pipe)." },
+      { "title": "Main Structural Beams", "desc": "2 pillars/beams within a 6-meter span length. An extra support beam is added for every additional 3 meters." },
+      { "title": "Site Setup Considerations", "desc": "Requires robust wall structures. Recommend a slight slope (3-5°) layout for optimal rainwater self-cleaning." }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg",
+      "roofStylesAlt": "Horizontal illustration showing the structural design differences between L-type and R-type terrace canopies, including wall-mounted and projection views",
+      "details": [
+        { "title": "L-Type Minimalist Canopy", "desc": "A straight, minimalist design where the frame forms a clean geometric 'L' shape. Optimally suited for sleek, modern villas and flush vertical wall mount installations.", "img": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg" },
+        { "title": "R-Type Curved Arc Canopy", "desc": "A beautifully curved structure with smooth drop-edges, forming an 'R' arc that provides extended overhang coverage area and an upscale decorative feel.", "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg" },
+        { "title": "Reserved Inspection Hatch", "desc": "Optional engineering layout featuring a reserved top panel window allowing easy maintenance and debris cleaning checks without total disassembly.", "img": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+      "imgAlt": "Detailed view of the metal frame used in the canopy, showing high-quality aluminum profiles and components",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+      "diagramAlt": "Illustration of how to measure and calculate the area of a post-supported canopy",
+      "models": ["L-Type Straight Canopy Line", "R-Type Decorative Arc Line", "Heavy-Duty Architectural 6063 Profiles"]
+    },
+    "challenges": {
+      "title": "Solves Real Outdoor Challenges – Adds Visual Value",
+      "subtitle": "Modular cover canopies developed to improve house eaves and patio environments:",
+      "points": [
+        "Completely solve the door deterioration caused by heavy rain water pooling on wooden or copper doors.",
+        "Block 99% of damaging UV rays, protecting exposed premium vehicles or high-end leather outdoor sofas.",
+        "Fully modular layout can be seamlessly extended to cover expansive outdoor leisure venues."
+      ]
+    },
+    "cta": {
+      "title": "Ready to dive deeper into engineering specs or customize your layout?",
+      "subtitle": "Download our engineering catalogue, or talk directly to our global sales engineering team via instant messaging.",
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "Download PolyCanopy Technical Catalogue (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20terrace%20canopy%20products",
+      "whatsappText": "Get a Free Tailored Quotation via WhatsApp"
+    },
+    "testimonials": [
+    { "name": "Marnix", "role": "Netherlands Project Manager", "text": "The terrace canopy fits perfectly with our architectural style. Excellent build quality." },
+    { "name": "Annarita Trotta", "role": "Italy Architecture Firm", "text": "Sturdy and elegant. A great solution for outdoor living spaces." }
+  ]
+  },
+  "polycarbonate-carport": {
+    "title": "Durable Polycarbonate Carport — Weatherproof Car Shelter with Aluminum Frame",
+    "tags": ["Aluminum Carport", "Typhoon Resistant"],
+    "subtitle": "Home » product » Polycarbonate Carport | Durable UV-Proof Car Shelter",
+    "desc": "Protect your vehicle with a carport that’s as strong as it is stylish. Our polycarbonate carports are made using high-quality aluminum alloy frames and 100% virgin Bayer or SABIC polycarbonate sheets. Whether you’re shielding one car or two, we offer a wide range of styles—Single, Y-type, M-type, Cantilever, and S-type—each designed for beauty, strength, and weather resistance.",
+    "welcome": "Discover Warner’s modern polycarbonate carports – UV-resistant, easy to install, and built with durable aluminum frames. Protect your car. We use materials from trusted global suppliers and manufacture with precision to ensure strength and long-lasting performance.",
+    "image": "https://img.polycanopy.com/2025/07/Y-Shaped-Polycarbonate-Carport-with-Blue-Solid-Sheet.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Elegant-S-Shaped-Single-Sided-Polycarbonate-Carport-for-Two-Vehicles.jpg",
+    "globalProjectsAlt": "S-shaped carport structure with graceful curved design, showcasing Warner’s polycarbonate canopy style and aluminum frame",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/custom-carport-design-sketch-with-dimensions-length-width-and-height-1024x642.jpg",
+    "designSketchAlt": "Preliminary carport design sketch showing customizable dimensions including length, width, and height, demonstrating custom design capabilities for tailored projects.",
+    "features": [
+      { "title": "Single-Sided Carport", "desc": "Perfect for homes with limited space. Supports one vehicle and is easy to install along walls or as standalone units.", "img": "https://img.polycanopy.com/2025/07/various-carport-designs-for-different-vehicle-types-single-side-y-type-s-type-m-type-and-more.jpg", "alt": "Illustration showing different carport structures including single-side, Y-type, S-type, and M-type designs, suitable for various vehicle types and parking needs." },
+      { "title": "Y-Type Carport Structure", "desc": "Features a central column with extended arms—great for protecting two cars while maintaining open space.", "img": "https://img.polycanopy.com/2025/07/reinforced-polycarbonate-carport-structure-windproof-fire-resistant-walkable-roof.jpg", "alt": "Close-up view of the structural components of a polycarbonate and aluminum carport, featuring 4mm thick posts, 3mm curved beams, German-imported polycarbonate roofing, and descriptions of wind and fire resistance." },
+      { "title": "High-Strength Profile Framing", "desc": "High-strength aluminum frame: anti-corrosion coating, strong load-bearing inner layer, and rapid heat dissipation core. 4mm-thick support columns withstand Level 12 typhoons.", "img": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg", "alt": "Cross section of aluminum frame" },
+      { "title": "Premium Long-Lasting Sheets", "desc": "Choose from a variety of polycarbonate colors. Made from 100% virgin Bayer/SABIC raw material and produced with Italy’s Omipa extrusion line. UV-protection layer blocks harmful rays.", "img": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg", "alt": "all kinds of color polycarbonate sheet" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+      "frameAlt": "Cross section of aluminum frame",
+      "roofsImg": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+      "roofsAlt": "all kinds of color polycarbonate sheet",
+      "colors": [
+        { "name": "Single (3m x 5.5m x 3m)" },
+        { "name": "Y-joint (6m x 5.5m x 3m)" },
+        { "name": "M-joint (6m x 5.5m x 3m)" },
+        { "name": "2-joint (3m x 11m x 3m)" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Aluminum-Alloy-Frame-COLOR.jpg",
+      "waterproofAlt": "all kinds of color Aluminum alloy frame",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg",
+      "poolCustomAlt": "Illustrated breakdown of a polycarbonate carport structure, showing labeled components including front frame, side frame, capping strips, sub-frames, curved beams, support posts, and water gutters"
+    },
+    "specsTitle": "Carport Sizing configurations & Load Capacities",
+    "specs": [
+      { "title": "Single Carport Unit", "desc": "Width: 3m | Length: 5.5m | Height: 3m | Capability: 1 car" },
+      { "title": "Y-joint Double Unit", "desc": "Width: 6m | Length: 5.5m | Height: 3m | Capability: 2 cars" },
+      { "title": "M-joint Unified Unit", "desc": "Width: 6m | Length: 5.5m | Height: 3m | Capability: 2 cars" },
+      { "title": "2-joint Inline Unit", "desc": "Width: 3m | Length: 11m | Height: 3m | Capability: 2 cars" },
+      { "title": "1 Channel Slot Module", "desc": "Width: 3m | Length: 5.5m | Height: 3m | Capability: 1 car" },
+      { "title": "2 Channel Multi Module", "desc": "Width: 6m | Length: 11m | Height: 3m | Capability: 4 cars" },
+      { "title": "S-type Decorative Canopy", "desc": "Width: 3m | Length: 5.5m | Height: 3m | Capability: 1 car" },
+      { "title": "Cantilever Suspension Unit", "desc": "Width: 3m | Length: 5.5m | Height: 4.5m | Capability: 1 car" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/various-carport-designs-for-different-vehicle-types-single-side-y-type-s-type-m-type-and-more-655x1024.jpg",
+      "roofStylesAlt": "Illustration showing different carport structures including single-side, Y-type, S-type, and M-type designs",
+      "details": [
+        { "title": "M-Type Carport Structure", "desc": "Double-arch design with a unified canopy. Modern and versatile, suitable for residential and commercial use.", "img": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg" },
+        { "title": "Cantilever Suspension Support", "desc": "Designed with suspension-style support, leaving the ground space open and accessible—great for modern architecture.", "img": "https://img.polycanopy.com/2025/07/custom-carport-design-sketch-with-dimensions-length-width-and-height-1024x642.jpg" },
+        { "title": "S-Type Aesthetic Arc Canopy", "desc": "Beautiful curved top for enhanced aesthetics. Popular for homes seeking both function and design appeal.", "img": "https://img.polycanopy.com/2025/07/Elegant-S-Shaped-Single-Sided-Polycarbonate-Carport-for-Two-Vehicles.jpg" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+      "frameAlt": "Cross section of aluminum frame",
+      "diagramImg": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg",
+      "diagramAlt": "Illustrated breakdown of a polycarbonate carport structure, showing labeled components including front frame, side frame, capping strips, sub-frames, curved beams, support posts, and water gutters",
+      "models": ["Over 10 years of product durability", "Fully customizable sizes and styles", "Industrial-grade aluminum alloy & polycarbonate"]
+    },
+    "challenges": {
+      "title": "Why Choose Our Carports?",
+      "subtitle": "From modern homes to commercial lots, our carports are trusted for durability and design worldwide.",
+      "img": "https://img.polycanopy.com/2025/07/Single-Bike-Polycarbonate-Canopy-at-Villa-Entrance-with-Light-Blue-Solid-Sheet.jpg",
+      "alt": "S-shaped carport structure with graceful curved design",
+      "points": [
+        "Over 10 years of product durability against severe typhoons and snow load.",
+        "Fully customizable wall length, projection depth, and height sizes.",
+        "Industrial-grade 4mm-thick aluminum alloy columns & Italy Omipa extruded polycarbonate panels.",
+        "Easy installation with minimal maintenance and factory-direct pricing with international shipping."
+      ]
+    },
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Structural-Aluminum-Profiles-and-Dimensions-for-Single-Sided-Polycarbonate-Carport.jpg", "alt": "Detailed aluminum frame and profile specifications for Warner’s single-sided polycarbonate carport, showing size and structural components" },
+      { "img": "https://img.polycanopy.com/2025/07/Single-Sided-Polycarbonate-Carport-with-Deep-Blue-Roof-Panel.jpg", "alt": "Modern single-sided carport with deep blue polycarbonate roof, designed by Warner" },
+      { "img": "https://img.polycanopy.com/2025/07/Bike-Shelter-with-Light-Blue-Solid-Polycarbonate-Sheet-Covering-Multiple-Bicycles.jpg", "alt": "A row of bicycles parked under a polycarbonate bike canopy with light blue solid sheet roof" },
+      { "img": "https://img.polycanopy.com/2025/07/S-Curve-Suspended-Polycarbonate-Carport-with-Black-Solid-Roof.jpg", "alt": "Stylish suspended carport with elegant S-shaped black solid polycarbonate sheet" },
+      { "img": "https://img.polycanopy.com/2025/07/Single-Bike-Polycarbonate-Canopy-at-Villa-Entrance-with-Light-Blue-Solid-Sheet.jpg", "alt": "Single-bike polycarbonate canopy with light blue transparent solid sheet installed at villa entrance" },
+      { "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-with-Black-Solid-Sheet-for-Villa.jpg", "alt": "Suspended-style carport with black solid polycarbonate panel, installed between villa buildings" },
+      { "img": "https://img.polycanopy.com/2025/07/Underside-View-of-Suspended-Black-Polycarbonate-Carport.jpg", "alt": "Upward view of a suspended carport structure with a black solid polycarbonate roof" },
+      { "img": "https://img.polycanopy.com/2025/07/Y-Shaped-Polycarbonate-Carport-with-Blue-Solid-Sheet.jpg", "alt": "Modern Y-shaped carport featuring a blue solid polycarbonate roof" }
+    ],
+    "cta": {
+      "title": "Ready to dive deeper into engineering specs or customize your layout?",
+      "subtitle": "Download our engineering catalogue, or talk directly to our global sales engineering team via instant messaging.",
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "Download PolyCanopy Carport Selection Catalogue (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20carport%20products",
+      "whatsappText": "Get Live Free Consultation via WhatsApp"
+    },
+  "testimonials": [
+    { "name": "Gyan Flora", "role": "Kuwait Residential Developer", "text": "The polycarbonate carport is robust against high temperatures and sandstorms." },
+    { "name": "Client in Mexico", "role": "Private Homeowner", "text": "Installation was straightforward and the durability is impressive." }
+  ]
+  },
+  "inside-corner-canopy": {
+    "title": "Inside Corner Polycarbonate Canopy by PolyCanopy",
+    "tags": ["Corner Canopy", "Seamless Protection"],
+    "subtitle": "Home » product » Inside Corner Canopy for Modern Buildings | Rain Shelter",
+    "desc": "Explore our inside corner canopy solutions made with polycarbonate sheets and aluminum structures. Ideal for creating seamless coverage. Custom-engineered inside corner canopy for recessed spaces, providing seamless rain protection with clean architectural lines.",
+    "welcome": "Inside corner canopies are specially designed for recessed architectural spaces where two walls form an inward corner. These structures provide continuous rain protection while preserving the visual harmony of the building facade. PolyCanopy offers custom-designed inside corner canopies that fit perfectly into recessed building layouts. Crafted with durable polycarbonate panels and aluminum framing, our designs combine function and style, suitable for both homes and commercial areas.",
+    "image": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Bottom-View-of-Internal-Corner-Canopy-with-Light-Blue-Panel.jpg",
+    "globalProjectsAlt": "Close-up view from below of an internal corner canopy using a light blue polycarbonate sheet",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+    "designSketchAlt": "Close exterior shot of a corner canopy featuring an integrated drainage pipe system",
+    "features": [
+      {
+        "title": "Aluminum Profile Models & Configuration",
+        "desc": "Select the appropriate structural main framework based on engineering span requirements and regional wind load guidelines. We provide personalized profile manufacturing schemes to satisfy high-density load-bearing standards.",
+        "img": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+        "alt": "Close exterior shot of a corner canopy featuring an integrated drainage pipe system"
+      },
+      {
+        "title": "Design Advantages of Our Inside Corner Models",
+        "desc": "Our inside corner rain canopies are made using:\n• Polycarbonate sheets: High impact resistance, UV protection, and supreme light clarity (https://polycanopy.com/products/#Polycarbonate)\n• Powder-coated aluminum frames: Rust-proof, lightweight, and durable architectural framing (https://polycanopy.com/products/#Aluminum)",
+        "img": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+        "alt": "Window canopy with an internal corner design, perfectly fitted to the building structure"
+      }
+    ],
+    "specsTitle": "Application Scenarios",
+    "specs": [
+      { "title": "Balcony gaps and L-shaped corridors", "desc": "Seamless continuous weather protection for residential building recessed walkway channels." },
+      { "title": "Commercial storefronts", "desc": "Custom corner shading to upgrade high-end shopfront appearance and block rainwater pooling." },
+      { "title": "School buildings and office patios", "desc": "Provides heavy-duty outdoor shading and safe rest shelter zones for public infrastructure." },
+      { "title": "Parking entrances in recessed corners", "desc": "Engineered water collection paths guiding downpours directly away from vehicle entry tracks." }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg",
+      "roofStylesAlt": "A continuous polycarbonate canopy forming a long passage from the front door to the outer exit",
+      "details": [
+        {
+          "title": "Need a Custom Canopy Design?",
+          "desc": "Whether you’re working with tight architectural corners or designing from scratch, PolyCanopy can custom-build your ideal structure. We support tailored dimensions and angles, quick delivery with factory-direct pricing, and CAD drawing submission for design assistance.",
+          "img": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+      "imgAlt": "Window canopy with an internal corner design, perfectly fitted to the building structure",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+      "diagramAlt": "Close exterior shot of a corner canopy featuring an integrated drainage pipe system",
+      "models": ["Tailored Dimensions and Angles Spec", "Quick Delivery Factory-Direct Pricing", "Professional CAD Engineering Assistance"]
+    },
+    "challenges": {
+      "title": "Design Advantages of Our Inside Corner Models",
+      "subtitle": "Seamless rain protection completely custom-engineered for recessed spaces:",
+      "points": [
+        "Polycarbonate sheets: High impact resistance, UV protection, and supreme light clarity",
+        "Powder-coated aluminum frames: Rust-proof, lightweight, and durable architectural longevity",
+        "Tucks load-bearing beams within the recessed layout to preserve the clean visual harmony of building facade"
+      ]
+    },
+    "cta": {
+      "title": "Ready to dive deeper into engineering specs or customize your layout?",
+      "subtitle": "Download our engineering catalogue, or talk directly to our global sales engineering team via instant messaging.",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20inside%20corner%20canopy%20products",
+      "whatsappText": "Get Free Custom Pricing via WhatsApp"
+    },
+    "testimonials": [
+    { "name": "Manager Li", "role": "Commercial Real Estate Developer", "text": "The perfect corner design solved the drainage and shading problems at the building's inner corner. Highly precise fit." },
+    { "name": "Mr. Chen", "role": "High-end Villa Owner", "text": "A structure specially customized for the corner area. It's not only highly functional but also looks very elegant." }
+  ]
+  },
+ "polycarbonate-window-canopy": {
+    "title": "Custom Polycarbonate Window Canopy & Door Awning",
+    "tags": ["Door Awning", "Widened Integrated Gutter"],
+    "subtitle": "Home » product » Polycarbonate Window Canopy & Door Awning – Direct From Factory",
+    "desc": "Looking for a reliable and modern canopy solution for your shopfront or home windows? Our L-type and R-type polycarbonate canopies are custom-built with premium materials and come with a complete drainage and installation system. Explore full details and see how our factory delivers quality you can trust.",
+    "welcome": "Our polycarbonate canopy is a perfect solution for modern homes, storefronts, cafés, and commercial entrances. Whether used as a window canopy or door awning, this product delivers reliable protection from sun and rain with a sleek, stylish look. We offer two structure types: L-Type – streamlined and ideal for most installations, and R-Type – curved design for enhanced aesthetics.",
+    "image": "https://img.polycanopy.com/2025/07/Horizontal-Beam-Style-Canopy-Installed-Above-Balcony-Entrance.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Horizontal-Beam-Style-Canopy-Installed-Above-Balcony-Entrance.jpg",
+    "globalProjectsAlt": "Modern horizontal beam canopy providing rain and sun protection over a balcony door.",
+    "features": [
+      {
+        "title": "Durable & Modern Design with Flexible Configurations",
+        "desc": "Our polycarbonate canopy is a perfect solution for modern homes, storefronts, cafés, and commercial entrances. Whether used as a window canopy or door awning, this product delivers reliable protection from sun and rain with a sleek, stylish look. We offer two structure types: L-Type – streamlined and ideal for most installations, and R-Type – curved design for enhanced aesthetics. Precise product sizing helps you choose the right canopy for your space. Our designs are tailored for various window and door sizes.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-window-door-canopy-dimensions-detailed-size-char.jpg",
+        "alt": "Detailed dimension diagram of polycarbonate canopy for doors and windows, showing full size specifications."
+      },
+      {
+        "title": "Complete Installation Process – Easy & Secure",
+        "desc": "Follow our 12-step visual installation guide for a smooth setup process. Designed for both DIY and professional use. We provide a complete step-by-step installation guide, ensuring your canopy is set up safely and efficiently.",
+        "img": "https://img.polycanopy.com/2025/07/step-by-step-installation-guide-polycarbonate-canopy.jpg",
+        "alt": "Installation steps for polycarbonate door and window canopy, showing full 12-step process blueprint chart."
+      },
+      {
+        "title": "Professional Manufacturing with In-House Aluminum Processing",
+        "desc": "As a direct factory, we control every stage of production. Our team uses 6063 aluminum alloy, ensuring strength and longevity. The frame is carefully fabricated for structural safety and long-term performance. Precision cutting and professional aluminum processing at our factory ensures durability and top-grade quality.",
+        "img": "https://img.polycanopy.com/2025/07/aluminum-frame-fabrication-professional-canopy-manufacturing.jpg",
+        "alt": "Factory workers cutting and processing aluminum materials for polycarbonate canopy production."
+      },
+      {
+        "title": "Profiles Models & Selection (L-Type Straight Series)",
+        "desc": "Select the appropriate structural main framework based on engineering span requirements and regional wind load guidelines. We provide personalized profile manufacturing schemes to satisfy high-density load-bearing standards. L-Type layout yields clean and direct wall attachment, perfect for flat minimalistic window shielding needs.",
+        "img": "https://img.polycanopy.com/2025/07/l-type-polycarbonate-canopy-cross-sectional-structure.jpg",
+        "alt": "Cross-sectional view of L-shaped polycarbonate canopy frame and structure showing inner cavity."
+      },
+      {
+        "title": "Profiles Models & Selection (R-Type Arc Series)",
+        "desc": "Select the appropriate structural main framework based on engineering span requirements and regional wind load guidelines. We provide personalized profile manufacturing schemes to satisfy high-density load-bearing standards. R-Type layout brings elegant curvature with smooth water flow, dramatically optimizing water dispersion over building facade lines.",
+        "img": "https://img.polycanopy.com/2025/07/r-type-polycarbonate-canopy-cross-sectional-structure.jpg",
+        "alt": "Cross-sectional view of R-shaped polycarbonate canopy frame and parabolic drainage support structure."
+      },
+      {
+        "title": "Full Component Breakdown – Everything You Need",
+        "desc": "Each canopy comes with a complete accessory kit and all essential mounting parts, clearly labeled for easy identification. Complete set of brackets and components for fast, secure installation. No missing parts, no surprises.",
+        "img": "https://img.polycanopy.com/2025/07/exploded-view-of-polycarbonate-canopy-components-full-parts-overview.jpg",
+        "alt": "Disassembled parts of a polycarbonate window and door canopy, including all brackets and components overview."
+      },
+      {
+        "title": "Efficient Drainage System – No More Water Accumulation",
+        "desc": "Our canopies come with an integrated gutter and downpipe system to effectively manage rainwater and prevent overflow. Independent drainage system ensures smooth water flow in rainy seasons. No clogging, no splashing, and no pooling thanks to our widened gutter design.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-canopy-drainage-system-gutter-and-downpipe-design.jpg",
+        "alt": "Close-up of the polycarbonate canopy drainage system, showing built-in gutter and downpipe for rainwater management."
+      },
+      {
+        "title": "How to Measure for Your Canopy",
+        "desc": "To get the perfect fit, use our measuring guide to determine your ideal canopy dimensions before placing your order. Accurate measuring ensures seamless installation and perfect coverage.",
+        "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+        "alt": "Illustration of how to measure and calculate the area of a post-supported canopy, showing formulas based on wall-mounted lengths."
+      },
+      {
+        "title": "Color Options & Material Specs",
+        "desc": "Model Sizing: L-type / R-type\nFrame Color Layout: Purple Coffee / Black Gray / Milky White / Golden Oak\nPanel Colors: Light Smoke Gray / Medium Smoke Gray / Dark Smoke Gray / Lake Blue / Tea Color / Transparent\n\nMaterial Details:\n• Aluminum: Architectural 6063 Alloy, 2.0mm thickness for main tracking, 1.2–2.0mm for secondary grids.\n• PC Panel: Pure German Bayer polycarbonate solid sheet, optional 2.0mm or upgraded 3.0mm thickness spec.\n• Beam Infrastructure: Dynamic dual beam system configuration mapped within a 6m span width, with one reinforcing bar added for every extra 3m.\n• Storm Drainage: Heavy duty double pipe layout including one full-span master gutter track plus a standard 3m vertical pipe.\n\nPlease Note: This is a custom-made product. Images are for reference only. Contact us before placing your order layouts.",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+        "alt": "All kinds of color polycarbonate solid sheet color card layouts ready for selection."
+      },
+      {
+        "title": "Direct from Manufacturer – Trusted Quality & Support",
+        "desc": "We are a source factory, providing full layout blueprinting, precision processing, and continuous support. Zero middleman markups, zero inflated pricing profiles. Whether you are sourcing components for commercial retail distribution, enterprise project layout installation, or fast residential DIY home improvement, we stand as your best ultimate manufacturing partner. Contact us today for custom orders, wholesale dynamic volume quotes, or comprehensive technical project consultation!",
+        "img": "https://img.polycanopy.com/2025/07/Premium-Polycarbonate-Resin-and-UV-Protection-Additives-Bayer-or-Sabic.jpg",
+        "alt": "Pure raw virgin polycarbonate resin granules used for sheet extrusion at PolyCanopy facility."
+      }
+    ],
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Transparent-Polycarbonate-Window-Canopy-Installed-Above-Window.jpg", "alt": "Engineering rendering showing transparent polycarbonate canopies installed above both door and window." },
+      { "img": "https://img.polycanopy.com/2025/07/Transparent-Polycarbonate-Canopy-Design-for-Door-and-Window-Areas.jpg", "alt": "Clear polycarbonate canopy mounted above a residential window, providing light transmission and rain protection." },
+      { "img": "https://img.polycanopy.com/2025/07/Tea-Brown-Polycarbonate-Door-Canopy-with-Drainage-System.jpg", "alt": "Elegant tea-brown polycarbonate canopy installed above a front door, featuring built-in drainage system." },
+      { "img": "https://img.polycanopy.com/2025/07/rainproof-door-canopy-installed-during-renovation-real-rain-test.jpg", "alt": "Polycarbonate door canopy installed on a house under renovation, effectively blocking rainwater during heavy rain." },
+      { "img": "https://img.polycanopy.com/2025/07/L-Shaped-Brown-Polycarbonate-Door-Canopy-Installed-on-Villa-Entrance.jpg", "alt": "L-shaped tea-brown polycarbonate canopy with dark coffee-colored frame installed above the front door of a villa." },
+      { "img": "https://img.polycanopy.com/2025/07/home-entrance-rain-canopy-long-blue-polycarbonate-installation.jpg", "alt": "Long blue polycarbonate rain canopy installed above front door, showcasing weather protection for home entrances." },
+      { "img": "https://img.polycanopy.com/2025/07/Balcony-Canopy-with-Transparent-Roof-and-Clothes-Drying-Area.jpg", "alt": "Transparent polycarbonate canopy installed above a balcony, providing sheltered space for hanging clothes." },
+      { "img": "https://img.polycanopy.com/2025/07/deep-blue-polycarbonate-door-canopy-bottom-view-after-installation.jpg", "alt": "Bottom view of installed deep blue polycarbonate rain canopy at entrance, showing clean finish and support structure." },
+      { "img": "https://img.polycanopy.com/2025/07/Front-Door-Rain-Canopy-with-Stylish-Design-and-Excellent-Drainage.jpg", "alt": "Modern rain canopy installed at entrance, combining aesthetic appeal with an integrated drainage system." }
+    ],
+    "challenges": {
+      "title": "Applications – Comprehensive Usage Scenarios",
+      "subtitle": "Its sleek appearance and functional build make it perfect for comprehensive window and doorway sheltering in all climates:",
+      "img": "https://img.polycanopy.com/2025/07/Aluminum-Alloy-Frame-COLOR.jpg",
+      "alt": "All kinds of color powder coated heavy-duty aluminum alloy frame profile texture samples.",
+      "points": [
+        "Commercial storefronts and retail entrances",
+        "Café and restaurant doorways",
+        "Windows of homes and apartments",
+        "Balconies and patios, office entrances or backdoors"
+      ]
+    },
+    "cta": {
+      "title": "Ready to dive deeper into engineering specs or customize your layout?",
+      "subtitle": "Talk directly to our global sales engineering team via instant messaging for live consultation.",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20window%20door%20canopy%20products",
+      "whatsappText": "Get a Free Factory-Direct Quotation & CAD Deepening via WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "David Green",
+        "role": "Operations Supervisor",
+        "text": "We’ve been using polycarbonate canopies in multiple locations, and the quality from this supplier is unmatched. The frames are made of solid 6063 aluminum alloy, which gives them excellent strength without being too heavy. The visual installation guide made the setup process quick and easy. The product's durability and modern design have not only enhanced the appearance of our properties but also provided our customers with better protection from the weather. Great service and highly dependable product."
+      },
+      {
+        "name": "James Turner",
+        "role": "Director of Facilities Management",
+        "text": "We recently installed the polycarbonate canopies from this supplier for several of our commercial properties, and the results have been outstanding. The L-Type design was perfect for our storefronts, providing sleek aesthetics and excellent protection against the elements. The quality of the aluminum frame and polycarbonate panels is top-notch, ensuring durability in harsh weather conditions. The installation process was straightforward thanks to the detailed guide provided. Highly recommend for businesses looking for reliable and stylish canopies."
+      },
+      {
+        "name": "Sarah Liu",
+        "role": "Procurement Manager",
+        "text": "We purchased the R-Type polycarbonate canopies for a few of our retail locations, and they have been a game-changer. The design adds a modern touch to our entrances, and the drainage system has performed flawlessly, even during heavy rain. The custom color options allowed us to match the canopies with our branding. We are very satisfied with the product and service."
+      }
+    ]
+  },
+  "suspended-polycarbonate-canopy": {
+    "title": "Suspended Polycarbonate Canopy – Sleek Overhead Design",
+    "tags": ["No Posts Required", "Suspension Awning"],
+    "subtitle": "Home » product » Suspended Polycarbonate Canopy by PolyCanopy",
+    "desc": "Discover our suspended polycarbonate canopy system, ideal for modern doorways and carports. Engineered with durable polycarbonate panels and aluminum suspension rods, it completely eliminates the need for ground posts.",
+    "welcome": "PolyCanopy offers engineering-grade suspended awnings crafted from polycarbonate and aluminum. Perfect for residential and commercial applications, this overhead canopy combines beauty, strength, and easy customization. It frees up valuable ground space while delivering uncompromised weather protection and an elegant architectural silhouette.",
+    "image": "https://img.polycanopy.com/2025/07/Large-Public-Building-Entrance-with-Suspended-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Overhead-View-of-Black-Suspended-Canopy.jpg",
+    "globalProjectsAlt": "Overhead shot of suspended black polycarbonate canopy used at both door and window fronts",
+    "features": [
+      {
+        "title": "Why Choose a Suspended Canopy?",
+        "desc": "Traditional awnings require ground posts that can block pathways. Our suspended canopy offers:\n• A stylish and minimalist architectural look\n• No posts required – creating a clean, unobstructed entry space\n• The perfect solution for narrow driveways, balconies, or building entrances\n• Fully customizable sizes and structural shapes",
+        "img": "https://img.polycanopy.com/2025/07/Brown-Framed-Suspended-Canopy-for-Residential-Building.jpg",
+        "alt": "Tea-colored suspended polycarbonate canopy combined with support posts at a residential complex"
+      },
+      {
+        "title": "Engineered for Durability and Function",
+        "desc": "Our suspension systems are built with flagship materials to handle heavy wind and rain loads:\n• Materials: Solid polycarbonate sheets (UV resistant, impact resistant) & Aluminum alloy frames (anti-rust and lightweight).\n• Structure: Heavy-duty stainless steel suspension rods anchored directly to the concrete wall or ceiling.\n• Drainage: Curved or sloped shape options engineered for rapid, natural water drainage.",
+        "img": "https://img.polycanopy.com/2025/07/DIY-Polycarbonate-Canopy-Frame-in-Installation.jpg",
+        "alt": "Structural frame parts of a polycarbonate canopy laid out during customer self-installation"
+      }
+    ],
+    "specsTitle": "Custom Engineering for Your Building",
+    "specs": [
+      { "title": "Size (Length × Projection)", "desc": "Custom-tailored coverage length and projection depth to fit any architectural gap." },
+      { "title": "Frame Color & Finish", "desc": "Anti-rust powder-coated finishes available in various shades including black, white, and coffee." },
+      { "title": "Polycarbonate Properties", "desc": "Customizable panel thickness and colors (transparent, smoked, tea, blue) for optimal light transmission." },
+      { "title": "Mounting System", "desc": "Professional suspension angles and heavy-duty expansion anchor hardware matched to your wall type." }
+    ],
+    "precision": {
+      "details": [
+        {
+          "title": "We Build Exactly What You Need",
+          "desc": "Looking for a canopy that fits your unique architectural space? At PolyCanopy, we specialize in engineering custom suspended canopies tailored to your building’s size, facade style, and functional needs. Whether it’s for a modern home entrance or a commercial carport, our team will provide detailed CAD drawings, material options, and installation guidance.",
+          "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg",
+      "imgAlt": "Transparent polycarbonate canopy with a suspended design installed over windows and doors",
+      "diagramImg": "https://img.polycanopy.com/2025/07/DIY-Polycarbonate-Canopy-Frame-in-Installation.jpg",
+      "diagramAlt": "Structural frame parts and heavy duty tension rods for suspended canopy installation",
+      "models": [
+        "Heavy-Duty Stainless Steel Tension Rod System",
+        "Post-Free Minimalist Floating Facade Aesthetics",
+        "Adjustable Sloped Angle for Rapid Water Drainage"
+      ]
+    },
+    "challenges": {
+      "title": "Flexible Applications – From Entrances to Carports",
+      "subtitle": "The versatile suspension design makes it the ultimate solution for spaces where ground mounting is impossible:",
+      "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-Canopy.jpg",
+      "alt": "Suspended polycarbonate carport canopy offering post-free vehicle parking",
+      "points": [
+        "Main and secondary entrances of commercial buildings and public facilities",
+        "Narrow residential driveways, backdoors, and basement access points",
+        "Space-constrained private parking areas requiring a post-free carport",
+        "Storefront windows and display areas demanding a clean, modern aesthetic"
+      ]
+    },
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg", "alt": "Long walkway canopy providing continuous protection from entrance to exit" },
+      { "img": "https://img.polycanopy.com/2025/07/Large-Public-Building-Entrance-with-Suspended-Canopy.jpg", "alt": "Large public building entrance upgraded with a sleek suspended polycarbonate canopy" },
+      { "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-Canopy.jpg", "alt": "Post-free suspended polycarbonate carport canopy for unimpeded vehicle access" },
+      { "img": "https://img.polycanopy.com/2025/07/Bottom-Up-View-of-Transparent-Suspended-Canopy.jpg", "alt": "Bottom-up view of a transparent suspended canopy revealing its neat aluminum framework" },
+      { "img": "https://img.polycanopy.com/2025/07/Suspension-Type-Door-Canopy-with-White-Frame.jpg", "alt": "Suspension-type door canopy featuring a clean, modern white aluminum frame" },
+      { "img": "https://img.polycanopy.com/2025/07/Coffee-Frame-Suspended-Carport-at-Villa-Area.jpg", "alt": "Coffee-colored framed suspended carport installed flawlessly at a residential villa area" },
+      { "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg", "alt": "Large transparent suspended canopy engineered for wide windows and double doors" }
+    ],
+    "cta": {
+      "title": "Need a Custom Suspended Canopy for Your Project?",
+      "subtitle": "Send us your architectural drawings or site photos, and we’ll respond with a tailored engineering proposal!",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Suspended%20Polycarbonate%20Canopy%20products",
+      "whatsappText": "Request a Custom Quote via WhatsApp"
+    },
+    "testimonials": [
+      {
+        "name": "Jason Liu",
+        "role": "Architect",
+        "text": "The suspended canopy gave our building entrance a modern and clean look while solving the water issue. The post-free design is a huge plus for the facade's aesthetics."
+      },
+      {
+        "name": "Maria Gomez",
+        "role": "Hotel Manager",
+        "text": "We were impressed by the clean installation and durability of the materials. It makes our valet driveway look incredibly spacious and premium."
+      }
+    ]
+  },
+  "corner-extended-polycarbonate-canopy": {
+    "title": "Corner-Extended Polycarbonate Canopy – Elegant Rain Protection",
+    "tags": ["Corner Extension", "Villa Facade"],
+    "subtitle": "Home » product » Corner-Extended Polycarbonate Canopy by PolyCanopy",
+    "desc": "Explore our uniquely designed corner-extended polycarbonate canopy. Ideal for villas and L-shaped balconies, this canopy features a projecting edge, offering wide coverage and a modern architectural accent. Built with high-strength polycarbonate sheets and powder-coated aluminum frames.",
+    "welcome": "Our corner-style polycarbonate canopy features a pointed extension, offering wide coverage and a modern architectural accent. It is designed to maximize coverage at angular building extensions, balconies, or villa facades. Whether you need a precise overhang for drainage or a visually striking architectural accent, PolyCanopy provides custom measurements, frame color options, and professional design support.",
+    "image": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+    "globalProjectsAlt": "Highlighted corner details of a polycarbonate canopy, showcasing custom-made corner joints",
+    "features": [
+      {
+        "title": "Unique Corner-Extended Structure",
+        "desc": "The front edge features a projecting corner point that follows building contours precisely. This design provides seamless coverage for L-shaped balconies or corner entrances, solving the problem of insufficient rain shelter at building intersections.",
+        "img": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+        "alt": "Highlighted corner details of a polycarbonate canopy, showcasing custom-made corner joints"
+      },
+      {
+        "title": "Architectural Elegance Meets Efficiency",
+        "desc": "Beyond utility, the corner-extended design serves as a modern architectural accent. Engineered for both aesthetics and drainage efficiency, the canopy integrates seamlessly into your building's facade, turning awkward corners into stylish, protected spaces.",
+        "img": "https://img.polycanopy.com/2025/07/External-Corner-Polycarbonate-Canopy-at-Villa.jpg",
+        "alt": "L-shaped corner canopy installed at a villa, with a clothes drying rod underneath"
+      },
+      {
+        "title": "Premium Materials & Structural Integrity",
+        "desc": "Features high-strength polycarbonate sheets (UV resistant, transparent or tinted, 2mm–8mm) and powder-coated aluminum frames (rust-proof, heavy-load capable). Integrated precision joints ensure seamless connection, preventing leaks while enhancing structural rigidity.",
+        "img": "https://img.polycanopy.com/2025/07/Blue-Polycarbonate-Canopy-with-Corner-Connections.jpg",
+        "alt": "Polycarbonate canopy showcasing both internal and external corners, with blue panels"
+      }
+    ],
+    "specsTitle": "Applications & Architectural Integration",
+    "specs": [
+      { "title": "Luxury Villas", "desc": "Perfect for large, wrap-around balconies and angular architectural projections." },
+      { "title": "Multi-directional Facades", "desc": "Adapts to complex building edges where standard canopies fail to cover." },
+      { "title": "Retail & Storefronts", "desc": "Enhances commercial entrances with a unique, high-end architectural look." },
+      { "title": "Residential Balconies", "desc": "Provides extended weather protection for L-shaped or wrap-around terrace spaces." }
+    ],
+    "precision": {
+      "details": [
+        {
+          "title": "Tailored Corner Canopies for Complex Architecture",
+          "desc": "Every building has unique angles—and we’re here to match them. Our corner-extended polycarbonate canopy is fully customizable to suit L-shaped balconies, multi-directional facades, or projecting villa designs. From custom measurements to frame colors and 3D design support, we are your partner in architectural detailing.",
+          "img": "https://img.polycanopy.com/2025/07/Corner-Canopy-Frame-Structure-in-Factory.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/External-Corner-Polycarbonate-Canopy-at-Villa.jpg",
+      "imgAlt": "Corner joint structural detailing for custom canopy",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Corner-Canopy-Frame-Structure-in-Factory.jpg",
+      "diagramAlt": "Factory view of the metal frame for a corner-extended canopy",
+      "models": [
+        "L-shaped Precision Corner Connector",
+        "High-Strength Wind-Resistant Frame",
+        "Streamlined Parabolic Edge Design"
+      ]
+    },
+    "testimonials": [
+      { "name": "Chen Yu", "role": "Villa Owner", "text": "This canopy matched our villa style perfectly. The corner detail added a unique touch to the balcony." },
+      { "name": "Victor Zhao", "role": "Property Developer", "text": "Excellent craftsmanship and weather protection. The extended corner design is both functional and stylish." }
+    ],
+    "cta": {
+      "title": "Need a Custom Corner Canopy Plan?",
+      "subtitle": "Send us your architectural drawings or site photos, and we’ll respond with a tailored proposal!",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Corner-Extended%20Polycarbonate%20Canopy%20products",
+      "whatsappText": "Contact Us for a Tailored Plan"
+    }
+  }
+}

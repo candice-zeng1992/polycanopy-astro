@@ -1,4 +1,4 @@
-// src/components/home/Gallery.tsx
+import React from 'react';
 
 // 🌟 声明接收外置超级翻译函数 t 和当前语言 lang
 interface GalleryProps {
@@ -8,22 +8,22 @@ interface GalleryProps {
 
 export default function Gallery({ t, lang }: GalleryProps) {
 
-  // 严格对应原 WP 源码的模块卡片定义与分流路由
+  // 严格对应原 WP 源码的模块卡片定义与分流路由（补全标准的 products/ 夹层和末尾闭合斜杠）
   const galleryCards = [
     {
       id: 'rooftop',
       img: 'https://img.polycanopy.com/2025/07/modern-rooftop-polycarbonate-canopy-1024x768.jpg',
-      href: '/terrace-canopy-design-materials-sizes' 
+      href: '/products/terrace-canopy/' 
     },
     {
       id: 'carport',
       img: 'https://img.polycanopy.com/2025/07/residential-carport-covered-parking-metal-frame-1024x768.jpg',
-      href: '/polycarbonate-carport-garage-cover' 
+      href: '/products/polycarbonate-carport/' 
     },
     {
       id: 'sunroom',
       img: 'https://img.polycanopy.com/2025/07/arched-sunroom-rural-greenhouse-style-1024x768.jpg',
-      href: '/retractable-telescopic-sunroom' 
+      href: '/products/retractable-telescopic-sunroom/' 
     }
   ];
 
@@ -48,11 +48,14 @@ export default function Gallery({ t, lang }: GalleryProps) {
           aria-label={t('ariaLabel')}
         >
           {galleryCards.map((card) => {
-            // 🌟 核心修复：干净漂亮地解开三层 JSON 嵌套 (Gallery -> items -> cardId -> title/desc/btnText/imageAlt)
+            // 🌟 干净漂亮地解开三层 JSON 嵌套
             const title = t(card.id, 'title');
             const desc = t(card.id, 'desc');
             const btnText = t(card.id, 'btnText');
             const imageAlt = t(card.id, 'imageAlt');
+
+            // 🌟 核心改进：智能适配 11 国语言的跳转前缀，英文走原生，小语种自动拼装 /ja/products/...
+            const localizedHref = lang === 'en' ? card.href : `/${lang}${card.href}`;
 
             return (
               <article key={card.id} className="relative h-[450px] rounded-xl overflow-hidden group shadow-md hover:shadow-xl transition-all duration-300">
@@ -90,7 +93,7 @@ export default function Gallery({ t, lang }: GalleryProps) {
                   {/* 跳转链接按钮 */}
                   <div className="overflow-hidden">
                     <a 
-                      href={`/${lang}${card.href}`}
+                      href={localizedHref}
                       aria-label={`${btnText} - ${title}`} 
                       className="inline-flex items-center gap-2 bg-[#12b886] hover:bg-[#0ca678] text-white px-5 py-2.5 rounded text-sm font-bold transition-all duration-300 transform translate-y-0"
                     >

@@ -1,0 +1,193 @@
+---
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
+
+import enDict from '../../i18n/en.json';
+import zhDict from '../../i18n/zh.json';
+import arDict from '../../i18n/ar.json';
+import deDict from '../../i18n/de.json';
+import esDict from '../../i18n/es.json';
+import ptDict from '../../i18n/pt.json';
+import frDict from '../../i18n/fr.json';
+import ruDict from '../../i18n/ru.json';
+import jaDict from '../../i18n/ja.json';
+import itDict from '../../i18n/it.json';
+import koDict from '../../i18n/ko.json';
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: 'en' } }, { params: { lang: 'zh' } }, { params: { lang: 'ar' } },
+    { params: { lang: 'de' } }, { params: { lang: 'es' } }, { params: { lang: 'pt' } },
+    { params: { lang: 'fr' } }, { params: { lang: 'ru' } }, { params: { lang: 'ja' } },
+    { params: { lang: 'it' } }, { params: { lang: 'ko' } },
+  ];
+}
+
+const { lang } = Astro.params;
+
+// === 1. 显式 switch 分流：11 国语言字典确定性装载 ===
+let currentDict: Record<string, any> = enDict;
+switch (lang) {
+  case 'en': currentDict = enDict; break;
+  case 'zh': currentDict = zhDict as Record<string, any>; break;
+  case 'ar': currentDict = arDict as Record<string, any>; break;
+  case 'de': currentDict = deDict as Record<string, any>; break;
+  case 'es': currentDict = esDict as Record<string, any>; break;
+  case 'pt': currentDict = ptDict as Record<string, any>; break;
+  case 'fr': currentDict = frDict as Record<string, any>; break;
+  case 'ru': currentDict = ruDict as Record<string, any>; break;
+  case 'ja': currentDict = jaDict as Record<string, any>; break;
+  case 'it': currentDict = itDict as Record<string, any>; break;
+  case 'ko': currentDict = koDict as Record<string, any>; break;
+  default: currentDict = enDict;
+}
+
+// === 2. 双层防空气垫：优先当前语言字典，全线兜底 enDict ===
+const policy = currentDict.PrivacyPolicy || enDict.PrivacyPolicy || {};
+const footerDict = currentDict.Footer || enDict.Footer || {};
+const isRtl = lang === 'ar';
+
+const localeMapping: Record<string, string> = { 
+  en: 'en_US', zh: 'zh_CN', ar: 'ar_AR', de: 'de_DE', es: 'es_MX',
+  pt: 'pt_BR', fr: 'fr_FR', ru: 'ru_RU', ja: 'ja_JP', it: 'it_IT', ko: 'ko_KR'
+};
+const currentLocale = localeMapping[lang as string] || 'en_US';
+
+// === 3. Header 翻译函数：给 Header 组件传递的 (key) => string ===
+const headerFallback: Record<string, any> = enDict.Header || {};
+const currentHeader: Record<string, any> = currentDict.Header || {};
+const tHeader = (key: string): string => {
+  return currentHeader[key] || headerFallback[key] || key;
+};
+
+// === 4. 全量硬编码 sections 列表（11 国 JSON 键名统一），每行都带 enDict 兜底 ===
+const allSections = [
+  {
+    t: policy.section1Title || enDict.PrivacyPolicy?.section1Title || '',
+    c: policy.section1Content || enDict.PrivacyPolicy?.section1Content || '',
+  },
+  {
+    t: policy.section2Title || enDict.PrivacyPolicy?.section2Title || '',
+    c: policy.section2Content || enDict.PrivacyPolicy?.section2Content || '',
+  },
+  {
+    t: policy.section3Title || enDict.PrivacyPolicy?.section3Title || '',
+    c: policy.section3Content || enDict.PrivacyPolicy?.section3Content || '',
+  },
+  {
+    t: policy.section4Title || enDict.PrivacyPolicy?.section4Title || '',
+    c: policy.section4Content || enDict.PrivacyPolicy?.section4Content || '',
+  },
+  {
+    t: policy.section5Title || enDict.PrivacyPolicy?.section5Title || '',
+    c: policy.section5Content || enDict.PrivacyPolicy?.section5Content || '',
+  },
+  {
+    t: policy.section6Title || enDict.PrivacyPolicy?.section6Title || '',
+    c: policy.section6Content || enDict.PrivacyPolicy?.section6Content || '',
+  },
+  {
+    t: policy.section7Title || enDict.PrivacyPolicy?.section7Title || '',
+    c: policy.section7Content || enDict.PrivacyPolicy?.section7Content || '',
+  },
+  {
+    t: policy.section8Title || enDict.PrivacyPolicy?.section8Title || '',
+    c: policy.section8Content || enDict.PrivacyPolicy?.section8Content || '',
+  },
+  {
+    t: policy.section9Title || enDict.PrivacyPolicy?.section9Title || '',
+    c: policy.section9Content || enDict.PrivacyPolicy?.section9Content || '',
+  },
+  {
+    t: policy.section10Title || enDict.PrivacyPolicy?.section10Title || '',
+    c: policy.section10Content || enDict.PrivacyPolicy?.section10Content || '',
+  },
+  {
+    t: policy.section11Title || enDict.PrivacyPolicy?.section11Title || '',
+    c: policy.section11Content || enDict.PrivacyPolicy?.section11Content || '',
+  },
+];
+
+// 过滤掉完全空白的 section（保留有效行）
+const sections = allSections.filter(s => s.t && s.t.length > 0);
+
+const pageTitle = policy.title || enDict.PrivacyPolicy?.title || 'Privacy Policy';
+const pageDesc = policy.intro || enDict.PrivacyPolicy?.intro || 'Privacy Policy of PolyCanopy.';
+const effectiveDate = policy.effectiveDate || enDict.PrivacyPolicy?.effectiveDate || '';
+---
+
+<!DOCTYPE html>
+<html lang={lang} dir={isRtl ? 'rtl' : 'ltr'}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta name="robots" content="index, follow" />
+
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+
+    {['en','zh','ar','de','es','pt','fr','ru','ja','it','ko'].map((l) => (
+      <link rel="alternate" hreflang={l} href={`https://polycanopy.com/${l}/privacy-policy/`} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href="https://polycanopy.com/en/privacy-policy/" />
+    
+    <title>{pageTitle} | PolyCanopy</title>
+    <meta name="description" content={pageDesc} />
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={`https://polycanopy.com/${lang}/privacy-policy/`} />
+    <meta property="og:title" content={`${pageTitle} | PolyCanopy`} />
+    <meta property="og:description" content={pageDesc} />
+    <meta property="og:image" content="https://img.polycanopy.com/assets/polycanopy-og-share.jpg" />
+    <meta property="og:locale" content={currentLocale} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={`${pageTitle} | PolyCanopy`} />
+    <meta name="twitter:description" content={pageDesc} />
+    <meta name="twitter:image" content="https://img.polycanopy.com/assets/polycanopy-og-share.jpg" />
+
+    <style is:global>@import "tailwindcss";</style>
+  </head>
+  <body class="bg-gray-50 antialiased m-0 p-0 block w-full">
+    
+    {/* Header: use tHeader wrapper to resolve Header.xxxx from dictionary */}
+    <div class="relative z-50 w-full block">
+      <Header t={tHeader} lang={lang} currentPath={`/${lang}/privacy-policy/`} />
+    </div>
+
+    {/* Dark hero banner */}
+    <section class="bg-[#184e77] text-white pt-44 pb-24 px-4 text-center" dir={isRtl ? 'rtl' : 'ltr'}>
+      <div class="max-w-4xl mx-auto">
+        <h1 class="text-3xl md:text-5xl font-black tracking-tight mb-4">{pageTitle}</h1>
+        {effectiveDate && effectiveDate.length > 0 && (
+          <p class="text-slate-300 text-sm font-medium">{effectiveDate}</p>
+        )}
+      </div>
+    </section>
+
+    {/* Main content */}
+    <main class="bg-slate-50 py-16 px-4 antialiased text-slate-800" dir={isRtl ? 'rtl' : 'ltr'}>
+      <article class="max-w-4xl mx-auto bg-white rounded-3xl p-8 md:p-12 shadow-xs border border-slate-100">
+        {policy.intro && policy.intro.length > 0 && (
+          <p class="text-base leading-relaxed text-slate-600 mb-8 whitespace-pre-line font-light">{policy.intro}</p>
+        )}
+
+        <div class="space-y-8 font-light text-slate-700 leading-relaxed">
+          {sections.length > 0 ? sections.map((sec) => (
+            <section class="space-y-3">
+              <h2 class="text-xl font-bold text-slate-900">{sec.t}</h2>
+              <p class="whitespace-pre-line text-sm md:text-base text-slate-600 pl-1">{sec.c}</p>
+            </section>
+          )) : (
+            <p class="text-slate-500 italic">
+              {lang === 'en' ? 'Content is being updated. Please check back later.' : '內容正在更新，請稍後再查看。'}
+            </p>
+          )}
+        </div>
+      </article>
+    </main>
+
+    <Footer dict={footerDict} lang={lang} client:visible />
+  </body>
+</html>

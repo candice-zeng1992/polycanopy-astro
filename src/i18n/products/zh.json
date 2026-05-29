@@ -1,0 +1,736 @@
+{
+  "retractable-telescopic-sunroom": {
+    "title": "智能伸缩移动阳光房 (PolyCanopy 制造)",
+    "subtitle": "首页 » 产品 » PolyCanopy 智能伸缩模块化移动阳光房",
+    "tags": ["智能电动", "模块化定制"],
+    "desc": "PolyCanopy 智能伸缩移动阳光房是一款专为高端户外空间打造的模块化系统。集成了隐藏式驱动、顺滑无阻滑轨、多重隔热传动和全面定制化服务，是别墅露台、花园、泳池盖顶的完美解决方案。",
+    "welcome": "欢迎来到 PolyCanopy —— 您的专属户外阳光房制造专家。过去 10 年间，我们非常荣幸地在全球交付了超过 180,000 套移动滑轨模块化结构，为无数家庭带来更充足的光照、安全与舒适体验。作为美国国家阳光房协会（NSA）的公认成员，我们致力于提供工程级的美学技术方案。",
+    "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/polycarbonate-sunroom-projects-around-the-world-tokyo-bangkok-hanoi-dhaka-kuala-lumpur-and-more-1024x808.jpg",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Preliminary-Design-Sketch-of-Modular-Polycarbonate-Sunroom-1024x635.jpg",
+    "features": [
+      { "title": "模块化快速装配", "desc": "全预制模块组件，现场积木式拼装，大幅缩减现场施工周期与人工成本。", "img": "https://img.polycanopy.com/2025/07/Modular-Structure-Design-for-Fast-On-Site-Installation.jpg", "alt": "全预制模块移动阳光房现场积木式安装" },
+      { "title": "隐藏式内置电机", "desc": "内置全隐藏 24V DC 直流无刷电机驱动与导轨系统，安全平稳、静音运行，外观整洁无机械外露。", "img": "https://img.polycanopy.com/2025/07/Concealed-Motor-System-for-Silent-Operation-and-Sleek-Appearance.jpg", "alt": "全隐藏24V直流无刷移动驱动滑轨天窗系统" },
+      { "title": "精密顺滑轨道", "desc": "高精度铝合金特制轨道搭配高耐磨尼龙滑轮系统，推拉省力轻便，开合静谧无阻。", "img": "https://img.polycanopy.com/2025/07/Smooth-Sliding-System-with-Precision-Track-Design.jpg", "alt": "高精度防异响高强力滑槽轨道特写" },
+      { "title": "硬核隔音隔热", "desc": "多层密封结构体系配合发泡橡胶密封条，强效阻隔紫外线、户外噪音与空气泄漏。", "img": "https://img.polycanopy.com/2025/07/Thermal-and-Sound-Insulation-from-Dome-Roof-Design.jpg", "alt": "阳光房全密封系统隔绝温差热效率展示" },
+      { "title": "三层发泡胶条节能套件", "desc": "阻断内外冷热对流，有效防止夏日室内热量积聚与冬季冷气下渗。", "img": "https://img.polycanopy.com/2025/07/Standard-Energy-Saving-Configuration-for-Better-Efficiency.jpg", "alt": "汽车级三元乙丙高耐久发泡橡胶条隔热件" },
+      { "title": "超强抗风抗雪12级", "desc": "加厚高强度 6063-T5 铝合金主立柱，抗风等级达12级台风（120KN/h），雪载负荷达 0.5KN/m²。", "img": "https://img.polycanopy.com/2025/07/Enhanced-Wind-Resistance-with-Reinforced-Aluminum-Support-Columns.jpg", "alt": "抗风加强加厚型材承重主立柱系统" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/cross-section-of-6061-t6-aluminum-alloy-strong-corrosion-resistant-and-weldable-scaled.jpg",
+      "frameAlt": "高强度6063-T5铝合金型材截面工程级结构剖析",
+      "roofsImg": "https://img.polycanopy.com/2025/07/material-comparison-laminated-tempered-glass-vs-4mm-solid-polycarbonate-panel-scaled.jpg",
+      "roofsAlt": "双层隔热夹胶玻璃与4mm聚碳酸酯高透实心耐力板物理对比",
+      "colors": [
+        { "name": "深空灰 (Dark Gray)", "img": "https://img.polycanopy.com/2025/07/dark-gray-aluminum-frame-finish-sleek-and-modern-look.jpg", "alt": "深空灰静电粉末氟碳喷涂涂装特写" },
+        { "name": "咖啡棕 (Coffee Brown)", "img": "https://img.polycanopy.com/2025/07/coffee-brown-aluminum-frame-finish-warm-and-natural-tone.jpg", "alt": "咖啡棕阳极氧化多层抗腐蚀处理表面" },
+        { "name": "经典白 (Classic White)", "img": "https://img.polycanopy.com/2025/07/white-aluminum-frame-finish-clean-and-timeless-design.jpg", "alt": "经典白高抗候抗黄变高光油漆面特写" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Finished-Sunroom-Interior-with-Six-Layer-Waterproof-Protection.jpg",
+      "waterproofAlt": "结构级六层多密封物理防渗漏设计室内视角",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/retractable-transparent-sunroom-roof-over-swimming-pool-interior-poolside-view.jpg",
+      "poolCustomAlt": "高端度假酒店大跨度全透明泳池电动滑轨罩实景案例"
+    },
+    "specsTitle": "产品工程参数看板",
+    "specs": [
+      { "title": "主骨架材质", "desc": "高强度 6063-T5 / 6061-T6 建筑级铝合金" },
+      { "title": "表面处理工艺", "desc": "抗紫外线全静电粉末喷涂 / 阳极氧化" },
+      { "title": "屋顶设计形态", "desc": "弧形顶 / 单斜顶 / 人字形顶 / 多折面异形定制" },
+      { "title": "抗风等级性能", "desc": "12级强台风级安全设防 (120KN/h)" },
+      { "title": "雪载最高负荷", "desc": "0.5KN/m² 增强级结构荷载" },
+      { "title": "驱动开启方式", "desc": "轻便手动推拉开合 / 24V 安全微电脑低压智能电动遥控" },
+      { "title": "滑轨开启方向", "desc": "单向单开多级滑轨 / 双向对开 伸缩式多层叠轨移动" },
+      { "title": "标准生产周期", "desc": "工程深化定稿后 15–20 天工厂急速排产" },
+      { "title": "品牌品质质保", "desc": "正常使用环境下系统结构整体安全质保 3 年" },
+      { "title": "智能高端选配", "desc": "线性内置LED氛围灯、电动外置全遮阳帘、智能通风天窗、集成蓝牙音响" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/various-sunroom-roof-styles-arched-polygonal-dome-and-single-slope-designs.jpg",
+      "roofStylesAlt": "不同弧形单斜面结构多工程造型总览图",
+      "details": [
+        { "title": "24V 隐藏式抗干扰直流无刷电机", "desc": "运行极其安全平稳，采用超静音齿轮技术，完美隐藏嵌入型材腔体内部。", "img": "https://img.polycanopy.com/2025/07/Detail-View-of-Concealed-24W-DC-Brushless-Motor-for-Safe-Stable-and-Quiet-Operation-1.jpg", "alt": "全内置防水微电机驱动核心微距" },
+        { "title": "LED 低压高显色安全氛围灯带", "desc": "低电压恒流驱动，超高显示指数还原夜间本色，绿色环保且使用寿命极长。", "img": "https://img.polycanopy.com/2025/07/close-up-of-led-light-strip-energy-efficient-high-cri-and-long-lasting-design.jpg", "alt": "高透光发光线形暖色调氛围灯带" },
+        { "title": "防污自洁自降解纳米涂层 (Clean Coating)", "desc": "专门针对聚碳酸酯实心耐力板开发的顶级表面氟碳涂覆，让污垢一冲即净。", "img": "https://img.polycanopy.com/2025/07/polycarbonate-panel-surface-with-optional-clean-coating-blue-brown-and-clear-colors.jpg", "alt": "纳米级防雨斑防颗粒附着自洁层面板" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/aluminum-profile-options-type-85-type-130-type-188-for-sunroom-structures.jpg",
+      "imgAlt": "Type 85、Type 130、Type 188三大主承重铝型材标准系列规格",
+      "diagramImg": "https://img.polycanopy.com/2025/07/cross-section-diagram-of-6063-t5-aluminum-profile-structural-details-for-sunroom.jpg",
+      "diagramAlt": "高抗压建筑骨架CAD开模工程加工详图",
+      "models": ["Type 85 标准轻奢工程型材规格", "Type 130 商业加强承重型材规格", "Type 188 大跨度重型建筑主骨架型材规格"]
+    },
+    "allProjectsImg": "https://img.polycanopy.com/2025/07/all-kind-of-projects-of-sunroom.jpg",
+    "allProjectsAlt": "PolyCanopy 全系列全工况工程案例图册封面",
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/polycanopy-sunroom-catalogue_compressed.pdf",
+      "downloadText": "下载 PolyCanopy 移动阳光房工程设计选型画册 (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20sunroom%20products",
+      "whatsappText": "即刻一键通过 WhatsApp 直连获取技术报价支持"
+    },
+    "testimonials": [
+      { "name": "Liam O'Connor", "role": "英国一级注册建筑师", "text": "作为设计事务所，我们不仅看重外观，更看重结构背后的工程严谨度。PolyCanopy 的 6063-T5 大壁厚铝合金腔体和隐藏式低压驱动工艺是绝对的一流水平。" },
+      { "name": "Kenji Sato", "role": "东京商业地产项目经理", "text": "我们在东京屋顶高端餐厅选用了他们家的预制积木式移动罩系统，拼装极其迅速且无需动土，不仅规避了本地复杂的违建审查，更让餐厅在雨雪天营业额翻番。" },
+      { "name": "Emily Zhang", "role": "星级度假酒店工程总监", "text": "酒店室外恒温泳池急需大跨度全透光防台风罩。这个移动系统完全超乎预期，聚碳酸酯板自带UV共挤层抗黄变性能卓越，开合非常智能丝滑。" }
+    ]
+  },
+ "stargazing-dome": {
+    "title": "聚碳酸酯全景星空房",
+    "tags": ["野奢露营", "快速拼装"],
+    "subtitle": "首页 » 产品 » 聚碳酸酯透明全景星空房",
+    "desc": "PolyCanopy 模块化全景星空房是一款兼具极致视觉冲击力与工业级耐久性的户外建筑系统。专为野奢露营（Glamping）、星空餐厅、景区观景台量身定制，集成了全透明视野、高刚性结构和快速装配技术，助您轻松打造网红打卡目的地。",
+    "welcome": "欢迎来到 PolyCanopy —— 您的专属户外全景房与移动结构专家。在过去 10 年中，我们非常荣幸地在全球成功交付了超过 180,000 套移动结构与模块化穹顶建筑。作为美国国家阳光房协会（NSA）的公认成员，我们致力于为全球文旅及餐饮客户提供高投产比的、更安全的工程级全景建筑方案。",
+    "image": "https://img.polycanopy.com/2025/07/Dome-Used-for-Outdoor-Glamping.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Dome-Installation-at-Mountain-Resort.jpg",
+    "globalProjectsAlt": "在山地度假村中作为高端景观餐饮卡座的聚碳酸酯全透明星空房",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Custom-Design-Sketch-for-Dome-Project.jpg",
+    "designSketchAlt": "针对客户特定地块与环境开发的工程级平面深化 CAD 设计草图",
+    "features": [
+      { "title": "B1级商业防火材质", "desc": "核心穹顶单元采用严格筛选的阻燃耐火基材，完全符合国际商业公共场所与高端酒店的安全验收标准。", "img": "https://img.polycanopy.com/2025/07/Fire-Resistant-Polycarbonate-Structure.jpg", "alt": "高等级聚碳酸酯与航空铝合金星空房阻燃耐火材质" },
+      { "title": "折边防渗漏防雨设计", "desc": "先进的搭接防水结构，配合特制物理边缘折边与垂直导水凹槽，彻底杜绝开裂与渗漏风险。", "img": "https://img.polycanopy.com/2025/07/Rainproof-Edges-and-Drainage-System.jpg", "alt": "每个模块拼接缝处带重叠法兰与垂直密封的无缝防水设计" },
+      { "title": "一体化防蚊网保护", "desc": "免费为每套星空房标配专属的高密度防蚊纱窗与纱门，在享受自然清风的同时，完美隔绝蚊虫。", "img": "https://img.polycanopy.com/2025/07/Mosquito-Screen-Door-Windows-Included-Mosquito-Screen-Door-Windows-Included.jpg", "alt": "集成了微孔防虫高强力纱门与通风小窗的全景星空房特写" },
+      { "title": "极致耐用壳体刚性", "desc": "精选高分子聚碳酸酯壳体，表面带有高品质单侧 UV 共挤层，长效阻隔紫外线，强效抗冲击、抗黄变。", "img": "https://img.polycanopy.com/2025/07/urable-Wall-Panels-with-High-Flexibility.jpg", "alt": "高柔韧性聚碳酸酯透明板经机械弯曲演示其极高抗摔抗压刚性" },
+      { "title": "遮阳控温隔热保护", "desc": "标配可全封闭的加厚定制高精密轨道遮阳窗帘，完美适配空调系统，四季皆能提供舒适体验。", "img": "https://img.polycanopy.com/2025/07/Insulated-Interior-with-A-C-Installation-Option.jpg", "alt": "带有多层保温与空调安装预留位的全透光星空房内部软装布局" },
+      { "title": "工程级稳固抗风设计", "desc": "底部设计有加厚高强度锚固地脚，支撑系统稳固，专门通过严苛的野外山顶大风与气压波动测试。", "img": "https://img.polycanopy.com/2025/07/Windproof-Design-for-Harsh-Conditions.jpg", "alt": "在高海拔强风暴雪多发地区进行地脚膨胀锚固的星空房稳定性实景" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/High-Quality-Aluminum-Frame-Side-View-for-Polycarbonate-Dome.jpg",
+      "frameAlt": "采用建筑级原生铝型材精密加工而成的加强型结构铝合金框架侧面剖析",
+      "roofsImg": "https://img.polycanopy.com/2025/07/Flexible-Polycarbonate-Panel-with-UV-Coating.jpg",
+      "roofsAlt": "精选高透明度高抗拉强度的原生纯净聚碳酸酯板材柔韧弯曲形态说明",
+      "colors": [
+        { "name": "360° 全景高透外壳 (Clear Shell)", "img": "https://img.polycanopy.com/2025/07/Exterior-View-of-the-Modular-Polycarbonate-Stargazing-Room.jpg", "alt": "全景高透明聚碳酸酯星空房民宿外观" },
+        { "name": "梦幻夜间变色灯效外观 (Colorful Night)", "img": "https://img.polycanopy.com/2025/07/Top-Down-View-of-Colorful-Stargazing-Room-Used-for-Glamping.jpg", "alt": "夜间色彩斑斓LED彩色灯光环绕星空房俯视图" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Dome-Rendering-Based-on-Project-Design.jpg",
+      "waterproofAlt": "根据文旅客户项目场地及地形输入生成的 3D 度假村星空房集群效果图",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/Final-Installed-Dome-Matching-Original-Sketch.jpg",
+      "poolCustomAlt": "完全契合前期深化图纸在景区现场组装完工并投入运营的星空房实景照"
+    },
+    "specsTitle": "星空房规格尺寸选型与承重能力看板",
+    "specs": [
+      { "title": "2.8米直径 景观迷你舱", "desc": "占地 6.1㎡，高 2.7m，适合 2-4 人餐饮休闲。", "img": "https://img.polycanopy.com/2025/07/dome-sunroom-28m-diameter-for-2-4-people.jpg", "alt": "Compact round polycarbonate dome house, 2.8m wide and 2.7m tall, with table and chairs for 2 to 4 people." },
+      { "title": "3.25米直径 标准餐饮舱", "desc": "占地 8.3㎡，高 2.7m，适合 6-8 人使用。", "img": "https://img.polycanopy.com/2025/07/medium-dome-house-3-25m-diameter-for-6-8-people-83.jpg", "alt": "Transparent dome sunroom with 3.25m width and 2.7m height, furnished for 6 to 8 people." },
+      { "title": "3.5米直径 加宽多功能舱", "desc": "占地 9.6㎡，适合 6-8 人豪华用餐。", "img": "https://img.polycanopy.com/2025/07/spacious-dome-35m-diameter-for-6-8-people.jpg", "alt": "Polycarbonate dome with seating for 6 to 8, 3.5m wide." },
+      { "title": "4.2米直径 民宿酒店标准间", "desc": "占地 13.84㎡，高 2.8m，适合 8-10 人聚会。", "img": "https://img.polycanopy.com/2025/07/large-dome-sunroom-42m-width-for-8-10-people-1384.jpg", "alt": "Round modular dome with clear panels and aluminum frame, 8 to 10 people." },
+      { "title": "4.8米直径 奢华民宿套房", "desc": "占地 18.1㎡，高 3m，适合 12-14 人活动。", "img": "https://img.polycanopy.com/2025/07/xl-dome-house-48m-width-for-12-14-people.jpg", "alt": "Transparent dome with reinforced aluminum frame, 12–14 people." },
+      { "title": "5.35米直径 旗舰大跨度套房", "desc": "占地 22.46㎡，高 3.2m，适合 16-18 人。", "img": "https://img.polycanopy.com/2025/07/extra-large-dome-535m-width-for-16-18-people.jpg", "alt": "Semi-transparent sunroom dome, 16–18 people." },
+      { "title": "5.9米直径 巨无霸活动穹顶", "desc": "占地 27.5㎡，适合 20-22 人大型活动。", "img": "https://img.polycanopy.com/2025/07/giant-dome-5-9m-width-for-20-22-people-275.jpg", "alt": "Grand dome structure, 20–22 people." },
+      { "title": "椭圆异形星空房 (6.13m x 4.13m)", "desc": "占地 21.65㎡，适合 20-22 人商务会客。", "img": "https://img.polycanopy.com/2025/07/oval-dome-613m-x-413m-for-20-22-people.jpg", "alt": "Transparent elliptical dome house, 6.13m x 4.13m." },
+      { "title": "跑道椭圆旗舰舱 (7.35m x 5.35m)", "desc": "占地达 33.16㎡，适合 24-26 人奢华宴请。", "img": "https://img.polycanopy.com/2025/07/oval-dome-house-735m-x-535m-for-24-26-people.jpg", "alt": "Oval-shaped polycarbonate dome, 7.35m x 5.35m." }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Stargazing-Glamping-Pod-Displayed-at-Trade-Show-Booth.jpg",
+      "roofStylesAlt": "在大型国际文旅装备展会现场展出的高光环绕式模块化全透明星空房展位",
+      "details": [
+        { "title": "穹顶顶层防水密封胶条", "desc": "专门针对尖顶空气力学定制的高致密防水橡胶密封条，历经数年曝晒不老化，彻底封死暴雨下渗路径。", "img": "https://img.polycanopy.com/2025/07/Top-Waterproof-Rubber-Strip.jpg", "alt": "穹顶顶部防水绝缘橡胶条微距密封特写" },
+        { "title": "一体化加固顶圈与航空铝门框系统", "desc": "由重型数控折弯工艺制成的无缝一体防下垂铝合金门框系统与穹顶铝环锁扣，让整体结构刚性暴增。", "img": "https://img.polycanopy.com/2025/07/Reinforced-Top-Connector-Ring-and-integrated-bent-aluminum-door.jpg", "alt": "星空房顶部锁扣铝环与弧形一体框工艺说明" },
+        { "title": "骨架内置隐形走线暗槽", "desc": "将照明及强弱电走线通道完全预埋在结构铝骨架内部腔体中，表面看不到任何裸露线材，极致整洁安全。", "img": "https://img.polycanopy.com/2025/07/built-in-cable-channel-no-exposed-wires.jpg", "alt": "隐藏式电缆走线槽槽口与型材无缝贴合详图" },
+        { "title": "无缝完美圆弧流线面板", "desc": "采用一体化大角度圆弧切割，表面没有多余的外露拼接肋条，灰尘无法附着，雨水一冲即净。", "img": "https://img.polycanopy.com/2025/07/Seamless-curved-shape.jpg", "alt": "无缝高光滑耐积灰型材板材细节展示" },
+        { "title": "立体顶置新风换气系统", "desc": "在顶部集成安装机械/自然多级循环新风组件，确保密闭环境下室内空气始终自然清新。", "img": "https://img.polycanopy.com/2025/07/Integrated-Fresh-Air-System.jpg", "alt": "顶置可调控室内空气对流循环清新器说明" },
+        { "title": "精密数控垂直无缝切割技术", "desc": "所有板材接缝均经 CNC 垂直精细切边处理，咬合极度丝滑致密，从根源上斩断蚊虫与微尘钻入可能。", "img": "https://img.polycanopy.com/2025/07/Precision-CNC-Cutting-with-Perfect-Seal.jpg", "alt": "激光零公差对缝数控裁切截面咬合展示" },
+        { "title": "高寿命共挤 UV 防老化耐力板", "desc": "核心壳体采用高端添加剂与均匀 UV 共挤层，保证在长年暴晒环境下依然高透明、不脆化、不发黄。", "img": "https://img.polycanopy.com/2025/07/UV-Coated-Panel-Comparison.jpg", "alt": "高端板材表面单侧UV共挤防紫外线层耐候对比" },
+        { "title": "反向紫外线红外线反射控温", "desc": "透明耐力板自带热辐射隔绝属性，有效降低夏日刺眼强光对室内的直射，阻断 Formaldehyde 污染。", "img": "https://img.polycanopy.com/2025/07/Dome-Installation-at-Mountain-Resort.jpg", "alt": "抗UV强日光下室内保持温和照度性能" },
+        { "title": "标准 2–3 小时极速场地拼装", "desc": "全模块化拼装出厂，现场无需焊接，几小时即可组装完毕，并支持多舱之间的一体化通道无缝串联。", "img": "https://img.polycanopy.com/2025/07/quick-assembly.jpg", "alt": "工程技术人员在施工现场快速模块化拼接穹顶" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/High-Strength-Aluminum-Side-Frame.jpg",
+      "imgAlt": "全结构级加强铝合金侧向支撑龙骨框架，在台风侧压下提供稳固形变防御",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Structural-Diagram-of-Dome-House-with-LED-Aluminum-Frame-and-UV-Panel-1024x976.jpg",
+      "diagramAlt": "多层物料深度解析透视图：包含隐藏式LED灯槽、搭接防水檐及高强度的螺栓锚固点",
+      "models": ["数控机械精密 V 缝激光无公差切割技术", "集成式顶部多级空气循环清新通风换气系统", "IP65 等级全硅胶胶囊封装高显色双色 LED 灯带轨道"]
+    },
+    "challenges": {
+      "title": "解决真实户外挑战 —— 赋予极高的视觉增值",
+      "subtitle": "无需巨额广告，即可自带传播效应的网红星空营地舱：",
+      "points": [
+        "自带裂变属性的景区打卡景观房",
+        "网红咖啡厅露台、商用卡座或花园私密茶室的绝佳选择",
+        "支持个性化品牌标识、软装方案深度定制"
+      ]
+    },
+    "allProjectsImg": "https://img.polycanopy.com/2025/07/Dome-House-Showcased-at-Exhibition.jpg",
+    "allProjectsAlt": "PolyCanopy 智能工厂超级供应链与景区重大工程施工总览",
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Night-View-of-the-Stargazing-Room-with-Ambient-Lighting.jpg", "alt": "夜幕降临后亮起温馨低压柔和LED氛围灯效的野奢网红露营房" },
+      { "img": "https://img.polycanopy.com/2025/07/Inside-View-of-Glamping-Dome-with-Pink-Curtain.jpg", "alt": "从内部透过精美遮阳窗帘向外远眺山景的极佳全景视觉视角" },
+      { "img": "https://img.polycanopy.com/2025/07/Outside-View-into-the-Stargazing-Room-with-Pink-Drapes.jpg", "alt": "外围视角透视室内精美软装与遮阳帘的高透明外壳展示" },
+      { "img": "https://img.polycanopy.com/2025/07/Interior-of-the-Stargazing-Room-with-Bed-for-Glamping-Stay.jpg", "alt": "适合Airbnb和度假屋投放的带舒适大床的星空房全景寝室间布局" },
+      { "img": "https://img.polycanopy.com/2025/07/Glamping-Dome-Bed-Area-Viewed-from-Alternate-Anglev.jpg", "alt": "另一侧角度特写展示的星空房大空间民宿卧室软装实景" },
+      { "img": "https://img.polycanopy.com/2025/07/Exterior-View-of-the-Modular-Polycarbonate-Stargazing-Room.jpg", "alt": "全透光星空泡泡屋室外全景外观与高耐久高刚性地脚地盘系统" },
+      { "img": "https://img.polycanopy.com/2025/07/Ventilation-System-on-the-Dome-Roof-of-the-Polycarbonate-Glamping-Room.jpg", "alt": "穹顶顶部高精度阻漏机械排风换气系统模块外观" },
+      { "img": "https://img.polycanopy.com/2025/07/Modular-Connection-for-Indoor-Linking.jpg", "alt": "多台星空房之间通过专属门洞连廊形成的多房连体组合结构案例" }
+    ],
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "点击下载 PolyCanopy 全景星空房工程设计选型画册 (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20dome%20products",
+      "whatsappText": "通过 WhatsApp 与我厂资深结构工程师一对一核算报价"
+    },
+    "testimonials": [
+      { "name": "Emily Zhao", "role": "精品度假酒店主理人", "text": "PolyCanopy 全景星空房彻底改变了我们营地的客单价，每到周末都会吸引大量网红博主来拍照打卡。安装速度极快，在山顶历经数次暴风暴雨依然稳固如初。" },
+      { "name": "Olivier Dubois", "role": "野奢营地景区工程总监", "text": "我们的客户非常喜欢这种360°全透明的无死角视野。内置的隐形LED灯带和智能空气循环换气系统让荒野露营也能享受星级酒店的奢华体验。" },
+      { "name": "Maria Gonzalez", "role": "网红花园餐厅主理人", "text": "我们在户外露台放置了两台全景舱，直接让餐厅成了全城爆款。弧形无缝面板极易打理，落叶污垢一冲即净，白天的自然采光非常舒适。" },
+      { "name": "Jack Li", "role": "野外露营基地负责人", "text": "这套穹顶房的抗压和抗风锚固设计让人极其安心。即使在山顶遭遇大风肆虐，内部也毫无晃动或异响，强力推荐文旅景区采用。" }
+    ]
+  },
+  "terrace-canopy": {
+    "title": "全铝合金聚碳酸酯露台车棚雨棚",
+    "tags": ["户外雨棚", "防晒抗紫外线"],
+    "subtitle": "首页 » 产品 » Terrace Canopy Design – Sizes, Materials & Frame Types",
+    "desc": "PolyCanopy 现代露台前檐雨棚天篷系统采用高强度的抗冲击聚碳酸酯耐力板材与防锈蚀航空铝骨架匠心打造。在为建筑物出入口、阳台及遮阳露台提供强力抗风遮雨基础的同时，更完美交融于现代建筑外观。全系采用优质耐候主材，专为长效户外商用及住宅安全而生。",
+    "welcome": "精心设计的露台雨棚不仅能保护您的出入口或前方区域免受日晒雨淋，还能提升建筑物的整体外观。无论是用于住宅、别墅、商业建筑还是店铺，采用 Polycanopy 聚碳酸酯板和铝合金框架建造的现代雨棚都具有经久耐用、功能齐全和美观大方的特点。我们使用来自值得信赖供应商的优质原材料，并进行精密制造，以确保强健的结构和长效的户外性能。",
+    "image": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+    "globalProjectsAlt": "全楼层阳台及出入口均标准化安装了PolyCanopy聚碳酸酯铝合金雨棚的现代多层别墅实景",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg",
+    "designSketchAlt": "直观标注L型直角雨棚与R型圆弧雨棚在墙壁悬挂及伸展深度上的工程设计对比图",
+    "features": [
+      { "title": "专业级防紫外线涂层", "desc": "精选高分子聚碳酸酯实心面板，表面带有高质量单侧 UV 共挤层，在科学防晒、阻止紫外线透过的同时，保持长达10年的高透明度与不脆化性能。", "img": "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg", "alt": "在专业紫外线手电筒直射下，清晰展示出带有防紫外线UV层的聚碳酸酯实心耐力板" },
+      { "title": "建筑级原生全铝龙骨", "desc": "采用高硬度 6063 原生挤压防腐铝合金型材，在提供优异的机械抗风、长效承重性能的同时，赋予遮阳棚极简奢华的视觉边缘线条。", "img": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg", "alt": "雨棚内部全金属框架精密细节展示，彰显高品质铝合金型材与锁扣组件工艺" },
+      { "title": "独家选配项：顶部检修窗", "desc": "为高频维护区域或景区提供创新的可开合/预留顶部检修维护视窗。无需将整体框架大面积拆卸，即可轻松对内部排水槽、落叶、杂物进行快速清理。", "img": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg", "alt": "带有预留顶部检修窗的聚碳酸酯雨棚，方便日常维护和清理" },
+      { "title": "重力斜导式排水系统", "desc": "每个规格均经过深度的流体力学计算，集成式导水大梁无缝连结标准双路落水管，确保暴雨侵袭下出入口绝不发生积水倒灌。", "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg", "alt": "立柱支撑挂墙式雨棚的面积测量与计算方法示意图，展示了基于挂墙和探出长度的L型和R型公式" }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+      "frameAlt": "雨棚中使用的金属框架细节视图，展示了高品质的铝合金型材和组件",
+      "roofsImg": "https://img.polycanopy.com/2025/07/Solid-Polycarbonate-Sheet-Showing-UV-Protection-Under-UV-Flashlight.jpg",
+      "roofsAlt": "紫外线手电筒照射下的聚碳酸酯实心板，清晰展示其防紫外线保护层",
+      "colors": [
+        { "name": "紫铜咖啡" },
+        { "name": "工业黑灰" },
+        { "name": "经典乳白" },
+        { "name": "黄金橡木" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg",
+      "waterproofAlt": "带有预留顶部检修窗的聚碳酸酯雨棚，方便日常维护和清理",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/modern-villa-with-full-terrace-aluminum-frame.jpg",
+      "poolCustomAlt": "全楼层阳台及出入口均标准化安装了PolyCanopy聚碳酸酯铝合金雨棚的现代多层别墅实景"
+    },
+    "specsTitle": "雨棚技术指标参数与标准化配置看板",
+    "specs": [
+      { "title": "结构造型方案", "desc": "支持 R-type 圆弧型 / L-type 极简直角型双重外观选择。" },
+      { "title": "骨架型材颜色", "desc": "紫铜咖啡 / 工业黑灰 / 经典乳白 / 黄金橡木仿真木纹。" },
+      { "title": "耐力板材颜色", "desc": "浅烟灰 / 中烟灰 / 深烟灰 / 湖蓝 / 茶色 / 水晶全透明。" },
+      { "title": "高标准航空铝材", "desc": "采用 6063 A级建筑铝材：主受力位厚度达 2.0mm，非主位厚度 1.2-2.0mm。" },
+      { "title": "德国拜耳面板", "desc": "全新德国拜耳纯料聚碳酸酯面板，可选配 2.0mm / 3.0mm 物理厚度。" },
+      { "title": "科学骨架主梁", "desc": "跨度 6 米内标配 2 根主梁（等长于雨棚总宽）；超出 6 米每递增 3 米追加一根加强梁。" },
+      { "title": "雨水导流管路", "desc": "标配完整截水、落水系统：含一条大梁截水槽及一根标准 3 米垂直落水管。" },
+      { "title": "系统配件集成", "desc": "出厂随货标配工程专用不锈钢膨胀螺丝、防渗漏胶条等全套组装辅料配件。" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg",
+      "roofStylesAlt": "横向图解展示了L型和R型露台雨棚之间的结构设计差异，包括挂墙和探出视图",
+      "details": [
+        { "title": "L型极简现代雨棚", "desc": "干净平直的几何线条布局，形成优雅的“L”形直角棚头。完美契合现代主义建筑，适合无缝平齐挂墙安装。", "img": "https://img.polycanopy.com/2025/07/Design-Diagram-of-L-Type-and-R-Type-Terrace-Canopies-1024x188.jpg" },
+        { "title": "R型圆弧装饰雨棚", "desc": "带有物理弯曲弧度的“R”形圆弧棚头。提供更深远的探出遮蔽面积，视觉线条柔和，自带高端古典装饰质感。", "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg" },
+        { "title": "传统免拆卸检修视窗", "desc": "系统可在顶板部分选配预留专用的检修小窗。在长效户外服役中，无需大面积拆框架即可快速清理落叶与天沟落水管杂物。", "img": "https://img.polycanopy.com/2025/07/Optional-Top-Inspection-Window-on-Canopy-for-Easy-Maintenance.jpg" }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Structural-Analysis-of-the-Canopy-Aluminum-Frame-728x1024.jpg",
+      "imgAlt": "雨棚中使用的金属框架细节视图，展示了高品质的铝合金型材和组件",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+      "diagramAlt": "立柱支撑挂墙式雨棚的面积测量与计算方法示意图",
+      "models": ["L-Type 直角极简系列", "R-Type 经典弧形系列", "6063-T5 2.0mm 重载铝型材"]
+    },
+    "challenges": {
+      "title": "直面极端户外恶劣气候 —— 实现建筑物资产跨越式增值",
+      "subtitle": "专为改善房屋门檐及露台环境开发的模块化盖顶天篷：",
+      "points": [
+        "彻底解决门口因暴雨积水导致木质大门/铜门发生锈蚀、变形、漆面剥落的头疼问题",
+        "长效过滤 99% 的破坏性强紫外线，完美对暴露在外的豪车、高档皮质户外沙发提供防老化庇护",
+        "全模块可延伸拼接，多组雨棚单元可无缝无限接轨扩展，轻松覆盖广大户外休闲场地"
+      ]
+    },
+    "cta": {
+      "title": "准备深入了解工程参数或定制您的方案？",
+      "subtitle": "下载我们的工程设计手册，或通过在线即时通讯直接与全球销售工程师团队沟通。",
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "点击下载 PolyCanopy 全系列雨棚设计工程手册 (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20polycanopy%20terrace%20canopy%20products",
+      "whatsappText": "通过 WhatsApp 快速获取我厂雨棚精准报价与深化图纸"
+    },
+    "testimonials": [
+    { "name": "Marnix", "role": "荷兰项目经理", "text": "这款露台雨棚与我们的建筑风格完美融合，整体建造质量非常出色。" },
+    { "name": "Annarita Trotta", "role": "意大利建筑事务所", "text": "既坚固又优雅，是提升户外生活空间品质的绝佳解决方案。" }
+  ]
+  },
+  "polycarbonate-carport": {
+    "title": "重载全铝合金聚碳酸酯车棚车库雨棚",
+    "tags": ["全铝车棚", "抗台风防暴雪"],
+    "subtitle": "首页 » 产品 » 聚碳酸酯车棚 | 耐用防紫外线停车棚",
+    "desc": "PolyCanopy 重载全铝合金车棚采用高强度铝合金框架与 100% 德国拜耳/沙比克纯料聚碳酸酯板材，兼具卓越强度与优雅外观。无论您是保护一辆车还是两辆车，我们提供丰富的款式选择——单侧基础型、Y 型、M 型、悬臂式及 S 型——每一款都兼顾美观、抗风与全天候耐久性。",
+    "welcome": "欢迎了解 PolyCanopy 现代聚碳酸酯车棚——抗紫外线、安装便捷、采用耐用铝合金框架。为您的爱车提供全方位保护。我们严选全球优质供应商原材料，通过精密制造确保卓越强度与长效户外性能。",
+    "image": "https://img.polycanopy.com/2025/07/Y-Shaped-Polycarbonate-Carport-with-Blue-Solid-Sheet.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Elegant-S-Shaped-Single-Sided-Polycarbonate-Carport-for-Two-Vehicles.jpg",
+    "globalProjectsAlt": "优雅的 S 形车棚结构，展示 PolyCanopy 聚碳酸酯雨棚风格与铝合金框架",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/custom-carport-design-sketch-with-dimensions-length-width-and-height-1024x642.jpg",
+    "designSketchAlt": "展示可自定义尺寸（长宽高）的车棚初步设计草图，展示量身定制的定制设计能力。",
+    "features": [
+      { 
+        "title": "单侧基础车棚 (Single)", 
+        "desc": "空间有限的理想之选。可容纳一辆车，沿墙或作为独立单元安装，便捷实用。", 
+        "img": "https://img.polycanopy.com/2025/07/various-carport-designs-for-different-vehicle-types-single-side-y-type-s-type-m-type-and-more-655x1024.jpg", 
+        "alt": "不同车棚结构示意图，包含单侧、Y 型、S 型和 M 型设计，适用于各种车型和停车需求。" 
+      },
+      { 
+        "title": "双车位 Y 型车棚 (Y-Type)", 
+        "desc": "采用中央立柱延伸臂设计——保护两辆车的同时保持开阔空间。", 
+        "img": "https://img.polycanopy.com/2025/07/reinforced-polycarbonate-carport-structure-windproof-fire-resistant-walkable-roof.jpg", 
+        "alt": "聚碳酸酯铝合金车棚结构组件特写，展示 4mm 厚立柱、3mm 弧形梁、德国进口聚碳酸酯屋顶及抗风防火性能说明。" 
+      },
+      { 
+        "title": "全铝防腐型材骨架", 
+        "desc": "高强度铝合金框架：防腐涂层、强承重内层及快速散热核心。4mm 厚支撑立柱可抵御 12 级台风。", 
+        "img": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg", 
+        "alt": "铝合金框架截面图" 
+      },
+      { 
+        "title": "多色纯进口耐力盖板", 
+        "desc": "多种聚碳酸酯颜色可选。采用 100% 拜耳/沙比克原生原料，意大利 Omipa 挤出线生产。UV 防护层有效阻隔有害射线。", 
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg", 
+        "alt": "各种颜色的聚碳酸酯板材" 
+      }
+    ],
+    "materials": {
+      "frameImg": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+      "frameAlt": "铝合金框架截面图",
+      "roofsImg": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+      "roofsAlt": "各种颜色的聚碳酸酯板材",
+      "colors": [
+        { "name": "单侧基础型 (3m x 5.5m x 3m)" },
+        { "name": "Y 型中央联动 (6m x 5.5m x 3m)" },
+        { "name": "M 型双拱一体 (6m x 5.5m x 3m)" },
+        { "name": "双位纵向中接 (3m x 11m x 3m)" }
+      ],
+      "waterproofImg": "https://img.polycanopy.com/2025/07/Aluminum-Alloy-Frame-COLOR.jpg",
+      "waterproofAlt": "各种颜色的铝合金框架",
+      "poolCustomImg": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg",
+      "poolCustomAlt": "聚碳酸酯车棚结构分解图，展示标注组件包括前框架、侧框架、压条、副框架、弧形梁、支撑柱和排水沟"
+    },
+    "specsTitle": "车棚骨架规格选型与泊位承载能力看板",
+    "specs": [
+      { "title": "Single 单侧基础舱", "desc": "宽：3m | 长：5.5m | 高：3m | 容量：1 辆车" },
+      { "title": "Y-joint 中央联动舱", "desc": "宽：6m | 长：5.5m | 高：3m | 容量：2 辆车" },
+      { "title": "M-joint 双拱一体舱", "desc": "宽：6m | 长：5.5m | 高：3m | 容量：2 辆车" },
+      { "title": "2-joint 纵向中接舱", "desc": "宽：3m | 长：11m | 高：3m | 容量：2 辆车" },
+      { "title": "1 Channel 单通道商用舱", "desc": "宽：3m | 长：5.5m | 高：3m | 容量：1 辆车" },
+      { "title": "2 Channel 双通道集约舱", "desc": "宽：6m | 长：11m | 高：3m | 容量：4 辆车" },
+      { "title": "S-type 唯美悬挂舱", "desc": "宽：3m | 长：5.5m | 高：3m | 容量：1 辆车" },
+      { "title": "Cantilever 悬臂重载舱", "desc": "宽：3m | 长：5.5m | 高：4.5m | 容量：1 辆车" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/various-carport-designs-for-different-vehicle-types-single-side-y-type-s-type-m-type-and-more-655x1024.jpg",
+      "roofStylesAlt": "不同车棚结构示意图，包含单侧、Y 型、S 型和 M 型设计",
+      "details": [
+        { 
+          "title": "M 型双拱车棚", 
+          "desc": "双拱一体化设计，现代百搭，适用于住宅和商业用途。", 
+          "img": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg" 
+        },
+        { 
+          "title": "悬臂重载车棚", 
+          "desc": "悬挂式支撑设计，地面空间开阔无障碍——现代建筑的理想之选。", 
+          "img": "https://img.polycanopy.com/2025/07/custom-carport-design-sketch-with-dimensions-length-width-and-height-1024x642.jpg" 
+        },
+        { 
+          "title": "S 型唯美车棚", 
+          "desc": "优雅弧形顶部设计，提升美观度。深受追求功能与设计感的家庭欢迎。", 
+          "img": "https://img.polycanopy.com/2025/07/Elegant-S-Shaped-Single-Sided-Polycarbonate-Carport-for-Two-Vehicles.jpg" 
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Aluminum-frame.jpg",
+      "imgAlt": "铝合金框架截面图",
+      "diagramImg": "https://img.polycanopy.com/2025/07/structural-overview-of-polycarbonate-carport-full-component-breakdown.jpg",
+      "diagramAlt": "聚碳酸酯车棚结构分解图，展示标注组件包括前框架、侧框架、压条、副框架、弧形梁、支撑柱和排水沟",
+      "models": ["超 10 年产品耐久性", "尺寸和款式完全可定制", "工业级铝合金型材与聚碳酸酯面板"]
+    },
+    "challenges": {
+      "title": "为什么选择我们的车棚？",
+      "subtitle": "从现代住宅到商业停车场，我们的车棚以卓越的耐久性和设计赢得全球信赖。",
+      "img": "https://img.polycanopy.com/2025/07/S-Curve-Suspended-Polycarbonate-Carport-with-Black-Solid-Roof.jpg",
+      "alt": "优雅的 S 形车棚结构",
+      "points": [
+        "超 10 年产品耐久性，抵御强台风和暴雪荷载。",
+        "墙长、挑出深度和高度尺寸均可全面定制。",
+        "工业级 4mm 厚铝合金立柱与意大利 Omipa 挤出聚碳酸酯面板。",
+        "安装简便，维护成本极低，工厂直销价格，支持国际运输。"
+      ]
+    },
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Structural-Aluminum-Profiles-and-Dimensions-for-Single-Sided-Polycarbonate-Carport.jpg", "alt": "PolyCanopy 单侧聚碳酸酯车棚的详细铝合金型材和规格，展示尺寸和结构组件" },
+      { "img": "https://img.polycanopy.com/2025/07/Single-Sided-Polycarbonate-Carport-with-Deep-Blue-Roof-Panel.jpg", "alt": "深蓝色聚碳酸酯屋顶的现代单侧车棚" },
+      { "img": "https://img.polycanopy.com/2025/07/Bike-Shelter-with-Light-Blue-Solid-Polycarbonate-Sheet-Covering-Multiple-Bicycles.jpg", "alt": "一排自行车停放在浅蓝色实心聚碳酸酯板自行车棚下" },
+      { "img": "https://img.polycanopy.com/2025/07/S-Curve-Suspended-Polycarbonate-Carport-with-Black-Solid-Roof.jpg", "alt": "优雅的 S 形黑色实心聚碳酸酯板悬挂式车棚" },
+      { "img": "https://img.polycanopy.com/2025/07/Single-Bike-Polycarbonate-Canopy-at-Villa-Entrance-with-Light-Blue-Solid-Sheet.jpg", "alt": "别墅入口处安装的浅蓝色透明实心聚碳酸酯板自行车棚" },
+      { "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-with-Black-Solid-Sheet-for-Villa.jpg", "alt": "安装在别墅楼宇间的黑色实心聚碳酸酯板悬挂式车棚" },
+      { "img": "https://img.polycanopy.com/2025/07/Underside-View-of-Suspended-Black-Polycarbonate-Carport.jpg", "alt": "黑色实心聚碳酸酯屋顶悬挂式车棚仰视图" },
+      { "img": "https://img.polycanopy.com/2025/07/Y-Shaped-Polycarbonate-Carport-with-Blue-Solid-Sheet.jpg", "alt": "蓝色实心聚碳酸酯屋顶的现代 Y 型车棚" }
+    ],
+    "cta": {
+      "downloadUrl": "https://img.polycanopy.com/Starry%20Sky%20Room%20by%20PolyCanopy.pdf",
+      "downloadText": "下载 PolyCanopy 车棚选型目录 (PDF)",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20carport%20products",
+      "whatsappText": "通过 WhatsApp 获取免费实时咨询"
+    },
+    "testimonials": [
+    { "name": "Gyan Flora", "role": "科威特住宅开发商", "text": "这款聚碳酸酯车棚在当地的高温和沙尘暴环境下表现依然稳健，非常耐用。" },
+    { "name": "墨西哥客户", "role": "私人业主", "text": "安装过程非常直接简单，其耐用性令人印象深刻，超出了预期。" }
+  ]
+  },
+  "inside-corner-canopy": {
+    "title": "模块化聚碳酸酯全铝内角防雨棚",
+    "tags": ["转角雨棚", "内角无缝防护"],
+    "subtitle": "首页 » 产品 » 现代建筑内角嵌入式全铝防雨天篷",
+    "desc": "PolyCanopy 专为建筑凹槽及内角空间量身定制的无缝防雨棚系统。采用高耐力聚碳酸酯板与防锈铝合金骨架，完美填充建筑物内角死角，提供极致的防水覆盖与优雅的建筑线条感。",
+    "welcome": "精心设计的内角雨棚专为两面墙体形成的内凹角空间而设计。这些结构在提供连续防雨保护的同时，完美保留了建筑外立面的视觉和谐，是住宅、商业建筑、公寓楼及办公室凹槽空间的理想全天候防护方案。我们使用来自全球信赖供应商的优质原材料，并进行精密制造，以确保强健的结构与长效的户外性能。",
+    "image": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Bottom-View-of-Internal-Corner-Canopy-with-Light-Blue-Panel.jpg",
+    "globalProjectsAlt": "从下方仰视安装在现代建筑内角处的淡蓝色聚碳酸酯雨棚，展示其无缝贴合的锁扣结构",
+    "designSketchImg": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+    "designSketchAlt": "详细展示转角雨棚集成的全铝合金排水管路系统构造与挂墙连接处的工程细节图",
+    "features": [
+      {
+        "title": "铝型材结构型号 & 选配",
+        "desc": "根据工程跨度需求和区域抗风规范选择合适的结构主骨架。我们提供个性化型材制造方案，满足高密度承载要求。",
+        "img": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+        "alt": "带有集成排水管路系统的嵌入式建筑内角雨棚外立面特写"
+      },
+      {
+        "title": "我们内角雨棚的核心材质优势",
+        "desc": "PolyCanopy 嵌入式防雨天篷由行业旗舰级物料构成：\n• 聚碳酸酯耐力板：具备极高抗冲击强度、卓越的共挤UV防晒层以及水晶透光度 (https://polycanopy.com/products/#Polycarbonate)\n• 静电喷涂铝合金骨架：航空级防锈性能，自重轻盈且坚固经久耐用 (https://polycanopy.com/products/#Aluminum)",
+        "img": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+        "alt": "完美严丝合缝紧贴于建筑物内角死角的窗台聚碳酸酯全铝防护雨棚"
+      }
+    ],
+    "specsTitle": "多元化建筑应用场景",
+    "specs": [
+      { "title": "阳台缝隙与L型外走廊", "desc": "为住宅或高层公寓楼错落的凹进式步道通道，提供连续不渗漏的无缝防雨保障。" },
+      { "title": "临街商业店铺门面", "desc": "定制化拐角高档遮阳，在消灭转角积水隐患的同时，跨越式升级沿街橱窗的商业质感。" },
+      { "title": "校园建筑与写字楼中庭露台", "desc": "为公共教育与商务办公中庭提供重载级户外遮阳，开拓安全的角落休息与交流庇护区。" },
+      { "title": "凹陷死角处的地下车库出入口", "desc": "通过科学的集水天沟，在车辆下坡拐弯的关键轨迹处精准导流暴雨，防止水漫车道。" }
+    ],
+    "precision": {
+      "roofStylesImg": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg",
+      "roofStylesAlt": "从主门廊精准顺延至外部安全出口的连续聚碳酸酯防雨连廊廊道天篷",
+      "details": [
+        {
+          "title": "需要客制化专属雨棚方案？",
+          "desc": "无论您面对多么棘手狭窄的建筑不规则内角，或者需要从零开始深化排布，PolyCanopy 均能为您精准客制化所需结构。我们全量支持：独特的转角多维尺寸与斜异形夹角定制、极速的工厂直销供应链体系与极具竞争力的价格、并提供全套 CAD 深化图纸协助和技术出海对接。",
+          "img": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Internal-Corner-Polycarbonate-Window-Canopy.jpg",
+      "imgAlt": "嵌入式高精度转角窗棚在复杂工程节点上的细节图",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Polycarbonate-Corner-Canopy-with-Drainage-System.jpg",
+      "diagramAlt": "带不锈钢加固锚定点的集成导水管雨棚外部构造图",
+      "models": ["个性化型材多维夹角制造方案", "挂墙式单边隐形支撑受力结构", "CAD 工程深化与全球图纸技术协助"]
+    },
+    "challenges": {
+      "title": "我们的内角天篷优势 —— 完美降伏不规则建筑死角",
+      "subtitle": "专为填充内凹形建筑立面、消灭雨水倒灌痛点研发的隐形龙骨雨棚：",
+      "points": [
+        "隐形支撑集成：承重主横梁无缝嵌入隐藏在凹陷结构内壁，带来极为干净的现代建筑极简美学",
+        "延展防雨覆盖面：针对尴尬角落提供一体化密封，有效疏导集中汇聚的重力雨水，防积水回弹",
+        "大厂直销重载物料：精选 Omipa 意大利挤压线产耐力板，搭配 6063 航空级加厚静电粉末喷涂全铝框"
+      ]
+    },
+    "cta": {
+      "title": "准备深入了解工程参数或定制您的方案？",
+      "subtitle": "下载我们的工程设计手册，或通过在线即时通讯直接与全球销售工程师团队沟通。",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20inside%20corner%20canopy%20products",
+      "whatsappText": "通过 WhatsApp 快速获取我厂雨棚精准报价与深化图纸"
+    },
+    "testimonials": [
+    { "name": "李经理", "role": "国内商业地产开发商", "text": "完美的转角设计，解决了建筑外立面内角处的排水和遮阳难题，安装后的贴合度极高。" },
+    { "name": "陈先生", "role": "高端别墅业主", "text": "专门为转角位置定制的结构，不仅功能性强，外观看起来也非常高端大气。" }
+  ]
+  },
+  "polycarbonate-window-canopy": {
+    "title": "定制聚碳酸酯窗棚门遮阳天篷",
+    "tags": ["门头遮阳棚", "加宽集成天沟"],
+    "subtitle": "首页 » 产品 » Polycarbonate Window Canopy & Door Awning – Direct From Factory",
+    "desc": "寻找适用于店面或住宅窗户的可靠且现代的雨棚解决方案？我们的 L 型和 R 型聚碳酸酯雨棚采用优质材料客制化打造，并配备完整的排水和安装系统。探索完整细节，见证我们工厂为您交付值得信赖的高品质产品。",
+    "welcome": "我们的聚碳酸酯雨棚是现代住宅、沿街店面、咖啡厅和商业入口的完美解决方案。无论是用作窗棚还是门头遮阳篷，该产品都能提供可靠的防晒和防雨保护，并具有时尚、美观的外观。我们提供两种结构类型：L 型（流线型设计，是大多数安装的理想选择）以及 R 型（圆弧曲线设计，带来更具层次的建筑美学）。",
+    "image": "https://img.polycanopy.com/2025/07/Horizontal-Beam-Style-Canopy-Installed-Above-Balcony-Entrance.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Horizontal-Beam-Style-Canopy-Installed-Above-Balcony-Entrance.jpg",
+    "globalProjectsAlt": "现代多层高档住宅阳台门檐出入口处完美组装完工的平直横梁式聚碳酸酯全铝遮阳棚实景",
+    "features": [
+      {
+        "title": "耐用现代的设计与灵活的配置",
+        "desc": "我们的聚碳酸酯雨棚是现代住宅、店面、咖啡馆 and 商业入口的完美解决方案。无论是用作窗棚还是门头雨棚，该产品都能以时尚、现代的外观提供可靠的防晒防雨保护。我们提供两种结构类型：L型（流线型，适合大多数安装需求）以及 R型（弯曲弧形设计，用于提升建筑美感）。精准的产品尺寸可帮助您选择适合您空间的雨棚。我们的设计针对各种窗户和门的大小进行了量身定制。",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-window-door-canopy-dimensions-detailed-size-char.jpg",
+        "alt": "精确标注跨度、突出探出深度、挂墙受力高度以及角度排布的门窗雨棚规格尺寸与造型工程看板"
+      },
+      {
+        "title": "完整的安装流程 —— 简单安全",
+        "desc": "我们提供完整的图解分步安装指南，配有12步清晰的可视化组装流程，确保您的雨棚架设既安全又高效。该设计同时兼顾了自主 DIY 组装与专业工程施工的便利性。",
+        "img": "https://img.polycanopy.com/2025/07/step-by-step-installation-guide-polycarbonate-canopy.jpg",
+        "alt": "聚碳酸酯门窗雨棚安装步骤，展示完整的12步安装指南流程图"
+      },
+      {
+        "title": "源头工厂自研铝材加工工艺",
+        "desc": "作为实体源头大厂，我们严格控制每一道核心工序。我们的团队全量采用 6063 铝合金型材，确保结构拥有极高的机械强度与长效寿命。框架经过精心制造加工，专为建筑结构安全与长期的户外绝佳性能而生。工厂内的精密裁切与专业加工确保了卓越的耐久性与顶级大厂品质。",
+        "img": "https://img.polycanopy.com/2025/07/aluminum-frame-fabrication-professional-canopy-manufacturing.jpg",
+        "alt": "车间技术工人使用精密数控切削加工设备对遮阳棚 6063 铝合金主骨架进行多维度打孔裁切"
+      },
+      {
+        "title": "铝型材结构型号 & 选配 (L型平直系列)",
+        "desc": "根据工程跨度需求和区域抗风规范选择合适的结构主骨架。我们提供个性化型材制造方案，满足高密度承载要求。L型设计具有干净、直接的墙面贴合线条，非常适合扁平简约的视窗覆盖需求。",
+        "img": "https://img.polycanopy.com/2025/07/l-type-polycarbonate-canopy-cross-sectional-structure.jpg",
+        "alt": "L型窗用极简平直铝合金遮阳棚骨架型材内部加强空腔剖面图"
+      },
+      {
+        "title": "铝型材结构型号 & 选配 (R型圆弧系列)",
+        "desc": "根据工程跨度需求和区域抗风规范选择合适的结构主骨架。我们提供个性化型材制造方案，满足高密度承载要求。R型设计则带有优雅的抛物线弯曲弧度，在升级外立面层次的同时实现了极佳的平滑水流引导与雨水向外分散性能。",
+        "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type.jpg",
+        "alt": "具有高效流体抛物线排水特性的R型经典圆弧形门窗天篷横截面剖析结构图"
+      },
+      {
+        "title": "全组件细分看板 —— 满足您所需的一切",
+        "desc": "每个出厂的雨棚套件均配有完整的核心配件包和所有必需的安装紧固件，并且每个材料包均带有清晰的标记，极其便于现场清点与识别。全套托架、型材与锁扣组件确保了快速、稳固的锚固安装。没有零配件缺失，没有现场穿帮惊喜。",
+        "img": "https://img.polycanopy.com/2025/07/exploded-view-of-polycarbonate-canopy-components-full-parts-overview.jpg",
+        "alt": "门窗雨棚全套散件爆炸图，清晰展示加厚支架、铝合金前后大梁、耐力板材及固定压条全螺栓连接逻辑"
+      },
+      {
+        "title": "高效排水系统 —— 告别门头积水",
+        "desc": "我们的防雨遮阳篷系统集成了隐形排水沟与垂直落水管，能非常科学地控制重力雨水排放并防止顶层雨水溢流。独立的导流管路确保了在雨季期间的水流顺畅。得益于我们加宽加深的天沟槽设计，彻底消灭了管道堵塞、雨水飞溅和门口积水的痛点。",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-canopy-drainage-system-gutter-and-downpipe-design.jpg",
+        "alt": "高光展示连结铝骨架的无缝内置加宽截水槽天沟以及大流量落水歧管的流体力学构造细节"
+      },
+      {
+        "title": "如何为您的建筑雨棚精准测量",
+        "desc": "为了获得完美的安装贴合度，在下达定制订单前，请务必参考我们的测量指南来测定您理想的轴线轴深尺寸。准确的现场测量不仅能够保障无缝的套模拼装，还能为下方空间实现最大化的覆盖保护区域。",
+        "img": "https://img.polycanopy.com/2025/07/Measurement-and-Calculation-Method-for-Post-Supported-Canopy-Wall-Mounted-Type-707x1024.jpg",
+        "alt": "挂墙式及立柱支撑式门窗雨棚的面积测量与长宽深计算公式方法示意图"
+      },
+      {
+        "title": "颜色选项与材料规格详细指标",
+        "desc": "产品型号：L-type 直角型 / R-type 圆弧型\n骨架型材颜色：紫铜咖啡 / 工业黑灰 / 经典乳白 / 黄金橡木仿真木纹\n耐力面板颜色：浅烟灰 / 中烟灰 / 深烟灰 / 湖蓝 / 茶色 / 水晶全透明\n\n核心主材明细：\n• 铝合金龙骨：建筑级 6063 合金，主受力位厚度 2.0mm，次要辅位 1.2–2.0mm。\n• 聚碳酸酯面板：100% 德国拜耳全新料，可选配 2.0mm 或 3.0mm 物理厚度。\n• 横梁大梁系统：6米跨度内标配双大梁，超出6米长度后每递增3米追加一根加强主梁。\n• 排水系统：标准化双落水管管路（包含一整条主框架贯穿截水槽 + 3米标准垂直落水管）。\n\n请注意：本产品为高端定制工程类产品，页面图片仅供设计参考。请在正式下单前联系我们的工程师团队进行方案确认。",
+        "img": "https://img.polycanopy.com/2025/07/polycarbonate-sheet-color.jpg",
+        "alt": "在自动化工厂内整齐排布、涵盖浅烟灰、湖蓝等多种阻燃耐冲击的客制化耐力板色卡"
+      },
+      {
+        "title": "生产厂家源头直供 —— 值得信赖的品质与全栈支持",
+        "desc": "我们是实体源头核心制造工厂，为您提供全流程的深化设计、精密生产与跨国供应链物流支持。没有任何中间商赚差价，彻底消除成本虚高。无论您是零售贸易商、工程建筑商还是私人别墅豪宅的 DIY 改良业主，我们都是您最坚实的出海战略合作伙伴。欢迎联系我们进行大宗采购询价、客制化尺寸定制或深度的建筑工程技术咨询！",
+        "img": "https://img.polycanopy.com/2025/07/Premium-Polycarbonate-Resin-and-UV-Protection-Additives-Bayer-or-Sabic.jpg",
+        "alt": "出厂前堆叠整齐、通过质检看板认证的全新拜耳原厂耐力板颗粒母料成品"
+      }
+    ],
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Transparent-Polycarbonate-Window-Canopy-Installed-Above-Window.jpg", "alt": "工程透视图展示了在窗户和门上方的全透明聚碳酸酯窗棚结构" },
+      { "img": "https://img.polycanopy.com/2025/07/Transparent-Polycarbonate-Canopy-Design-for-Door-and-Window-Areas.jpg", "alt": "安装在住宅窗台上的全透明聚碳酸酯遮阳棚，保持极佳室内光线的同时完美阻绝暴雨" },
+      { "img": "https://img.polycanopy.com/2025/07/Tea-Brown-Polycarbonate-Door-Canopy-with-Drainage-System.jpg", "alt": "高档住宅前门上安装的高雅茶褐色耐力板门头雨棚，配备隐藏式导水天沟系统" },
+      { "img": "https://img.polycanopy.com/2025/07/rainproof-door-canopy-installed-during-renovation-real-rain-test.jpg", "alt": "在真实大雨淋落测试中，完美阻绝雨水倒灌且毫无溢水的翻新住宅遮阳连廊" },
+      { "img": "https://img.polycanopy.com/2025/07/L-Shaped-Brown-Polycarbonate-Door-Canopy-Installed-on-Villa-Entrance.jpg", "alt": "别墅正大门上方组装的L型茶色耐力板与深咖啡色铝骨架高端家用雨棚" },
+      { "img": "https://img.polycanopy.com/2025/07/home-entrance-rain-canopy-long-blue-polycarbonate-installation.jpg", "alt": "现场大跨度顺延组装的湖蓝色不碎聚碳酸酯长效建筑门檐雨棚防护" },
+      { "img": "https://img.polycanopy.com/2025/07/Balcony-Canopy-with-Transparent-Roof-and-Clothes-Drying-Area.jpg", "alt": "多层阳台上方安装的透明天篷，为下方的户外休闲与衣物晾晒提供干燥防紫外线庇护" },
+      { "img": "https://img.polycanopy.com/2025/07/deep-blue-polycarbonate-door-canopy-bottom-view-after-installation.jpg", "alt": "安装完工后的深蓝色耐力板窗棚底部特写，细节彰显精湛的锁扣全铝扣件边缘" },
+      { "img": "https://img.polycanopy.com/2025/07/Front-Door-Rain-Canopy-with-Stylish-Design-and-Excellent-Drainage.jpg", "alt": "融合了美学流线几何与无缝自落垂直排水支管的高端建筑门头遮阳篷系统" }
+    ],
+    "challenges": {
+      "title": "产品多元化建筑应用场景看板",
+      "subtitle": "PolyCanopy 高性能门窗聚碳酸酯雨棚非常适合以下区域的广泛应用：",
+      "img": "https://img.polycanopy.com/2025/07/Aluminum-Alloy-Frame-COLOR.jpg",
+      "alt": "经过精细静电粉末喷涂和高耐候防酸雨处理的多种高硬度全铝型材颜色看板样本",
+      "points": [
+        "沿街商业零售店铺门头与展示玻璃橱窗入口",
+        "高档餐饮店、步行街咖啡厅的户外门面出入口",
+        "私人独立别墅、高端商品住宅及公寓楼的视窗窗台",
+        "住宅阳台休闲区域、后院露台、办公大楼安全通道连廊"
+      ]
+    },
+    "cta": {
+      "title": "准备深入了解工程参数或定制您的方案？",
+      "subtitle": "直接与我们我厂全球销售工程师团队进行在线沟通，极速核算工程报价与方案深化。",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Polycanopy%20window%20door%20canopy%20products",
+      "whatsappText": "通过 WhatsApp 快速获取我厂门窗遮阳棚精准出厂报价与 CAD 深化图纸"
+    },
+    "testimonials": [
+      {
+        "name": "David Green",
+        "role": "运营主管",
+        "text": "我们在多个连锁商业项目里高频使用了这款聚碳酸酯窗棚，该供应商交付的品质可以说是无可挑剔的。其骨架采用纯正 6063 全原生铝合金，在保持极高机械强度的同时自重非常轻盈。随货附带的可视化 12 步安装指南极大地加速了施工进度。雨棚的耐久性与美学线条不仅大幅升级了物业的视觉档次，更对下方出入的客户提供了极佳的防雨保障。非常靠谱的工厂直供货源！"
+      },
+      {
+        "name": "James Turner",
+        "role": "高端商业资产物业设施管理总监",
+        "text": "我们最近为旗下的多处商业地产出入口和临街店面统一安装了这款门头雨棚，反馈非常惊艳。其 L 型极简设计与我们的现代建筑外立面融合得天衣无缝，线条干净利落，对暴风雨和紫外线的防御力极强。全铝合金天沟和落水系统结构极其扎实。大厂直供的无配件缺失保证了现场安装非常顺畅，极力推荐给需要高标准建材配套的商务项目！"
+      },
+      {
+        "name": "Sarah Liu",
+        "role": "外贸采购中心负责人",
+        "text": "我们为几处高档度假酒店和商铺零售网点指名采购了这款 R 型圆弧门头天篷，它彻底改变了门檐经常积水的痛点。加宽的内置截水天沟天渠在大暴雨期间表现极度完美，导流毫无压力且没有传统雨棚烦人的飞溅噪音。工厂支持非常细致的框架色卡与耐力板颜色阻燃定制，让建筑外观和我们的品牌色实现了完美契合，对整体服务和出厂工艺非常满意！"
+      }
+    ]
+  },
+  "suspended-polycarbonate-canopy": {
+    "title": "定制无柱悬挂式聚碳酸酯雨棚",
+    "tags": ["无立柱悬挂设计", "拉杆式遮阳棚"],
+    "subtitle": "首页 » 产品 » Suspended Polycarbonate Canopy by PolyCanopy",
+    "desc": "探索我们的悬挂式聚碳酸酯雨棚系统。专为现代门口、走廊和车棚设计的无柱遮阳方案。采用极高耐用性的聚碳酸酯面板与航空铝合金拉杆设计，带来极致的极简高空美学与防雨性能。",
+    "welcome": "PolyCanopy 提供工程级别的拉杆悬挂式遮阳篷，由高强度聚碳酸酯和静电喷涂铝合金精制而成。这款高空悬挂式雨棚完美适用于住宅和商业应用，彻底释放了地面空间。它将建筑美感、承重强度和便捷的尺寸定制完美结合，是现代极简主义外立面的理想升级方案。",
+    "image": "https://img.polycanopy.com/2025/07/Large-Public-Building-Entrance-with-Suspended-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Overhead-View-of-Black-Suspended-Canopy.jpg",
+    "globalProjectsAlt": "从上方俯视带有黑色铝合金边框的拉杆悬挂式聚碳酸酯防雨天篷，应用于门窗正前立面",
+    "features": [
+      {
+        "title": "为什么选择无柱悬挂式雨棚？",
+        "desc": "传统的立柱雨棚往往会占用宝贵的地面空间。我们的悬挂式雨棚提供：\n• 时尚极简的建筑外观\n• 无需地面立柱 —— 创造干净无障碍的入口与走廊空间\n• 狭窄车道、阳台或不便打地基的建筑入口的完美克星\n• 可根据外立面完全客制化的尺寸和抛物线形状",
+        "img": "https://img.polycanopy.com/2025/07/Brown-Framed-Suspended-Canopy-for-Residential-Building.jpg",
+        "alt": "高档住宅小区配置的茶色悬挂式聚碳酸酯遮阳棚，展示其无立柱的极简结构"
+      },
+      {
+        "title": "专为耐用性与工程力学而生",
+        "desc": "我们的悬挂系统采用旗舰级材料构建，以应对大风与暴雨的拉扯：\n• 核心面板：采用 100% 拜耳实心聚碳酸酯板，抗冲击力极强且具备共挤 UV 防晒涂层。\n• 主体框架：航空级轻量化防锈铝合金骨架，极大减轻墙面承重负担。\n• 悬挂受力结构：通过高强度不锈钢拉杆直接锚固于混凝土墙面或天花板。\n• 排水设计：提供弧形或斜坡形角度选项，实现卓越的雨水自流导流。",
+        "img": "https://img.polycanopy.com/2025/07/DIY-Polycarbonate-Canopy-Frame-in-Installation.jpg",
+        "alt": "客户在自主安装过程中铺设展示的聚碳酸酯雨棚框架与拉杆结构件"
+      }
+    ],
+    "specsTitle": "专为您的建筑量身定制",
+    "specs": [
+      { "title": "客制化轴线尺寸", "desc": "支持自由定制雨棚的覆盖长度与向前延伸（探出）的投影深度。" },
+      { "title": "型材颜色与表面处理", "desc": "铝合金边框支持多种户外耐候涂层与颜色定做（如黑灰、紫铜色、白色等）。" },
+      { "title": "面板厚度与透光率", "desc": "可选择全透明、茶色、蓝色或烟灰色实心耐力板，厚度支持按需升级。" },
+      { "title": "悬挂角度与受力五金", "desc": "根据墙体情况（混凝土/砖墙）配备专业的拉杆倾斜角度与重型不锈钢膨胀锚固套件。" }
+    ],
+    "precision": {
+      "details": [
+        {
+          "title": "我们制造您真正需要的设计",
+          "desc": "在寻找一款能完美契合您独特建筑空间的高空遮阳棚吗？在 PolyCanopy，我们专注于设计适合您建筑物尺寸、外立面风格和功能需求的定制悬挂式雨棚。无论是现代家居的入口，还是商业写字楼的通道，我们的团队都会为您提供详细的 CAD 节点图纸、材料选项和专业的受力安装指导。",
+          "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg",
+      "imgAlt": "大型全透明悬挂式门窗雨棚在现代建筑立面上的工程实拍图",
+      "diagramImg": "https://img.polycanopy.com/2025/07/DIY-Polycarbonate-Canopy-Frame-in-Installation.jpg",
+      "diagramAlt": "展示高强度全铝合金型材及不锈钢拉杆受力挂墙组件的现场拼装工程图",
+      "models": [
+        "重载级墙面不锈钢拉杆悬挂系统",
+        "无立柱阻挡的极简悬浮式外立面美学",
+        "可调倾角的高效重力斜坡排水结构"
+      ]
+    },
+    "challenges": {
+      "title": "应用场景 —— 您可以在哪里使用悬挂雨棚？",
+      "subtitle": "灵活的挂墙受力应用，让它完美适应从入口大门到无柱车棚的各种严苛空间：",
+      "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-Canopy.jpg",
+      "alt": "利用拉杆悬挂系统搭建的大型聚碳酸酯无柱车棚",
+      "points": [
+        "商业写字楼与大型公共建筑的主次入口通道",
+        "狭窄的私人别墅走廊、后院门檐及地下室出入口",
+        "不便打地基或对空间要求极高的小型私家车库车棚",
+        "需要保持极简透明美学的店面橱窗与展示区顶部"
+      ]
+    },
+    "gallery": [
+      { "img": "https://img.polycanopy.com/2025/07/Long-Walkway-Canopy-from-Entrance-to-Exit.jpg", "alt": "从入口一路延伸至出口的长通道聚碳酸酯雨棚" },
+      { "img": "https://img.polycanopy.com/2025/07/Large-Public-Building-Entrance-with-Suspended-Canopy.jpg", "alt": "大型公共建筑入口处安装的现代化悬挂式遮阳篷" },
+      { "img": "https://img.polycanopy.com/2025/07/Suspended-Polycarbonate-Carport-Canopy.jpg", "alt": "无需地面立柱支撑的悬挂式聚碳酸酯汽车遮阳棚" },
+      { "img": "https://img.polycanopy.com/2025/07/Bottom-Up-View-of-Transparent-Suspended-Canopy.jpg", "alt": "从下向上仰视全透明悬挂式雨棚，展示其卓越的采光性与干净的铝骨架" },
+      { "img": "https://img.polycanopy.com/2025/07/Suspension-Type-Door-Canopy-with-White-Frame.jpg", "alt": "配备纯白亮色铝合金边框的悬挂式门头遮阳棚" },
+      { "img": "https://img.polycanopy.com/2025/07/Coffee-Frame-Suspended-Carport-at-Villa-Area.jpg", "alt": "安装在别墅区的深咖啡色边框悬挂式无柱车棚" },
+      { "img": "https://img.polycanopy.com/2025/07/Large-Transparent-Suspended-Canopy-for-Windows-and-Doors.jpg", "alt": "覆盖多扇门窗的大尺寸透明悬挂式聚碳酸酯防护天篷" }
+    ],
+    "cta": {
+      "title": "需要为您的建筑量身定制无柱悬挂雨棚？",
+      "subtitle": "发送您的建筑草图或现场照片，我们将为您提供附带力学设计的定制报价方案！",
+      "downloadUrl": "",
+      "downloadText": "",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Suspended%20Polycarbonate%20Canopy%20products",
+      "whatsappText": "通过 WhatsApp 获取免费工程制图与报价"
+    },
+    "testimonials": [
+      {
+        "name": "Jason Liu",
+        "role": "首席建筑师",
+        "text": "这款悬挂式雨棚为我们的商业大楼入口赋予了极其现代和干净的立面外观，同时完美解决了原有的雨水倒灌问题。无柱设计简直是建筑美学的福音！"
+      },
+      {
+        "name": "Maria Gomez",
+        "role": "高档酒店经理",
+        "text": "我们对这款悬挂雨棚极其整洁的现场安装过程和高强度的物料耐久度印象深刻。它让我们的迎宾车道显得非常开阔和高档。"
+      }
+    ]
+  },
+  "corner-extended-polycarbonate-canopy": {
+    "title": "转角扩展型聚碳酸酯雨棚",
+    "tags": ["转角延伸", "别墅阳台定制"],
+    "subtitle": "首页 » 产品 » Corner-Extended Polycarbonate Canopy – Elegant Rain Protection",
+    "desc": "探索我们设计独特的转角扩展型聚碳酸酯雨棚。这款雨棚专为别墅和 L 型阳台打造，具有突出的延伸边缘，在提供极致遮雨性能的同时，也为建筑外立面增添了现代的视觉亮点。采用高强度 PC 板材与静电喷涂铝合金边框。",
+    "welcome": "我们的转角扩展型聚碳酸酯雨棚拥有独特的尖角延伸设计，能够为您的建筑拐角、L 型阳台或别墅外立面提供宽广的覆盖范围。它不仅是一个实用的遮雨遮阳设施，更是一项现代化的建筑装饰。通过高强度聚碳酸酯板与耐候性铝合金框架的结合，这款雨棚不仅防风抗雨，更能在异形建筑空间中展现出无可挑剔的精致美感。",
+    "image": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+    "globalProjectsImg": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+    "globalProjectsAlt": "定制化转角连接件与全铝骨架的雨棚细节，展示其专为建筑拐角设计的结构强度",
+    "features": [
+      {
+        "title": "独特转角扩展结构",
+        "desc": "雨棚前端具有独特的尖角延伸设计，完美契合建筑转角轮廓，不仅扩大了有效遮蔽面积，更解决了传统雨棚在拐角处遮雨不足的痛点。",
+        "img": "https://img.polycanopy.com/2025/07/Detailed-Corner-Structure-of-Polycarbonate-Canopy.jpg",
+        "alt": "高亮显示聚碳酸酯雨棚的转角细节，展示了客制化转角接头的精密工艺"
+      },
+      {
+        "title": "优雅的建筑美学与功能平衡",
+        "desc": "不仅仅是防雨遮阳，其流线型的外观设计为您的别墅阳台或商业外立面增添了现代建筑语言。无论是在视觉上还是功能上，都能与建筑主体完美融合。",
+        "img": "https://img.polycanopy.com/2025/07/External-Corner-Polycarbonate-Canopy-at-Villa.jpg",
+        "alt": "安装在别墅上的L型转角雨棚，下部配有晾衣杆，兼顾美观与实用性"
+      },
+      {
+        "title": "精密材质与排水设计",
+        "desc": "采用高透光或色调定制的聚碳酸酯板材（可选 2mm–8mm），搭配防锈抗腐蚀的粉末涂层铝合金框架。精密设计的转角连接件确保无水渍泄漏，且外观呈现出自然的弧度美感。",
+        "img": "https://img.polycanopy.com/2025/07/Blue-Polycarbonate-Canopy-with-Corner-Connections.jpg",
+        "alt": "蓝色聚碳酸酯雨棚展示了内外转角连接处，线条平整且稳固"
+      }
+    ],
+    "specsTitle": "多元化建筑应用",
+    "specs": [
+      { "title": "高端别墅大阳台", "desc": "完美适配 L 型阳台结构，提供全方位的拐角遮蔽。" },
+      { "title": "异形建筑外立面", "desc": "应对建筑拐角、外挑式结构，提供定制化安装方案。" },
+      { "title": "沿街商业门店", "desc": "在转角处营造独特的建筑视觉亮点，提升品牌门店档次。" },
+      { "title": "写字楼/公寓露台", "desc": "为露天休息区提供连续、美观的防雨遮阳空间。" }
+    ],
+    "precision": {
+      "details": [
+        {
+          "title": "定制工程，精准匹配您的需求",
+          "desc": "每一座建筑的转角都有其独特性——我们致力于匹配这些角度。我们的转角扩展型雨棚可全面定制，以适应 L 型阳台、多向立面或别墅转角设计。从尺寸、颜色、面板厚度到悬挂角度，我们提供 2D/3D 设计支持。",
+          "img": "https://img.polycanopy.com/2025/07/Corner-Canopy-Frame-Structure-in-Factory.jpg"
+        }
+      ]
+    },
+    "profiles": {
+      "img": "https://img.polycanopy.com/2025/07/External-Corner-Polycarbonate-Window-Canopy.jpg",
+      "imgAlt": "转角处多角度铝合金骨架连接详图",
+      "diagramImg": "https://img.polycanopy.com/2025/07/Corner-Canopy-Frame-Structure-in-Factory.jpg",
+      "diagramAlt": "工厂实拍转角雨棚的金属框架结构，组装前展示",
+      "models": [
+        "L型拐角无缝精密接头结构",
+        "高强度抗冲击防风加固体系",
+        "流线型自清理曲面设计"
+      ]
+    },
+    "testimonials": [
+      { "name": "Chen Yu", "role": "别墅业主", "text": "这款雨棚与我们的别墅风格完美匹配。转角处的细节处理为阳台增添了独特的点缀。" },
+      { "name": "Victor Zhao", "role": "地产开发商", "text": "极其出色的工艺和防雨保护性能。延伸的转角设计既实用又时尚。" }
+    ],
+    "cta": {
+      "title": "需要为您定制专属转角雨棚方案？",
+      "subtitle": "发送您的建筑设计图纸或现场照片，我们将为您提供专属的技术提案与报价。",
+      "whatsappUrl": "https://wa.me/13420298302?text=Hi%2C%20I%27m%20interested%20in%20your%20Corner-Extended%20Polycarbonate%20Canopy%20products",
+      "whatsappText": "获取定制报价与CAD深化图纸"
+    }
+  }
+}

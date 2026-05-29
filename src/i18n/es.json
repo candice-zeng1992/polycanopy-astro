@@ -1,0 +1,691 @@
+{
+  "ProductsHero": {
+    "title": "Sistemas de Marquesina de Aluminio y Policarbonato",
+    "featuredSolutions": "Nuestras Soluciones Destacadas",
+    "viewDetails": "Ver Detalles",
+    "subtitle": "Soluciones de marquesina personalizadas, duraderas y estéticas",
+    "imageAlt": "Disposición detallada de dimensiones de un carport de policarbonato con marcos estructurales de alta resistencia y sistema de canalón de drenaje",
+    "imageTitle": "Dimensiones Técnicas Polycanopy de Marquesina para Carport de Policarbonato"
+  },
+  "ProductSpecs": {
+    "title": "Especificaciones del Producto",
+    "spec1Title": "Personalización",
+    "spec1Desc": "Fabricado según especificaciones del pedido",
+    "spec2Title": "Origen",
+    "spec2Desc": "Fabricado en China",
+    "spec3Title": "Garantía",
+    "spec3Desc": "30 años de vida útil",
+    "spec4Title": "Material del Marco",
+    "spec4Desc": "Aleación de aluminio premium"
+  },
+  "MaterialIntro": {
+    "title": "Introducción de Materiales",
+    "frameHeading": "Estructura de Aleación de Aluminio: Construcción de Alta Resistencia",
+    "frameDesc": "Perfiles de aluminio de alta dureza y tenacidad resisten fácilmente tifones y condiciones climáticas severas.",
+    "panelHeading": "Paneles de Policarbonato",
+    "zoomTipFrame": "🔍 Haga clic para ampliar el detalle del perfil",
+    "zoomTipPanel": "🔍 Haga clic para ampliar el detalle de la lámina",
+    "panelDesc": "Materias primas premium de Bayer o SABIC con suficiente protección UV. Paneles de policarbonato garantizados por más de 10 años de servicio.",
+    "color_champagne": "Champán",
+    "color_white": "Blanco",
+    "color_gray": "Gris",
+    "color_coffee": "Café",
+    "color_bronze": "Bronce",
+    "color_black": "Negro",
+    "aria_frame_btn": "Cambiar imagen de previsualización del marco al color {color}",
+    "aria_panel_btn": "Cambiar imagen de previsualización del panel de policarbonato al color {color}",
+    "alt_frame_champagne": "Opción de color del marco de aluminio para toldo de policarbonato en acabado champán elegante",
+    "alt_frame_white": "Opción de color del marco de aluminio para toldo de policarbonato en acabado blanco limpio",
+    "alt_frame_gray": "Opción de color del marco de aluminio para toldo de policarbonato en acabado gris moderno",
+    "alt_frame_coffee": "Opción de color del marco de aluminio para toldo de policarbonato en acabado café clásico",
+    "alt_panel_bronze": "Láminas sólidas de policarbonato tintado bronce premium para protección de toldos",
+    "alt_panel_white": "Láminas sólidas de policarbonato translúcido blanco premium para iluminación suave",
+    "alt_panel_gray": "Láminas sólidas de policarbonato tintado gris premium para diseño arquitectónico moderno",
+    "alt_panel_black": "Láminas sólidas de policarbonato tintado negro premium para máxima sombra"
+  },
+  "ProductAnalysis": {
+    "sectionTitle": "Análisis del Producto",
+    "systemDesc": "El sistema de marquesina de policarbonato incluye soportes de pared, marco central reforzado, columnas reforzadas, bajantes, canaletas y varios colores de paneles sólidos de policarbonato, paneles de partículas diamante o paneles de partículas gota.",
+    "whyTitle": "¿Por Qué Elegir Láminas de Policarbonato de Alta Calidad?",
+    "whyDesc1": "En proyectos de marquesinas y claraboyas, no es la estructura de acero — es el panel lo que determina la longevidad. Las láminas de baja calidad pueden amarillear, agrietarse o filtrarse en pocos años, lo que conlleva costosos reemplazos.",
+    "whyDesc2": "Nuestro policarbonato premium cuenta con una capa coextruida de protección UV en un solo lado, preservando la claridad y durabilidad por más de 10 años.",
+    "whyDesc3": "Elija calidad desde el principio — Ahorre en mantenimiento y disfrute de tranquilidad.",
+    "altSystemImg": "Vista explosionada de la estructura de la marquesina con componentes etiquetados",
+    "altCompareImg": "Comparación de láminas de policarbonato de alta y baja calidad"
+  },
+  "ProductFeatures": {
+    "sectionTitle": "Características del Producto",
+    "badge1": "Resistente a la Corrosión",
+    "badge2": "Fácil Mantenimiento",
+    "badge3": "Transmisión de Luz",
+    "badge4": "Diseño Elegante",
+    "badge5": "Aislamiento Acústico",
+    "mainFeatAlt": "Características del toldo de policarbonato diseñado para resistencia a la carga de nieve, protección UV, defensa contra viento y lluvia, y resistencia al impacto",
+    "mainFeatZoomTip": "🔍 Haga clic para ver el plano completo de características",
+    "subHeading": "Rendimiento Extremo y Pruebas Rigurosas",
+    "subDesc": "Vea cómo nuestras estructuras enfrentan desafíos reales extremos",
+    "testLabel": "Prueba de Rendimiento",
+    "feat1Title": "Alta resistencia al impacto",
+    "feat1Desc": "Alta resistencia al impacto con láminas de policarbonato importadas de Alemania, que ofrecen de 200 a 300 veces la resistencia al impacto del vidrio común. Conocido comúnmente como 'vidrio irrompible' o 'transparencia similar al acero'.",
+    "feat1Alt": "Martillo golpeando panel de toldo de policarbonato demostrando alta resistencia al impacto",
+    "feat2Title": "Altamente Flexible, Resistente y Versátil",
+    "feat2Desc": "Robusto y moldeable, los paneles son fáciles de instalar y se pueden curvar en frío para formar estructuras arqueadas o en forma de cúpula.",
+    "feat2Alt": "Persona doblando una lámina de policarbonato para demostrar su excelente flexibilidad",
+    "feat3Title": "Resistente al fuego",
+    "feat3Desc": "Inspeccionado por la Oficina de Supervisión de Calidad de Materiales de Construcción Contra Incendios de China y siguiendo la norma GB8624-1997, la lámina de policarbonato ha alcanzado el Grado B1 de resistencia a la llama.",
+    "feat3Alt": "Prueba de llama con encendedor sobre la propiedad ignífuga del panel de policarbonato",
+    "feat4Title": "Protección UV de Alta Eficiencia",
+    "feat4Desc": "El toldo utiliza paneles de policarbonato importados de Alemania que bloquean los rayos ultravioleta, soportan altas temperaturas y ayudan a reducir el calor interior. Tratados con una capa coextruida de UV en un solo lado, los paneles aíslan eficazmente contra el calor y bloquean la radiación UV externa, garantizando la seguridad para usted y su familia.",
+    "feat4Alt": "Toldo de policarbonato bajo la luz solar demostrando protección UV",
+    "feat5Title": "Sistema de Drenaje Independiente",
+    "feat5Desc": "Durante las temporadas de lluvia, el sistema de drenaje asegura un flujo de agua suave sin obstrucciones ni salpicaduras. Resuelve eficazmente problemas como la acumulación y el desbordamiento de agua durante lluvias intensas. El diseño de canalón ensanchado permite un drenaje más rápido.",
+    "feat5Alt": "Vista de cerca del sistema de canalón independiente con bajante curva en el toldo de policarbonato",
+    "feat6Title": "Sistema de Drenaje Independiente de Gran Caudal",
+    "feat6Desc": "Durante las temporadas de lluvia, el sistema de drenaje asegura un flujo de agua suave sin obstrucciones ni salpicaduras. Resuelve eficazmente problemas como la acumulación y el desbordamiento de agua durante lluvias intensas. El diseño de canalón ensanchado permite un drenaje más rápido.",
+    "feat6Alt": "Sistema de drenaje mejorado con bajante extendida y sección de canalón ensanchada para mejorar el flujo de agua en el toldo de policarbonato",
+    "feat7Title": "Perfiles de Aleación de Aluminio de Alta Resistencia",
+    "feat7Desc": "Soporta el impacto de tifones de Categoría 12 con una resistencia excepcional. La superficie está tratada con recubrimiento en polvo electrostático para una excelente resistencia a la corrosión.",
+    "feat7Sub1": "◆ Reforzado y Engrosado",
+    "feat7Sub2": "◆ Resistente a la Acumulación de Nieve",
+    "feat7Alt": "Toldo de policarbonato instalado en área de fuertes nevadas, mostrando su rendimiento resistente a la nieve y la construcción detallada de aleación de aluminio",
+    "feat8Title": "Instalación Fácil con Accesorios Completos",
+    "feat8Desc": "Cuenta con una estructura de sistema modular para un montaje sencillo, con vigas de soporte de alta resistencia y tecnología de instalación rápida especializada que ahorra tiempo y esfuerzo.",
+    "feat8Alt": "Collage de instalación paso a paso que muestra soportes, paneles y montaje final del toldo de policarbonato, destacando su proceso de ensamblaje simple"
+  },
+  "PremiumMaterials": {
+    "title": "Los materiales de calidad marcan la diferencia",
+    "desc": "Aleación de aluminio titanio-magnesio de grado aeroespacial con tecnología de recubrimiento avanzada y material de policarbonato Bayer alemán garantizan un rendimiento duradero sin envejecimiento.",
+    "mat1Label": "Aleación de aluminio de alta resistencia",
+    "mat2Label": "Lámina de policarbonato Bayer alemán",
+    "imgAlt": "Vista general de materiales del sistema de marquesina de policarbonato y aluminio premium: perfiles de grado aeroespacial y detalle de lámina virgen Bayer alemana"
+  },
+  "ChooseUs": {
+    "heading": "Elija la tranquilidad",
+    "tagline": "Una marquesina de calidad marca la diferencia",
+    "lifespanLabel": "Vida útil normal: 30 años",
+    "lifespanValue": "Realmente vale la pena",
+    "g1Title": "Estándares de calidad internacionales",
+    "g1Detail": "Perfil BG/T3190 6063 – Cumple con el estándar internacional 6063",
+    "g2Title": "Materiales Bayer alemanes",
+    "g2Detail": "Lámina de policarbonato – Resistente a impactos, insonorizante, aislante térmico, ignífugo",
+    "g3Title": "Medición e instalación guiadas",
+    "g3Detail": "Disponible en todo el mundo – Medición directa, personalización, entrega, instalación y soporte postventa",
+    "g4Title": "Servicio postventa sin preocupaciones",
+    "g4Detail": "Garantía extendida",
+    "g5Title": "Garantía de calidad",
+    "g5Detail": ""
+  },
+  "Service": {
+    "hero": {
+      "heading": "Nuestros Servicios",
+      "subtitle": "No somos solo una fábrica, sino su socio proveedor comprometido con la excelencia",
+      "card1Title": "Fabricante Directo",
+      "advantageLabel": "VENTAJA",
+      "card1Desc": "Directamente desde la fábrica, garantizando los mejores precios y control de calidad",
+      "card2Title": "Negocio Honesto",
+      "card2Desc": "Operaciones basadas en la integridad con procesos transparentes y asociaciones confiables",
+      "card3Title": "Personalización Profesional",
+      "card3Desc": "Soluciones a medida según las especificaciones y requisitos del cliente",
+      "card4Title": "Exportación Profesional",
+      "card4Desc": "Buscando la excelencia en la calidad del producto y el servicio para los mercados globales"
+    },
+    "process": {
+      "title": "Proceso de Personalización",
+      "step1": "Consultar",
+      "step2": "Determinar Estilo",
+      "step3": "Confirmar Solución",
+      "step4": "Pago de Depósito",
+      "step5": "Producción",
+      "step6": "Pago Final",
+      "step7": "Envío",
+      "step8": "Recepción del Cliente",
+      "step9": "Postventa sin Preocupaciones"
+    },
+    "factory": {
+      "title": "Policarbonato y Aluminio",
+      "subtitle": "Descubra cómo producimos y procesamos nuestras láminas de policarbonato y estructuras de aluminio con equipos de última generación y riguroso control de calidad.",
+      "pcHeading": "Producción de Láminas de Policarbonato",
+      "pcDesc": "Nuestras láminas de policarbonato se fabrican con materias primas vírgenes Bayer/SABIC importadas de Alemania, con aditivos resistentes a los rayos UV. Operamos líneas de coextrusión OMIPA avanzadas para una calidad superior de la lámina, control preciso del espesor y rendimiento duradero.",
+      "pcZoomTip": "🔍 Haga clic para ver el detalle de producción",
+      "pcImg1Alt": "Resina de policarbonato premium y aditivos de protección UV de Bayer o SABIC",
+      "pcImg2Alt": "Control de calidad en tiempo real en la línea de extrusión OMIPA italiana produciendo lámina sólida transparente de policarbonato",
+      "pcImg3Alt": "Alimentación de precisión del sistema OMIPA y tecnología avanzada de coextrusión UV para una calidad consistente de la lámina",
+      "alHeading": "Estructura y Ensamblaje de Aluminio",
+      "alDesc": "Nuestros perfiles de aleación de aluminio se extruyen con precisión a partir de material de grado aeroespacial 6063-T5. El taller de ensamblaje dedicado garantiza que cada estructura de marco cumpla con estrictos estándares de calidad antes del embalaje y envío global.",
+      "alZoomTip": "🔍 Haga clic para ver el detalle del taller",
+      "alImg1Alt": "Tubos y perfiles de aluminio de alta calidad almacenados en un área de almacén organizada",
+      "alImg2Alt": "Estructuras de marco de aluminio ensambladas para el sistema de marquesina de policarbonato en el taller",
+      "alImg3Alt": "Almacenamiento y preparación de marcos de aluminio para entrega antes del embalaje y envío"
+    }
+  },
+  "Contact": {
+    "MapSection": {
+      "heading": "Excelencia en Cadena de Suministro Global e Ingeniería",
+      "sub": "Directamente desde nuestra avanzada base de fabricación en Guangdong, China, hasta sitios arquitectónicos en todo el mundo.",
+      "mapTitle": "Ubicación de la Fábrica"
+    },
+    "metaTitle": "Contactar a PolyCanopy - Experto en Pérgolas y Toldos Personalizados",
+    "metaDesc": "Póngase en contacto con PolyCanopy, su socio confiable en pérgolas retráctiles de alta calidad, sistemas de toldos telescópicos y recintos exteriores personalizados.",
+    "heroTitle": "Contactar a PolyCanopy",
+    "heroSub": "Hablemos de su Proyecto",
+    "helpPre": "¿Cómo podemos",
+    "helpHighlight": "ayudarle?",
+    "phoneTitle": "Teléfono",
+    "phoneVal": "+86 13420298302",
+    "addressTitle": "Nuestra Dirección",
+    "addressVal": "Provincia de Guangdong, China",
+    "emailTitle": "Correo Electrónico",
+    "emailVal": "sales@polycanopy.com",
+    "formTitlePre": "Envíenos",
+    "formTitleBold": "un mensaje",
+    "fName": "NOMBRE COMPLETO",
+    "pName": "Su Nombre Completo",
+    "fEmail": "DIRECCIÓN DE CORREO ELECTRÓNICO",
+    "pEmail": "Su Dirección de Correo Electrónico",
+    "fWho": "¿QUIÉN ES USTED?",
+    "pWho": "¿Es usted una persona o una empresa?",
+    "fCountry": "PAÍS",
+    "pCountry": "¿De dónde es?",
+    "fProductLabel": "SELECCIONE PRODUCTO",
+    "optDefault": "Seleccione de la lista",
+    "fMessage": "MENSAJE",
+    "pMessage": "Su Mensaje",
+    "fPhone": "TELÉFONO (OPCIONAL)",
+    "pPhone": "Su Número de Teléfono",
+    "fCompany": "EMPRESA (OPCIONAL)",
+    "successTitle": "¡Gracias por su Consulta!",
+    "successDesc": "Nuestro equipo profesional analizará sus especificaciones arquitectónicas y le responderá con un presupuesto personalizado en un plazo de 24 horas.",
+    "btnClose": "Cerrar Ventana",
+    "optWindow": "Toldo para Ventana",
+    "optDoor": "Toldo para Puerta",
+    "optCarport": "Cochera",
+    "optDome": "Cúpula para Observación Estelar",
+    "optSunroom": "Pérgola Acristalada",
+    "optCustomize": "Personalizado",
+    "optWholesales": "Venta al por Mayor",
+    "pCompany": "Nombre de su Empresa",
+    "btnSubmit": "ENVIAR",
+    "turnstileSiteKey": "0x4AAAAAACBUDH3G7cEg5mCH",
+    "heroAlt": "Cúpula de policarbonato colorida para observación estelar brillando de noche, ideal para banners de proyectos arquitectónicos",
+    "parkingAlt": "Estructura masiva de toldo de policarbonato instalada en la salida de un estacionamiento, que ofrece una cobertura sólida y un diseño moderno",
+    "windowAlt": "Toldo de policarbonato instalado frente a una ventana, que ofrece una protección contra la lluvia silenciosa y elegante",
+    "turnstileError": "La verificación de seguridad falló, inténtelo de nuevo."
+  },
+  "Blog": {
+    "metaTitle": "Blog y Perspectivas - PolyCanopy",
+    "metaDesc": "Explore nuestros últimos artículos, guías de instalación y perspectivas técnicas sobre soluciones de marquesinas de policarbonato.",
+    "heroTitle": "Base de Conocimiento y Perspectivas",
+    "readMore": "Leer Artículo Completo →",
+    "dateFormat": "es-ES",
+    "heroAlt": "Marquesina de policarbonato azul con estructura de aluminio blanco instalada al aire libre bajo un cielo azul brillante",
+    "heroSub": "Guías profesionales, análisis técnicos y tendencias de diseño para soluciones de policarbonato."
+  },
+  "Common": {
+    "factoryDirect": "Directo de Fábrica",
+    "viewDetails": "Ver Detalles",
+    "home": "Inicio",
+    "blog": "Blog",
+    "toc": "En Esta Página"
+  },
+  "Header": {
+    "home": "Inicio",
+    "products": "Productos",
+    "service": "Servicio",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "language": "Idioma",
+    "logoAlt": "Polycanopy - Fabricante de marquesinas de policarbonato premium",
+    "homeAlt": "Ir a la página de inicio",
+    "navLabel": "Navegación principal",
+    "langSwitcher": "Selector de idioma",
+    "switchEn": "Cambiar a Inglés",
+    "switchZh": "Cambiar a Chino",
+    "switchAr": "Cambiar a Árabe",
+    "switchDe": "Cambiar a Alemán",
+    "switchEs": "Cambiar a Español",
+    "switchPt": "Cambiar a Portugués",
+    "switchFr": "Cambiar a Francés",
+    "switchRu": "Cambiar a Ruso",
+    "switchJa": "Cambiar a Japonés",
+    "switchIt": "Cambiar a Italiano",
+    "switchKo": "Cambiar a Coreano"
+  },
+  "Hero": {
+    "titlePrefix": "Pérgolas ",
+    "titleHighlight": "de Policarbonato",
+    "titleSuffix": " Premium",
+    "subtitle": "Ingeniería para la Durabilidad, Diseñadas para los Momentos Bellos de la Vida",
+    "desc": "Experimente la combinación perfecta de resistencia y elegancia con nuestras soluciones premium de pérgolas de policarbonato. Construidas para durar más de una década mientras mejoran su estilo de vida.",
+    "btnText": "Descubra nuestra solución",
+    "btnAriaLabel": "Navegar a la página de productos para descubrir nuestras soluciones de pérgolas de policarbonato",
+    "imageAlt": "Pérgola premium de policarbonato creando un espacio exterior confortable",
+    "imageTitle": "Polycanopy Soluciones Premium de Pérgolas Exteriores"
+  },
+  "About": {
+    "title": "Acerca de Polycanopy",
+    "desc": "Liderando la industria con soluciones innovadoras de toldos de policarbonato, combinando la excelencia de la ingeniería alemana con décadas de experiencia en exportación.",
+    "missionTitle": "Nuestra Misión y Valores",
+    "mission1Title": "Materiales de Calidad Premium",
+    "mission1Desc": "Láminas de policarbonato Bayer alemán con garantía de más de 10 años",
+    "mission2Title": "Excelencia en Exportación",
+    "mission2Desc": "Empresa de comercio internacional experimentada con entrega global comprobada",
+    "mission3Title": "Soluciones Personalizadas",
+    "mission3Desc": "Diseños de toldos adaptados a sus requisitos arquitectónicos específicos",
+    "whyTitle": "Por Qué Elegirnos",
+    "stat1Num": "10+",
+    "stat1Text": "Años de Garantía",
+    "stat2Num": "200x",
+    "stat2Text": "Más Resistente que el Vidrio",
+    "stat3Num": "99%",
+    "stat3Text": "Protección UV",
+    "stat4Num": "12",
+    "stat4Text": "Resistencia al Viento Grado 12"
+  },
+  "ProductRange": {
+    "title": "Nuestra Gama de Productos",
+    "desc": "Soluciones integrales de marquesinas para cada necesidad arquitectónica",
+    "items": {
+      "horizontal": {
+        "title": "Estilo de Viga Horizontal",
+        "desc": "La marquesina de estilo viga horizontal presenta una estructura clásica de vigas transversales con una apariencia limpia y moderna. Ofrece un soporte sólido y es ideal para balcones, ventanas y entradas."
+      },
+      "suspended": {
+        "title": "Estilo de Cable Suspendido",
+        "desc": "El estilo de cable suspendido utiliza un sistema de cables de acero elegante para sostener la marquesina en lo alto, creando un diseño ligero y elegante. Esta solución que ahorra espacio es especialmente adecuada para toldos de ventanas."
+      },
+      "top_beam": {
+        "title": "Estilo de Viga Superior",
+        "desc": "La marquesina de estilo viga superior se sostiene mediante vigas en la parte superior, ofreciendo una excelente estabilidad y cobertura total. Esta estructura se utiliza comúnmente en entradas de villas, terrazas o grandes áreas de ventanas."
+      },
+      "column": {
+        "title": "Estilo de Soporte con Columnas",
+        "desc": "El estilo de soporte con columnas cuenta con columnas verticales en la parte delantera y trasera para una máxima capacidad de carga. Esta marquesina cubre un área amplia, lo que la hace ideal para terrazas, fachadas de tiendas y cocheras residenciales."
+      },
+      "inner_corner": {
+        "title": "Estilo de Esquina Interior",
+        "desc": "La marquesina de estilo esquina interior está diseñada para uniones de paredes interiores, como balcones en forma de L o pasillos. Proporciona un excelente drenaje y una cobertura de protección extendida en espacios reducidos."
+      },
+      "outer_corner": {
+        "title": "Estilo de Esquina Exterior",
+        "desc": "El estilo de esquina exterior está diseñado para adaptarse a los ángulos exteriores de un edificio, extendiendo el área de protección sin interrupciones. Es perfecto para cubrir balcones en esquina, fachadas de tiendas o pasillos exteriores."
+      },
+      "carport": {
+        "title": "Estilo de Cochera",
+        "desc": "La marquesina de estilo cochera está diseñada específicamente para proteger vehículos del sol, la lluvia y los escombros. Soportada por postes resistentes y cubierta con materiales duraderos, ofrece una excelente protección."
+      },
+      "door_window": {
+        "title": "Estilo de Toldo para Puertas y Ventanas",
+        "desc": "Este estilo está diseñado específicamente para instalarse sobre puertas y ventanas, proporcionando una protección eficaz contra la lluvia y la luz solar directa. Compacto pero duradero, mantiene las entradas secas."
+      }
+    }
+  },
+  "Features": {
+    "title": "Características del Producto",
+    "subtitle": "Diseñado para rendir bajo presión — lluvia, viento, nieve e impactos.",
+    "items": {
+      "waterproof": {
+        "title": "Impermeable",
+        "desc": "Protege contra la lluvia, el óxido, la corrosión y los daños superficiales, garantizando una protección duradera en cualquier clima."
+      },
+      "impact": {
+        "title": "Resistente a Impactos",
+        "desc": "Construido para soportar fuerzas e impactos de escombros, asegurando la integridad estructural a largo plazo."
+      },
+      "wind": {
+        "title": "Protección contra el Viento",
+        "desc": "Estable y seguro contra vientos fuertes, reduciendo el balanceo y protegiendo lo que está debajo."
+      },
+      "snow": {
+        "title": "Resistente a Cargas de Nieve",
+        "desc": "Diseñado para soportar cargas pesadas de nieve sin doblarse ni agrietarse, incluso en frío extremo."
+      }
+    }
+  },
+  "CustomService": {
+    "title": "Servicios de Diseño Personalizado",
+    "desc": "Cada proyecto es único. Ofrecemos personalización flexible para todos los componentes, ajustándonos a sus especificaciones exactas.",
+    "ariaLabel": "Parámetros Personalizados",
+    "imageAlt": "Diseño e ingeniería de marquesinas personalizadas",
+    "items": [
+      "Dimensiones y acabados del marco de aluminio",
+      "Tamaños y tintes de paneles de policarbonato",
+      "Selección de herrajes y accesorios",
+      "Embalaje y envío profesional",
+      "Planos técnicos y guías de instalación"
+    ]
+  },
+  "Specs": {
+    "title": "Especificaciones Técnicas",
+    "ariaLabel": "Tabla de Especificaciones Técnicas",
+    "data": {
+      "thickness": {
+        "label": "Espesor del Panel",
+        "value": "2mm – 8mm"
+      },
+      "frame": {
+        "label": "Material del Marco",
+        "value": "Aluminio 6063-T5"
+      },
+      "treatment": {
+        "label": "Tratamiento Superficial",
+        "value": "Recubrimiento en Polvo"
+      },
+      "wind": {
+        "label": "Resistencia al Viento",
+        "value": "120+ km/h"
+      },
+      "temp": {
+        "label": "Rango de Temperatura",
+        "value": "-40°C a +120°C"
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Galería de Aplicaciones",
+    "subtitle": "Instalaciones reales que muestran versatilidad y belleza",
+    "ariaLabel": "Galería de aplicaciones de proyectos reales",
+    "items": {
+      "rooftop": {
+        "title": "Cubierta Plana Moderna",
+        "desc": "Diseño elegante de cubierta plana con paneles de alta transparencia",
+        "btnText": "Explorar más",
+        "imageAlt": "Cubierta transparente moderna con estructura de aluminio para edificio residencial"
+      },
+      "carport": {
+        "title": "Cochera Residencial",
+        "desc": "Marquesina curva elegante que ofrece sombra y protección contra la intemperie para automóviles",
+        "btnText": "Explorar más",
+        "imageAlt": "Cochera residencial moderna con techo curvo transparente y SUV de lujo estacionado debajo"
+      },
+      "sunroom": {
+        "title": "Invernadero Moderno",
+        "desc": "Estructura transparente completamente cerrada que ofrece luz durante todo el año",
+        "btnText": "Explorar más",
+        "imageAlt": "Invernadero abovedado completamente cerrado con paneles transparentes y vista al campo"
+      }
+    }
+  },
+  "Faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesita saber sobre nuestros toldos de policarbonato",
+    "ariaLabel": "Contenedor de acordeón de preguntas frecuentes",
+    "questions": [
+      {
+        "q": "¿Se puede personalizar el toldo para adaptarse a mi espacio?",
+        "a": "¡Sí! Ofrecemos personalización completa en dimensiones, colores, espesor de paneles y estilos de marco para aplicaciones residenciales o comerciales. Solo envíenos sus medidas y preferencias."
+      },
+      {
+        "q": "¿Es realmente el policarbonato más resistente que el vidrio?",
+        "a": "Absolutamente. Las láminas de policarbonato son hasta 200 veces más resistentes que el vidrio y prácticamente irrompibles. También son más ligeras y seguras en condiciones climáticas adversas como granizo, viento y lluvia intensa."
+      },
+      {
+        "q": "¿El toldo bloquea los rayos UV?",
+        "a": "Sí, todos nuestros toldos vienen con recubrimientos resistentes a los rayos UV que bloquean más del 99% de la radiación UV dañina, protegiendo sus muebles, puertas y ventanas del daño solar."
+      },
+      {
+        "q": "¿Cuánto tiempo lleva la instalación?",
+        "a": "La mayoría de las instalaciones toman varias horas para un toldo de tamaño estándar. Proporcionamos instrucciones fáciles de seguir y todos los accesorios necesarios. Para proyectos más grandes o comerciales, nuestro equipo ofrece soporte de instalación profesional."
+      },
+      {
+        "q": "¿Qué tan duradero es el toldo en condiciones climáticas extremas?",
+        "a": "Nuestros toldos de policarbonato están diseñados para soportar fuertes cargas de viento, lluvia intensa y nieve. Los soportes de aleación de aluminio y los herrajes de acero inoxidable garantizan durabilidad a largo plazo y resistencia a la corrosión."
+      },
+      {
+        "q": "¿Cuál es el período de garantía?",
+        "a": "Ofrecemos una garantía limitada de 10 años que cubre defectos de material, decoloración y rendimiento estructural. Los detalles completos de la garantía están disponibles a solicitud."
+      },
+      {
+        "q": "¿Ofrecen precios al por mayor para distribuidores o constructores?",
+        "a": "Sí, ofrecemos precios mayoristas escalonados y servicios OEM/ODM para socios, contratistas y distribuidores. Por favor, contacte a nuestro equipo de ventas para una cotización personalizada."
+      },
+      {
+        "q": "¿Qué colores y acabados están disponibles?",
+        "a": "Nuestros paneles de policarbonato vienen en tonos transparente, gris, bronce y azul. Los colores del marco incluyen negro mate, blanco, plateado y opciones RAL personalizadas."
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "Testimonios de Clientes",
+    "subtitle": "Confiado por clientes en todo el mundo por calidad y servicio",
+    "ariaLabel": "Sección de reseñas de clientes y valoraciones con estrellas",
+    "reviews": [
+      {
+        "name": "Eric Zhang",
+        "role": "Gerente de Proyecto",
+        "company": "Hantai Construction Co.",
+        "country": "Australia",
+        "text": "La marquesina resistió perfectamente una fuerte tormenta de lluvia justo después de la instalación. El diseño de drenaje es inteligente y el marco de aluminio se siente muy sólido. Definitivamente usaré PolyCanopy para futuros proyectos."
+      },
+      {
+        "name": "Michael Robertson",
+        "role": "Promotor Inmobiliario",
+        "company": "ClearView Estates",
+        "country": "Estados Unidos",
+        "text": "El sistema de marquesina superó nuestras expectativas. Estructura de aluminio resistente, aspecto moderno y limpio, y la instalación fue sencilla. Funcionó excelentemente en los recientes vientos fuertes."
+      },
+      {
+        "name": "Ahmed Al-Mutairi",
+        "role": "Director Técnico",
+        "company": "Desert Shade Systems",
+        "country": "EAU",
+        "text": "Excelente resistencia al calor y alta transparencia. La marquesina funciona bien bajo luz solar intensa, y el marco de aluminio no se deforma ni decolora. Ideal para el clima del Golfo."
+      },
+      {
+        "name": "Sofia Martínez",
+        "role": "Arquitecta",
+        "company": "Línea Urbana S.A.",
+        "country": "Argentina",
+        "text": "Usamos PolyCanopy para un proyecto de café en terraza en Buenos Aires. Los materiales son de primera calidad, especialmente el panel de policarbonato: muy claro y duradero. Nuestros clientes aman el resultado."
+      },
+      {
+        "name": "Lisa Chen",
+        "role": "Diseñadora de Interiores",
+        "company": "Blossom Space Studio",
+        "country": "Singapur",
+        "text": "Excelente calidad de material, especialmente el panel de policarbonato. La transparencia es alta y mucho más seguro que el vidrio. Además, no tenemos que preocuparnos por objetos que caigan del piso superior. ¡Muy recomendado!"
+      },
+      {
+        "name": "Thulani Mokoena",
+        "role": "Ingeniero de Obra",
+        "company": "BuildRight Solutions",
+        "country": "Sudáfrica",
+        "text": "El marco de aluminio es robusto y ligero. También apreciamos el diseño del sistema de canaletas, muy útil durante las lluvias estacionales. Se ve muy bien en edificios comerciales también."
+      }
+    ]
+  },
+  "WhyChoose": {
+    "title": "Por qué elegir Polycanopy",
+    "subtitle": "Su socio de confianza para soluciones de marquesinas premium",
+    "ariaLabel": "Sección de ventajas comerciales de la empresa",
+    "items": {
+      "service": {
+        "title": "Servicio receptivo",
+        "desc": "Atención al cliente 24/7 con tiempos de respuesta rápidos para todas las consultas",
+        "ariaLabel": "Obtenga más información sobre nuestro proceso de servicio receptivo"
+      },
+      "custom": {
+        "title": "Parámetros personalizados",
+        "desc": "Opciones de personalización flexibles para cumplir con las especificaciones exactas de su proyecto",
+        "ariaLabel": "Explore nuestros parámetros de especificación personalizados"
+      },
+      "export": {
+        "title": "Experiencia en exportación",
+        "desc": "Décadas de experiencia en comercio internacional con capacidades de envío global",
+        "ariaLabel": "Revise nuestras capacidades de exportación global"
+      },
+      "quote": {
+        "title": "Cotización rápida",
+        "desc": "Precios rápidos y precisos con especificaciones técnicas detalladas",
+        "ariaLabel": "Obtenga una cotización técnica rápida ahora"
+      }
+    }
+  },
+  "ProductDetail": {
+    "specsTitle": "Especificaciones del Producto",
+    "btnQuoteText": "Solicite su Presupuesto Gratuito",
+    "products": {
+      "retractable-telescopic-sunroom": {
+        "title": "Invernadero Retráctil Telescópico",
+        "desc": "Ingeniería con aluminio de alta resistencia 6063-T5 y policarbonato premium con capas de coextrusión UV para confort exterior.",
+        "image": "https://img.polycanopy.com/2025/07/oval-shaped-transparent-sunroom-installed-on-terrace-openable-design-for-indoor-comfort.jpg",
+        "imageAlt": "Invernadero retráctil telescópico instalado en terraza con diseño abrible",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Material de la Estructura",
+            "desc": "Aleación de Aluminio 6063-T5 de Alta Resistencia"
+          },
+          {
+            "id": 2,
+            "title": "Material del Techo",
+            "desc": "Lámina Sólida de Policarbonato (con coextrusión UV)"
+          },
+          {
+            "id": 3,
+            "title": "Operación",
+            "desc": "Deslizamiento Telescópico Manual o Motorizado"
+          }
+        ]
+      },
+      "stargazing-dome": {
+        "title": "Cúpula de Policarbonato para Observación Estelar",
+        "desc": "Una vista inmersiva de 360° para glamping, lujo en resorts y cenas al aire libre.",
+        "image": "https://img.polycanopy.com/2025/07/polycarbonate-stargazing-dome-for-glamping.jpg",
+        "imageAlt": "Cúpula de policarbonato para observación estelar en glamping y lujo exterior",
+        "specs": [
+          {
+            "id": 1,
+            "title": "Material Principal",
+            "desc": "Lámina Sólida de Policarbonato Premium"
+          },
+          {
+            "id": 2,
+            "title": "Base",
+            "desc": "Base de Aluminio o PC Integrado"
+          },
+          {
+            "id": 3,
+            "title": "Características",
+            "desc": "Transparente 360°, Resistente a la Intemperie"
+          }
+        ]
+      }
+    }
+  },
+  "Footer": {
+    "quoteTitle": "Solicitar presupuesto",
+    "quoteDesc": "Complete sus datos a continuación con el producto que necesita y le responderemos en un plazo de 24 horas",
+    "formName": "Su nombre",
+    "formPhone": "Su teléfono",
+    "formEmail": "Su correo electrónico",
+    "formCountry": "País",
+    "btnSending": "Enviando...",
+    "btnSuccess": "¡Mensaje enviado!",
+    "btnFailed": "¡Error! Intente de nuevo",
+    "backToTop": "Volver arriba",
+    "formCountryPlaceholder": "¿De dónde es?",
+    "formProducts": "Productos",
+    "formUpload": "Subir plano técnico / diseño del proyecto",
+    "formSelectPlaceholder": "Seleccionar de la lista",
+    "formMessage": "Mensaje",
+    "formMessagePlaceholder": "Escriba un mensaje",
+    "formSubmit": "Enviar ahora",
+    "optWindow": "Marquesina para ventana",
+    "optDoor": "Marquesina para puerta",
+    "optCarport": "Cochera / Cubierta para garaje",
+    "optDome": "Marquesina tipo cúpula",
+    "optSunroom": "Invernadero / Jardín de invierno",
+    "optCustomize": "Servicios de diseño personalizado",
+    "optWholesales": "Venta al por mayor / Distribución",
+    "nlTitle": "Suscríbase a nuestro boletín para recibir las últimas novedades sobre tecnología de marquesinas y desarrollos del sector",
+    "nlPlaceholder": "Correo electrónico",
+    "nlSubmit": "Suscribirse",
+    "profileTitle": "Marquesina premium de policarbonato",
+    "profileDesc": "PolyCanopy ofrece marquesinas de policarbonato de alta calidad y personalizables, diseñadas tanto para espacios residenciales como comerciales. Disfrute de una protección duradera con un diseño elegante, pensado para estilos de vida modernos.",
+    "profileReadMore": "Leer más",
+    "contactTitle": "Información de contacto",
+    "contactTel": "Tel: +86 13420298302",
+    "contactAddress": "Dirección: Provincia de Guangdong, China",
+    "termsTitle": "Términos y condiciones",
+    "termsPrivacy": "Política de privacidad",
+    "termsReturn": "Política de devolución",
+    "exploreTitle": "EXPLORE NUESTRAS PROPIEDADES",
+    "explorePost1Title": "Por qué la lámina de policarbonato macizo de 3 mm es el material ideal para techos de marquesinas",
+    "explorePost2Title": "Asegure su estructura: guía de sistemas de anclaje para zonas de vientos fuertes",
+    "copyright": "© Polycanopy Todos los derechos reservados."
+  },
+  "ProductsDetail": {
+    "featuresTitle": "Características de Ingeniería Avanzada de Alto Rendimiento",
+    "featuresSub": "La fabricación de precisión garantiza una durabilidad a largo plazo frente a condiciones climáticas extremas.",
+    "framingTitle": "Excelencia en Estructuras — Aleación de Aluminio de Grado Arquitectónico",
+    "panelsTitle": "Paneles de Policarbonato Premium",
+    "precisionTitle": "Detalles Estructurales de Precisión que Importan",
+    "profilesTitle": "Modelos y Opciones de Perfiles Estructurales de Aluminio",
+    "profilesDesc": "Seleccione la base estructural adecuada según su claro libre de ingeniería y las pautas regionales de carga de viento. Ofrecemos opciones de fabricación de perfiles personalizados para cumplir con requisitos de alta densidad.",
+    "galleryTitle": "Galería de Casos de Proyectos",
+    "ctaTitle": "¿Listo para profundizar en métricas de ingeniería o personalizar sus diseños?",
+    "ctaDesc": "Descargue nuestro manual de arquitectura o hable directamente con nuestra división de ingeniería de ventas global a través de mensajería instantánea en vivo.",
+    "trustedTitle": "Confiado por Profesionales Industriales en Todo el Mundo"
+  },
+  "FloatingWidget": {
+  "wechatHover": "Copiar ID de WeChat",
+  "copied": "¡Copiado!",
+  "waMessage": "Hola, visité su sitio web y estoy interesado en sus productos de cubiertas de policarbonato. Desde la página: ",
+  "emailSubject": "Consulta sobre soluciones de cubiertas y cobertizos de policarbonato",
+  "emailBody1": "Hola equipo de ventas de PolyCanopy, estoy navegando por su sitio web y me gustaría recibir un catálogo y preciosistas. URL: ",
+  "emailBody2": "",
+  "toastMsg": "¡ID de WeChat copiado con éxito!",
+  "ariaCloseCta": "Cerrar menú de contacto",
+  "ariaToggle": "Contáctenos",
+  "ariaEmail": "Enviar consulta por correo electrónico",
+  "ariaWechat": "Copiar cuenta de WeChat",
+  "ariaMessenger": "Chatear en Messenger",
+  "ariaWhatsapp": "Chatear en WhatsApp"
+},
+  "PrivacyPolicy": {
+    "title": "Política de Privacidad",
+    "effectiveDate": "Fecha de vigencia: 20 de julio de 2025",
+    "intro": "Gracias por visitar PolyCanopy. Esta Política de Privacidad explica cómo recopilamos, utilizamos y protegemos sus datos personales cuando interactúa con nuestro sitio web, solicita información o envía documentos relacionados con proyectos. Valoramos su privacidad y nos comprometemos a salvaguardar la información que comparte con nosotros.",
+    "section1Title": "1. Qué datos personales recopilamos",
+    "section1Content": "Recopilamos datos personales que usted proporciona voluntariamente a través de los formularios de contacto o canales de comunicación de nuestro sitio web. Esto puede incluir:\n• Nombre completo\n• Dirección de correo electrónico\n• Número de teléfono\n• País o región\n• Nombre de la empresa (opcional)\n• Contenido del mensaje o consulta\n• Archivos cargados (p. ej., planos, requisitos, especificaciones del proyecto)\n• Datos técnicos no personales, como dirección IP, tipo de navegador y visitas a páginas (solo con fines analíticos)",
+    "section2Title": "2. Finalidad de la recopilación de datos",
+    "section2Content": "Utilizamos los datos recopilados para los siguientes fines:\n• Responder a sus consultas o solicitudes de cotización\n• Analizar las necesidades de su proyecto y ofrecer soluciones de producto adecuadas\n• Comunicarnos con usted para dar seguimiento o realizar consultas técnicas\n• Mejorar la funcionalidad de nuestro sitio web y la experiencia del cliente\n• Cumplir con las obligaciones legales o reglamentarias aplicables",
+    "section3Title": "3. Cómo almacenamos y protegemos su información",
+    "section3Content": "Su información se almacena de forma segura en sistemas protegidos por contraseña. El acceso está limitado al personal autorizado de PolyCanopy que requiera la información para atender su solicitud o respaldar su proyecto.\nTomamos las medidas técnicas y organizativas adecuadas para evitar el acceso no autorizado, la pérdida o el uso indebido de sus datos.",
+    "section4Title": "4. Confidencialidad de los archivos cargados",
+    "section4Content": "Cualquier archivo que cargue (como planos CAD, documentos de diseño o especificaciones) se tratará como confidencial. Estos materiales no se compartirán ni distribuirán sin su permiso, y se utilizarán únicamente de forma interna para revisar los requisitos de su proyecto.",
+    "section5Title": "5. Conservación de datos",
+    "section5Content": "Conservamos los datos personales solo durante el tiempo necesario para cumplir con los fines descritos en esta política, a menos que la ley exija un período de conservación más largo. Por ejemplo:\n• Consultas y registros de contacto: conservados hasta 2 años para fines de seguimiento\n• Archivos cargados: almacenados de forma segura y eliminados a petición suya\n• Comunicaciones por correo electrónico: conservadas como parte de nuestra correspondencia comercial, a menos que se solicite su eliminación",
+    "section6Title": "6. ¿Compartimos sus datos?",
+    "section6Content": "No. No vendemos, alquilamos ni intercambiamos sus datos personales con terceros. Solo podemos compartir su información en los siguientes casos:\n• Cuando sea requerido por ley (p. ej., solicitudes gubernamentales, cumplimiento de la legislación aplicable)\n• Con proveedores de servicios de confianza que nos ayudan a operar nuestro sitio web (bajo obligaciones de confidencialidad)",
+    "section7Title": "7. Cookies y tecnologías de seguimiento",
+    "section7Content": "Actualmente no utilizamos cookies con fines publicitarios o de elaboración de perfiles. Sin embargo, podemos utilizar herramientas de análisis básicas (p. ej., Google Analytics) para recopilar datos anónimos sobre cómo los visitantes interactúan con nuestro sitio web. Esto nos ayuda a mejorar el diseño del sitio y la experiencia del usuario. Puede desactivar las cookies mediante la configuración de su navegador.",
+    "section8Title": "8. Sus derechos sobre los datos",
+    "section8Content": "Dependiendo de su país o jurisdicción, usted puede tener derecho a:\n• Acceder a sus datos personales\n• Solicitar la corrección o eliminación de sus datos\n• Retirar el consentimiento al tratamiento de datos\n• Solicitar una copia de los datos que tenemos sobre usted\nPara ejercer estos derechos, contáctenos en sales@polycanopy.com",
+    "section9Title": "9. Enlaces a terceros",
+    "section9Content": "Nuestro sitio web puede contener enlaces a sitios web externos (como WhatsApp, YouTube o redes sociales). No somos responsables de las prácticas de privacidad de dichos sitios web. Le recomendamos que revise sus políticas de privacidad antes de proporcionar cualquier dato personal.",
+    "section10Title": "10. Cambios en esta política",
+    "section10Content": "Podemos actualizar esta Política de Privacidad periódicamente para reflejar cambios en los requisitos legales o en nuestras prácticas. La versión más reciente se publicará siempre en esta página con una fecha de vigencia revisada.",
+    "section11Title": "11. Contáctenos",
+    "section11Content": "Si tiene alguna pregunta o inquietud sobre esta Política de Privacidad o sus datos, contáctenos:\nCorreo electrónico: sales@polycanopy.com\nSitio web: www.polycanopy.com"
+  },
+  "ReturnPolicy": {
+    "title": "Política de Devolución y Reembolso",
+    "effectiveDate": "Fecha de vigencia: 20 de julio de 2025",
+    "intro": "En PolyCanopy, diseñamos y fabricamos sistemas de toldos, invernaderos y estructuras arquitectónicas hechos a medida según las necesidades específicas de cada cliente. Debido a la naturaleza personalizada de nuestros productos, nuestra política de devolución y reembolso difiere de las tiendas de comercio electrónico estándar. Revise los siguientes términos cuidadosamente antes de realizar su pedido.",
+    "section1Title": "1. Política de productos personalizados",
+    "section1Content": "Todos nuestros productos se fabrican a medida según sus especificaciones, incluyendo dimensiones, selección de materiales, acabado y tipo de estructura. Por lo tanto, no podemos aceptar devoluciones ni ofrecer reembolsos por razones como:\n• Cambio de opinión después de la confirmación del pedido\n• Mediciones incorrectas o datos del proyecto proporcionados por el cliente\n• Problemas de ajuste inesperados no relacionados con defectos del producto\nRecomendamos encarecidamente revisar todas las especificaciones, planos y requisitos con nuestro equipo antes de finalizar su pedido.",
+    "section2Title": "2. Modificaciones y cancelaciones de pedidos",
+    "section2Content": "Puede solicitar una modificación o cancelación de su pedido dentro de las 48 horas posteriores a la confirmación del pedido y antes de que comience la producción. Una vez que la fabricación ha comenzado, no podemos modificar ni cancelar el pedido, y se aplicarán los costos completos de producción.",
+    "section3Title": "3. Mercancía dañada o defectuosa",
+    "section3Content": "Si sus productos llegan dañados durante el envío o contienen defectos de fabricación, notifíquenos dentro de las 48 horas posteriores a la recepción. Para presentar un reclamo, envíe lo siguiente a sales@polycanopy.com:\n• Número de pedido o factura\n• Fotos claras del daño o defecto\n• Descripción del problema y los componentes afectados\nTras la confirmación, ofreceremos una solución adecuada, como piezas de repuesto, kits de reparación o reembolsos parciales según la gravedad del problema. En los casos en que sea necesario un reemplazo, PolyCanopy cubrirá el costo de envío.",
+    "section4Title": "4. Elegibilidad para devolución",
+    "section4Content": "No aceptamos devoluciones de productos personalizados terminados. Sin embargo, en ciertos casos aprobados (por ejemplo, accesorios no personalizados enviados por error), se pueden organizar devoluciones sujetas a las siguientes condiciones:\n• La solicitud de devolución se realiza dentro de los 7 días posteriores a la entrega\n• Los productos deben estar sin usar, sin daños y devueltos en su embalaje original o equivalente\n• Los costos de envío de la devolución corren por cuenta del cliente",
+    "section5Title": "5. Cobertura de garantía",
+    "section5Content": "Los productos PolyCanopy están respaldados por una garantía estructural limitada. Los términos de la garantía varían según el tipo de producto y se confirmarán durante la cotización. El desgaste normal, el mal uso, la instalación incorrecta o los daños relacionados con el clima no están cubiertos. Conserve todos los documentos técnicos para referencia de garantía.",
+    "section6Title": "6. Fuerza mayor",
+    "section6Content": "PolyCanopy no será responsable por retrasos o incapacidad para cumplir con los pedidos debido a eventos fuera de nuestro control, incluidos, entre otros, desastres naturales, interrupciones en el envío o escasez de proveedores.",
+    "section7Title": "7. Información de contacto",
+    "section7Content": "Si tiene preguntas sobre nuestra política de devolución o garantía, comuníquese con nuestro equipo de soporte:\nPolyCanopy\nCorreo electrónico: sales@polycanopy.com\nSitio web: www.polycanopy.com"
+  }
+}
